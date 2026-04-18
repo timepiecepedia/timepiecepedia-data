@@ -1,0 +1,106 @@
+{
+  "brand_slug": "baltic",
+  "collections": [
+    {
+      "name": "Aquascaphe",
+      "slug": "aquascaphe",
+      "references": [
+        {
+          "slug": "aquascaphe-classic-blue",
+          "url": "/baltic/aquascaphe/aquascaphe-classic-blue",
+          "text": "Aquascaphe Classic Blue Stainless Steel"
+        },
+        {
+          "slug": "aquascaphe-classic-black",
+          "url": "/baltic/aquascaphe/aquascaphe-classic-black",
+          "text": "Aquascaphe Classic Black Stainless Steel"
+        },
+        {
+          "slug": "aquascaphe-dual-crown",
+          "url": "/baltic/aquascaphe/aquascaphe-dual-crown",
+          "text": "Aquascaphe Dual Crown Stainless Steel"
+        },
+        {
+          "slug": "aquascaphe-gmt",
+          "url": "/baltic/aquascaphe/aquascaphe-gmt",
+          "text": "Aquascaphe GMT Stainless Steel"
+        }
+      ]
+    },
+    {
+      "name": "Bicompax",
+      "slug": "bicompax",
+      "references": [
+        {
+          "slug": "bicompax-001-cream",
+          "url": "/baltic/bicompax/bicompax-001-cream",
+          "text": "Bicompax 001 Cream Stainless Steel Chronograph"
+        },
+        {
+          "slug": "bicompax-001-black",
+          "url": "/baltic/bicompax/bicompax-001-black",
+          "text": "Bicompax 001 Black Stainless Steel Chronograph"
+        },
+        {
+          "slug": "bicompax-silver",
+          "url": "/baltic/bicompax/bicompax-silver",
+          "text": "Bicompax Silver Stainless Steel Chronograph"
+        }
+      ]
+    },
+    {
+      "name": "HMS",
+      "slug": "hms",
+      "references": [
+        {
+          "slug": "hms-001-black",
+          "url": "/baltic/hms/hms-001-black",
+          "text": "HMS 001 Black Stainless Steel"
+        },
+        {
+          "slug": "hms-001-navy",
+          "url": "/baltic/hms/hms-001-navy",
+          "text": "HMS 001 Navy Stainless Steel"
+        },
+        {
+          "slug": "hms-001-white",
+          "url": "/baltic/hms/hms-001-white",
+          "text": "HMS 001 White Stainless Steel"
+        }
+      ]
+    },
+    {
+      "name": "MR01",
+      "slug": "mr01",
+      "references": [
+        {
+          "slug": "mr01-cream",
+          "url": "/baltic/mr01/mr01-cream",
+          "text": "MR01 Cream Stainless Steel"
+        },
+        {
+          "slug": "mr01-black",
+          "url": "/baltic/mr01/mr01-black",
+          "text": "MR01 Black Stainless Steel"
+        }
+      ]
+    },
+    {
+      "name": "Hermétique",
+      "slug": "hermetique",
+      "references": [
+        {
+          "slug": "hermetique-cream",
+          "url": "/baltic/hermetique/hermetique-cream",
+          "text": "Hermétique Cream Stainless Steel"
+        },
+        {
+          "slug": "hermetique-black",
+          "url": "/baltic/hermetique/hermetique-black",
+          "text": "Hermétique Black Stainless Steel"
+        }
+      ]
+    }
+  ],
+  "total_references": 14
+}

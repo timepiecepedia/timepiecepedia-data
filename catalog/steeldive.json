@@ -1,0 +1,111 @@
+{
+  "brand_slug": "steeldive",
+  "collections": [
+    {
+      "name": "Dive Master",
+      "slug": "dive-master",
+      "references": [
+        {
+          "slug": "sd1970-automatic-diver",
+          "url": "/steeldive/dive-master/sd1970-automatic-diver",
+          "text": "SD1970 Automatic Diver Stainless Steel"
+        },
+        {
+          "slug": "sd1953-submariner-homage",
+          "url": "/steeldive/dive-master/sd1953-submariner-homage",
+          "text": "SD1953 Submariner Homage Automatic"
+        },
+        {
+          "slug": "sd1996-bronze-diver",
+          "url": "/steeldive/dive-master/sd1996-bronze-diver",
+          "text": "SD1996 Bronze Diver Automatic"
+        },
+        {
+          "slug": "sd1975-turtle-diver",
+          "url": "/steeldive/dive-master/sd1975-turtle-diver",
+          "text": "SD1975 Turtle Case Diver Automatic"
+        }
+      ]
+    },
+    {
+      "name": "Captain Willard",
+      "slug": "captain-willard",
+      "references": [
+        {
+          "slug": "sd1979-cushion-diver",
+          "url": "/steeldive/captain-willard/sd1979-cushion-diver",
+          "text": "SD1979 Cushion Case Diver Automatic"
+        },
+        {
+          "slug": "sd1980-green-willard",
+          "url": "/steeldive/captain-willard/sd1980-green-willard",
+          "text": "SD1980 Green Dial Cushion Diver"
+        },
+        {
+          "slug": "sd1981-bronze-willard",
+          "url": "/steeldive/captain-willard/sd1981-bronze-willard",
+          "text": "SD1981 Bronze Cushion Case Diver"
+        }
+      ]
+    },
+    {
+      "name": "Tuna",
+      "slug": "tuna",
+      "references": [
+        {
+          "slug": "sd1977-tuna-shroud",
+          "url": "/steeldive/tuna/sd1977-tuna-shroud",
+          "text": "SD1977 Tuna Shrouded Diver Automatic"
+        },
+        {
+          "slug": "sd1978-black-tuna",
+          "url": "/steeldive/tuna/sd1978-black-tuna",
+          "text": "SD1978 Black Tuna PVD Automatic"
+        },
+        {
+          "slug": "sd1982-baby-tuna",
+          "url": "/steeldive/tuna/sd1982-baby-tuna",
+          "text": "SD1982 Baby Tuna Compact Diver"
+        }
+      ]
+    },
+    {
+      "name": "GMT Master",
+      "slug": "gmt-master",
+      "references": [
+        {
+          "slug": "sd1972-gmt-pepsi",
+          "url": "/steeldive/gmt-master/sd1972-gmt-pepsi",
+          "text": "SD1972 GMT Pepsi Bezel Automatic"
+        },
+        {
+          "slug": "sd1973-gmt-batman",
+          "url": "/steeldive/gmt-master/sd1973-gmt-batman",
+          "text": "SD1973 GMT Batman Bezel Automatic"
+        },
+        {
+          "slug": "sd1974-gmt-jubilee",
+          "url": "/steeldive/gmt-master/sd1974-gmt-jubilee",
+          "text": "SD1974 GMT Jubilee Bracelet Automatic"
+        }
+      ]
+    },
+    {
+      "name": "Dress Collection",
+      "slug": "dress-collection",
+      "references": [
+        {
+          "slug": "sd1985-dress-automatic",
+          "url": "/steeldive/dress-collection/sd1985-dress-automatic",
+          "text": "SD1985 Dress Watch Automatic"
+        },
+        {
+          "slug": "sd1986-bauhaus-style",
+          "url": "/steeldive/dress-collection/sd1986-bauhaus-style",
+          "text": "SD1986 Bauhaus Style Automatic"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

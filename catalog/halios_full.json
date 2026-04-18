@@ -1,0 +1,367 @@
+{
+  "brand_slug": "halios",
+  "collections": [
+    {
+      "name": "Seaforth",
+      "slug": "seaforth",
+      "references": [
+        {
+          "slug": "seaforth-series-iii-abyss-blue",
+          "url": "/halios/seaforth/seaforth-series-iii-abyss-blue",
+          "title": "Seaforth Series III Abyss Blue",
+          "specs": {
+            "Brand": "Halios",
+            "Family": "Seaforth",
+            "Reference": "Series III",
+            "Name": "Abyss Blue",
+            "Movement": "ETA 2824-2 / Sellita SW200-1",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "seaforth-series-iii-grey-sunburst",
+          "url": "/halios/seaforth/seaforth-series-iii-grey-sunburst",
+          "title": "Seaforth Series III Grey Sunburst",
+          "specs": {
+            "Brand": "Halios",
+            "Family": "Seaforth",
+            "Reference": "Series III",
+            "Name": "Grey Sunburst",
+            "Movement": "ETA 2824-2 / Sellita SW200-1",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "seaforth-series-iv-pastel-blue",
+          "url": "/halios/seaforth/seaforth-series-iv-pastel-blue",
+          "title": "Seaforth Series IV Pastel Blue",
+          "specs": {
+            "Brand": "Halios",
+            "Family": "Seaforth",
+            "Reference": "Series IV",
+            "Name": "Pastel Blue",
+            "Movement": "ETA 2824-2 / Sellita SW200-1",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Universa",
+      "slug": "universa",
+      "references": [
+        {
+          "slug": "universa-pastel-blue",
+          "url": "/halios/universa/universa-pastel-blue",
+          "title": "Universa Pastel Blue GMT",
+          "specs": {
+            "Brand": "Halios",
+            "Family": "Universa",
+            "Reference": "N/A",
+            "Name": "Pastel Blue",
+            "Movement": "Soprod C125",
+            "Materials": "Stainless Steel",
+            "Diameter": "38mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "universa-grey",
+          "url": "/halios/universa/universa-grey",
+          "title": "Universa Grey GMT",
+          "specs": {
+            "Brand": "Halios",
+            "Family": "Universa",
+            "Reference": "N/A",
+            "Name": "Grey",
+            "Movement": "Soprod C125",
+            "Materials": "Stainless Steel",
+            "Diameter": "38mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "universa-black",
+          "url": "/halios/universa/universa-black",
+          "title": "Universa Black GMT",
+          "specs": {
+            "Brand": "Halios",
+            "Family": "Universa",
+            "Reference": "N/A",
+            "Name": "Black",
+            "Movement": "Soprod C125",
+            "Materials": "Stainless Steel",
+            "Diameter": "38mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fairwind",
+      "slug": "fairwind",
+      "references": [
+        {
+          "slug": "fairwind-navy-blue",
+          "url": "/halios/fairwind/fairwind-navy-blue",
+          "title": "Fairwind Navy Blue",
+          "specs": {
+            "Brand": "Halios",
+            "Family": "Fairwind",
+            "Reference": "N/A",
+            "Name": "Navy Blue",
+            "Movement": "ETA 2824-2 / Sellita SW200-1",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "fairwind-gilt",
+          "url": "/halios/fairwind/fairwind-gilt",
+          "title": "Fairwind Gilt",
+          "specs": {
+            "Brand": "Halios",
+            "Family": "Fairwind",
+            "Reference": "N/A",
+            "Name": "Gilt",
+            "Movement": "ETA 2824-2 / Sellita SW200-1",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "fairwind-black",
+          "url": "/halios/fairwind/fairwind-black",
+          "title": "Fairwind Black",
+          "specs": {
+            "Brand": "Halios",
+            "Family": "Fairwind",
+            "Reference": "N/A",
+            "Name": "Black",
+            "Movement": "ETA 2824-2 / Sellita SW200-1",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tropik",
+      "slug": "tropik",
+      "references": [
+        {
+          "slug": "tropik-ss-blue",
+          "url": "/halios/tropik/tropik-ss-blue",
+          "title": "Tropik SS Blue",
+          "specs": {
+            "Brand": "Halios",
+            "Family": "Tropik",
+            "Reference": "N/A",
+            "Name": "Blue",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "tropik-ss-black",
+          "url": "/halios/tropik/tropik-ss-black",
+          "title": "Tropik SS Black",
+          "specs": {
+            "Brand": "Halios",
+            "Family": "Tropik",
+            "Reference": "N/A",
+            "Name": "Black",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "tropik-bronze",
+          "url": "/halios/tropik/tropik-bronze",
+          "title": "Tropik Bronze",
+          "specs": {
+            "Brand": "Halios",
+            "Family": "Tropik",
+            "Reference": "N/A",
+            "Name": "Bronze",
+            "Movement": "Miyota 9015",
+            "Materials": "Bronze",
+            "Diameter": "40mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Laguna",
+      "slug": "laguna",
+      "references": [
+        {
+          "slug": "laguna-black",
+          "url": "/halios/laguna/laguna-black",
+          "title": "Laguna Black",
+          "specs": {
+            "Brand": "Halios",
+            "Family": "Laguna",
+            "Reference": "N/A",
+            "Name": "Black",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "laguna-blue",
+          "url": "/halios/laguna/laguna-blue",
+          "title": "Laguna Blue",
+          "specs": {
+            "Brand": "Halios",
+            "Family": "Laguna",
+            "Reference": "N/A",
+            "Name": "Blue",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "laguna-white",
+          "url": "/halios/laguna/laguna-white",
+          "title": "Laguna White",
+          "specs": {
+            "Brand": "Halios",
+            "Family": "Laguna",
+            "Reference": "N/A",
+            "Name": "White",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 15,
+  "enriched_at": "2026-04-18T17:10:51.562Z"
+}

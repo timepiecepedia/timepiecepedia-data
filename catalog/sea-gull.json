@@ -1,0 +1,106 @@
+{
+  "brand_slug": "sea-gull",
+  "collections": [
+    {
+      "name": "1963",
+      "slug": "1963",
+      "references": [
+        {
+          "slug": "1963-38mm-sapphire",
+          "url": "/sea-gull/1963/1963-38mm-sapphire",
+          "text": "1963 38mm Sapphire Chronograph"
+        },
+        {
+          "slug": "1963-42mm-acrylic",
+          "url": "/sea-gull/1963/1963-42mm-acrylic",
+          "text": "1963 42mm Acrylic Chronograph"
+        },
+        {
+          "slug": "1963-panda",
+          "url": "/sea-gull/1963/1963-panda",
+          "text": "1963 Panda Chronograph"
+        }
+      ]
+    },
+    {
+      "name": "Ocean Star",
+      "slug": "ocean-star",
+      "references": [
+        {
+          "slug": "ocean-star-automatic",
+          "url": "/sea-gull/ocean-star/ocean-star-automatic",
+          "text": "Ocean Star Automatic Diver"
+        },
+        {
+          "slug": "ocean-star-gmt",
+          "url": "/sea-gull/ocean-star/ocean-star-gmt",
+          "text": "Ocean Star GMT"
+        }
+      ]
+    },
+    {
+      "name": "Master Series",
+      "slug": "master-series",
+      "references": [
+        {
+          "slug": "double-tourbillon",
+          "url": "/sea-gull/master-series/double-tourbillon",
+          "text": "Master Series Double Tourbillon"
+        },
+        {
+          "slug": "tourbillon-st8000",
+          "url": "/sea-gull/master-series/tourbillon-st8000",
+          "text": "Master Series Tourbillon ST8000"
+        },
+        {
+          "slug": "perpetual-calendar",
+          "url": "/sea-gull/master-series/perpetual-calendar",
+          "text": "Master Series Perpetual Calendar"
+        }
+      ]
+    },
+    {
+      "name": "Heritage",
+      "slug": "heritage",
+      "references": [
+        {
+          "slug": "heritage-power-reserve",
+          "url": "/sea-gull/heritage/heritage-power-reserve",
+          "text": "Heritage Power Reserve"
+        },
+        {
+          "slug": "heritage-moon-phase",
+          "url": "/sea-gull/heritage/heritage-moon-phase",
+          "text": "Heritage Moon Phase"
+        },
+        {
+          "slug": "heritage-bauhaus",
+          "url": "/sea-gull/heritage/heritage-bauhaus",
+          "text": "Heritage Bauhaus Style"
+        }
+      ]
+    },
+    {
+      "name": "Commemorative",
+      "slug": "commemorative",
+      "references": [
+        {
+          "slug": "60th-anniversary",
+          "url": "/sea-gull/commemorative/60th-anniversary",
+          "text": "60th Anniversary Limited Edition"
+        },
+        {
+          "slug": "beijing-2008",
+          "url": "/sea-gull/commemorative/beijing-2008",
+          "text": "Beijing 2008 Olympics Edition"
+        },
+        {
+          "slug": "first-watch-reissue",
+          "url": "/sea-gull/commemorative/first-watch-reissue",
+          "text": "First Watch Reissue"
+        }
+      ]
+    }
+  ],
+  "total_references": 14
+}

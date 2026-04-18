@@ -1,0 +1,85 @@
+{
+  "brand_slug": "garrick",
+  "collections": [
+    {
+      "name": "Portsmouth",
+      "slug": "portsmouth",
+      "references": [
+        {
+          "slug": "portsmouth-stainless-steel",
+          "url": "/garrick/portsmouth/portsmouth-stainless-steel",
+          "text": "Portsmouth Stainless Steel"
+        },
+        {
+          "slug": "portsmouth-bronze",
+          "url": "/garrick/portsmouth/portsmouth-bronze",
+          "text": "Portsmouth Bronze"
+        },
+        {
+          "slug": "portsmouth-rose-gold",
+          "url": "/garrick/portsmouth/portsmouth-rose-gold",
+          "text": "Portsmouth Rose Gold"
+        }
+      ]
+    },
+    {
+      "name": "S1",
+      "slug": "s1",
+      "references": [
+        {
+          "slug": "s1-steel",
+          "url": "/garrick/s1/s1-steel",
+          "text": "S1 Steel"
+        },
+        {
+          "slug": "s1-no-date",
+          "url": "/garrick/s1/s1-no-date",
+          "text": "S1 No Date"
+        },
+        {
+          "slug": "s1-bronze",
+          "url": "/garrick/s1/s1-bronze",
+          "text": "S1 Bronze"
+        }
+      ]
+    },
+    {
+      "name": "S2",
+      "slug": "s2",
+      "references": [
+        {
+          "slug": "s2-steel",
+          "url": "/garrick/s2/s2-steel",
+          "text": "S2 Steel"
+        },
+        {
+          "slug": "s2-blue-dial",
+          "url": "/garrick/s2/s2-blue-dial",
+          "text": "S2 Blue Dial"
+        }
+      ]
+    },
+    {
+      "name": "S3",
+      "slug": "s3",
+      "references": [
+        {
+          "slug": "s3-steel",
+          "url": "/garrick/s3/s3-steel",
+          "text": "S3 Steel"
+        },
+        {
+          "slug": "s3-green-dial",
+          "url": "/garrick/s3/s3-green-dial",
+          "text": "S3 Green Dial"
+        },
+        {
+          "slug": "s3-black-dial",
+          "url": "/garrick/s3/s3-black-dial",
+          "text": "S3 Black Dial"
+        }
+      ]
+    }
+  ],
+  "total_references": 11
+}

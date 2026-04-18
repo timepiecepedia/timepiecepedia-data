@@ -1,0 +1,317 @@
+{
+  "brand_slug": "junghans-max-bill",
+  "collections": [
+    {
+      "name": "Max Bill Automatic",
+      "slug": "automatic",
+      "references": [
+        {
+          "slug": "automatic-38mm-white",
+          "url": "/junghans-max-bill/automatic/automatic-38mm-white",
+          "title": "Max Bill Automatic 38mm White Dial",
+          "specs": {
+            "Brand": "Junghans Max Bill",
+            "Family": "Max Bill Automatic",
+            "Reference": "027/3500.04",
+            "Name": "Automatic",
+            "Movement": "Caliber J800.1 (based ETA 2824-2)",
+            "Materials": "Stainless steel",
+            "Diameter": "38mm",
+            "W/R": "50 meters",
+            "Glass": "Domed plexiglass",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "automatic-38mm-black",
+          "url": "/junghans-max-bill/automatic/automatic-38mm-black",
+          "title": "Max Bill Automatic 38mm Black Dial",
+          "specs": {
+            "Brand": "Junghans Max Bill",
+            "Family": "Max Bill Automatic",
+            "Reference": "027/4701.04",
+            "Name": "Automatic",
+            "Movement": "Caliber J800.1 (based ETA 2824-2)",
+            "Materials": "Stainless steel",
+            "Diameter": "38mm",
+            "W/R": "50 meters",
+            "Glass": "Domed plexiglass",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "automatic-27mm-ladies",
+          "url": "/junghans-max-bill/automatic/automatic-27mm-ladies",
+          "title": "Max Bill Automatic 27mm Ladies",
+          "specs": {
+            "Brand": "Junghans Max Bill",
+            "Family": "Max Bill Automatic",
+            "Reference": "027/4700.00",
+            "Name": "Automatic Ladies",
+            "Movement": "Caliber J800.1 (based ETA 2824-2)",
+            "Materials": "Stainless steel",
+            "Diameter": "27mm",
+            "W/R": "30 meters",
+            "Glass": "Domed plexiglass",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Max Bill Hand-Wind",
+      "slug": "hand-wind",
+      "references": [
+        {
+          "slug": "hand-wind-34mm-white",
+          "url": "/junghans-max-bill/hand-wind/hand-wind-34mm-white",
+          "title": "Max Bill Hand-Wind 34mm White Dial",
+          "specs": {
+            "Brand": "Junghans Max Bill",
+            "Family": "Max Bill Hand-Wind",
+            "Reference": "027/3700.04",
+            "Name": "Hand-Wind",
+            "Movement": "Caliber J805.1 (based ETA 2801-2)",
+            "Materials": "Stainless steel",
+            "Diameter": "34mm",
+            "W/R": "30 meters",
+            "Glass": "Domed plexiglass",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "hand-wind-38mm-white",
+          "url": "/junghans-max-bill/hand-wind/hand-wind-38mm-white",
+          "title": "Max Bill Hand-Wind 38mm White Dial",
+          "specs": {
+            "Brand": "Junghans Max Bill",
+            "Family": "Max Bill Hand-Wind",
+            "Reference": "027/3701.04",
+            "Name": "Hand-Wind",
+            "Movement": "Caliber J805.1 (based ETA 2801-2)",
+            "Materials": "Stainless steel",
+            "Diameter": "38mm",
+            "W/R": "30 meters",
+            "Glass": "Domed plexiglass",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "hand-wind-34mm-numbers",
+          "url": "/junghans-max-bill/hand-wind/hand-wind-34mm-numbers",
+          "title": "Max Bill Hand-Wind 34mm Numbers Dial",
+          "specs": {
+            "Brand": "Junghans Max Bill",
+            "Family": "Max Bill Hand-Wind",
+            "Reference": "027/3702.04",
+            "Name": "Hand-Wind Numbers",
+            "Movement": "Caliber J805.1 (based ETA 2801-2)",
+            "Materials": "Stainless steel",
+            "Diameter": "34mm",
+            "W/R": "30 meters",
+            "Glass": "Domed plexiglass",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "hand-wind-38mm-numbers",
+          "url": "/junghans-max-bill/hand-wind/hand-wind-38mm-numbers",
+          "title": "Max Bill Hand-Wind 38mm Numbers Dial",
+          "specs": {
+            "Brand": "Junghans Max Bill",
+            "Family": "Max Bill Hand-Wind",
+            "Reference": "027/3401.04",
+            "Name": "Hand-Wind Numbers",
+            "Movement": "Caliber J805.1 (based ETA 2801-2)",
+            "Materials": "Stainless steel",
+            "Diameter": "38mm",
+            "W/R": "30 meters",
+            "Glass": "Domed plexiglass",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Max Bill Chronoscope",
+      "slug": "chronoscope",
+      "references": [
+        {
+          "slug": "chronoscope-40mm-white",
+          "url": "/junghans-max-bill/chronoscope/chronoscope-40mm-white",
+          "title": "Max Bill Chronoscope 40mm White Dial",
+          "specs": {
+            "Brand": "Junghans Max Bill",
+            "Family": "Max Bill Chronoscope",
+            "Reference": "027/4600.04",
+            "Name": "Chronoscope",
+            "Movement": "Caliber J880.1 (based Valjoux 7750)",
+            "Materials": "Stainless steel",
+            "Diameter": "40mm",
+            "W/R": "30 meters",
+            "Glass": "Domed plexiglass",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "chronoscope-40mm-black",
+          "url": "/junghans-max-bill/chronoscope/chronoscope-40mm-black",
+          "title": "Max Bill Chronoscope 40mm Black Dial",
+          "specs": {
+            "Brand": "Junghans Max Bill",
+            "Family": "Max Bill Chronoscope",
+            "Reference": "027/4601.04",
+            "Name": "Chronoscope",
+            "Movement": "Caliber J880.1 (based Valjoux 7750)",
+            "Materials": "Stainless steel",
+            "Diameter": "40mm",
+            "W/R": "30 meters",
+            "Glass": "Domed plexiglass",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "chronoscope-40mm-tri-color",
+          "url": "/junghans-max-bill/chronoscope/chronoscope-40mm-tri-color",
+          "title": "Max Bill Chronoscope 40mm Tri-Color Dial",
+          "specs": {
+            "Brand": "Junghans Max Bill",
+            "Family": "Max Bill Chronoscope",
+            "Reference": "027/4502.00",
+            "Name": "Chronoscope Tri-Color",
+            "Movement": "Caliber J880.1 (based Valjoux 7750)",
+            "Materials": "Stainless steel",
+            "Diameter": "40mm",
+            "W/R": "30 meters",
+            "Glass": "Domed plexiglass",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Max Bill Quartz",
+      "slug": "quartz",
+      "references": [
+        {
+          "slug": "quartz-38mm-white",
+          "url": "/junghans-max-bill/quartz/quartz-38mm-white",
+          "title": "Max Bill Quartz 38mm White Dial",
+          "specs": {
+            "Brand": "Junghans Max Bill",
+            "Family": "Max Bill Quartz",
+            "Reference": "041/4461.04",
+            "Name": "Quartz",
+            "Movement": "Quartz",
+            "Materials": "Stainless steel",
+            "Diameter": "38mm",
+            "W/R": "30 meters",
+            "Glass": "Domed plexiglass",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "quartz-34mm-white",
+          "url": "/junghans-max-bill/quartz/quartz-34mm-white",
+          "title": "Max Bill Quartz 34mm White Dial",
+          "specs": {
+            "Brand": "Junghans Max Bill",
+            "Family": "Max Bill Quartz",
+            "Reference": "041/4762.04",
+            "Name": "Quartz",
+            "Movement": "Quartz",
+            "Materials": "Stainless steel",
+            "Diameter": "34mm",
+            "W/R": "30 meters",
+            "Glass": "Domed plexiglass",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "quartz-32mm-ladies",
+          "url": "/junghans-max-bill/quartz/quartz-32mm-ladies",
+          "title": "Max Bill Quartz 32mm Ladies",
+          "specs": {
+            "Brand": "Junghans Max Bill",
+            "Family": "Max Bill Quartz",
+            "Reference": "047/4252.04",
+            "Name": "Quartz Ladies",
+            "Movement": "Quartz",
+            "Materials": "Stainless steel",
+            "Diameter": "32mm",
+            "W/R": "30 meters",
+            "Glass": "Domed plexiglass",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 13,
+  "enriched_at": "2026-04-18T17:12:28.883Z"
+}

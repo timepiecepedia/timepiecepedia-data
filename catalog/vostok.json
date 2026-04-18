@@ -1,0 +1,95 @@
+{
+  "brand_slug": "vostok",
+  "collections": [
+    {
+      "name": "Amphibia",
+      "slug": "amphibia",
+      "references": [
+        {
+          "slug": "amphibia-420",
+          "url": "/vostok/amphibia/amphibia-420",
+          "text": "Amphibia 420 Classic Dive Watch"
+        },
+        {
+          "slug": "amphibia-710",
+          "url": "/vostok/amphibia/amphibia-710",
+          "text": "Amphibia 710 Scuba Dude"
+        },
+        {
+          "slug": "amphibia-090",
+          "url": "/vostok/amphibia/amphibia-090",
+          "text": "Amphibia 090 Ministry Case"
+        },
+        {
+          "slug": "amphibia-150",
+          "url": "/vostok/amphibia/amphibia-150",
+          "text": "Amphibia 150 SE Antimagnetic"
+        }
+      ]
+    },
+    {
+      "name": "Komandirskie",
+      "slug": "komandirskie",
+      "references": [
+        {
+          "slug": "komandirskie-811306",
+          "url": "/vostok/komandirskie/komandirskie-811306",
+          "text": "Komandirskie Classic Military"
+        },
+        {
+          "slug": "komandirskie-211398",
+          "url": "/vostok/komandirskie/komandirskie-211398",
+          "text": "Komandirskie Tank Commander"
+        },
+        {
+          "slug": "komandirskie-650541",
+          "url": "/vostok/komandirskie/komandirskie-650541",
+          "text": "Komandirskie Paratrooper"
+        },
+        {
+          "slug": "komandirskie-431186",
+          "url": "/vostok/komandirskie/komandirskie-431186",
+          "text": "Komandirskie Submarine"
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "slug": "europe",
+      "references": [
+        {
+          "slug": "europe-gaz-14",
+          "url": "/vostok/europe/europe-gaz-14",
+          "text": "Europe GAZ-14 Limousine"
+        },
+        {
+          "slug": "europe-anchar",
+          "url": "/vostok/europe/europe-anchar",
+          "text": "Europe Anchar Diver"
+        },
+        {
+          "slug": "europe-limousine",
+          "url": "/vostok/europe/europe-limousine",
+          "text": "Europe Limousine Classic"
+        }
+      ]
+    },
+    {
+      "name": "Neptune",
+      "slug": "neptune",
+      "references": [
+        {
+          "slug": "neptune-960",
+          "url": "/vostok/neptune/neptune-960",
+          "text": "Neptune 960 Professional Diver"
+        },
+        {
+          "slug": "neptune-se",
+          "url": "/vostok/neptune/neptune-se",
+          "text": "Neptune SE Special Edition"
+        }
+      ]
+    }
+  ],
+  "total_references": 13
+}

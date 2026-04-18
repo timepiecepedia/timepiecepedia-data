@@ -1,0 +1,355 @@
+{
+  "brand_slug": "fiyta",
+  "collections": [
+    {
+      "name": "Aerospace",
+      "slug": "aerospace",
+      "references": [
+        {
+          "slug": "shenzhou-7-extravehicular",
+          "url": "/fiyta/aerospace/shenzhou-7-extravehicular",
+          "title": "Shenzhou VII Extravehicular Spacewalk Watch",
+          "specs": {
+            "Brand": "Fiyta",
+            "Family": "Aerospace",
+            "Reference": "N/A",
+            "Name": "Shenzhou VII EVA",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "Date, chronograph"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "shenzhou-9-space-watch",
+          "url": "/fiyta/aerospace/shenzhou-9-space-watch",
+          "title": "Shenzhou IX Space Watch",
+          "specs": {
+            "Brand": "Fiyta",
+            "Family": "Aerospace",
+            "Reference": "N/A",
+            "Name": "Shenzhou IX",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "shenzhou-10-commemorative",
+          "url": "/fiyta/aerospace/shenzhou-10-commemorative",
+          "title": "Shenzhou X Commemorative Edition",
+          "specs": {
+            "Brand": "Fiyta",
+            "Family": "Aerospace",
+            "Reference": "N/A",
+            "Name": "Shenzhou X",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "Date, chronograph"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Photographer",
+      "slug": "photographer",
+      "references": [
+        {
+          "slug": "photographer-automatic-black",
+          "url": "/fiyta/photographer/photographer-automatic-black",
+          "title": "Photographer Automatic Black Dial",
+          "specs": {
+            "Brand": "Fiyta",
+            "Family": "Photographer",
+            "Reference": "GA8486",
+            "Name": "Photographer",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge"
+          ]
+        },
+        {
+          "slug": "photographer-skeleton",
+          "url": "/fiyta/photographer/photographer-skeleton",
+          "title": "Photographer Skeleton Edition",
+          "specs": {
+            "Brand": "Fiyta",
+            "Family": "Photographer",
+            "Reference": "N/A",
+            "Name": "Photographer Skeleton",
+            "Movement": "Automatic Skeleton",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Skeleton display"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge"
+          ]
+        },
+        {
+          "slug": "photographer-rose-gold",
+          "url": "/fiyta/photographer/photographer-rose-gold",
+          "title": "Photographer Rose Gold PVD",
+          "specs": {
+            "Brand": "Fiyta",
+            "Family": "Photographer",
+            "Reference": "N/A",
+            "Name": "Photographer Rose Gold",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel with Rose Gold PVD",
+            "Diameter": "N/A",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Extreme",
+      "slug": "extreme",
+      "references": [
+        {
+          "slug": "extreme-diver-automatic",
+          "url": "/fiyta/extreme/extreme-diver-automatic",
+          "title": "Extreme Diver Automatic",
+          "specs": {
+            "Brand": "Fiyta",
+            "Family": "Extreme",
+            "Reference": "N/A",
+            "Name": "Extreme Diver",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date, rotating bezel"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge"
+          ]
+        },
+        {
+          "slug": "extreme-chronograph",
+          "url": "/fiyta/extreme/extreme-chronograph",
+          "title": "Extreme Chronograph",
+          "specs": {
+            "Brand": "Fiyta",
+            "Family": "Extreme",
+            "Reference": "N/A",
+            "Name": "Extreme Chronograph",
+            "Movement": "Quartz Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge"
+          ]
+        },
+        {
+          "slug": "extreme-carbon-fiber",
+          "url": "/fiyta/extreme/extreme-carbon-fiber",
+          "title": "Extreme Carbon Fiber Limited",
+          "specs": {
+            "Brand": "Fiyta",
+            "Family": "Extreme",
+            "Reference": "N/A",
+            "Name": "Extreme Carbon",
+            "Movement": "Automatic",
+            "Materials": "Carbon Fiber, Titanium",
+            "Diameter": "N/A",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mach",
+      "slug": "mach",
+      "references": [
+        {
+          "slug": "mach-j-series-chronograph",
+          "url": "/fiyta/mach/mach-j-series-chronograph",
+          "title": "Mach J-Series Chronograph",
+          "specs": {
+            "Brand": "Fiyta",
+            "Family": "Mach",
+            "Reference": "N/A",
+            "Name": "Mach J",
+            "Movement": "Automatic Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge"
+          ]
+        },
+        {
+          "slug": "mach-pilot-automatic",
+          "url": "/fiyta/mach/mach-pilot-automatic",
+          "title": "Mach Pilot Automatic",
+          "specs": {
+            "Brand": "Fiyta",
+            "Family": "Mach",
+            "Reference": "N/A",
+            "Name": "Mach Pilot",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Date, day"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge"
+          ]
+        },
+        {
+          "slug": "mach-dual-time",
+          "url": "/fiyta/mach/mach-dual-time",
+          "title": "Mach Dual Time GMT",
+          "specs": {
+            "Brand": "Fiyta",
+            "Family": "Mach",
+            "Reference": "N/A",
+            "Name": "Mach GMT",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Classic",
+      "slug": "classic",
+      "references": [
+        {
+          "slug": "classic-gold-case",
+          "url": "/fiyta/classic/classic-gold-case",
+          "title": "Classic Gold Case Automatic",
+          "specs": {
+            "Brand": "Fiyta",
+            "Family": "Classic",
+            "Reference": "N/A",
+            "Name": "Classic Gold",
+            "Movement": "Automatic",
+            "Materials": "Gold Plated",
+            "Diameter": "N/A",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge"
+          ]
+        },
+        {
+          "slug": "classic-ultra-thin",
+          "url": "/fiyta/classic/classic-ultra-thin",
+          "title": "Classic Ultra-Thin Dress Watch",
+          "specs": {
+            "Brand": "Fiyta",
+            "Family": "Classic",
+            "Reference": "N/A",
+            "Name": "Classic Ultra-Thin",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Time only"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge"
+          ]
+        },
+        {
+          "slug": "classic-moonphase",
+          "url": "/fiyta/classic/classic-moonphase",
+          "title": "Classic Moonphase Automatic",
+          "specs": {
+            "Brand": "Fiyta",
+            "Family": "Classic",
+            "Reference": "N/A",
+            "Name": "Classic Moonphase",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Moonphase, date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 15,
+  "enriched_at": "2026-04-18T17:09:13.073Z"
+}

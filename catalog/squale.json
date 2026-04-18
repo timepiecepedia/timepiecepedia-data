@@ -1,0 +1,111 @@
+{
+  "brand_slug": "squale",
+  "collections": [
+    {
+      "name": "1521",
+      "slug": "1521",
+      "references": [
+        {
+          "slug": "1521-classic",
+          "url": "/squale/1521/1521-classic",
+          "text": "1521 Classic Steel Dive Watch"
+        },
+        {
+          "slug": "1521-blue",
+          "url": "/squale/1521/1521-blue",
+          "text": "1521 Blue Blasted Steel"
+        },
+        {
+          "slug": "1521-pvd",
+          "url": "/squale/1521/1521-pvd",
+          "text": "1521 PVD Black"
+        }
+      ]
+    },
+    {
+      "name": "50 Atmos",
+      "slug": "50-atmos",
+      "references": [
+        {
+          "slug": "50-atmos-classic",
+          "url": "/squale/50-atmos/50-atmos-classic",
+          "text": "50 Atmos Classic Black"
+        },
+        {
+          "slug": "50-atmos-heritage",
+          "url": "/squale/50-atmos/50-atmos-heritage",
+          "text": "50 Atmos Heritage Blue"
+        },
+        {
+          "slug": "50-atmos-tropic",
+          "url": "/squale/50-atmos/50-atmos-tropic",
+          "text": "50 Atmos Tropic GMT"
+        }
+      ]
+    },
+    {
+      "name": "1545",
+      "slug": "1545",
+      "references": [
+        {
+          "slug": "1545-classic-black",
+          "url": "/squale/1545/1545-classic-black",
+          "text": "1545 Classic Black Steel"
+        },
+        {
+          "slug": "1545-militaire",
+          "url": "/squale/1545/1545-militaire",
+          "text": "1545 Militaire Green"
+        },
+        {
+          "slug": "1545-ceramica",
+          "url": "/squale/1545/1545-ceramica",
+          "text": "1545 Ceramica Bezel"
+        }
+      ]
+    },
+    {
+      "name": "Master",
+      "slug": "master",
+      "references": [
+        {
+          "slug": "master-professional",
+          "url": "/squale/master/master-professional",
+          "text": "Master Professional 1000m"
+        },
+        {
+          "slug": "master-gmt",
+          "url": "/squale/master/master-gmt",
+          "text": "Master GMT Diver"
+        },
+        {
+          "slug": "master-chronograph",
+          "url": "/squale/master/master-chronograph",
+          "text": "Master Chronograph Diver"
+        }
+      ]
+    },
+    {
+      "name": "Matic",
+      "slug": "matic",
+      "references": [
+        {
+          "slug": "matic-60-atmos",
+          "url": "/squale/matic/matic-60-atmos",
+          "text": "Matic 60 Atmos Classic"
+        },
+        {
+          "slug": "matic-classic",
+          "url": "/squale/matic/matic-classic",
+          "text": "Matic Classic Dress Watch"
+        },
+        {
+          "slug": "matic-vintage",
+          "url": "/squale/matic/matic-vintage",
+          "text": "Matic Vintage Sunray Dial"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

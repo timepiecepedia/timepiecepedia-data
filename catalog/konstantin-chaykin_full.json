@@ -1,0 +1,323 @@
+{
+  "brand_slug": "konstantin-chaykin",
+  "collections": [
+    {
+      "name": "Joker",
+      "slug": "joker",
+      "references": [
+        {
+          "slug": "joker-selfie",
+          "url": "/konstantin-chaykin/joker/joker-selfie",
+          "title": "Joker Selfie Steel Moon Phase",
+          "specs": {
+            "Brand": "Konstantin Chaykin",
+            "Family": "Joker",
+            "Reference": "N/A",
+            "Name": "Joker Selfie",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Moon phase, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "joker-red-gold",
+          "url": "/konstantin-chaykin/joker/joker-red-gold",
+          "title": "Joker Red Gold Moon Phase",
+          "specs": {
+            "Brand": "Konstantin Chaykin",
+            "Family": "Joker",
+            "Reference": "N/A",
+            "Name": "Joker",
+            "Movement": "Automatic",
+            "Materials": "Red Gold",
+            "Diameter": "42mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Moon phase, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "joker-white-gold",
+          "url": "/konstantin-chaykin/joker/joker-white-gold",
+          "title": "Joker White Gold Moon Phase",
+          "specs": {
+            "Brand": "Konstantin Chaykin",
+            "Family": "Joker",
+            "Reference": "N/A",
+            "Name": "Joker",
+            "Movement": "Automatic",
+            "Materials": "White Gold",
+            "Diameter": "42mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Moon phase, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "joker-automaton",
+          "url": "/konstantin-chaykin/joker/joker-automaton",
+          "title": "Joker Automaton Moon Phase",
+          "specs": {
+            "Brand": "Konstantin Chaykin",
+            "Family": "Joker",
+            "Reference": "N/A",
+            "Name": "Joker Automaton",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Moon phase, Date, Automaton"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wristmons",
+      "slug": "wristmons",
+      "references": [
+        {
+          "slug": "wristmons-stainless-steel",
+          "url": "/konstantin-chaykin/wristmons/wristmons-stainless-steel",
+          "title": "Wristmons Steel Animated Display",
+          "specs": {
+            "Brand": "Konstantin Chaykin",
+            "Family": "Wristmons",
+            "Reference": "N/A",
+            "Name": "Wristmons",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Animated display, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "wristmons-red-gold",
+          "url": "/konstantin-chaykin/wristmons/wristmons-red-gold",
+          "title": "Wristmons Red Gold Animated Display",
+          "specs": {
+            "Brand": "Konstantin Chaykin",
+            "Family": "Wristmons",
+            "Reference": "N/A",
+            "Name": "Wristmons",
+            "Movement": "Automatic",
+            "Materials": "Red Gold",
+            "Diameter": "42mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Animated display, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunokhod",
+      "slug": "lunokhod",
+      "references": [
+        {
+          "slug": "lunokhod-red-gold",
+          "url": "/konstantin-chaykin/lunokhod/lunokhod-red-gold",
+          "title": "Lunokhod Red Gold Moon Phase",
+          "specs": {
+            "Brand": "Konstantin Chaykin",
+            "Family": "Lunokhod",
+            "Reference": "N/A",
+            "Name": "Lunokhod",
+            "Movement": "Manual",
+            "Materials": "Red Gold",
+            "Diameter": "43mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Moon phase, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "lunokhod-steel",
+          "url": "/konstantin-chaykin/lunokhod/lunokhod-steel",
+          "title": "Lunokhod Steel Moon Phase",
+          "specs": {
+            "Brand": "Konstantin Chaykin",
+            "Family": "Lunokhod",
+            "Reference": "N/A",
+            "Name": "Lunokhod",
+            "Movement": "Manual",
+            "Materials": "Stainless Steel",
+            "Diameter": "43mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Moon phase, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genius Temporis",
+      "slug": "genius-temporis",
+      "references": [
+        {
+          "slug": "genius-temporis-steel",
+          "url": "/konstantin-chaykin/genius-temporis/genius-temporis-steel",
+          "title": "Genius Temporis Steel Triple Time",
+          "specs": {
+            "Brand": "Konstantin Chaykin",
+            "Family": "Genius Temporis",
+            "Reference": "N/A",
+            "Name": "Genius Temporis",
+            "Movement": "Manual",
+            "Materials": "Stainless Steel",
+            "Diameter": "45mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Triple time display"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "genius-temporis-red-gold",
+          "url": "/konstantin-chaykin/genius-temporis/genius-temporis-red-gold",
+          "title": "Genius Temporis Red Gold Triple Time",
+          "specs": {
+            "Brand": "Konstantin Chaykin",
+            "Family": "Genius Temporis",
+            "Reference": "N/A",
+            "Name": "Genius Temporis",
+            "Movement": "Manual",
+            "Materials": "Red Gold",
+            "Diameter": "45mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Triple time display"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery",
+      "references": [
+        {
+          "slug": "mystery-tourbillon",
+          "url": "/konstantin-chaykin/mystery/mystery-tourbillon",
+          "title": "Mystery Tourbillon Red Gold",
+          "specs": {
+            "Brand": "Konstantin Chaykin",
+            "Family": "Mystery",
+            "Reference": "N/A",
+            "Name": "Mystery Tourbillon",
+            "Movement": "Manual",
+            "Materials": "Red Gold",
+            "Diameter": "44mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Tourbillon, Mystery display"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "mystery-double-axis",
+          "url": "/konstantin-chaykin/mystery/mystery-double-axis",
+          "title": "Mystery Double Axis Tourbillon",
+          "specs": {
+            "Brand": "Konstantin Chaykin",
+            "Family": "Mystery",
+            "Reference": "N/A",
+            "Name": "Mystery Double Axis",
+            "Movement": "Manual",
+            "Materials": "White Gold",
+            "Diameter": "44mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Double-axis tourbillon, Mystery display"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "mystery-steel",
+          "url": "/konstantin-chaykin/mystery/mystery-steel",
+          "title": "Mystery Steel Hours Display",
+          "specs": {
+            "Brand": "Konstantin Chaykin",
+            "Family": "Mystery",
+            "Reference": "N/A",
+            "Name": "Mystery",
+            "Movement": "Manual",
+            "Materials": "Stainless Steel",
+            "Diameter": "43mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Mystery display"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 13,
+  "enriched_at": "2026-04-18T17:12:58.980Z"
+}

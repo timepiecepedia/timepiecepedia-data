@@ -1,0 +1,111 @@
+{
+  "brand_slug": "fiyta",
+  "collections": [
+    {
+      "name": "Aerospace",
+      "slug": "aerospace",
+      "references": [
+        {
+          "slug": "shenzhou-7-extravehicular",
+          "url": "/fiyta/aerospace/shenzhou-7-extravehicular",
+          "text": "Shenzhou VII Extravehicular Spacewalk Watch"
+        },
+        {
+          "slug": "shenzhou-9-space-watch",
+          "url": "/fiyta/aerospace/shenzhou-9-space-watch",
+          "text": "Shenzhou IX Space Watch"
+        },
+        {
+          "slug": "shenzhou-10-commemorative",
+          "url": "/fiyta/aerospace/shenzhou-10-commemorative",
+          "text": "Shenzhou X Commemorative Edition"
+        }
+      ]
+    },
+    {
+      "name": "Photographer",
+      "slug": "photographer",
+      "references": [
+        {
+          "slug": "photographer-automatic-black",
+          "url": "/fiyta/photographer/photographer-automatic-black",
+          "text": "Photographer Automatic Black Dial"
+        },
+        {
+          "slug": "photographer-skeleton",
+          "url": "/fiyta/photographer/photographer-skeleton",
+          "text": "Photographer Skeleton Edition"
+        },
+        {
+          "slug": "photographer-rose-gold",
+          "url": "/fiyta/photographer/photographer-rose-gold",
+          "text": "Photographer Rose Gold PVD"
+        }
+      ]
+    },
+    {
+      "name": "Extreme",
+      "slug": "extreme",
+      "references": [
+        {
+          "slug": "extreme-diver-automatic",
+          "url": "/fiyta/extreme/extreme-diver-automatic",
+          "text": "Extreme Diver Automatic"
+        },
+        {
+          "slug": "extreme-chronograph",
+          "url": "/fiyta/extreme/extreme-chronograph",
+          "text": "Extreme Chronograph"
+        },
+        {
+          "slug": "extreme-carbon-fiber",
+          "url": "/fiyta/extreme/extreme-carbon-fiber",
+          "text": "Extreme Carbon Fiber Limited"
+        }
+      ]
+    },
+    {
+      "name": "Mach",
+      "slug": "mach",
+      "references": [
+        {
+          "slug": "mach-j-series-chronograph",
+          "url": "/fiyta/mach/mach-j-series-chronograph",
+          "text": "Mach J-Series Chronograph"
+        },
+        {
+          "slug": "mach-pilot-automatic",
+          "url": "/fiyta/mach/mach-pilot-automatic",
+          "text": "Mach Pilot Automatic"
+        },
+        {
+          "slug": "mach-dual-time",
+          "url": "/fiyta/mach/mach-dual-time",
+          "text": "Mach Dual Time GMT"
+        }
+      ]
+    },
+    {
+      "name": "Classic",
+      "slug": "classic",
+      "references": [
+        {
+          "slug": "classic-gold-case",
+          "url": "/fiyta/classic/classic-gold-case",
+          "text": "Classic Gold Case Automatic"
+        },
+        {
+          "slug": "classic-ultra-thin",
+          "url": "/fiyta/classic/classic-ultra-thin",
+          "text": "Classic Ultra-Thin Dress Watch"
+        },
+        {
+          "slug": "classic-moonphase",
+          "url": "/fiyta/classic/classic-moonphase",
+          "text": "Classic Moonphase Automatic"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

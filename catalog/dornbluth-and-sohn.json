@@ -1,0 +1,96 @@
+{
+  "brand_slug": "dornbluth-and-sohn",
+  "collections": [
+    {
+      "name": "99 Series",
+      "slug": "99-series",
+      "references": [
+        {
+          "slug": "99-0-stainless-steel",
+          "url": "/dornbluth-and-sohn/99-series/99-0-stainless-steel",
+          "text": "99.0 Stainless Steel Guilloché"
+        },
+        {
+          "slug": "99-1-white-gold",
+          "url": "/dornbluth-and-sohn/99-series/99-1-white-gold",
+          "text": "99.1 White Gold Guilloché"
+        },
+        {
+          "slug": "99-7-pink-gold",
+          "url": "/dornbluth-and-sohn/99-series/99-7-pink-gold",
+          "text": "99.7 Pink Gold Guilloché"
+        }
+      ]
+    },
+    {
+      "name": "Caliber 98 Power Reserve",
+      "slug": "caliber-98",
+      "references": [
+        {
+          "slug": "98-0-stainless-steel",
+          "url": "/dornbluth-and-sohn/caliber-98/98-0-stainless-steel",
+          "text": "98.0 Stainless Steel Power Reserve"
+        },
+        {
+          "slug": "98-1-white-gold",
+          "url": "/dornbluth-and-sohn/caliber-98/98-1-white-gold",
+          "text": "98.1 White Gold Power Reserve"
+        },
+        {
+          "slug": "98-7-pink-gold",
+          "url": "/dornbluth-and-sohn/caliber-98/98-7-pink-gold",
+          "text": "98.7 Pink Gold Power Reserve"
+        }
+      ]
+    },
+    {
+      "name": "Klassik",
+      "slug": "klassik",
+      "references": [
+        {
+          "slug": "klassik-stainless-steel",
+          "url": "/dornbluth-and-sohn/klassik/klassik-stainless-steel",
+          "text": "Klassik Stainless Steel Sub-Seconds"
+        },
+        {
+          "slug": "klassik-yellow-gold",
+          "url": "/dornbluth-and-sohn/klassik/klassik-yellow-gold",
+          "text": "Klassik Yellow Gold Sub-Seconds"
+        }
+      ]
+    },
+    {
+      "name": "Regulateur",
+      "slug": "regulateur",
+      "references": [
+        {
+          "slug": "regulateur-stainless-steel",
+          "url": "/dornbluth-and-sohn/regulateur/regulateur-stainless-steel",
+          "text": "Regulateur Stainless Steel"
+        },
+        {
+          "slug": "regulateur-white-gold",
+          "url": "/dornbluth-and-sohn/regulateur/regulateur-white-gold",
+          "text": "Regulateur White Gold"
+        }
+      ]
+    },
+    {
+      "name": "Chronograph",
+      "slug": "chronograph",
+      "references": [
+        {
+          "slug": "chronograph-stainless-steel",
+          "url": "/dornbluth-and-sohn/chronograph/chronograph-stainless-steel",
+          "text": "Chronograph Stainless Steel"
+        },
+        {
+          "slug": "chronograph-pink-gold",
+          "url": "/dornbluth-and-sohn/chronograph/chronograph-pink-gold",
+          "text": "Chronograph Pink Gold"
+        }
+      ]
+    }
+  ],
+  "total_references": 12
+}

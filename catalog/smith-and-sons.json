@@ -1,0 +1,111 @@
+{
+  "brand_slug": "smith-and-sons",
+  "collections": [
+    {
+      "name": "Everest",
+      "slug": "everest",
+      "references": [
+        {
+          "slug": "everest-prs-25-steel",
+          "url": "/smith-and-sons/everest/everest-prs-25-steel",
+          "text": "Everest PRS-25 Steel Three-Hand"
+        },
+        {
+          "slug": "everest-prs-29-steel",
+          "url": "/smith-and-sons/everest/everest-prs-29-steel",
+          "text": "Everest PRS-29 Steel Time-Only"
+        },
+        {
+          "slug": "everest-prs-25-bronze",
+          "url": "/smith-and-sons/everest/everest-prs-25-bronze",
+          "text": "Everest PRS-25 Bronze Three-Hand"
+        }
+      ]
+    },
+    {
+      "name": "PRS",
+      "slug": "prs",
+      "references": [
+        {
+          "slug": "prs-25-white",
+          "url": "/smith-and-sons/prs/prs-25-white",
+          "text": "PRS-25 White Dial Automatic"
+        },
+        {
+          "slug": "prs-25-black",
+          "url": "/smith-and-sons/prs/prs-25-black",
+          "text": "PRS-25 Black Dial Automatic"
+        },
+        {
+          "slug": "prs-29-cream",
+          "url": "/smith-and-sons/prs/prs-29-cream",
+          "text": "PRS-29 Cream Dial Manual Wind"
+        },
+        {
+          "slug": "prs-35-chronograph",
+          "url": "/smith-and-sons/prs/prs-35-chronograph",
+          "text": "PRS-35 Chronograph Steel"
+        }
+      ]
+    },
+    {
+      "name": "Military",
+      "slug": "military",
+      "references": [
+        {
+          "slug": "military-issue-black",
+          "url": "/smith-and-sons/military/military-issue-black",
+          "text": "Military Issue Black Dial"
+        },
+        {
+          "slug": "military-issued-automatic",
+          "url": "/smith-and-sons/military/military-issued-automatic",
+          "text": "Military Issued Automatic"
+        },
+        {
+          "slug": "military-navigator",
+          "url": "/smith-and-sons/military/military-navigator",
+          "text": "Military Navigator GMT"
+        }
+      ]
+    },
+    {
+      "name": "Deluxe",
+      "slug": "deluxe",
+      "references": [
+        {
+          "slug": "deluxe-steel-white",
+          "url": "/smith-and-sons/deluxe/deluxe-steel-white",
+          "text": "Deluxe Steel White Dial"
+        },
+        {
+          "slug": "deluxe-gold-plated",
+          "url": "/smith-and-sons/deluxe/deluxe-gold-plated",
+          "text": "Deluxe Gold Plated Cream Dial"
+        },
+        {
+          "slug": "deluxe-dress-date",
+          "url": "/smith-and-sons/deluxe/deluxe-dress-date",
+          "text": "Deluxe Dress Date Automatic"
+        }
+      ]
+    },
+    {
+      "name": "Field",
+      "slug": "field",
+      "references": [
+        {
+          "slug": "field-watch-steel",
+          "url": "/smith-and-sons/field/field-watch-steel",
+          "text": "Field Watch Steel Manual Wind"
+        },
+        {
+          "slug": "field-automatic-date",
+          "url": "/smith-and-sons/field/field-automatic-date",
+          "text": "Field Automatic Date Steel"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

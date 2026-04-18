@@ -1,0 +1,111 @@
+{
+  "brand_slug": "monta",
+  "collections": [
+    {
+      "name": "Atlas",
+      "slug": "atlas",
+      "references": [
+        {
+          "slug": "atlas-steel",
+          "url": "/monta/atlas/atlas-steel",
+          "text": "Atlas Steel GMT"
+        },
+        {
+          "slug": "atlas-gilt",
+          "url": "/monta/atlas/atlas-gilt",
+          "text": "Atlas Gilt GMT"
+        },
+        {
+          "slug": "atlas-pepsi",
+          "url": "/monta/atlas/atlas-pepsi",
+          "text": "Atlas Pepsi GMT"
+        }
+      ]
+    },
+    {
+      "name": "Oceanking",
+      "slug": "oceanking",
+      "references": [
+        {
+          "slug": "oceanking-black",
+          "url": "/monta/oceanking/oceanking-black",
+          "text": "Oceanking Black Dive Watch"
+        },
+        {
+          "slug": "oceanking-blue",
+          "url": "/monta/oceanking/oceanking-blue",
+          "text": "Oceanking Blue Dive Watch"
+        },
+        {
+          "slug": "oceanking-gilt",
+          "url": "/monta/oceanking/oceanking-gilt",
+          "text": "Oceanking Gilt Dive Watch"
+        }
+      ]
+    },
+    {
+      "name": "Triumph",
+      "slug": "triumph",
+      "references": [
+        {
+          "slug": "triumph-black",
+          "url": "/monta/triumph/triumph-black",
+          "text": "Triumph Black Sports Watch"
+        },
+        {
+          "slug": "triumph-white",
+          "url": "/monta/triumph/triumph-white",
+          "text": "Triumph White Sports Watch"
+        },
+        {
+          "slug": "triumph-blue",
+          "url": "/monta/triumph/triumph-blue",
+          "text": "Triumph Blue Sports Watch"
+        }
+      ]
+    },
+    {
+      "name": "Skyquest",
+      "slug": "skyquest",
+      "references": [
+        {
+          "slug": "skyquest-black",
+          "url": "/monta/skyquest/skyquest-black",
+          "text": "Skyquest Black Pilot Watch"
+        },
+        {
+          "slug": "skyquest-white",
+          "url": "/monta/skyquest/skyquest-white",
+          "text": "Skyquest White Pilot Watch"
+        },
+        {
+          "slug": "skyquest-blue",
+          "url": "/monta/skyquest/skyquest-blue",
+          "text": "Skyquest Blue Pilot Watch"
+        }
+      ]
+    },
+    {
+      "name": "Noble",
+      "slug": "noble",
+      "references": [
+        {
+          "slug": "noble-black",
+          "url": "/monta/noble/noble-black",
+          "text": "Noble Black Dress Watch"
+        },
+        {
+          "slug": "noble-white",
+          "url": "/monta/noble/noble-white",
+          "text": "Noble White Dress Watch"
+        },
+        {
+          "slug": "noble-blue",
+          "url": "/monta/noble/noble-blue",
+          "text": "Noble Blue Dress Watch"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

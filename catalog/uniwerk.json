@@ -1,0 +1,85 @@
+{
+  "brand_slug": "uniwerk",
+  "collections": [
+    {
+      "name": "C3",
+      "slug": "c3",
+      "references": [
+        {
+          "slug": "c3-001",
+          "url": "/uniwerk/c3/c3-001",
+          "text": "C3 Mk1 Titanium Jumping Hour"
+        },
+        {
+          "slug": "c3-002",
+          "url": "/uniwerk/c3/c3-002",
+          "text": "C3 Mk2 Stainless Steel Jumping Hour"
+        },
+        {
+          "slug": "c3-black-edition",
+          "url": "/uniwerk/c3/c3-black-edition",
+          "text": "C3 Black Edition DLC Jumping Hour"
+        }
+      ]
+    },
+    {
+      "name": "C1",
+      "slug": "c1",
+      "references": [
+        {
+          "slug": "c1-standard",
+          "url": "/uniwerk/c1/c1-standard",
+          "text": "C1 Standard Stainless Steel"
+        },
+        {
+          "slug": "c1-blue-dial",
+          "url": "/uniwerk/c1/c1-blue-dial",
+          "text": "C1 Blue Dial Stainless Steel"
+        },
+        {
+          "slug": "c1-titanium",
+          "url": "/uniwerk/c1/c1-titanium",
+          "text": "C1 Titanium Limited Edition"
+        }
+      ]
+    },
+    {
+      "name": "C7",
+      "slug": "c7",
+      "references": [
+        {
+          "slug": "c7-001",
+          "url": "/uniwerk/c7/c7-001",
+          "text": "C7 Mk1 Titanium Satellite"
+        },
+        {
+          "slug": "c7-green-dial",
+          "url": "/uniwerk/c7/c7-green-dial",
+          "text": "C7 Green Dial Titanium Satellite"
+        }
+      ]
+    },
+    {
+      "name": "D200",
+      "slug": "d200",
+      "references": [
+        {
+          "slug": "d200-black",
+          "url": "/uniwerk/d200/d200-black",
+          "text": "D200 Black Stainless Steel Diver"
+        },
+        {
+          "slug": "d200-blue",
+          "url": "/uniwerk/d200/d200-blue",
+          "text": "D200 Blue Stainless Steel Diver"
+        },
+        {
+          "slug": "d200-titanium",
+          "url": "/uniwerk/d200/d200-titanium",
+          "text": "D200 Titanium Limited Edition Diver"
+        }
+      ]
+    }
+  ],
+  "total_references": 11
+}

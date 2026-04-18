@@ -1,0 +1,106 @@
+{
+  "brand_slug": "shinola",
+  "collections": [
+    {
+      "name": "Runwell",
+      "slug": "runwell",
+      "references": [
+        {
+          "slug": "runwell-41mm",
+          "url": "/shinola/runwell/runwell-41mm",
+          "text": "Runwell 41mm Stainless Steel"
+        },
+        {
+          "slug": "runwell-47mm",
+          "url": "/shinola/runwell/runwell-47mm",
+          "text": "Runwell 47mm Stainless Steel"
+        },
+        {
+          "slug": "runwell-chrono",
+          "url": "/shinola/runwell/runwell-chrono",
+          "text": "Runwell Chronograph 47mm"
+        },
+        {
+          "slug": "runwell-moonphase",
+          "url": "/shinola/runwell/runwell-moonphase",
+          "text": "Runwell Moon Phase 41mm"
+        }
+      ]
+    },
+    {
+      "name": "The Canfield",
+      "slug": "canfield",
+      "references": [
+        {
+          "slug": "canfield-43mm",
+          "url": "/shinola/canfield/canfield-43mm",
+          "text": "Canfield 43mm Stainless Steel"
+        },
+        {
+          "slug": "canfield-chrono",
+          "url": "/shinola/canfield/canfield-chrono",
+          "text": "Canfield Sport Chronograph 45mm"
+        },
+        {
+          "slug": "canfield-38mm",
+          "url": "/shinola/canfield/canfield-38mm",
+          "text": "Canfield 38mm Stainless Steel"
+        }
+      ]
+    },
+    {
+      "name": "The Vinton",
+      "slug": "vinton",
+      "references": [
+        {
+          "slug": "vinton-38mm",
+          "url": "/shinola/vinton/vinton-38mm",
+          "text": "Vinton 38mm Stainless Steel"
+        },
+        {
+          "slug": "vinton-40mm",
+          "url": "/shinola/vinton/vinton-40mm",
+          "text": "Vinton 40mm Stainless Steel"
+        },
+        {
+          "slug": "vinton-chrono",
+          "url": "/shinola/vinton/vinton-chrono",
+          "text": "Vinton Chronograph 42mm"
+        }
+      ]
+    },
+    {
+      "name": "The Gomelsky",
+      "slug": "gomelsky",
+      "references": [
+        {
+          "slug": "gomelsky-36mm",
+          "url": "/shinola/gomelsky/gomelsky-36mm",
+          "text": "Gomelsky 36mm Stainless Steel"
+        },
+        {
+          "slug": "gomelsky-moonphase",
+          "url": "/shinola/gomelsky/gomelsky-moonphase",
+          "text": "Gomelsky Moon Phase 42mm"
+        }
+      ]
+    },
+    {
+      "name": "The Guardian",
+      "slug": "guardian",
+      "references": [
+        {
+          "slug": "guardian-42mm",
+          "url": "/shinola/guardian/guardian-42mm",
+          "text": "Guardian 42mm Stainless Steel"
+        },
+        {
+          "slug": "guardian-chrono",
+          "url": "/shinola/guardian/guardian-chrono",
+          "text": "Guardian Chronograph 44mm"
+        }
+      ]
+    }
+  ],
+  "total_references": 14
+}

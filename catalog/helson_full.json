@@ -1,0 +1,367 @@
+{
+  "brand_slug": "helson",
+  "collections": [
+    {
+      "name": "Shark Diver",
+      "slug": "shark-diver",
+      "references": [
+        {
+          "slug": "shark-diver-40-black",
+          "url": "/helson/shark-diver/shark-diver-40-black",
+          "title": "Shark Diver 40 Black Steel",
+          "specs": {
+            "Brand": "Helson",
+            "Family": "Shark Diver",
+            "Reference": "SD40",
+            "Name": "Shark Diver 40 Black",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "shark-diver-42-blue",
+          "url": "/helson/shark-diver/shark-diver-42-blue",
+          "title": "Shark Diver 42 Blue Steel",
+          "specs": {
+            "Brand": "Helson",
+            "Family": "Shark Diver",
+            "Reference": "SD42",
+            "Name": "Shark Diver 42 Blue",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "shark-diver-45-bronze",
+          "url": "/helson/shark-diver/shark-diver-45-bronze",
+          "title": "Shark Diver 45 Bronze",
+          "specs": {
+            "Brand": "Helson",
+            "Family": "Shark Diver",
+            "Reference": "SD45",
+            "Name": "Shark Diver 45 Bronze",
+            "Movement": "Automatic",
+            "Materials": "Bronze",
+            "Diameter": "45mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skindiver",
+      "slug": "skindiver",
+      "references": [
+        {
+          "slug": "skindiver-heritage-black",
+          "url": "/helson/skindiver/skindiver-heritage-black",
+          "title": "Skindiver Heritage Black Steel",
+          "specs": {
+            "Brand": "Helson",
+            "Family": "Skindiver",
+            "Reference": "N/A",
+            "Name": "Skindiver Heritage Black",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "skindiver-tropical",
+          "url": "/helson/skindiver/skindiver-tropical",
+          "title": "Skindiver Tropical Dial Steel",
+          "specs": {
+            "Brand": "Helson",
+            "Family": "Skindiver",
+            "Reference": "N/A",
+            "Name": "Skindiver Tropical",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "skindiver-bronze",
+          "url": "/helson/skindiver/skindiver-bronze",
+          "title": "Skindiver Bronze",
+          "specs": {
+            "Brand": "Helson",
+            "Family": "Skindiver",
+            "Reference": "N/A",
+            "Name": "Skindiver Bronze",
+            "Movement": "Automatic",
+            "Materials": "Bronze",
+            "Diameter": "42mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gauge",
+      "slug": "gauge",
+      "references": [
+        {
+          "slug": "gauge-diver-steel",
+          "url": "/helson/gauge/gauge-diver-steel",
+          "title": "Gauge Diver Steel",
+          "specs": {
+            "Brand": "Helson",
+            "Family": "Gauge",
+            "Reference": "N/A",
+            "Name": "Gauge Diver",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "45mm",
+            "W/R": "500m",
+            "Glass": "Sapphire",
+            "Complications": "Date, Depth Gauge"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "gauge-diver-black-dlc",
+          "url": "/helson/gauge/gauge-diver-black-dlc",
+          "title": "Gauge Diver Black DLC",
+          "specs": {
+            "Brand": "Helson",
+            "Family": "Gauge",
+            "Reference": "N/A",
+            "Name": "Gauge Diver DLC",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel, DLC",
+            "Diameter": "45mm",
+            "W/R": "500m",
+            "Glass": "Sapphire",
+            "Complications": "Date, Depth Gauge"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "gauge-diver-titanium",
+          "url": "/helson/gauge/gauge-diver-titanium",
+          "title": "Gauge Diver Titanium",
+          "specs": {
+            "Brand": "Helson",
+            "Family": "Gauge",
+            "Reference": "N/A",
+            "Name": "Gauge Diver Titanium",
+            "Movement": "Automatic",
+            "Materials": "Titanium",
+            "Diameter": "45mm",
+            "W/R": "500m",
+            "Glass": "Sapphire",
+            "Complications": "Date, Depth Gauge"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Buccaneer",
+      "slug": "buccaneer",
+      "references": [
+        {
+          "slug": "buccaneer-gmt-blue",
+          "url": "/helson/buccaneer/buccaneer-gmt-blue",
+          "title": "Buccaneer GMT Blue Steel",
+          "specs": {
+            "Brand": "Helson",
+            "Family": "Buccaneer",
+            "Reference": "N/A",
+            "Name": "Buccaneer GMT Blue",
+            "Movement": "Automatic GMT",
+            "Materials": "Stainless Steel",
+            "Diameter": "43mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date, GMT"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "buccaneer-gmt-black",
+          "url": "/helson/buccaneer/buccaneer-gmt-black",
+          "title": "Buccaneer GMT Black Steel",
+          "specs": {
+            "Brand": "Helson",
+            "Family": "Buccaneer",
+            "Reference": "N/A",
+            "Name": "Buccaneer GMT Black",
+            "Movement": "Automatic GMT",
+            "Materials": "Stainless Steel",
+            "Diameter": "43mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date, GMT"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "buccaneer-gmt-bronze",
+          "url": "/helson/buccaneer/buccaneer-gmt-bronze",
+          "title": "Buccaneer GMT Bronze",
+          "specs": {
+            "Brand": "Helson",
+            "Family": "Buccaneer",
+            "Reference": "N/A",
+            "Name": "Buccaneer GMT Bronze",
+            "Movement": "Automatic GMT",
+            "Materials": "Bronze",
+            "Diameter": "43mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date, GMT"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spear Diver",
+      "slug": "spear-diver",
+      "references": [
+        {
+          "slug": "spear-diver-40-black",
+          "url": "/helson/spear-diver/spear-diver-40-black",
+          "title": "Spear Diver 40 Black Steel",
+          "specs": {
+            "Brand": "Helson",
+            "Family": "Spear Diver",
+            "Reference": "N/A",
+            "Name": "Spear Diver 40 Black",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "spear-diver-40-blue",
+          "url": "/helson/spear-diver/spear-diver-40-blue",
+          "title": "Spear Diver 40 Blue Steel",
+          "specs": {
+            "Brand": "Helson",
+            "Family": "Spear Diver",
+            "Reference": "N/A",
+            "Name": "Spear Diver 40 Blue",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "spear-diver-40-green",
+          "url": "/helson/spear-diver/spear-diver-40-green",
+          "title": "Spear Diver 40 Green Steel",
+          "specs": {
+            "Brand": "Helson",
+            "Family": "Spear Diver",
+            "Reference": "N/A",
+            "Name": "Spear Diver 40 Green",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 15,
+  "enriched_at": "2026-04-18T17:11:23.588Z"
+}

@@ -1,0 +1,101 @@
+{
+  "brand_slug": "botta-design",
+  "collections": [
+    {
+      "name": "UNO",
+      "slug": "uno",
+      "references": [
+        {
+          "slug": "uno-24-plus-titan",
+          "url": "/botta-design/uno/uno-24-plus-titan",
+          "text": "UNO 24 Plus Titan Single Hand"
+        },
+        {
+          "slug": "uno-24-white-quartz",
+          "url": "/botta-design/uno/uno-24-white-quartz",
+          "text": "UNO 24 White Quartz Single Hand"
+        },
+        {
+          "slug": "uno-24-black-automatic",
+          "url": "/botta-design/uno/uno-24-black-automatic",
+          "text": "UNO 24 Black Automatic Single Hand"
+        }
+      ]
+    },
+    {
+      "name": "TRES",
+      "slug": "tres",
+      "references": [
+        {
+          "slug": "tres-24-plus-black",
+          "url": "/botta-design/tres/tres-24-plus-black",
+          "text": "TRES 24 Plus Black Three Hand"
+        },
+        {
+          "slug": "tres-white-titan",
+          "url": "/botta-design/tres/tres-white-titan",
+          "text": "TRES White Titanium Three Hand"
+        },
+        {
+          "slug": "tres-tempus-silver",
+          "url": "/botta-design/tres/tres-tempus-silver",
+          "text": "TRES Tempus Silver Three Hand"
+        }
+      ]
+    },
+    {
+      "name": "SOLUS",
+      "slug": "solus",
+      "references": [
+        {
+          "slug": "solus-uno-24-black",
+          "url": "/botta-design/solus/solus-uno-24-black",
+          "text": "SOLUS UNO 24 Black Solar Single Hand"
+        },
+        {
+          "slug": "solus-tres-blue",
+          "url": "/botta-design/solus/solus-tres-blue",
+          "text": "SOLUS TRES Blue Solar Three Hand"
+        },
+        {
+          "slug": "solus-uno-titan",
+          "url": "/botta-design/solus/solus-uno-titan",
+          "text": "SOLUS UNO Titanium Solar Single Hand"
+        }
+      ]
+    },
+    {
+      "name": "NOVA",
+      "slug": "nova",
+      "references": [
+        {
+          "slug": "nova-chrono-black",
+          "url": "/botta-design/nova/nova-chrono-black",
+          "text": "NOVA Chrono Black Chronograph"
+        },
+        {
+          "slug": "nova-carbon-titan",
+          "url": "/botta-design/nova/nova-carbon-titan",
+          "text": "NOVA Carbon Titanium Chronograph"
+        }
+      ]
+    },
+    {
+      "name": "MONDO",
+      "slug": "mondo",
+      "references": [
+        {
+          "slug": "mondo-24-plus",
+          "url": "/botta-design/mondo/mondo-24-plus",
+          "text": "MONDO 24 Plus World Time"
+        },
+        {
+          "slug": "mondo-dusk-black",
+          "url": "/botta-design/mondo/mondo-dusk-black",
+          "text": "MONDO Dusk Black World Time"
+        }
+      ]
+    }
+  ],
+  "total_references": 13
+}

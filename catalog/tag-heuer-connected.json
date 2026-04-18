@@ -1,0 +1,95 @@
+{
+  "brand_slug": "tag-heuer-connected",
+  "collections": [
+    {
+      "name": "Connected Modular",
+      "slug": "connected-modular",
+      "references": [
+        {
+          "slug": "connected-modular-45-black-titanium",
+          "url": "/tag-heuer-connected/connected-modular/connected-modular-45-black-titanium",
+          "text": "Connected Modular 45 Black Titanium"
+        },
+        {
+          "slug": "connected-modular-45-steel",
+          "url": "/tag-heuer-connected/connected-modular/connected-modular-45-steel",
+          "text": "Connected Modular 45 Steel"
+        },
+        {
+          "slug": "connected-modular-41",
+          "url": "/tag-heuer-connected/connected-modular/connected-modular-41",
+          "text": "Connected Modular 41 Steel"
+        }
+      ]
+    },
+    {
+      "name": "Connected Calibre E4",
+      "slug": "connected-calibre-e4",
+      "references": [
+        {
+          "slug": "connected-calibre-e4-45-black-ceramic",
+          "url": "/tag-heuer-connected/connected-calibre-e4/connected-calibre-e4-45-black-ceramic",
+          "text": "Connected Calibre E4 45 Black Ceramic"
+        },
+        {
+          "slug": "connected-calibre-e4-45-steel",
+          "url": "/tag-heuer-connected/connected-calibre-e4/connected-calibre-e4-45-steel",
+          "text": "Connected Calibre E4 45 Steel"
+        },
+        {
+          "slug": "connected-calibre-e4-42-steel",
+          "url": "/tag-heuer-connected/connected-calibre-e4/connected-calibre-e4-42-steel",
+          "text": "Connected Calibre E4 42 Steel"
+        },
+        {
+          "slug": "connected-calibre-e4-golf-edition",
+          "url": "/tag-heuer-connected/connected-calibre-e4/connected-calibre-e4-golf-edition",
+          "text": "Connected Calibre E4 Golf Edition"
+        }
+      ]
+    },
+    {
+      "name": "Connected (First Generation)",
+      "slug": "connected-first-generation",
+      "references": [
+        {
+          "slug": "connected-sbf8z8001-black",
+          "url": "/tag-heuer-connected/connected-first-generation/connected-sbf8z8001-black",
+          "text": "Connected First Generation Black Titanium"
+        },
+        {
+          "slug": "connected-sbf8z8011-steel",
+          "url": "/tag-heuer-connected/connected-first-generation/connected-sbf8z8011-steel",
+          "text": "Connected First Generation Steel"
+        }
+      ]
+    },
+    {
+      "name": "Connected Special Editions",
+      "slug": "connected-special-editions",
+      "references": [
+        {
+          "slug": "connected-x-super-mario",
+          "url": "/tag-heuer-connected/connected-special-editions/connected-x-super-mario",
+          "text": "Connected x Super Mario Limited Edition"
+        },
+        {
+          "slug": "connected-bright-black-edition",
+          "url": "/tag-heuer-connected/connected-special-editions/connected-bright-black-edition",
+          "text": "Connected Bright Black Edition"
+        },
+        {
+          "slug": "connected-porsche-edition",
+          "url": "/tag-heuer-connected/connected-special-editions/connected-porsche-edition",
+          "text": "Connected Porsche Edition"
+        },
+        {
+          "slug": "connected-aston-martin-edition",
+          "url": "/tag-heuer-connected/connected-special-editions/connected-aston-martin-edition",
+          "text": "Connected Aston Martin Edition"
+        }
+      ]
+    }
+  ],
+  "total_references": 13
+}

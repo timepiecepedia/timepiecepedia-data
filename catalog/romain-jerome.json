@@ -1,0 +1,106 @@
+{
+  "brand_slug": "romain-jerome",
+  "collections": [
+    {
+      "name": "Titanic-DNA",
+      "slug": "titanic-dna",
+      "references": [
+        {
+          "slug": "titanic-dna-steampunk-auto",
+          "url": "/romain-jerome/titanic-dna/titanic-dna-steampunk-auto",
+          "text": "Titanic-DNA Steampunk Auto Steel"
+        },
+        {
+          "slug": "titanic-dna-day-night",
+          "url": "/romain-jerome/titanic-dna/titanic-dna-day-night",
+          "text": "Titanic-DNA Day & Night Steel"
+        },
+        {
+          "slug": "titanic-dna-tourbillon",
+          "url": "/romain-jerome/titanic-dna/titanic-dna-tourbillon",
+          "text": "Titanic-DNA Tourbillon Steel"
+        }
+      ]
+    },
+    {
+      "name": "Moon-DNA",
+      "slug": "moon-dna",
+      "references": [
+        {
+          "slug": "moon-dna-mood",
+          "url": "/romain-jerome/moon-dna/moon-dna-mood",
+          "text": "Moon-DNA Mood PVD Steel"
+        },
+        {
+          "slug": "moon-dna-red-mood",
+          "url": "/romain-jerome/moon-dna/moon-dna-red-mood",
+          "text": "Moon-DNA Red Mood PVD Steel"
+        },
+        {
+          "slug": "moon-orbiter-gmt",
+          "url": "/romain-jerome/moon-dna/moon-orbiter-gmt",
+          "text": "Moon Orbiter GMT Steel"
+        }
+      ]
+    },
+    {
+      "name": "Space Invaders",
+      "slug": "space-invaders",
+      "references": [
+        {
+          "slug": "space-invaders-steel",
+          "url": "/romain-jerome/space-invaders/space-invaders-steel",
+          "text": "Space Invaders Steel Automatic"
+        },
+        {
+          "slug": "space-invaders-blue",
+          "url": "/romain-jerome/space-invaders/space-invaders-blue",
+          "text": "Space Invaders Blue Edition Steel"
+        },
+        {
+          "slug": "space-invaders-red",
+          "url": "/romain-jerome/space-invaders/space-invaders-red",
+          "text": "Space Invaders Red Edition Steel"
+        }
+      ]
+    },
+    {
+      "name": "Pac-Man",
+      "slug": "pac-man",
+      "references": [
+        {
+          "slug": "pac-man-level-ii",
+          "url": "/romain-jerome/pac-man/pac-man-level-ii",
+          "text": "Pac-Man Level II Steel Automatic"
+        },
+        {
+          "slug": "pac-man-level-iii",
+          "url": "/romain-jerome/pac-man/pac-man-level-iii",
+          "text": "Pac-Man Level III PVD Steel"
+        }
+      ]
+    },
+    {
+      "name": "Collaborations & Special Editions",
+      "slug": "collaborations",
+      "references": [
+        {
+          "slug": "delorean-dna",
+          "url": "/romain-jerome/collaborations/delorean-dna",
+          "text": "DeLorean-DNA Steel Automatic"
+        },
+        {
+          "slug": "tetris-dna",
+          "url": "/romain-jerome/collaborations/tetris-dna",
+          "text": "Tetris-DNA Steel Automatic"
+        },
+        {
+          "slug": "batman-dna",
+          "url": "/romain-jerome/collaborations/batman-dna",
+          "text": "Batman-DNA Black PVD Steel"
+        }
+      ]
+    }
+  ],
+  "total_references": 14
+}

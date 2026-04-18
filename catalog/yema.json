@@ -1,0 +1,111 @@
+{
+  "brand_slug": "yema",
+  "collections": [
+    {
+      "name": "Superman",
+      "slug": "superman",
+      "references": [
+        {
+          "slug": "superman-heritage",
+          "url": "/yema/superman/superman-heritage",
+          "text": "Superman Heritage Steel Dive Watch"
+        },
+        {
+          "slug": "superman-bronze",
+          "url": "/yema/superman/superman-bronze",
+          "text": "Superman Bronze Dive Watch"
+        },
+        {
+          "slug": "superman-500",
+          "url": "/yema/superman/superman-500",
+          "text": "Superman 500 Steel Dive Watch"
+        },
+        {
+          "slug": "superman-gmt",
+          "url": "/yema/superman/superman-gmt",
+          "text": "Superman GMT Steel Travel Watch"
+        }
+      ]
+    },
+    {
+      "name": "Rallygraf",
+      "slug": "rallygraf",
+      "references": [
+        {
+          "slug": "rallygraf-monopoussoir",
+          "url": "/yema/rallygraf/rallygraf-monopoussoir",
+          "text": "Rallygraf Monopoussoir Steel Chronograph"
+        },
+        {
+          "slug": "rallygraf-39",
+          "url": "/yema/rallygraf/rallygraf-39",
+          "text": "Rallygraf 39 Steel Chronograph"
+        },
+        {
+          "slug": "rallygraf-traveller",
+          "url": "/yema/rallygraf/rallygraf-traveller",
+          "text": "Rallygraf Traveller Steel GMT Chronograph"
+        }
+      ]
+    },
+    {
+      "name": "Speedgraf",
+      "slug": "speedgraf",
+      "references": [
+        {
+          "slug": "speedgraf-pilot",
+          "url": "/yema/speedgraf/speedgraf-pilot",
+          "text": "Speedgraf Pilot Steel Chronograph"
+        },
+        {
+          "slug": "speedgraf-38",
+          "url": "/yema/speedgraf/speedgraf-38",
+          "text": "Speedgraf 38 Steel Chronograph"
+        },
+        {
+          "slug": "speedgraf-bronze",
+          "url": "/yema/speedgraf/speedgraf-bronze",
+          "text": "Speedgraf Bronze Chronograph"
+        }
+      ]
+    },
+    {
+      "name": "Navygraf",
+      "slug": "navygraf",
+      "references": [
+        {
+          "slug": "navygraf-heritage",
+          "url": "/yema/navygraf/navygraf-heritage",
+          "text": "Navygraf Heritage Steel Chronograph"
+        },
+        {
+          "slug": "navygraf-marine-nationale",
+          "url": "/yema/navygraf/navygraf-marine-nationale",
+          "text": "Navygraf Marine Nationale Steel Chronograph"
+        },
+        {
+          "slug": "navygraf-maxi-dial",
+          "url": "/yema/navygraf/navygraf-maxi-dial",
+          "text": "Navygraf Maxi Dial Steel Chronograph"
+        }
+      ]
+    },
+    {
+      "name": "Flygraf",
+      "slug": "flygraf",
+      "references": [
+        {
+          "slug": "flygraf-french-air-force",
+          "url": "/yema/flygraf/flygraf-french-air-force",
+          "text": "Flygraf French Air Force Steel Chronograph"
+        },
+        {
+          "slug": "flygraf-type-20",
+          "url": "/yema/flygraf/flygraf-type-20",
+          "text": "Flygraf Type 20 Steel Pilot Chronograph"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

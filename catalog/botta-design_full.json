@@ -1,0 +1,323 @@
+{
+  "brand_slug": "botta-design",
+  "collections": [
+    {
+      "name": "UNO",
+      "slug": "uno",
+      "references": [
+        {
+          "slug": "uno-24-plus-titan",
+          "url": "/botta-design/uno/uno-24-plus-titan",
+          "title": "UNO 24 Plus Titan Single Hand",
+          "specs": {
+            "Brand": "Botta-Design",
+            "Family": "UNO",
+            "Reference": "219010",
+            "Name": "UNO 24 Plus Titan",
+            "Movement": "Quartz",
+            "Materials": "Titanium",
+            "Diameter": "40mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "24-hour display, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "uno-24-white-quartz",
+          "url": "/botta-design/uno/uno-24-white-quartz",
+          "title": "UNO 24 White Quartz Single Hand",
+          "specs": {
+            "Brand": "Botta-Design",
+            "Family": "UNO",
+            "Reference": "229010",
+            "Name": "UNO 24 White",
+            "Movement": "Quartz",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "24-hour display"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "uno-24-black-automatic",
+          "url": "/botta-design/uno/uno-24-black-automatic",
+          "title": "UNO 24 Black Automatic Single Hand",
+          "specs": {
+            "Brand": "Botta-Design",
+            "Family": "UNO",
+            "Reference": "N/A",
+            "Name": "UNO 24 Black Automatic",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "24-hour display"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TRES",
+      "slug": "tres",
+      "references": [
+        {
+          "slug": "tres-24-plus-black",
+          "url": "/botta-design/tres/tres-24-plus-black",
+          "title": "TRES 24 Plus Black Three Hand",
+          "specs": {
+            "Brand": "Botta-Design",
+            "Family": "TRES",
+            "Reference": "N/A",
+            "Name": "TRES 24 Plus Black",
+            "Movement": "Quartz",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "24-hour display, Date, GMT"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "tres-white-titan",
+          "url": "/botta-design/tres/tres-white-titan",
+          "title": "TRES White Titanium Three Hand",
+          "specs": {
+            "Brand": "Botta-Design",
+            "Family": "TRES",
+            "Reference": "N/A",
+            "Name": "TRES White Titan",
+            "Movement": "Quartz",
+            "Materials": "Titanium",
+            "Diameter": "40mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "24-hour display, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "tres-tempus-silver",
+          "url": "/botta-design/tres/tres-tempus-silver",
+          "title": "TRES Tempus Silver Three Hand",
+          "specs": {
+            "Brand": "Botta-Design",
+            "Family": "TRES",
+            "Reference": "N/A",
+            "Name": "TRES Tempus Silver",
+            "Movement": "Quartz",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SOLUS",
+      "slug": "solus",
+      "references": [
+        {
+          "slug": "solus-uno-24-black",
+          "url": "/botta-design/solus/solus-uno-24-black",
+          "title": "SOLUS UNO 24 Black Solar Single Hand",
+          "specs": {
+            "Brand": "Botta-Design",
+            "Family": "SOLUS",
+            "Reference": "N/A",
+            "Name": "SOLUS UNO 24 Black",
+            "Movement": "Solar Quartz",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "24-hour display"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "solus-tres-blue",
+          "url": "/botta-design/solus/solus-tres-blue",
+          "title": "SOLUS TRES Blue Solar Three Hand",
+          "specs": {
+            "Brand": "Botta-Design",
+            "Family": "SOLUS",
+            "Reference": "N/A",
+            "Name": "SOLUS TRES Blue",
+            "Movement": "Solar Quartz",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "solus-uno-titan",
+          "url": "/botta-design/solus/solus-uno-titan",
+          "title": "SOLUS UNO Titanium Solar Single Hand",
+          "specs": {
+            "Brand": "Botta-Design",
+            "Family": "SOLUS",
+            "Reference": "N/A",
+            "Name": "SOLUS UNO Titan",
+            "Movement": "Solar Quartz",
+            "Materials": "Titanium",
+            "Diameter": "40mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "24-hour display"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NOVA",
+      "slug": "nova",
+      "references": [
+        {
+          "slug": "nova-chrono-black",
+          "url": "/botta-design/nova/nova-chrono-black",
+          "title": "NOVA Chrono Black Chronograph",
+          "specs": {
+            "Brand": "Botta-Design",
+            "Family": "NOVA",
+            "Reference": "N/A",
+            "Name": "NOVA Chrono Black",
+            "Movement": "Quartz Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "44mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "nova-carbon-titan",
+          "url": "/botta-design/nova/nova-carbon-titan",
+          "title": "NOVA Carbon Titanium Chronograph",
+          "specs": {
+            "Brand": "Botta-Design",
+            "Family": "NOVA",
+            "Reference": "N/A",
+            "Name": "NOVA Carbon Titan",
+            "Movement": "Quartz Chronograph",
+            "Materials": "Titanium, Carbon",
+            "Diameter": "44mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MONDO",
+      "slug": "mondo",
+      "references": [
+        {
+          "slug": "mondo-24-plus",
+          "url": "/botta-design/mondo/mondo-24-plus",
+          "title": "MONDO 24 Plus World Time",
+          "specs": {
+            "Brand": "Botta-Design",
+            "Family": "MONDO",
+            "Reference": "N/A",
+            "Name": "MONDO 24 Plus",
+            "Movement": "Quartz",
+            "Materials": "Stainless Steel",
+            "Diameter": "45mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "World Time, 24-hour display, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "mondo-dusk-black",
+          "url": "/botta-design/mondo/mondo-dusk-black",
+          "title": "MONDO Dusk Black World Time",
+          "specs": {
+            "Brand": "Botta-Design",
+            "Family": "MONDO",
+            "Reference": "N/A",
+            "Name": "MONDO Dusk Black",
+            "Movement": "Quartz",
+            "Materials": "Stainless Steel PVD",
+            "Diameter": "45mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "World Time, Day/Night indicator"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 13,
+  "enriched_at": "2026-04-18T17:06:53.205Z"
+}

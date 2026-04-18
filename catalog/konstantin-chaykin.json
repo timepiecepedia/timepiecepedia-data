@@ -1,0 +1,101 @@
+{
+  "brand_slug": "konstantin-chaykin",
+  "collections": [
+    {
+      "name": "Joker",
+      "slug": "joker",
+      "references": [
+        {
+          "slug": "joker-selfie",
+          "url": "/konstantin-chaykin/joker/joker-selfie",
+          "text": "Joker Selfie Steel Moon Phase"
+        },
+        {
+          "slug": "joker-red-gold",
+          "url": "/konstantin-chaykin/joker/joker-red-gold",
+          "text": "Joker Red Gold Moon Phase"
+        },
+        {
+          "slug": "joker-white-gold",
+          "url": "/konstantin-chaykin/joker/joker-white-gold",
+          "text": "Joker White Gold Moon Phase"
+        },
+        {
+          "slug": "joker-automaton",
+          "url": "/konstantin-chaykin/joker/joker-automaton",
+          "text": "Joker Automaton Moon Phase"
+        }
+      ]
+    },
+    {
+      "name": "Wristmons",
+      "slug": "wristmons",
+      "references": [
+        {
+          "slug": "wristmons-stainless-steel",
+          "url": "/konstantin-chaykin/wristmons/wristmons-stainless-steel",
+          "text": "Wristmons Steel Animated Display"
+        },
+        {
+          "slug": "wristmons-red-gold",
+          "url": "/konstantin-chaykin/wristmons/wristmons-red-gold",
+          "text": "Wristmons Red Gold Animated Display"
+        }
+      ]
+    },
+    {
+      "name": "Lunokhod",
+      "slug": "lunokhod",
+      "references": [
+        {
+          "slug": "lunokhod-red-gold",
+          "url": "/konstantin-chaykin/lunokhod/lunokhod-red-gold",
+          "text": "Lunokhod Red Gold Moon Phase"
+        },
+        {
+          "slug": "lunokhod-steel",
+          "url": "/konstantin-chaykin/lunokhod/lunokhod-steel",
+          "text": "Lunokhod Steel Moon Phase"
+        }
+      ]
+    },
+    {
+      "name": "Genius Temporis",
+      "slug": "genius-temporis",
+      "references": [
+        {
+          "slug": "genius-temporis-steel",
+          "url": "/konstantin-chaykin/genius-temporis/genius-temporis-steel",
+          "text": "Genius Temporis Steel Triple Time"
+        },
+        {
+          "slug": "genius-temporis-red-gold",
+          "url": "/konstantin-chaykin/genius-temporis/genius-temporis-red-gold",
+          "text": "Genius Temporis Red Gold Triple Time"
+        }
+      ]
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery",
+      "references": [
+        {
+          "slug": "mystery-tourbillon",
+          "url": "/konstantin-chaykin/mystery/mystery-tourbillon",
+          "text": "Mystery Tourbillon Red Gold"
+        },
+        {
+          "slug": "mystery-double-axis",
+          "url": "/konstantin-chaykin/mystery/mystery-double-axis",
+          "text": "Mystery Double Axis Tourbillon"
+        },
+        {
+          "slug": "mystery-steel",
+          "url": "/konstantin-chaykin/mystery/mystery-steel",
+          "text": "Mystery Steel Hours Display"
+        }
+      ]
+    }
+  ],
+  "total_references": 13
+}

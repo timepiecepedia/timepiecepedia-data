@@ -1,0 +1,111 @@
+{
+  "brand_slug": "san-martin",
+  "collections": [
+    {
+      "name": "Dive Watches",
+      "slug": "dive-watches",
+      "references": [
+        {
+          "slug": "sn017-g-vintage-diver",
+          "url": "/san-martin/dive-watches/sn017-g-vintage-diver",
+          "text": "SN017-G Vintage Diver Bronze"
+        },
+        {
+          "slug": "sn004-g-vintage-submariner",
+          "url": "/san-martin/dive-watches/sn004-g-vintage-submariner",
+          "text": "SN004-G Vintage Submariner Homage"
+        },
+        {
+          "slug": "sn008-g-modern-submariner",
+          "url": "/san-martin/dive-watches/sn008-g-modern-submariner",
+          "text": "SN008-G Modern Submariner Homage"
+        },
+        {
+          "slug": "sn020-g-turtle-diver",
+          "url": "/san-martin/dive-watches/sn020-g-turtle-diver",
+          "text": "SN020-G Turtle Diver"
+        }
+      ]
+    },
+    {
+      "name": "Pilot Watches",
+      "slug": "pilot-watches",
+      "references": [
+        {
+          "slug": "sn038-g-flieger-type-a",
+          "url": "/san-martin/pilot-watches/sn038-g-flieger-type-a",
+          "text": "SN038-G Flieger Type A"
+        },
+        {
+          "slug": "sn054-g-flieger-type-b",
+          "url": "/san-martin/pilot-watches/sn054-g-flieger-type-b",
+          "text": "SN054-G Flieger Type B"
+        },
+        {
+          "slug": "sn072-g-pilot-chronograph",
+          "url": "/san-martin/pilot-watches/sn072-g-pilot-chronograph",
+          "text": "SN072-G Pilot Chronograph"
+        }
+      ]
+    },
+    {
+      "name": "Dress Watches",
+      "slug": "dress-watches",
+      "references": [
+        {
+          "slug": "sn047-g-bauhaus-dress",
+          "url": "/san-martin/dress-watches/sn047-g-bauhaus-dress",
+          "text": "SN047-G Bauhaus Dress Watch"
+        },
+        {
+          "slug": "sn065-g-tank-dress",
+          "url": "/san-martin/dress-watches/sn065-g-tank-dress",
+          "text": "SN065-G Tank Style Dress Watch"
+        },
+        {
+          "slug": "sn081-g-calatrava-style",
+          "url": "/san-martin/dress-watches/sn081-g-calatrava-style",
+          "text": "SN081-G Calatrava Style Dress Watch"
+        }
+      ]
+    },
+    {
+      "name": "Field Watches",
+      "slug": "field-watches",
+      "references": [
+        {
+          "slug": "sn028-g-military-field",
+          "url": "/san-martin/field-watches/sn028-g-military-field",
+          "text": "SN028-G Military Field Watch"
+        },
+        {
+          "slug": "sn043-g-explorer-homage",
+          "url": "/san-martin/field-watches/sn043-g-explorer-homage",
+          "text": "SN043-G Explorer Homage"
+        }
+      ]
+    },
+    {
+      "name": "GMT Watches",
+      "slug": "gmt-watches",
+      "references": [
+        {
+          "slug": "sn021-g-gmt-pepsi",
+          "url": "/san-martin/gmt-watches/sn021-g-gmt-pepsi",
+          "text": "SN021-G GMT Pepsi Bezel"
+        },
+        {
+          "slug": "sn037-g-gmt-batman",
+          "url": "/san-martin/gmt-watches/sn037-g-gmt-batman",
+          "text": "SN037-G GMT Batman Bezel"
+        },
+        {
+          "slug": "sn059-g-gmt-rootbeer",
+          "url": "/san-martin/gmt-watches/sn059-g-gmt-rootbeer",
+          "text": "SN059-G GMT Root Beer Bezel"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

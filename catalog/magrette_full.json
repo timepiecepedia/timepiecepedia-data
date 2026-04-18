@@ -1,0 +1,367 @@
+{
+  "brand_slug": "magrette",
+  "collections": [
+    {
+      "name": "Moana Pacific Professional",
+      "slug": "moana-pacific-professional",
+      "references": [
+        {
+          "slug": "moana-pacific-professional-mpph",
+          "url": "/magrette/moana-pacific-professional/moana-pacific-professional-mpph",
+          "title": "Moana Pacific Professional MPPH Stainless Steel Dive Watch",
+          "specs": {
+            "Brand": "Magrette",
+            "Family": "Moana Pacific Professional",
+            "Reference": "MPPH",
+            "Name": "Moana Pacific Professional",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "43mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "moana-pacific-professional-bronze",
+          "url": "/magrette/moana-pacific-professional/moana-pacific-professional-bronze",
+          "title": "Moana Pacific Professional Bronze Dive Watch",
+          "specs": {
+            "Brand": "Magrette",
+            "Family": "Moana Pacific Professional",
+            "Reference": "N/A",
+            "Name": "Moana Pacific Professional Bronze",
+            "Movement": "Automatic",
+            "Materials": "Bronze",
+            "Diameter": "43mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "moana-pacific-professional-blue",
+          "url": "/magrette/moana-pacific-professional/moana-pacific-professional-blue",
+          "title": "Moana Pacific Professional Blue Dial",
+          "specs": {
+            "Brand": "Magrette",
+            "Family": "Moana Pacific Professional",
+            "Reference": "N/A",
+            "Name": "Blue Dial",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "43mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leoncino",
+      "slug": "leoncino",
+      "references": [
+        {
+          "slug": "leoncino-black",
+          "url": "/magrette/leoncino/leoncino-black",
+          "title": "Leoncino Black Dial Cushion Case",
+          "specs": {
+            "Brand": "Magrette",
+            "Family": "Leoncino",
+            "Reference": "N/A",
+            "Name": "Black Dial",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "leoncino-bronze",
+          "url": "/magrette/leoncino/leoncino-bronze",
+          "title": "Leoncino Bronze Cushion Case",
+          "specs": {
+            "Brand": "Magrette",
+            "Family": "Leoncino",
+            "Reference": "N/A",
+            "Name": "Bronze",
+            "Movement": "Automatic",
+            "Materials": "Bronze",
+            "Diameter": "42mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "leoncino-blue",
+          "url": "/magrette/leoncino/leoncino-blue",
+          "title": "Leoncino Blue Dial Cushion Case",
+          "specs": {
+            "Brand": "Magrette",
+            "Family": "Leoncino",
+            "Reference": "N/A",
+            "Name": "Blue Dial",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Regattare",
+      "slug": "regattare",
+      "references": [
+        {
+          "slug": "regattare-tachymeter",
+          "url": "/magrette/regattare/regattare-tachymeter",
+          "title": "Regattare Tachymeter Chronograph",
+          "specs": {
+            "Brand": "Magrette",
+            "Family": "Regattare",
+            "Reference": "N/A",
+            "Name": "Tachymeter",
+            "Movement": "Automatic Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "regattare-blue-dial",
+          "url": "/magrette/regattare/regattare-blue-dial",
+          "title": "Regattare Blue Dial Chronograph",
+          "specs": {
+            "Brand": "Magrette",
+            "Family": "Regattare",
+            "Reference": "N/A",
+            "Name": "Blue Dial",
+            "Movement": "Automatic Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "regattare-black-dial",
+          "url": "/magrette/regattare/regattare-black-dial",
+          "title": "Regattare Black Dial Chronograph",
+          "specs": {
+            "Brand": "Magrette",
+            "Family": "Regattare",
+            "Reference": "N/A",
+            "Name": "Black Dial",
+            "Movement": "Automatic Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kara",
+      "slug": "kara",
+      "references": [
+        {
+          "slug": "kara-field-watch",
+          "url": "/magrette/kara/kara-field-watch",
+          "title": "Kara Field Watch Automatic",
+          "specs": {
+            "Brand": "Magrette",
+            "Family": "Kara",
+            "Reference": "N/A",
+            "Name": "Field Watch",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "kara-green-dial",
+          "url": "/magrette/kara/kara-green-dial",
+          "title": "Kara Green Dial Field Watch",
+          "specs": {
+            "Brand": "Magrette",
+            "Family": "Kara",
+            "Reference": "N/A",
+            "Name": "Green Dial",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "kara-black-dial",
+          "url": "/magrette/kara/kara-black-dial",
+          "title": "Kara Black Dial Field Watch",
+          "specs": {
+            "Brand": "Magrette",
+            "Family": "Kara",
+            "Reference": "N/A",
+            "Name": "Black Dial",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dual Time",
+      "slug": "dual-time",
+      "references": [
+        {
+          "slug": "dual-time-gmt",
+          "url": "/magrette/dual-time/dual-time-gmt",
+          "title": "Dual Time GMT Automatic",
+          "specs": {
+            "Brand": "Magrette",
+            "Family": "Dual Time",
+            "Reference": "N/A",
+            "Name": "GMT",
+            "Movement": "Automatic GMT",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "dual-time-pepsi",
+          "url": "/magrette/dual-time/dual-time-pepsi",
+          "title": "Dual Time Pepsi Bezel GMT",
+          "specs": {
+            "Brand": "Magrette",
+            "Family": "Dual Time",
+            "Reference": "N/A",
+            "Name": "Pepsi Bezel",
+            "Movement": "Automatic GMT",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "dual-time-black",
+          "url": "/magrette/dual-time/dual-time-black",
+          "title": "Dual Time Black Bezel GMT",
+          "specs": {
+            "Brand": "Magrette",
+            "Family": "Dual Time",
+            "Reference": "N/A",
+            "Name": "Black Bezel",
+            "Movement": "Automatic GMT",
+            "Materials": "Stainless Steel",
+            "Diameter": "N/A",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 15,
+  "enriched_at": "2026-04-18T17:14:32.931Z"
+}

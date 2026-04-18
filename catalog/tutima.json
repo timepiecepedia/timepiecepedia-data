@@ -1,0 +1,106 @@
+{
+  "brand_slug": "tutima",
+  "collections": [
+    {
+      "name": "Military",
+      "slug": "military",
+      "references": [
+        {
+          "slug": "military-chronograph-steel",
+          "url": "/tutima/military/military-chronograph-steel",
+          "text": "Military Chronograph Steel"
+        },
+        {
+          "slug": "nato-chronograph",
+          "url": "/tutima/military/nato-chronograph",
+          "text": "NATO Chronograph"
+        },
+        {
+          "slug": "fliegerchronograph",
+          "url": "/tutima/military/fliegerchronograph",
+          "text": "Fliegerchronograph Classic"
+        }
+      ]
+    },
+    {
+      "name": "M2",
+      "slug": "m2",
+      "references": [
+        {
+          "slug": "m2-chronograph-steel",
+          "url": "/tutima/m2/m2-chronograph-steel",
+          "text": "M2 Chronograph Steel"
+        },
+        {
+          "slug": "m2-seven-seas",
+          "url": "/tutima/m2/m2-seven-seas",
+          "text": "M2 Seven Seas"
+        },
+        {
+          "slug": "m2-coastline",
+          "url": "/tutima/m2/m2-coastline",
+          "text": "M2 Coastline Chronograph"
+        }
+      ]
+    },
+    {
+      "name": "Grand Flieger",
+      "slug": "grand-flieger",
+      "references": [
+        {
+          "slug": "grand-flieger-chronograph",
+          "url": "/tutima/grand-flieger/grand-flieger-chronograph",
+          "text": "Grand Flieger Chronograph"
+        },
+        {
+          "slug": "grand-flieger-airport",
+          "url": "/tutima/grand-flieger/grand-flieger-airport",
+          "text": "Grand Flieger Airport GMT"
+        },
+        {
+          "slug": "grand-flieger-classic",
+          "url": "/tutima/grand-flieger/grand-flieger-classic",
+          "text": "Grand Flieger Classic"
+        },
+        {
+          "slug": "grand-flieger-annual-calendar",
+          "url": "/tutima/grand-flieger/grand-flieger-annual-calendar",
+          "text": "Grand Flieger Annual Calendar"
+        }
+      ]
+    },
+    {
+      "name": "Saxon One",
+      "slug": "saxon-one",
+      "references": [
+        {
+          "slug": "saxon-one-chronograph",
+          "url": "/tutima/saxon-one/saxon-one-chronograph",
+          "text": "Saxon One Chronograph Steel"
+        },
+        {
+          "slug": "saxon-one-gold",
+          "url": "/tutima/saxon-one/saxon-one-gold",
+          "text": "Saxon One Chronograph Rose Gold"
+        }
+      ]
+    },
+    {
+      "name": "Tempostopp",
+      "slug": "tempostopp",
+      "references": [
+        {
+          "slug": "tempostopp-chronograph",
+          "url": "/tutima/tempostopp/tempostopp-chronograph",
+          "text": "Tempostopp Chronograph"
+        },
+        {
+          "slug": "classic-power-reserve",
+          "url": "/tutima/tempostopp/classic-power-reserve",
+          "text": "Classic Power Reserve"
+        }
+      ]
+    }
+  ],
+  "total_references": 14
+}

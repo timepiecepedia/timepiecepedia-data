@@ -1,0 +1,111 @@
+{
+  "brand_slug": "lorier",
+  "collections": [
+    {
+      "name": "Neptune",
+      "slug": "neptune",
+      "references": [
+        {
+          "slug": "neptune-series-3-black",
+          "url": "/lorier/neptune/neptune-series-3-black",
+          "text": "Neptune Series 3 Black"
+        },
+        {
+          "slug": "neptune-series-3-navy",
+          "url": "/lorier/neptune/neptune-series-3-navy",
+          "text": "Neptune Series 3 Navy"
+        },
+        {
+          "slug": "neptune-series-3-gilt",
+          "url": "/lorier/neptune/neptune-series-3-gilt",
+          "text": "Neptune Series 3 Gilt"
+        }
+      ]
+    },
+    {
+      "name": "Falcon",
+      "slug": "falcon",
+      "references": [
+        {
+          "slug": "falcon-series-2-black",
+          "url": "/lorier/falcon/falcon-series-2-black",
+          "text": "Falcon Series 2 Black"
+        },
+        {
+          "slug": "falcon-series-2-cream",
+          "url": "/lorier/falcon/falcon-series-2-cream",
+          "text": "Falcon Series 2 Cream"
+        },
+        {
+          "slug": "falcon-series-2-navy",
+          "url": "/lorier/falcon/falcon-series-2-navy",
+          "text": "Falcon Series 2 Navy"
+        }
+      ]
+    },
+    {
+      "name": "Gemini",
+      "slug": "gemini",
+      "references": [
+        {
+          "slug": "gemini-white",
+          "url": "/lorier/gemini/gemini-white",
+          "text": "Gemini White"
+        },
+        {
+          "slug": "gemini-black",
+          "url": "/lorier/gemini/gemini-black",
+          "text": "Gemini Black"
+        },
+        {
+          "slug": "gemini-navy",
+          "url": "/lorier/gemini/gemini-navy",
+          "text": "Gemini Navy"
+        }
+      ]
+    },
+    {
+      "name": "Hydra",
+      "slug": "hydra",
+      "references": [
+        {
+          "slug": "hydra-series-2-black",
+          "url": "/lorier/hydra/hydra-series-2-black",
+          "text": "Hydra Series 2 Black"
+        },
+        {
+          "slug": "hydra-series-2-navy",
+          "url": "/lorier/hydra/hydra-series-2-navy",
+          "text": "Hydra Series 2 Navy"
+        },
+        {
+          "slug": "hydra-series-2-gilt",
+          "url": "/lorier/hydra/hydra-series-2-gilt",
+          "text": "Hydra Series 2 Gilt"
+        }
+      ]
+    },
+    {
+      "name": "Safari",
+      "slug": "safari",
+      "references": [
+        {
+          "slug": "safari-sand",
+          "url": "/lorier/safari/safari-sand",
+          "text": "Safari Sand"
+        },
+        {
+          "slug": "safari-black",
+          "url": "/lorier/safari/safari-black",
+          "text": "Safari Black"
+        },
+        {
+          "slug": "safari-navy",
+          "url": "/lorier/safari/safari-navy",
+          "text": "Safari Navy"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

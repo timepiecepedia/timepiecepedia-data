@@ -1,0 +1,367 @@
+{
+  "brand_slug": "monta",
+  "collections": [
+    {
+      "name": "Atlas",
+      "slug": "atlas",
+      "references": [
+        {
+          "slug": "atlas-steel",
+          "url": "/monta/atlas/atlas-steel",
+          "title": "Atlas Steel GMT",
+          "specs": {
+            "Brand": "Monta",
+            "Family": "Atlas",
+            "Reference": "N/A",
+            "Name": "Atlas",
+            "Movement": "Sellita SW330-2",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "150m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "atlas-gilt",
+          "url": "/monta/atlas/atlas-gilt",
+          "title": "Atlas Gilt GMT",
+          "specs": {
+            "Brand": "Monta",
+            "Family": "Atlas",
+            "Reference": "N/A",
+            "Name": "Atlas Gilt",
+            "Movement": "Sellita SW330-2",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "150m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "atlas-pepsi",
+          "url": "/monta/atlas/atlas-pepsi",
+          "title": "Atlas Pepsi GMT",
+          "specs": {
+            "Brand": "Monta",
+            "Family": "Atlas",
+            "Reference": "N/A",
+            "Name": "Atlas Pepsi",
+            "Movement": "Sellita SW330-2",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "150m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oceanking",
+      "slug": "oceanking",
+      "references": [
+        {
+          "slug": "oceanking-black",
+          "url": "/monta/oceanking/oceanking-black",
+          "title": "Oceanking Black Dive Watch",
+          "specs": {
+            "Brand": "Monta",
+            "Family": "Oceanking",
+            "Reference": "N/A",
+            "Name": "Oceanking",
+            "Movement": "Sellita SW200-1",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "oceanking-blue",
+          "url": "/monta/oceanking/oceanking-blue",
+          "title": "Oceanking Blue Dive Watch",
+          "specs": {
+            "Brand": "Monta",
+            "Family": "Oceanking",
+            "Reference": "N/A",
+            "Name": "Oceanking Blue",
+            "Movement": "Sellita SW200-1",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "oceanking-gilt",
+          "url": "/monta/oceanking/oceanking-gilt",
+          "title": "Oceanking Gilt Dive Watch",
+          "specs": {
+            "Brand": "Monta",
+            "Family": "Oceanking",
+            "Reference": "N/A",
+            "Name": "Oceanking Gilt",
+            "Movement": "Sellita SW200-1",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Triumph",
+      "slug": "triumph",
+      "references": [
+        {
+          "slug": "triumph-black",
+          "url": "/monta/triumph/triumph-black",
+          "title": "Triumph Black Sports Watch",
+          "specs": {
+            "Brand": "Monta",
+            "Family": "Triumph",
+            "Reference": "N/A",
+            "Name": "Triumph",
+            "Movement": "Sellita SW200-1",
+            "Materials": "Stainless Steel",
+            "Diameter": "38.5mm",
+            "W/R": "150m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "triumph-white",
+          "url": "/monta/triumph/triumph-white",
+          "title": "Triumph White Sports Watch",
+          "specs": {
+            "Brand": "Monta",
+            "Family": "Triumph",
+            "Reference": "N/A",
+            "Name": "Triumph White",
+            "Movement": "Sellita SW200-1",
+            "Materials": "Stainless Steel",
+            "Diameter": "38.5mm",
+            "W/R": "150m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "triumph-blue",
+          "url": "/monta/triumph/triumph-blue",
+          "title": "Triumph Blue Sports Watch",
+          "specs": {
+            "Brand": "Monta",
+            "Family": "Triumph",
+            "Reference": "N/A",
+            "Name": "Triumph Blue",
+            "Movement": "Sellita SW200-1",
+            "Materials": "Stainless Steel",
+            "Diameter": "38.5mm",
+            "W/R": "150m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skyquest",
+      "slug": "skyquest",
+      "references": [
+        {
+          "slug": "skyquest-black",
+          "url": "/monta/skyquest/skyquest-black",
+          "title": "Skyquest Black Pilot Watch",
+          "specs": {
+            "Brand": "Monta",
+            "Family": "Skyquest",
+            "Reference": "N/A",
+            "Name": "Skyquest",
+            "Movement": "Sellita SW330-2",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "150m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "skyquest-white",
+          "url": "/monta/skyquest/skyquest-white",
+          "title": "Skyquest White Pilot Watch",
+          "specs": {
+            "Brand": "Monta",
+            "Family": "Skyquest",
+            "Reference": "N/A",
+            "Name": "Skyquest White",
+            "Movement": "Sellita SW330-2",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "150m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "skyquest-blue",
+          "url": "/monta/skyquest/skyquest-blue",
+          "title": "Skyquest Blue Pilot Watch",
+          "specs": {
+            "Brand": "Monta",
+            "Family": "Skyquest",
+            "Reference": "N/A",
+            "Name": "Skyquest Blue",
+            "Movement": "Sellita SW330-2",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "150m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noble",
+      "slug": "noble",
+      "references": [
+        {
+          "slug": "noble-black",
+          "url": "/monta/noble/noble-black",
+          "title": "Noble Black Dress Watch",
+          "specs": {
+            "Brand": "Monta",
+            "Family": "Noble",
+            "Reference": "N/A",
+            "Name": "Noble",
+            "Movement": "Sellita SW200-1",
+            "Materials": "Stainless Steel",
+            "Diameter": "38.5mm",
+            "W/R": "150m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "noble-white",
+          "url": "/monta/noble/noble-white",
+          "title": "Noble White Dress Watch",
+          "specs": {
+            "Brand": "Monta",
+            "Family": "Noble",
+            "Reference": "N/A",
+            "Name": "Noble White",
+            "Movement": "Sellita SW200-1",
+            "Materials": "Stainless Steel",
+            "Diameter": "38.5mm",
+            "W/R": "150m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "noble-blue",
+          "url": "/monta/noble/noble-blue",
+          "title": "Noble Blue Dress Watch",
+          "specs": {
+            "Brand": "Monta",
+            "Family": "Noble",
+            "Reference": "N/A",
+            "Name": "Noble Blue",
+            "Movement": "Sellita SW200-1",
+            "Materials": "Stainless Steel",
+            "Diameter": "38.5mm",
+            "W/R": "150m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 15,
+  "enriched_at": "2026-04-18T17:15:44.324Z"
+}

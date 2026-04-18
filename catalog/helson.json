@@ -1,0 +1,111 @@
+{
+  "brand_slug": "helson",
+  "collections": [
+    {
+      "name": "Shark Diver",
+      "slug": "shark-diver",
+      "references": [
+        {
+          "slug": "shark-diver-40-black",
+          "url": "/helson/shark-diver/shark-diver-40-black",
+          "text": "Shark Diver 40 Black Steel"
+        },
+        {
+          "slug": "shark-diver-42-blue",
+          "url": "/helson/shark-diver/shark-diver-42-blue",
+          "text": "Shark Diver 42 Blue Steel"
+        },
+        {
+          "slug": "shark-diver-45-bronze",
+          "url": "/helson/shark-diver/shark-diver-45-bronze",
+          "text": "Shark Diver 45 Bronze"
+        }
+      ]
+    },
+    {
+      "name": "Skindiver",
+      "slug": "skindiver",
+      "references": [
+        {
+          "slug": "skindiver-heritage-black",
+          "url": "/helson/skindiver/skindiver-heritage-black",
+          "text": "Skindiver Heritage Black Steel"
+        },
+        {
+          "slug": "skindiver-tropical",
+          "url": "/helson/skindiver/skindiver-tropical",
+          "text": "Skindiver Tropical Dial Steel"
+        },
+        {
+          "slug": "skindiver-bronze",
+          "url": "/helson/skindiver/skindiver-bronze",
+          "text": "Skindiver Bronze"
+        }
+      ]
+    },
+    {
+      "name": "Gauge",
+      "slug": "gauge",
+      "references": [
+        {
+          "slug": "gauge-diver-steel",
+          "url": "/helson/gauge/gauge-diver-steel",
+          "text": "Gauge Diver Steel"
+        },
+        {
+          "slug": "gauge-diver-black-dlc",
+          "url": "/helson/gauge/gauge-diver-black-dlc",
+          "text": "Gauge Diver Black DLC"
+        },
+        {
+          "slug": "gauge-diver-titanium",
+          "url": "/helson/gauge/gauge-diver-titanium",
+          "text": "Gauge Diver Titanium"
+        }
+      ]
+    },
+    {
+      "name": "Buccaneer",
+      "slug": "buccaneer",
+      "references": [
+        {
+          "slug": "buccaneer-gmt-blue",
+          "url": "/helson/buccaneer/buccaneer-gmt-blue",
+          "text": "Buccaneer GMT Blue Steel"
+        },
+        {
+          "slug": "buccaneer-gmt-black",
+          "url": "/helson/buccaneer/buccaneer-gmt-black",
+          "text": "Buccaneer GMT Black Steel"
+        },
+        {
+          "slug": "buccaneer-gmt-bronze",
+          "url": "/helson/buccaneer/buccaneer-gmt-bronze",
+          "text": "Buccaneer GMT Bronze"
+        }
+      ]
+    },
+    {
+      "name": "Spear Diver",
+      "slug": "spear-diver",
+      "references": [
+        {
+          "slug": "spear-diver-40-black",
+          "url": "/helson/spear-diver/spear-diver-40-black",
+          "text": "Spear Diver 40 Black Steel"
+        },
+        {
+          "slug": "spear-diver-40-blue",
+          "url": "/helson/spear-diver/spear-diver-40-blue",
+          "text": "Spear Diver 40 Blue Steel"
+        },
+        {
+          "slug": "spear-diver-40-green",
+          "url": "/helson/spear-diver/spear-diver-40-green",
+          "text": "Spear Diver 40 Green Steel"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

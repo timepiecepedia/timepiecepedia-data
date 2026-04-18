@@ -1,0 +1,106 @@
+{
+  "brand_slug": "hmt",
+  "collections": [
+    {
+      "name": "Pilot",
+      "slug": "pilot",
+      "references": [
+        {
+          "slug": "pilot-handwound",
+          "url": "/hmt/pilot/pilot-handwound",
+          "text": "Pilot Handwound"
+        },
+        {
+          "slug": "pilot-automatic",
+          "url": "/hmt/pilot/pilot-automatic",
+          "text": "Pilot Automatic"
+        },
+        {
+          "slug": "pilot-black-dial",
+          "url": "/hmt/pilot/pilot-black-dial",
+          "text": "Pilot Black Dial"
+        }
+      ]
+    },
+    {
+      "name": "Janata",
+      "slug": "janata",
+      "references": [
+        {
+          "slug": "janata-white-dial",
+          "url": "/hmt/janata/janata-white-dial",
+          "text": "Janata White Dial"
+        },
+        {
+          "slug": "janata-deluxe",
+          "url": "/hmt/janata/janata-deluxe",
+          "text": "Janata Deluxe"
+        },
+        {
+          "slug": "janata-roman",
+          "url": "/hmt/janata/janata-roman",
+          "text": "Janata Roman Numerals"
+        }
+      ]
+    },
+    {
+      "name": "Sona",
+      "slug": "sona",
+      "references": [
+        {
+          "slug": "sona-gold-tone",
+          "url": "/hmt/sona/sona-gold-tone",
+          "text": "Sona Gold Tone"
+        },
+        {
+          "slug": "sona-automatic",
+          "url": "/hmt/sona/sona-automatic",
+          "text": "Sona Automatic"
+        },
+        {
+          "slug": "sona-regal",
+          "url": "/hmt/sona/sona-regal",
+          "text": "Sona Regal"
+        }
+      ]
+    },
+    {
+      "name": "Kohinoor",
+      "slug": "kohinoor",
+      "references": [
+        {
+          "slug": "kohinoor-automatic",
+          "url": "/hmt/kohinoor/kohinoor-automatic",
+          "text": "Kohinoor Automatic"
+        },
+        {
+          "slug": "kohinoor-deluxe",
+          "url": "/hmt/kohinoor/kohinoor-deluxe",
+          "text": "Kohinoor Deluxe"
+        }
+      ]
+    },
+    {
+      "name": "Rajat",
+      "slug": "rajat",
+      "references": [
+        {
+          "slug": "rajat-handwound",
+          "url": "/hmt/rajat/rajat-handwound",
+          "text": "Rajat Handwound"
+        },
+        {
+          "slug": "rajat-automatic",
+          "url": "/hmt/rajat/rajat-automatic",
+          "text": "Rajat Automatic"
+        },
+        {
+          "slug": "rajat-white-dial",
+          "url": "/hmt/rajat/rajat-white-dial",
+          "text": "Rajat White Dial"
+        }
+      ]
+    }
+  ],
+  "total_references": 14
+}

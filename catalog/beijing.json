@@ -1,0 +1,111 @@
+{
+  "brand_slug": "beijing",
+  "collections": [
+    {
+      "name": "Tourbillon",
+      "slug": "tourbillon",
+      "references": [
+        {
+          "slug": "single-axis-tourbillon-rose-gold",
+          "url": "/beijing/tourbillon/single-axis-tourbillon-rose-gold",
+          "text": "Single Axis Tourbillon Rose Gold"
+        },
+        {
+          "slug": "double-axis-tourbillon",
+          "url": "/beijing/tourbillon/double-axis-tourbillon",
+          "text": "Double Axis Tourbillon Steel"
+        },
+        {
+          "slug": "skeleton-tourbillon",
+          "url": "/beijing/tourbillon/skeleton-tourbillon",
+          "text": "Skeleton Tourbillon White Gold"
+        }
+      ]
+    },
+    {
+      "name": "Heritage",
+      "slug": "heritage",
+      "references": [
+        {
+          "slug": "heritage-automatic-steel",
+          "url": "/beijing/heritage/heritage-automatic-steel",
+          "text": "Heritage Automatic Stainless Steel"
+        },
+        {
+          "slug": "heritage-manual-rose-gold",
+          "url": "/beijing/heritage/heritage-manual-rose-gold",
+          "text": "Heritage Manual Wind Rose Gold"
+        },
+        {
+          "slug": "heritage-moon-phase",
+          "url": "/beijing/heritage/heritage-moon-phase",
+          "text": "Heritage Moon Phase Steel"
+        }
+      ]
+    },
+    {
+      "name": "Enamel",
+      "slug": "enamel",
+      "references": [
+        {
+          "slug": "cloisonne-dragon-phoenix",
+          "url": "/beijing/enamel/cloisonne-dragon-phoenix",
+          "text": "Cloisonné Dragon Phoenix Rose Gold"
+        },
+        {
+          "slug": "cloisonne-forbidden-city",
+          "url": "/beijing/enamel/cloisonne-forbidden-city",
+          "text": "Cloisonné Forbidden City Yellow Gold"
+        },
+        {
+          "slug": "cloisonne-great-wall",
+          "url": "/beijing/enamel/cloisonne-great-wall",
+          "text": "Cloisonné Great Wall White Gold"
+        }
+      ]
+    },
+    {
+      "name": "Sport",
+      "slug": "sport",
+      "references": [
+        {
+          "slug": "sport-diver-steel",
+          "url": "/beijing/sport/sport-diver-steel",
+          "text": "Sport Diver Stainless Steel"
+        },
+        {
+          "slug": "sport-chronograph-steel",
+          "url": "/beijing/sport/sport-chronograph-steel",
+          "text": "Sport Chronograph Stainless Steel"
+        },
+        {
+          "slug": "sport-gmt-steel",
+          "url": "/beijing/sport/sport-gmt-steel",
+          "text": "Sport GMT Stainless Steel"
+        }
+      ]
+    },
+    {
+      "name": "Complications",
+      "slug": "complications",
+      "references": [
+        {
+          "slug": "perpetual-calendar-rose-gold",
+          "url": "/beijing/complications/perpetual-calendar-rose-gold",
+          "text": "Perpetual Calendar Rose Gold"
+        },
+        {
+          "slug": "minute-repeater-platinum",
+          "url": "/beijing/complications/minute-repeater-platinum",
+          "text": "Minute Repeater Platinum"
+        },
+        {
+          "slug": "annual-calendar-steel",
+          "url": "/beijing/complications/annual-calendar-steel",
+          "text": "Annual Calendar Stainless Steel"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

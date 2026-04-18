@@ -1,0 +1,345 @@
+{
+  "brand_slug": "romain-jerome",
+  "collections": [
+    {
+      "name": "Titanic-DNA",
+      "slug": "titanic-dna",
+      "references": [
+        {
+          "slug": "titanic-dna-steampunk-auto",
+          "url": "/romain-jerome/titanic-dna/titanic-dna-steampunk-auto",
+          "title": "Titanic-DNA Steampunk Auto Steel",
+          "specs": {
+            "Brand": "Romain Jerome",
+            "Family": "Titanic-DNA",
+            "Reference": "RJ.T.AU.SP.001.01",
+            "Name": "Steampunk Auto",
+            "Movement": "Automatic",
+            "Materials": "Steel with Titanic steel",
+            "Diameter": "50mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "titanic-dna-day-night",
+          "url": "/romain-jerome/titanic-dna/titanic-dna-day-night",
+          "title": "Titanic-DNA Day & Night Steel",
+          "specs": {
+            "Brand": "Romain Jerome",
+            "Family": "Titanic-DNA",
+            "Reference": "T-OXY III",
+            "Name": "Day & Night",
+            "Movement": "Automatic",
+            "Materials": "Steel with Titanic steel",
+            "Diameter": "50mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Day/Night indicator"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "titanic-dna-tourbillon",
+          "url": "/romain-jerome/titanic-dna/titanic-dna-tourbillon",
+          "title": "Titanic-DNA Tourbillon Steel",
+          "specs": {
+            "Brand": "Romain Jerome",
+            "Family": "Titanic-DNA",
+            "Reference": "RJ.T.TO.SP.001.01",
+            "Name": "Tourbillon",
+            "Movement": "Manual tourbillon",
+            "Materials": "Steel with Titanic steel",
+            "Diameter": "50mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Tourbillon"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Moon-DNA",
+      "slug": "moon-dna",
+      "references": [
+        {
+          "slug": "moon-dna-mood",
+          "url": "/romain-jerome/moon-dna/moon-dna-mood",
+          "title": "Moon-DNA Mood PVD Steel",
+          "specs": {
+            "Brand": "Romain Jerome",
+            "Family": "Moon-DNA",
+            "Reference": "RJ.M.AU.IN.006.01",
+            "Name": "Mood",
+            "Movement": "Automatic",
+            "Materials": "PVD-coated steel with Moon dust",
+            "Diameter": "46mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Moon phase"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "moon-dna-red-mood",
+          "url": "/romain-jerome/moon-dna/moon-dna-red-mood",
+          "title": "Moon-DNA Red Mood PVD Steel",
+          "specs": {
+            "Brand": "Romain Jerome",
+            "Family": "Moon-DNA",
+            "Reference": "RJ.M.AU.IN.009.03",
+            "Name": "Red Mood",
+            "Movement": "Automatic",
+            "Materials": "PVD-coated steel with Moon dust",
+            "Diameter": "46mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Moon phase"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "moon-orbiter-gmt",
+          "url": "/romain-jerome/moon-dna/moon-orbiter-gmt",
+          "title": "Moon Orbiter GMT Steel",
+          "specs": {
+            "Brand": "Romain Jerome",
+            "Family": "Moon-DNA",
+            "Reference": "RJ.M.AU.030.01",
+            "Name": "Moon Orbiter GMT",
+            "Movement": "Automatic",
+            "Materials": "Steel with Moon dust",
+            "Diameter": "42mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Space Invaders",
+      "slug": "space-invaders",
+      "references": [
+        {
+          "slug": "space-invaders-steel",
+          "url": "/romain-jerome/space-invaders/space-invaders-steel",
+          "title": "Space Invaders Steel Automatic",
+          "specs": {
+            "Brand": "Romain Jerome",
+            "Family": "Space Invaders",
+            "Reference": "RJ.M.AU.IN.006.02",
+            "Name": "Space Invaders",
+            "Movement": "Automatic",
+            "Materials": "Steel",
+            "Diameter": "46mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Pixelated animation"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "space-invaders-blue",
+          "url": "/romain-jerome/space-invaders/space-invaders-blue",
+          "title": "Space Invaders Blue Edition Steel",
+          "specs": {
+            "Brand": "Romain Jerome",
+            "Family": "Space Invaders",
+            "Reference": "RJ.M.AU.IN.015.03",
+            "Name": "Space Invaders Blue",
+            "Movement": "Automatic",
+            "Materials": "Steel",
+            "Diameter": "46mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Pixelated animation"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "space-invaders-red",
+          "url": "/romain-jerome/space-invaders/space-invaders-red",
+          "title": "Space Invaders Red Edition Steel",
+          "specs": {
+            "Brand": "Romain Jerome",
+            "Family": "Space Invaders",
+            "Reference": "RJ.M.AU.IN.015.02",
+            "Name": "Space Invaders Red",
+            "Movement": "Automatic",
+            "Materials": "Steel",
+            "Diameter": "46mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Pixelated animation"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pac-Man",
+      "slug": "pac-man",
+      "references": [
+        {
+          "slug": "pac-man-level-ii",
+          "url": "/romain-jerome/pac-man/pac-man-level-ii",
+          "title": "Pac-Man Level II Steel Automatic",
+          "specs": {
+            "Brand": "Romain Jerome",
+            "Family": "Pac-Man",
+            "Reference": "RJ.M.AU.IN.009.05",
+            "Name": "Pac-Man Level II",
+            "Movement": "Automatic",
+            "Materials": "Steel",
+            "Diameter": "46mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Animated Pac-Man game"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "pac-man-level-iii",
+          "url": "/romain-jerome/pac-man/pac-man-level-iii",
+          "title": "Pac-Man Level III PVD Steel",
+          "specs": {
+            "Brand": "Romain Jerome",
+            "Family": "Pac-Man",
+            "Reference": "RJ.M.AU.IN.021.01",
+            "Name": "Pac-Man Level III",
+            "Movement": "Automatic",
+            "Materials": "PVD-coated steel",
+            "Diameter": "46mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Animated Pac-Man game"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Collaborations & Special Editions",
+      "slug": "collaborations",
+      "references": [
+        {
+          "slug": "delorean-dna",
+          "url": "/romain-jerome/collaborations/delorean-dna",
+          "title": "DeLorean-DNA Steel Automatic",
+          "specs": {
+            "Brand": "Romain Jerome",
+            "Family": "Collaborations",
+            "Reference": "RJ.M.AU.030.17",
+            "Name": "DeLorean-DNA",
+            "Movement": "Automatic",
+            "Materials": "Steel with DeLorean DMC-12 steel",
+            "Diameter": "46mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "tetris-dna",
+          "url": "/romain-jerome/collaborations/tetris-dna",
+          "title": "Tetris-DNA Steel Automatic",
+          "specs": {
+            "Brand": "Romain Jerome",
+            "Family": "Collaborations",
+            "Reference": "RJ.M.AU.IN.019.01",
+            "Name": "Tetris-DNA",
+            "Movement": "Automatic",
+            "Materials": "Steel",
+            "Diameter": "46mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Animated Tetris blocks"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "batman-dna",
+          "url": "/romain-jerome/collaborations/batman-dna",
+          "title": "Batman-DNA Black PVD Steel",
+          "specs": {
+            "Brand": "Romain Jerome",
+            "Family": "Collaborations",
+            "Reference": "RJ.M.AU.030.07",
+            "Name": "Batman-DNA",
+            "Movement": "Automatic",
+            "Materials": "Black PVD steel",
+            "Diameter": "46mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 14,
+  "enriched_at": "2026-04-18T17:18:07.081Z"
+}

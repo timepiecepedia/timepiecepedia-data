@@ -1,0 +1,111 @@
+{
+  "brand_slug": "habring2",
+  "collections": [
+    {
+      "name": "Jumping Second",
+      "slug": "jumping-second",
+      "references": [
+        {
+          "slug": "erwin-jumping-seconds-steel",
+          "url": "/habring2/jumping-second/erwin-jumping-seconds-steel",
+          "text": "Erwin Jumping Seconds Steel"
+        },
+        {
+          "slug": "felix-jumping-seconds-steel",
+          "url": "/habring2/jumping-second/felix-jumping-seconds-steel",
+          "text": "Felix Jumping Seconds Steel"
+        },
+        {
+          "slug": "erwin-scientific-dial",
+          "url": "/habring2/jumping-second/erwin-scientific-dial",
+          "text": "Erwin Scientific Dial Jumping Seconds"
+        }
+      ]
+    },
+    {
+      "name": "Rattrapante",
+      "slug": "rattrapante",
+      "references": [
+        {
+          "slug": "chrono-cwe-rattrapante",
+          "url": "/habring2/rattrapante/chrono-cwe-rattrapante",
+          "text": "Chrono CWE Rattrapante"
+        },
+        {
+          "slug": "doppel-3-rattrapante",
+          "url": "/habring2/rattrapante/doppel-3-rattrapante",
+          "text": "Doppel 3.0 Rattrapante"
+        },
+        {
+          "slug": "doppel-2-rattrapante",
+          "url": "/habring2/rattrapante/doppel-2-rattrapante",
+          "text": "Doppel 2.0 Rattrapante"
+        }
+      ]
+    },
+    {
+      "name": "Time Only",
+      "slug": "time-only",
+      "references": [
+        {
+          "slug": "felix-time-only-steel",
+          "url": "/habring2/time-only/felix-time-only-steel",
+          "text": "Felix Time Only Steel"
+        },
+        {
+          "slug": "erwin-time-only-steel",
+          "url": "/habring2/time-only/erwin-time-only-steel",
+          "text": "Erwin Time Only Steel"
+        },
+        {
+          "slug": "petra-time-only",
+          "url": "/habring2/time-only/petra-time-only",
+          "text": "Petra Time Only"
+        }
+      ]
+    },
+    {
+      "name": "Chronograph",
+      "slug": "chronograph",
+      "references": [
+        {
+          "slug": "chrono-cwe-monopusher",
+          "url": "/habring2/chronograph/chrono-cwe-monopusher",
+          "text": "Chrono CWE Monopusher"
+        },
+        {
+          "slug": "chrono-cwe-bicompax",
+          "url": "/habring2/chronograph/chrono-cwe-bicompax",
+          "text": "Chrono CWE Bicompax"
+        },
+        {
+          "slug": "perpetual-calendar-chronograph",
+          "url": "/habring2/chronograph/perpetual-calendar-chronograph",
+          "text": "Perpetual Calendar Chronograph"
+        }
+      ]
+    },
+    {
+      "name": "Special Editions",
+      "slug": "special-editions",
+      "references": [
+        {
+          "slug": "massena-lab-jumping-seconds",
+          "url": "/habring2/special-editions/massena-lab-jumping-seconds",
+          "text": "Massena LAB x Habring² Jumping Seconds"
+        },
+        {
+          "slug": "foudroyante-jumping-seconds",
+          "url": "/habring2/special-editions/foudroyante-jumping-seconds",
+          "text": "Foudroyante Jumping Seconds"
+        },
+        {
+          "slug": "central-minute-tourbillon",
+          "url": "/habring2/special-editions/central-minute-tourbillon",
+          "text": "Central Minute Tourbillon"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

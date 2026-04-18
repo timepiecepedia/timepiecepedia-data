@@ -1,0 +1,106 @@
+{
+  "brand_slug": "poljot",
+  "collections": [
+    {
+      "name": "Strela",
+      "slug": "strela",
+      "references": [
+        {
+          "slug": "strela-3017-steel",
+          "url": "/poljot/strela/strela-3017-steel",
+          "text": "Strela 3017 Steel Chronograph"
+        },
+        {
+          "slug": "strela-3133-chronograph",
+          "url": "/poljot/strela/strela-3133-chronograph",
+          "text": "Strela 3133 Chronograph"
+        },
+        {
+          "slug": "strela-cosmonauts-edition",
+          "url": "/poljot/strela/strela-cosmonauts-edition",
+          "text": "Strela Cosmonauts Edition Chronograph"
+        }
+      ]
+    },
+    {
+      "name": "Aviator",
+      "slug": "aviator",
+      "references": [
+        {
+          "slug": "aviator-ii-automatic",
+          "url": "/poljot/aviator/aviator-ii-automatic",
+          "text": "Aviator II Automatic"
+        },
+        {
+          "slug": "aviator-chronograph-3133",
+          "url": "/poljot/aviator/aviator-chronograph-3133",
+          "text": "Aviator Chronograph 3133"
+        },
+        {
+          "slug": "aviator-first-navigator",
+          "url": "/poljot/aviator/aviator-first-navigator",
+          "text": "Aviator First Navigator"
+        }
+      ]
+    },
+    {
+      "name": "Shturmanskie",
+      "slug": "shturmanskie",
+      "references": [
+        {
+          "slug": "shturmanskie-gagarin-heritage",
+          "url": "/poljot/shturmanskie/shturmanskie-gagarin-heritage",
+          "text": "Shturmanskie Gagarin Heritage"
+        },
+        {
+          "slug": "shturmanskie-first-space-watch",
+          "url": "/poljot/shturmanskie/shturmanskie-first-space-watch",
+          "text": "Shturmanskie First Space Watch"
+        },
+        {
+          "slug": "shturmanskie-automatic-2416",
+          "url": "/poljot/shturmanskie/shturmanskie-automatic-2416",
+          "text": "Shturmanskie Automatic 2416"
+        }
+      ]
+    },
+    {
+      "name": "Buran",
+      "slug": "buran",
+      "references": [
+        {
+          "slug": "buran-space-shuttle-chronograph",
+          "url": "/poljot/buran/buran-space-shuttle-chronograph",
+          "text": "Buran Space Shuttle Chronograph"
+        },
+        {
+          "slug": "buran-commemorative-automatic",
+          "url": "/poljot/buran/buran-commemorative-automatic",
+          "text": "Buran Commemorative Automatic"
+        }
+      ]
+    },
+    {
+      "name": "Alarm",
+      "slug": "alarm",
+      "references": [
+        {
+          "slug": "alarm-signal-2612",
+          "url": "/poljot/alarm/alarm-signal-2612",
+          "text": "Alarm Signal 2612"
+        },
+        {
+          "slug": "alarm-classic-steel",
+          "url": "/poljot/alarm/alarm-classic-steel",
+          "text": "Alarm Classic Steel"
+        },
+        {
+          "slug": "alarm-professional-signal",
+          "url": "/poljot/alarm/alarm-professional-signal",
+          "text": "Alarm Professional Signal"
+        }
+      ]
+    }
+  ],
+  "total_references": 14
+}

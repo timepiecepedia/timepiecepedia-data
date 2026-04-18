@@ -1,0 +1,367 @@
+{
+  "brand_slug": "borealis",
+  "collections": [
+    {
+      "name": "Sea Dragon",
+      "slug": "sea-dragon",
+      "references": [
+        {
+          "slug": "sea-dragon-black",
+          "url": "/borealis/sea-dragon/sea-dragon-black",
+          "title": "Sea Dragon Black Stainless Steel Diver",
+          "specs": {
+            "Brand": "Borealis",
+            "Family": "Sea Dragon",
+            "Reference": "N/A",
+            "Name": "Sea Dragon Black",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "44mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "sea-dragon-blue",
+          "url": "/borealis/sea-dragon/sea-dragon-blue",
+          "title": "Sea Dragon Blue Stainless Steel Diver",
+          "specs": {
+            "Brand": "Borealis",
+            "Family": "Sea Dragon",
+            "Reference": "N/A",
+            "Name": "Sea Dragon Blue",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "44mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "sea-dragon-orange",
+          "url": "/borealis/sea-dragon/sea-dragon-orange",
+          "title": "Sea Dragon Orange Stainless Steel Diver",
+          "specs": {
+            "Brand": "Borealis",
+            "Family": "Sea Dragon",
+            "Reference": "N/A",
+            "Name": "Sea Dragon Orange",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "44mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Estoril",
+      "slug": "estoril",
+      "references": [
+        {
+          "slug": "estoril-300-black",
+          "url": "/borealis/estoril/estoril-300-black",
+          "title": "Estoril 300 Black Stainless Steel Diver",
+          "specs": {
+            "Brand": "Borealis",
+            "Family": "Estoril",
+            "Reference": "N/A",
+            "Name": "Estoril 300 Black",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "estoril-300-blue",
+          "url": "/borealis/estoril/estoril-300-blue",
+          "title": "Estoril 300 Blue Stainless Steel Diver",
+          "specs": {
+            "Brand": "Borealis",
+            "Family": "Estoril",
+            "Reference": "N/A",
+            "Name": "Estoril 300 Blue",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "estoril-300-green",
+          "url": "/borealis/estoril/estoril-300-green",
+          "title": "Estoril 300 Green Stainless Steel Diver",
+          "specs": {
+            "Brand": "Borealis",
+            "Family": "Estoril",
+            "Reference": "N/A",
+            "Name": "Estoril 300 Green",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sea Storm",
+      "slug": "sea-storm",
+      "references": [
+        {
+          "slug": "sea-storm-v2-black",
+          "url": "/borealis/sea-storm/sea-storm-v2-black",
+          "title": "Sea Storm V2 Black Stainless Steel Diver",
+          "specs": {
+            "Brand": "Borealis",
+            "Family": "Sea Storm",
+            "Reference": "N/A",
+            "Name": "Sea Storm V2 Black",
+            "Movement": "Seiko NH35",
+            "Materials": "Stainless Steel",
+            "Diameter": "44mm",
+            "W/R": "500m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "sea-storm-v2-blue",
+          "url": "/borealis/sea-storm/sea-storm-v2-blue",
+          "title": "Sea Storm V2 Blue Stainless Steel Diver",
+          "specs": {
+            "Brand": "Borealis",
+            "Family": "Sea Storm",
+            "Reference": "N/A",
+            "Name": "Sea Storm V2 Blue",
+            "Movement": "Seiko NH35",
+            "Materials": "Stainless Steel",
+            "Diameter": "44mm",
+            "W/R": "500m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "sea-storm-v2-orange",
+          "url": "/borealis/sea-storm/sea-storm-v2-orange",
+          "title": "Sea Storm V2 Orange Stainless Steel Diver",
+          "specs": {
+            "Brand": "Borealis",
+            "Family": "Sea Storm",
+            "Reference": "N/A",
+            "Name": "Sea Storm V2 Orange",
+            "Movement": "Seiko NH35",
+            "Materials": "Stainless Steel",
+            "Diameter": "44mm",
+            "W/R": "500m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scout",
+      "slug": "scout",
+      "references": [
+        {
+          "slug": "scout-sniper-black",
+          "url": "/borealis/scout/scout-sniper-black",
+          "title": "Scout Sniper Black Stainless Steel Field Watch",
+          "specs": {
+            "Brand": "Borealis",
+            "Family": "Scout",
+            "Reference": "N/A",
+            "Name": "Scout Sniper Black",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "scout-sniper-green",
+          "url": "/borealis/scout/scout-sniper-green",
+          "title": "Scout Sniper Green Stainless Steel Field Watch",
+          "specs": {
+            "Brand": "Borealis",
+            "Family": "Scout",
+            "Reference": "N/A",
+            "Name": "Scout Sniper Green",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "scout-sniper-sand",
+          "url": "/borealis/scout/scout-sniper-sand",
+          "title": "Scout Sniper Sand Stainless Steel Field Watch",
+          "specs": {
+            "Brand": "Borealis",
+            "Family": "Scout",
+            "Reference": "N/A",
+            "Name": "Scout Sniper Sand",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cascais",
+      "slug": "cascais",
+      "references": [
+        {
+          "slug": "cascais-black",
+          "url": "/borealis/cascais/cascais-black",
+          "title": "Cascais Black Stainless Steel Diver",
+          "specs": {
+            "Brand": "Borealis",
+            "Family": "Cascais",
+            "Reference": "N/A",
+            "Name": "Cascais Black",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "cascais-blue",
+          "url": "/borealis/cascais/cascais-blue",
+          "title": "Cascais Blue Stainless Steel Diver",
+          "specs": {
+            "Brand": "Borealis",
+            "Family": "Cascais",
+            "Reference": "N/A",
+            "Name": "Cascais Blue",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "cascais-teal",
+          "url": "/borealis/cascais/cascais-teal",
+          "title": "Cascais Teal Stainless Steel Diver",
+          "specs": {
+            "Brand": "Borealis",
+            "Family": "Cascais",
+            "Reference": "N/A",
+            "Name": "Cascais Teal",
+            "Movement": "Miyota 9015",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "200m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 15,
+  "enriched_at": "2026-04-18T17:06:21.589Z"
+}

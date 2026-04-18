@@ -1,0 +1,317 @@
+{
+  "brand_slug": "farer",
+  "collections": [
+    {
+      "name": "Automatic",
+      "slug": "automatic",
+      "references": [
+        {
+          "slug": "lander-iv",
+          "url": "/farer/automatic/lander-iv",
+          "title": "Lander IV Automatic",
+          "specs": {
+            "Brand": "Farer",
+            "Family": "Automatic",
+            "Reference": "N/A",
+            "Name": "Lander IV",
+            "Movement": "Swiss automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "37mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "oxley",
+          "url": "/farer/automatic/oxley",
+          "title": "Oxley Automatic",
+          "specs": {
+            "Brand": "Farer",
+            "Family": "Automatic",
+            "Reference": "N/A",
+            "Name": "Oxley",
+            "Movement": "Swiss automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "37mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "mansfield",
+          "url": "/farer/automatic/mansfield",
+          "title": "Mansfield Automatic",
+          "specs": {
+            "Brand": "Farer",
+            "Family": "Automatic",
+            "Reference": "N/A",
+            "Name": "Mansfield",
+            "Movement": "Swiss automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "37mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GMT",
+      "slug": "gmt",
+      "references": [
+        {
+          "slug": "oxley-gmt",
+          "url": "/farer/gmt/oxley-gmt",
+          "title": "Oxley GMT",
+          "specs": {
+            "Brand": "Farer",
+            "Family": "GMT",
+            "Reference": "N/A",
+            "Name": "Oxley GMT",
+            "Movement": "Swiss automatic GMT",
+            "Materials": "Stainless steel",
+            "Diameter": "39.5mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "mansfield-gmt",
+          "url": "/farer/gmt/mansfield-gmt",
+          "title": "Mansfield GMT",
+          "specs": {
+            "Brand": "Farer",
+            "Family": "GMT",
+            "Reference": "N/A",
+            "Name": "Mansfield GMT",
+            "Movement": "Swiss automatic GMT",
+            "Materials": "Stainless steel",
+            "Diameter": "39.5mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "cobb-gmt",
+          "url": "/farer/gmt/cobb-gmt",
+          "title": "Cobb GMT",
+          "specs": {
+            "Brand": "Farer",
+            "Family": "GMT",
+            "Reference": "N/A",
+            "Name": "Cobb GMT",
+            "Movement": "Swiss automatic GMT",
+            "Materials": "Stainless steel",
+            "Diameter": "39.5mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chronograph",
+      "slug": "chronograph",
+      "references": [
+        {
+          "slug": "cobb",
+          "url": "/farer/chronograph/cobb",
+          "title": "Cobb Chronograph",
+          "specs": {
+            "Brand": "Farer",
+            "Family": "Chronograph",
+            "Reference": "N/A",
+            "Name": "Cobb",
+            "Movement": "Swiss hand-wound chronograph",
+            "Materials": "Stainless steel",
+            "Diameter": "37mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "segrave",
+          "url": "/farer/chronograph/segrave",
+          "title": "Segrave Chronograph",
+          "specs": {
+            "Brand": "Farer",
+            "Family": "Chronograph",
+            "Reference": "N/A",
+            "Name": "Segrave",
+            "Movement": "Swiss hand-wound chronograph",
+            "Materials": "Stainless steel",
+            "Diameter": "37mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "eldridge",
+          "url": "/farer/chronograph/eldridge",
+          "title": "Eldridge Chronograph",
+          "specs": {
+            "Brand": "Farer",
+            "Family": "Chronograph",
+            "Reference": "N/A",
+            "Name": "Eldridge",
+            "Movement": "Swiss hand-wound chronograph",
+            "Materials": "Stainless steel",
+            "Diameter": "37mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "lander",
+          "url": "/farer/chronograph/lander",
+          "title": "Lander Chronograph",
+          "specs": {
+            "Brand": "Farer",
+            "Family": "Chronograph",
+            "Reference": "N/A",
+            "Name": "Lander",
+            "Movement": "Swiss hand-wound chronograph",
+            "Materials": "Stainless steel",
+            "Diameter": "37mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aqua Compressor",
+      "slug": "aqua-compressor",
+      "references": [
+        {
+          "slug": "ponting",
+          "url": "/farer/aqua-compressor/ponting",
+          "title": "Ponting Aqua Compressor",
+          "specs": {
+            "Brand": "Farer",
+            "Family": "Aqua Compressor",
+            "Reference": "N/A",
+            "Name": "Ponting",
+            "Movement": "Swiss automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "40mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "lomond",
+          "url": "/farer/aqua-compressor/lomond",
+          "title": "Lomond Aqua Compressor",
+          "specs": {
+            "Brand": "Farer",
+            "Family": "Aqua Compressor",
+            "Reference": "N/A",
+            "Name": "Lomond",
+            "Movement": "Swiss automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "40mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "leven",
+          "url": "/farer/aqua-compressor/leven",
+          "title": "Leven Aqua Compressor",
+          "specs": {
+            "Brand": "Farer",
+            "Family": "Aqua Compressor",
+            "Reference": "N/A",
+            "Name": "Leven",
+            "Movement": "Swiss automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "40mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 13,
+  "enriched_at": "2026-04-18T17:08:39.547Z"
+}

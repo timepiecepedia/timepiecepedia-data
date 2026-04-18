@@ -1,0 +1,345 @@
+{
+  "brand_slug": "shinola",
+  "collections": [
+    {
+      "name": "Runwell",
+      "slug": "runwell",
+      "references": [
+        {
+          "slug": "runwell-41mm",
+          "url": "/shinola/runwell/runwell-41mm",
+          "title": "Runwell 41mm Stainless Steel",
+          "specs": {
+            "Brand": "Shinola",
+            "Family": "Runwell",
+            "Reference": "S0120001110",
+            "Name": "Runwell 41mm",
+            "Movement": "Argonite 1069",
+            "Materials": "Stainless Steel",
+            "Diameter": "41mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "runwell-47mm",
+          "url": "/shinola/runwell/runwell-47mm",
+          "title": "Runwell 47mm Stainless Steel",
+          "specs": {
+            "Brand": "Shinola",
+            "Family": "Runwell",
+            "Reference": "S0100032",
+            "Name": "Runwell 47mm",
+            "Movement": "Argonite 1069",
+            "Materials": "Stainless Steel",
+            "Diameter": "47mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "runwell-chrono",
+          "url": "/shinola/runwell/runwell-chrono",
+          "title": "Runwell Chronograph 47mm",
+          "specs": {
+            "Brand": "Shinola",
+            "Family": "Runwell",
+            "Reference": "S0100117",
+            "Name": "Runwell Chronograph",
+            "Movement": "Argonite 5030",
+            "Materials": "Stainless Steel",
+            "Diameter": "47mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "runwell-moonphase",
+          "url": "/shinola/runwell/runwell-moonphase",
+          "title": "Runwell Moon Phase 41mm",
+          "specs": {
+            "Brand": "Shinola",
+            "Family": "Runwell",
+            "Reference": "N/A",
+            "Name": "Runwell Moon Phase",
+            "Movement": "Argonite 1069",
+            "Materials": "Stainless Steel",
+            "Diameter": "41mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Moon Phase, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Canfield",
+      "slug": "canfield",
+      "references": [
+        {
+          "slug": "canfield-43mm",
+          "url": "/shinola/canfield/canfield-43mm",
+          "title": "Canfield 43mm Stainless Steel",
+          "specs": {
+            "Brand": "Shinola",
+            "Family": "The Canfield",
+            "Reference": "S0120018330",
+            "Name": "Canfield 43mm",
+            "Movement": "Argonite 1069",
+            "Materials": "Stainless Steel",
+            "Diameter": "43mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "canfield-chrono",
+          "url": "/shinola/canfield/canfield-chrono",
+          "title": "Canfield Sport Chronograph 45mm",
+          "specs": {
+            "Brand": "Shinola",
+            "Family": "The Canfield",
+            "Reference": "S0120018297",
+            "Name": "Canfield Sport Chronograph",
+            "Movement": "Argonite 5030",
+            "Materials": "Stainless Steel",
+            "Diameter": "45mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "canfield-38mm",
+          "url": "/shinola/canfield/canfield-38mm",
+          "title": "Canfield 38mm Stainless Steel",
+          "specs": {
+            "Brand": "Shinola",
+            "Family": "The Canfield",
+            "Reference": "N/A",
+            "Name": "Canfield 38mm",
+            "Movement": "Argonite 1069",
+            "Materials": "Stainless Steel",
+            "Diameter": "38mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Vinton",
+      "slug": "vinton",
+      "references": [
+        {
+          "slug": "vinton-38mm",
+          "url": "/shinola/vinton/vinton-38mm",
+          "title": "Vinton 38mm Stainless Steel",
+          "specs": {
+            "Brand": "Shinola",
+            "Family": "The Vinton",
+            "Reference": "S0120183103",
+            "Name": "Vinton 38mm",
+            "Movement": "Argonite 1069",
+            "Materials": "Stainless Steel",
+            "Diameter": "38mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "vinton-40mm",
+          "url": "/shinola/vinton/vinton-40mm",
+          "title": "Vinton 40mm Stainless Steel",
+          "specs": {
+            "Brand": "Shinola",
+            "Family": "The Vinton",
+            "Reference": "N/A",
+            "Name": "Vinton 40mm",
+            "Movement": "Argonite 1069",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "vinton-chrono",
+          "url": "/shinola/vinton/vinton-chrono",
+          "title": "Vinton Chronograph 42mm",
+          "specs": {
+            "Brand": "Shinola",
+            "Family": "The Vinton",
+            "Reference": "N/A",
+            "Name": "Vinton Chronograph",
+            "Movement": "Argonite 5030",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Gomelsky",
+      "slug": "gomelsky",
+      "references": [
+        {
+          "slug": "gomelsky-36mm",
+          "url": "/shinola/gomelsky/gomelsky-36mm",
+          "title": "Gomelsky 36mm Stainless Steel",
+          "specs": {
+            "Brand": "Shinola",
+            "Family": "The Gomelsky",
+            "Reference": "S0120018306",
+            "Name": "Gomelsky 36mm",
+            "Movement": "Argonite 1069",
+            "Materials": "Stainless Steel",
+            "Diameter": "36mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "gomelsky-moonphase",
+          "url": "/shinola/gomelsky/gomelsky-moonphase",
+          "title": "Gomelsky Moon Phase 42mm",
+          "specs": {
+            "Brand": "Shinola",
+            "Family": "The Gomelsky",
+            "Reference": "N/A",
+            "Name": "Gomelsky Moon Phase",
+            "Movement": "Argonite 1069",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Moon Phase, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Guardian",
+      "slug": "guardian",
+      "references": [
+        {
+          "slug": "guardian-42mm",
+          "url": "/shinola/guardian/guardian-42mm",
+          "title": "Guardian 42mm Stainless Steel",
+          "specs": {
+            "Brand": "Shinola",
+            "Family": "The Guardian",
+            "Reference": "N/A",
+            "Name": "Guardian 42mm",
+            "Movement": "Argonite 1069",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "guardian-chrono",
+          "url": "/shinola/guardian/guardian-chrono",
+          "title": "Guardian Chronograph 44mm",
+          "specs": {
+            "Brand": "Shinola",
+            "Family": "The Guardian",
+            "Reference": "N/A",
+            "Name": "Guardian Chronograph",
+            "Movement": "Argonite 5030",
+            "Materials": "Stainless Steel",
+            "Diameter": "44mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 14,
+  "enriched_at": "2026-04-18T17:20:53.304Z"
+}

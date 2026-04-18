@@ -1,0 +1,90 @@
+{
+  "brand_slug": "maen",
+  "collections": [
+    {
+      "name": "Hudson",
+      "slug": "hudson",
+      "references": [
+        {
+          "slug": "hudson-38-automatic-date-black",
+          "url": "/maen/hudson/hudson-38-automatic-date-black",
+          "text": "Hudson 38 Automatic Date Black"
+        },
+        {
+          "slug": "hudson-38-mk2-ivory",
+          "url": "/maen/hudson/hudson-38-mk2-ivory",
+          "text": "Hudson 38 MK2 Ivory"
+        },
+        {
+          "slug": "hudson-38-automatic-date-blue",
+          "url": "/maen/hudson/hudson-38-automatic-date-blue",
+          "text": "Hudson 38 Automatic Date Blue"
+        }
+      ]
+    },
+    {
+      "name": "Manhattan",
+      "slug": "manhattan",
+      "references": [
+        {
+          "slug": "manhattan-36-black",
+          "url": "/maen/manhattan/manhattan-36-black",
+          "text": "Manhattan 36 Black"
+        },
+        {
+          "slug": "manhattan-36-ivory",
+          "url": "/maen/manhattan/manhattan-36-ivory",
+          "text": "Manhattan 36 Ivory"
+        },
+        {
+          "slug": "manhattan-40-black",
+          "url": "/maen/manhattan/manhattan-40-black",
+          "text": "Manhattan 40 Black"
+        }
+      ]
+    },
+    {
+      "name": "Skymaster",
+      "slug": "skymaster",
+      "references": [
+        {
+          "slug": "skymaster-38-black",
+          "url": "/maen/skymaster/skymaster-38-black",
+          "text": "Skymaster 38 Black"
+        },
+        {
+          "slug": "skymaster-38-blue",
+          "url": "/maen/skymaster/skymaster-38-blue",
+          "text": "Skymaster 38 Blue"
+        },
+        {
+          "slug": "skymaster-38-green",
+          "url": "/maen/skymaster/skymaster-38-green",
+          "text": "Skymaster 38 Green"
+        }
+      ]
+    },
+    {
+      "name": "Orthograph",
+      "slug": "orthograph",
+      "references": [
+        {
+          "slug": "orthograph-black",
+          "url": "/maen/orthograph/orthograph-black",
+          "text": "Orthograph Black"
+        },
+        {
+          "slug": "orthograph-ivory",
+          "url": "/maen/orthograph/orthograph-ivory",
+          "text": "Orthograph Ivory"
+        },
+        {
+          "slug": "orthograph-blue",
+          "url": "/maen/orthograph/orthograph-blue",
+          "text": "Orthograph Blue"
+        }
+      ]
+    }
+  ],
+  "total_references": 12
+}

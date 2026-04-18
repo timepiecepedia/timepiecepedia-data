@@ -1,0 +1,339 @@
+{
+  "brand_slug": "van-cleef-and-arpels",
+  "collections": [
+    {
+      "name": "Poetic Complications",
+      "slug": "poetic-complications",
+      "references": [
+        {
+          "slug": "midnight-planetarium",
+          "url": "/van-cleef-and-arpels/poetic-complications/midnight-planetarium",
+          "title": "Midnight Planétarium Rose Gold Astronomical",
+          "specs": {
+            "Brand": "Van Cleef & Arpels",
+            "Family": "Poetic Complications",
+            "Reference": "VCARO8TA00",
+            "Name": "Midnight Planétarium",
+            "Movement": "Automatic",
+            "Materials": "Rose Gold",
+            "Diameter": "44mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Planetarium display, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "lady-arpels-planetarium",
+          "url": "/van-cleef-and-arpels/poetic-complications/lady-arpels-planetarium",
+          "title": "Lady Arpels Planétarium White Gold Astronomical",
+          "specs": {
+            "Brand": "Van Cleef & Arpels",
+            "Family": "Poetic Complications",
+            "Reference": "VCARO8TM00",
+            "Name": "Lady Arpels Planétarium",
+            "Movement": "Automatic",
+            "Materials": "White Gold",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Planetarium display, Shooting star"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "pont-des-amoureux",
+          "url": "/van-cleef-and-arpels/poetic-complications/pont-des-amoureux",
+          "title": "Pont des Amoureux White Gold Automaton",
+          "specs": {
+            "Brand": "Van Cleef & Arpels",
+            "Family": "Poetic Complications",
+            "Reference": "VCARO3UG00",
+            "Name": "Pont des Amoureux",
+            "Movement": "Automatic",
+            "Materials": "White Gold",
+            "Diameter": "42mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Retrograde hours and minutes, Automaton"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "midnight-nuit-lumineuse",
+          "url": "/van-cleef-and-arpels/poetic-complications/midnight-nuit-lumineuse",
+          "title": "Midnight Nuit Lumineuse White Gold Moonphase",
+          "specs": {
+            "Brand": "Van Cleef & Arpels",
+            "Family": "Poetic Complications",
+            "Reference": "N/A",
+            "Name": "Midnight Nuit Lumineuse",
+            "Movement": "Automatic",
+            "Materials": "White Gold",
+            "Diameter": "42mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Moonphase"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alhambra",
+      "slug": "alhambra",
+      "references": [
+        {
+          "slug": "alhambra-watch-white-gold",
+          "url": "/van-cleef-and-arpels/alhambra/alhambra-watch-white-gold",
+          "title": "Alhambra Watch White Gold Mother-of-Pearl",
+          "specs": {
+            "Brand": "Van Cleef & Arpels",
+            "Family": "Alhambra",
+            "Reference": "N/A",
+            "Name": "Alhambra Watch",
+            "Movement": "Quartz",
+            "Materials": "White Gold, Mother-of-Pearl",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "alhambra-secret-watch",
+          "url": "/van-cleef-and-arpels/alhambra/alhambra-secret-watch",
+          "title": "Alhambra Secret Watch Yellow Gold Diamond",
+          "specs": {
+            "Brand": "Van Cleef & Arpels",
+            "Family": "Alhambra",
+            "Reference": "N/A",
+            "Name": "Alhambra Secret Watch",
+            "Movement": "Quartz",
+            "Materials": "Yellow Gold, Diamonds",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "Hidden dial"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "sweet-alhambra-watch",
+          "url": "/van-cleef-and-arpels/alhambra/sweet-alhambra-watch",
+          "title": "Sweet Alhambra Watch Rose Gold",
+          "specs": {
+            "Brand": "Van Cleef & Arpels",
+            "Family": "Alhambra",
+            "Reference": "N/A",
+            "Name": "Sweet Alhambra",
+            "Movement": "Quartz",
+            "Materials": "Rose Gold",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lady Arpels",
+      "slug": "lady-arpels",
+      "references": [
+        {
+          "slug": "lady-arpels-ballerine-enchantee",
+          "url": "/van-cleef-and-arpels/lady-arpels/lady-arpels-ballerine-enchantee",
+          "title": "Lady Arpels Ballerine Enchantée White Gold Automaton",
+          "specs": {
+            "Brand": "Van Cleef & Arpels",
+            "Family": "Lady Arpels",
+            "Reference": "N/A",
+            "Name": "Ballerine Enchantée",
+            "Movement": "Automatic",
+            "Materials": "White Gold, Diamonds",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Retrograde minutes, Automaton ballerina"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "lady-arpels-papillon-automate",
+          "url": "/van-cleef-and-arpels/lady-arpels/lady-arpels-papillon-automate",
+          "title": "Lady Arpels Papillon Automate White Gold",
+          "specs": {
+            "Brand": "Van Cleef & Arpels",
+            "Family": "Lady Arpels",
+            "Reference": "N/A",
+            "Name": "Papillon Automate",
+            "Movement": "Automatic",
+            "Materials": "White Gold, Diamonds, Mother-of-Pearl",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Retrograde time, Butterfly automaton"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "lady-arpels-fairy",
+          "url": "/van-cleef-and-arpels/lady-arpels/lady-arpels-fairy",
+          "title": "Lady Arpels Fée Ondine White Gold",
+          "specs": {
+            "Brand": "Van Cleef & Arpels",
+            "Family": "Lady Arpels",
+            "Reference": "N/A",
+            "Name": "Fée Ondine",
+            "Movement": "Automatic",
+            "Materials": "White Gold, Diamonds, Sapphires",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Retrograde hours and minutes, Automaton fairy"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "lady-arpels-zodiac-lumineux",
+          "url": "/van-cleef-and-arpels/lady-arpels/lady-arpels-zodiac-lumineux",
+          "title": "Lady Arpels Zodiac Lumineux Rose Gold",
+          "specs": {
+            "Brand": "Van Cleef & Arpels",
+            "Family": "Lady Arpels",
+            "Reference": "N/A",
+            "Name": "Zodiac Lumineux",
+            "Movement": "Automatic",
+            "Materials": "Rose Gold, Diamonds",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Day/Night indicator, Zodiac display"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pierre Arpels",
+      "slug": "pierre-arpels",
+      "references": [
+        {
+          "slug": "pierre-arpels-pink-gold",
+          "url": "/van-cleef-and-arpels/pierre-arpels/pierre-arpels-pink-gold",
+          "title": "Pierre Arpels Pink Gold",
+          "specs": {
+            "Brand": "Van Cleef & Arpels",
+            "Family": "Pierre Arpels",
+            "Reference": "N/A",
+            "Name": "Pierre Arpels",
+            "Movement": "Automatic",
+            "Materials": "Pink Gold",
+            "Diameter": "42mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "pierre-arpels-perpetual-calendar",
+          "url": "/van-cleef-and-arpels/pierre-arpels/pierre-arpels-perpetual-calendar",
+          "title": "Pierre Arpels Perpetual Calendar White Gold",
+          "specs": {
+            "Brand": "Van Cleef & Arpels",
+            "Family": "Pierre Arpels",
+            "Reference": "N/A",
+            "Name": "Pierre Arpels Perpetual Calendar",
+            "Movement": "Automatic",
+            "Materials": "White Gold",
+            "Diameter": "42mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Perpetual calendar, Moonphase"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "pierre-arpels-three-time-zones",
+          "url": "/van-cleef-and-arpels/pierre-arpels/pierre-arpels-three-time-zones",
+          "title": "Pierre Arpels Three Time Zones Rose Gold",
+          "specs": {
+            "Brand": "Van Cleef & Arpels",
+            "Family": "Pierre Arpels",
+            "Reference": "N/A",
+            "Name": "Pierre Arpels Three Time Zones",
+            "Movement": "Automatic",
+            "Materials": "Rose Gold",
+            "Diameter": "42mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Triple time zone, Day/Night indicator"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 14,
+  "enriched_at": "2026-04-18T17:25:27.470Z"
+}

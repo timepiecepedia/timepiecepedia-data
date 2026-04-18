@@ -1,0 +1,367 @@
+{
+  "brand_slug": "autodromo",
+  "collections": [
+    {
+      "name": "Group B",
+      "slug": "group-b",
+      "references": [
+        {
+          "slug": "group-b-series-2-black",
+          "url": "/autodromo/group-b/group-b-series-2-black",
+          "title": "Group B Series 2 Black",
+          "specs": {
+            "Brand": "Autodromo",
+            "Family": "Group B",
+            "Reference": "N/A",
+            "Name": "Series 2 Black",
+            "Movement": "Seiko VK64 Meca-Quartz",
+            "Materials": "Stainless steel",
+            "Diameter": "39mm",
+            "W/R": "100m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Chronograph"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "group-b-series-2-white",
+          "url": "/autodromo/group-b/group-b-series-2-white",
+          "title": "Group B Series 2 White",
+          "specs": {
+            "Brand": "Autodromo",
+            "Family": "Group B",
+            "Reference": "N/A",
+            "Name": "Series 2 White",
+            "Movement": "Seiko VK64 Meca-Quartz",
+            "Materials": "Stainless steel",
+            "Diameter": "39mm",
+            "W/R": "100m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Chronograph"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "group-b-series-2-safari",
+          "url": "/autodromo/group-b/group-b-series-2-safari",
+          "title": "Group B Series 2 Safari",
+          "specs": {
+            "Brand": "Autodromo",
+            "Family": "Group B",
+            "Reference": "N/A",
+            "Name": "Series 2 Safari",
+            "Movement": "Seiko VK64 Meca-Quartz",
+            "Materials": "Stainless steel",
+            "Diameter": "39mm",
+            "W/R": "100m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Chronograph"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ford GT Endurance",
+      "slug": "ford-gt-endurance",
+      "references": [
+        {
+          "slug": "ford-gt-endurance-blue",
+          "url": "/autodromo/ford-gt-endurance/ford-gt-endurance-blue",
+          "title": "Ford GT Endurance Blue",
+          "specs": {
+            "Brand": "Autodromo",
+            "Family": "Ford GT Endurance",
+            "Reference": "N/A",
+            "Name": "Blue",
+            "Movement": "Miyota 9015 automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "40mm",
+            "W/R": "100m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "ford-gt-endurance-black",
+          "url": "/autodromo/ford-gt-endurance/ford-gt-endurance-black",
+          "title": "Ford GT Endurance Black",
+          "specs": {
+            "Brand": "Autodromo",
+            "Family": "Ford GT Endurance",
+            "Reference": "N/A",
+            "Name": "Black",
+            "Movement": "Miyota 9015 automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "40mm",
+            "W/R": "100m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "ford-gt-endurance-chronograph",
+          "url": "/autodromo/ford-gt-endurance/ford-gt-endurance-chronograph",
+          "title": "Ford GT Endurance Chronograph",
+          "specs": {
+            "Brand": "Autodromo",
+            "Family": "Ford GT Endurance",
+            "Reference": "N/A",
+            "Name": "Chronograph",
+            "Movement": "Seiko VK64 Meca-Quartz",
+            "Materials": "Stainless steel",
+            "Diameter": "43mm",
+            "W/R": "100m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Chronograph"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prototipo",
+      "slug": "prototipo",
+      "references": [
+        {
+          "slug": "prototipo-black-white",
+          "url": "/autodromo/prototipo/prototipo-black-white",
+          "title": "Prototipo Black White",
+          "specs": {
+            "Brand": "Autodromo",
+            "Family": "Prototipo",
+            "Reference": "N/A",
+            "Name": "Black White",
+            "Movement": "Seiko VK64 Meca-Quartz",
+            "Materials": "Stainless steel",
+            "Diameter": "39mm",
+            "W/R": "100m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Chronograph"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "prototipo-blue",
+          "url": "/autodromo/prototipo/prototipo-blue",
+          "title": "Prototipo Blue",
+          "specs": {
+            "Brand": "Autodromo",
+            "Family": "Prototipo",
+            "Reference": "N/A",
+            "Name": "Blue",
+            "Movement": "Seiko VK64 Meca-Quartz",
+            "Materials": "Stainless steel",
+            "Diameter": "39mm",
+            "W/R": "100m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Chronograph"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "prototipo-green",
+          "url": "/autodromo/prototipo/prototipo-green",
+          "title": "Prototipo Green",
+          "specs": {
+            "Brand": "Autodromo",
+            "Family": "Prototipo",
+            "Reference": "N/A",
+            "Name": "Green",
+            "Movement": "Seiko VK64 Meca-Quartz",
+            "Materials": "Stainless steel",
+            "Diameter": "39mm",
+            "W/R": "100m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Chronograph"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stradale",
+      "slug": "stradale",
+      "references": [
+        {
+          "slug": "stradale-cream",
+          "url": "/autodromo/stradale/stradale-cream",
+          "title": "Stradale Cream",
+          "specs": {
+            "Brand": "Autodromo",
+            "Family": "Stradale",
+            "Reference": "N/A",
+            "Name": "Cream",
+            "Movement": "Miyota 9015 automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "39.5mm",
+            "W/R": "100m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "stradale-black",
+          "url": "/autodromo/stradale/stradale-black",
+          "title": "Stradale Black",
+          "specs": {
+            "Brand": "Autodromo",
+            "Family": "Stradale",
+            "Reference": "N/A",
+            "Name": "Black",
+            "Movement": "Miyota 9015 automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "39.5mm",
+            "W/R": "100m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "stradale-tachometer",
+          "url": "/autodromo/stradale/stradale-tachometer",
+          "title": "Stradale Tachometer",
+          "specs": {
+            "Brand": "Autodromo",
+            "Family": "Stradale",
+            "Reference": "N/A",
+            "Name": "Tachometer",
+            "Movement": "Miyota 9015 automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "39.5mm",
+            "W/R": "100m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Monoposto",
+      "slug": "monoposto",
+      "references": [
+        {
+          "slug": "monoposto-black",
+          "url": "/autodromo/monoposto/monoposto-black",
+          "title": "Monoposto Black",
+          "specs": {
+            "Brand": "Autodromo",
+            "Family": "Monoposto",
+            "Reference": "N/A",
+            "Name": "Black",
+            "Movement": "Miyota 9015 automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "40mm",
+            "W/R": "100m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "monoposto-white",
+          "url": "/autodromo/monoposto/monoposto-white",
+          "title": "Monoposto White",
+          "specs": {
+            "Brand": "Autodromo",
+            "Family": "Monoposto",
+            "Reference": "N/A",
+            "Name": "White",
+            "Movement": "Miyota 9015 automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "40mm",
+            "W/R": "100m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "monoposto-blue",
+          "url": "/autodromo/monoposto/monoposto-blue",
+          "title": "Monoposto Blue",
+          "specs": {
+            "Brand": "Autodromo",
+            "Family": "Monoposto",
+            "Reference": "N/A",
+            "Name": "Blue",
+            "Movement": "Miyota 9015 automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "40mm",
+            "W/R": "100m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 15,
+  "enriched_at": "2026-04-18T17:04:11.518Z"
+}

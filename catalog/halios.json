@@ -1,0 +1,111 @@
+{
+  "brand_slug": "halios",
+  "collections": [
+    {
+      "name": "Seaforth",
+      "slug": "seaforth",
+      "references": [
+        {
+          "slug": "seaforth-series-iii-abyss-blue",
+          "url": "/halios/seaforth/seaforth-series-iii-abyss-blue",
+          "text": "Seaforth Series III Abyss Blue"
+        },
+        {
+          "slug": "seaforth-series-iii-grey-sunburst",
+          "url": "/halios/seaforth/seaforth-series-iii-grey-sunburst",
+          "text": "Seaforth Series III Grey Sunburst"
+        },
+        {
+          "slug": "seaforth-series-iv-pastel-blue",
+          "url": "/halios/seaforth/seaforth-series-iv-pastel-blue",
+          "text": "Seaforth Series IV Pastel Blue"
+        }
+      ]
+    },
+    {
+      "name": "Universa",
+      "slug": "universa",
+      "references": [
+        {
+          "slug": "universa-pastel-blue",
+          "url": "/halios/universa/universa-pastel-blue",
+          "text": "Universa Pastel Blue GMT"
+        },
+        {
+          "slug": "universa-grey",
+          "url": "/halios/universa/universa-grey",
+          "text": "Universa Grey GMT"
+        },
+        {
+          "slug": "universa-black",
+          "url": "/halios/universa/universa-black",
+          "text": "Universa Black GMT"
+        }
+      ]
+    },
+    {
+      "name": "Fairwind",
+      "slug": "fairwind",
+      "references": [
+        {
+          "slug": "fairwind-navy-blue",
+          "url": "/halios/fairwind/fairwind-navy-blue",
+          "text": "Fairwind Navy Blue"
+        },
+        {
+          "slug": "fairwind-gilt",
+          "url": "/halios/fairwind/fairwind-gilt",
+          "text": "Fairwind Gilt"
+        },
+        {
+          "slug": "fairwind-black",
+          "url": "/halios/fairwind/fairwind-black",
+          "text": "Fairwind Black"
+        }
+      ]
+    },
+    {
+      "name": "Tropik",
+      "slug": "tropik",
+      "references": [
+        {
+          "slug": "tropik-ss-blue",
+          "url": "/halios/tropik/tropik-ss-blue",
+          "text": "Tropik SS Blue"
+        },
+        {
+          "slug": "tropik-ss-black",
+          "url": "/halios/tropik/tropik-ss-black",
+          "text": "Tropik SS Black"
+        },
+        {
+          "slug": "tropik-bronze",
+          "url": "/halios/tropik/tropik-bronze",
+          "text": "Tropik Bronze"
+        }
+      ]
+    },
+    {
+      "name": "Laguna",
+      "slug": "laguna",
+      "references": [
+        {
+          "slug": "laguna-black",
+          "url": "/halios/laguna/laguna-black",
+          "text": "Laguna Black"
+        },
+        {
+          "slug": "laguna-blue",
+          "url": "/halios/laguna/laguna-blue",
+          "text": "Laguna Blue"
+        },
+        {
+          "slug": "laguna-white",
+          "url": "/halios/laguna/laguna-white",
+          "text": "Laguna White"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

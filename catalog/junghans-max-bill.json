@@ -1,0 +1,95 @@
+{
+  "brand_slug": "junghans-max-bill",
+  "collections": [
+    {
+      "name": "Max Bill Automatic",
+      "slug": "automatic",
+      "references": [
+        {
+          "slug": "automatic-38mm-white",
+          "url": "/junghans-max-bill/automatic/automatic-38mm-white",
+          "text": "Max Bill Automatic 38mm White Dial"
+        },
+        {
+          "slug": "automatic-38mm-black",
+          "url": "/junghans-max-bill/automatic/automatic-38mm-black",
+          "text": "Max Bill Automatic 38mm Black Dial"
+        },
+        {
+          "slug": "automatic-27mm-ladies",
+          "url": "/junghans-max-bill/automatic/automatic-27mm-ladies",
+          "text": "Max Bill Automatic 27mm Ladies"
+        }
+      ]
+    },
+    {
+      "name": "Max Bill Hand-Wind",
+      "slug": "hand-wind",
+      "references": [
+        {
+          "slug": "hand-wind-34mm-white",
+          "url": "/junghans-max-bill/hand-wind/hand-wind-34mm-white",
+          "text": "Max Bill Hand-Wind 34mm White Dial"
+        },
+        {
+          "slug": "hand-wind-38mm-white",
+          "url": "/junghans-max-bill/hand-wind/hand-wind-38mm-white",
+          "text": "Max Bill Hand-Wind 38mm White Dial"
+        },
+        {
+          "slug": "hand-wind-34mm-numbers",
+          "url": "/junghans-max-bill/hand-wind/hand-wind-34mm-numbers",
+          "text": "Max Bill Hand-Wind 34mm Numbers Dial"
+        },
+        {
+          "slug": "hand-wind-38mm-numbers",
+          "url": "/junghans-max-bill/hand-wind/hand-wind-38mm-numbers",
+          "text": "Max Bill Hand-Wind 38mm Numbers Dial"
+        }
+      ]
+    },
+    {
+      "name": "Max Bill Chronoscope",
+      "slug": "chronoscope",
+      "references": [
+        {
+          "slug": "chronoscope-40mm-white",
+          "url": "/junghans-max-bill/chronoscope/chronoscope-40mm-white",
+          "text": "Max Bill Chronoscope 40mm White Dial"
+        },
+        {
+          "slug": "chronoscope-40mm-black",
+          "url": "/junghans-max-bill/chronoscope/chronoscope-40mm-black",
+          "text": "Max Bill Chronoscope 40mm Black Dial"
+        },
+        {
+          "slug": "chronoscope-40mm-tri-color",
+          "url": "/junghans-max-bill/chronoscope/chronoscope-40mm-tri-color",
+          "text": "Max Bill Chronoscope 40mm Tri-Color Dial"
+        }
+      ]
+    },
+    {
+      "name": "Max Bill Quartz",
+      "slug": "quartz",
+      "references": [
+        {
+          "slug": "quartz-38mm-white",
+          "url": "/junghans-max-bill/quartz/quartz-38mm-white",
+          "text": "Max Bill Quartz 38mm White Dial"
+        },
+        {
+          "slug": "quartz-34mm-white",
+          "url": "/junghans-max-bill/quartz/quartz-34mm-white",
+          "text": "Max Bill Quartz 34mm White Dial"
+        },
+        {
+          "slug": "quartz-32mm-ladies",
+          "url": "/junghans-max-bill/quartz/quartz-32mm-ladies",
+          "text": "Max Bill Quartz 32mm Ladies"
+        }
+      ]
+    }
+  ],
+  "total_references": 13
+}

@@ -1,0 +1,111 @@
+{
+  "brand_slug": "autodromo",
+  "collections": [
+    {
+      "name": "Group B",
+      "slug": "group-b",
+      "references": [
+        {
+          "slug": "group-b-series-2-black",
+          "url": "/autodromo/group-b/group-b-series-2-black",
+          "text": "Group B Series 2 Black"
+        },
+        {
+          "slug": "group-b-series-2-white",
+          "url": "/autodromo/group-b/group-b-series-2-white",
+          "text": "Group B Series 2 White"
+        },
+        {
+          "slug": "group-b-series-2-safari",
+          "url": "/autodromo/group-b/group-b-series-2-safari",
+          "text": "Group B Series 2 Safari"
+        }
+      ]
+    },
+    {
+      "name": "Ford GT Endurance",
+      "slug": "ford-gt-endurance",
+      "references": [
+        {
+          "slug": "ford-gt-endurance-blue",
+          "url": "/autodromo/ford-gt-endurance/ford-gt-endurance-blue",
+          "text": "Ford GT Endurance Blue"
+        },
+        {
+          "slug": "ford-gt-endurance-black",
+          "url": "/autodromo/ford-gt-endurance/ford-gt-endurance-black",
+          "text": "Ford GT Endurance Black"
+        },
+        {
+          "slug": "ford-gt-endurance-chronograph",
+          "url": "/autodromo/ford-gt-endurance/ford-gt-endurance-chronograph",
+          "text": "Ford GT Endurance Chronograph"
+        }
+      ]
+    },
+    {
+      "name": "Prototipo",
+      "slug": "prototipo",
+      "references": [
+        {
+          "slug": "prototipo-black-white",
+          "url": "/autodromo/prototipo/prototipo-black-white",
+          "text": "Prototipo Black White"
+        },
+        {
+          "slug": "prototipo-blue",
+          "url": "/autodromo/prototipo/prototipo-blue",
+          "text": "Prototipo Blue"
+        },
+        {
+          "slug": "prototipo-green",
+          "url": "/autodromo/prototipo/prototipo-green",
+          "text": "Prototipo Green"
+        }
+      ]
+    },
+    {
+      "name": "Stradale",
+      "slug": "stradale",
+      "references": [
+        {
+          "slug": "stradale-cream",
+          "url": "/autodromo/stradale/stradale-cream",
+          "text": "Stradale Cream"
+        },
+        {
+          "slug": "stradale-black",
+          "url": "/autodromo/stradale/stradale-black",
+          "text": "Stradale Black"
+        },
+        {
+          "slug": "stradale-tachometer",
+          "url": "/autodromo/stradale/stradale-tachometer",
+          "text": "Stradale Tachometer"
+        }
+      ]
+    },
+    {
+      "name": "Monoposto",
+      "slug": "monoposto",
+      "references": [
+        {
+          "slug": "monoposto-black",
+          "url": "/autodromo/monoposto/monoposto-black",
+          "text": "Monoposto Black"
+        },
+        {
+          "slug": "monoposto-white",
+          "url": "/autodromo/monoposto/monoposto-white",
+          "text": "Monoposto White"
+        },
+        {
+          "slug": "monoposto-blue",
+          "url": "/autodromo/monoposto/monoposto-blue",
+          "text": "Monoposto Blue"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

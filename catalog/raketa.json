@@ -1,0 +1,111 @@
+{
+  "brand_slug": "raketa",
+  "collections": [
+    {
+      "name": "Big Zero",
+      "slug": "big-zero",
+      "references": [
+        {
+          "slug": "big-zero-classic",
+          "url": "/raketa/big-zero/big-zero-classic",
+          "text": "Big Zero Classic Steel"
+        },
+        {
+          "slug": "big-zero-red",
+          "url": "/raketa/big-zero/big-zero-red",
+          "text": "Big Zero Red Steel"
+        },
+        {
+          "slug": "big-zero-avtomat",
+          "url": "/raketa/big-zero/big-zero-avtomat",
+          "text": "Big Zero Avtomat Steel"
+        }
+      ]
+    },
+    {
+      "name": "Polar",
+      "slug": "polar",
+      "references": [
+        {
+          "slug": "polar-24-hour-classic",
+          "url": "/raketa/polar/polar-24-hour-classic",
+          "text": "Polar 24-Hour Classic Steel"
+        },
+        {
+          "slug": "polar-arctic-white",
+          "url": "/raketa/polar/polar-arctic-white",
+          "text": "Polar Arctic White Steel"
+        },
+        {
+          "slug": "polar-explorer",
+          "url": "/raketa/polar/polar-explorer",
+          "text": "Polar Explorer Steel"
+        }
+      ]
+    },
+    {
+      "name": "Copernicus",
+      "slug": "copernicus",
+      "references": [
+        {
+          "slug": "copernicus-mars",
+          "url": "/raketa/copernicus/copernicus-mars",
+          "text": "Copernicus Mars Steel"
+        },
+        {
+          "slug": "copernicus-moon",
+          "url": "/raketa/copernicus/copernicus-moon",
+          "text": "Copernicus Moon Steel"
+        },
+        {
+          "slug": "copernicus-sun",
+          "url": "/raketa/copernicus/copernicus-sun",
+          "text": "Copernicus Sun Steel"
+        }
+      ]
+    },
+    {
+      "name": "Classic Avtomat",
+      "slug": "classic-avtomat",
+      "references": [
+        {
+          "slug": "classic-avtomat-blue",
+          "url": "/raketa/classic-avtomat/classic-avtomat-blue",
+          "text": "Classic Avtomat Blue Steel"
+        },
+        {
+          "slug": "classic-avtomat-black",
+          "url": "/raketa/classic-avtomat/classic-avtomat-black",
+          "text": "Classic Avtomat Black Steel"
+        },
+        {
+          "slug": "classic-avtomat-white",
+          "url": "/raketa/classic-avtomat/classic-avtomat-white",
+          "text": "Classic Avtomat White Steel"
+        }
+      ]
+    },
+    {
+      "name": "Russian Code",
+      "slug": "russian-code",
+      "references": [
+        {
+          "slug": "russian-code-peterhof",
+          "url": "/raketa/russian-code/russian-code-peterhof",
+          "text": "Russian Code Peterhof Steel"
+        },
+        {
+          "slug": "russian-code-classic",
+          "url": "/raketa/russian-code/russian-code-classic",
+          "text": "Russian Code Classic Steel"
+        },
+        {
+          "slug": "russian-code-heritage",
+          "url": "/raketa/russian-code/russian-code-heritage",
+          "text": "Russian Code Heritage Steel"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

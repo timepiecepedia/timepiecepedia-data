@@ -1,0 +1,91 @@
+{
+  "brand_slug": "weiss",
+  "collections": [
+    {
+      "name": "Standard Issue",
+      "slug": "standard-issue",
+      "references": [
+        {
+          "slug": "standard-issue-field-watch",
+          "url": "/weiss/standard-issue/standard-issue-field-watch",
+          "text": "Standard Issue Field Watch"
+        },
+        {
+          "slug": "standard-issue-38mm",
+          "url": "/weiss/standard-issue/standard-issue-38mm",
+          "text": "Standard Issue 38mm Field Watch"
+        },
+        {
+          "slug": "standard-issue-bronze",
+          "url": "/weiss/standard-issue/standard-issue-bronze",
+          "text": "Standard Issue Field Watch Bronze"
+        }
+      ]
+    },
+    {
+      "name": "American Issue",
+      "slug": "american-issue",
+      "references": [
+        {
+          "slug": "american-issue-field-watch",
+          "url": "/weiss/american-issue/american-issue-field-watch",
+          "text": "American Issue Field Watch"
+        },
+        {
+          "slug": "american-issue-38mm",
+          "url": "/weiss/american-issue/american-issue-38mm",
+          "text": "American Issue 38mm Field Watch"
+        }
+      ]
+    },
+    {
+      "name": "Special Issue",
+      "slug": "special-issue",
+      "references": [
+        {
+          "slug": "special-issue-titanium",
+          "url": "/weiss/special-issue/special-issue-titanium",
+          "text": "Special Issue Titanium Field Watch"
+        },
+        {
+          "slug": "special-issue-green-dial",
+          "url": "/weiss/special-issue/special-issue-green-dial",
+          "text": "Special Issue Green Dial Field Watch"
+        }
+      ]
+    },
+    {
+      "name": "Limited Issue",
+      "slug": "limited-issue",
+      "references": [
+        {
+          "slug": "limited-issue-black-dial",
+          "url": "/weiss/limited-issue/limited-issue-black-dial",
+          "text": "Limited Issue Black Dial Field Watch"
+        },
+        {
+          "slug": "limited-issue-custom-dial",
+          "url": "/weiss/limited-issue/limited-issue-custom-dial",
+          "text": "Limited Issue Custom Dial Field Watch"
+        }
+      ]
+    },
+    {
+      "name": "Build-Up",
+      "slug": "build-up",
+      "references": [
+        {
+          "slug": "build-up-kit-42mm",
+          "url": "/weiss/build-up/build-up-kit-42mm",
+          "text": "Build-Up Kit 42mm Assembly Watch"
+        },
+        {
+          "slug": "build-up-kit-38mm",
+          "url": "/weiss/build-up/build-up-kit-38mm",
+          "text": "Build-Up Kit 38mm Assembly Watch"
+        }
+      ]
+    }
+  ],
+  "total_references": 11
+}

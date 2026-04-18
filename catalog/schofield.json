@@ -1,0 +1,101 @@
+{
+  "brand_slug": "schofield",
+  "collections": [
+    {
+      "name": "Signalman",
+      "slug": "signalman",
+      "references": [
+        {
+          "slug": "signalman-steel",
+          "url": "/schofield/signalman/signalman-steel",
+          "text": "Signalman Steel"
+        },
+        {
+          "slug": "signalman-bronze",
+          "url": "/schofield/signalman/signalman-bronze",
+          "text": "Signalman Bronze"
+        },
+        {
+          "slug": "signalman-titanium",
+          "url": "/schofield/signalman/signalman-titanium",
+          "text": "Signalman Titanium"
+        }
+      ]
+    },
+    {
+      "name": "Beater",
+      "slug": "beater",
+      "references": [
+        {
+          "slug": "beater-steel",
+          "url": "/schofield/beater/beater-steel",
+          "text": "Beater Steel"
+        },
+        {
+          "slug": "beater-bronze",
+          "url": "/schofield/beater/beater-bronze",
+          "text": "Beater Bronze"
+        },
+        {
+          "slug": "beater-blacklamp",
+          "url": "/schofield/beater/beater-blacklamp",
+          "text": "Beater Blacklamp"
+        }
+      ]
+    },
+    {
+      "name": "Blacklamp",
+      "slug": "blacklamp",
+      "references": [
+        {
+          "slug": "blacklamp-carbon",
+          "url": "/schofield/blacklamp/blacklamp-carbon",
+          "text": "Blacklamp Carbon"
+        },
+        {
+          "slug": "blacklamp-steel",
+          "url": "/schofield/blacklamp/blacklamp-steel",
+          "text": "Blacklamp Steel PVD"
+        }
+      ]
+    },
+    {
+      "name": "Telemetrograph",
+      "slug": "telemetrograph",
+      "references": [
+        {
+          "slug": "telemetrograph-steel",
+          "url": "/schofield/telemetrograph/telemetrograph-steel",
+          "text": "Telemetrograph Steel"
+        },
+        {
+          "slug": "telemetrograph-bronze",
+          "url": "/schofield/telemetrograph/telemetrograph-bronze",
+          "text": "Telemetrograph Bronze"
+        }
+      ]
+    },
+    {
+      "name": "Crab",
+      "slug": "crab",
+      "references": [
+        {
+          "slug": "crab-steel",
+          "url": "/schofield/crab/crab-steel",
+          "text": "Crab Steel"
+        },
+        {
+          "slug": "crab-titanium",
+          "url": "/schofield/crab/crab-titanium",
+          "text": "Crab Titanium"
+        },
+        {
+          "slug": "crab-bronze",
+          "url": "/schofield/crab/crab-bronze",
+          "text": "Crab Bronze"
+        }
+      ]
+    }
+  ],
+  "total_references": 13
+}

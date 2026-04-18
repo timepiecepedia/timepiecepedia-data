@@ -1,0 +1,116 @@
+{
+  "brand_slug": "orient",
+  "collections": [
+    {
+      "name": "Bambino",
+      "slug": "bambino",
+      "references": [
+        {
+          "slug": "bambino-version-2-white",
+          "url": "/orient/bambino/bambino-version-2-white",
+          "text": "Bambino Version 2 White Dial"
+        },
+        {
+          "slug": "bambino-version-4-blue",
+          "url": "/orient/bambino/bambino-version-4-blue",
+          "text": "Bambino Version 4 Blue Dial"
+        },
+        {
+          "slug": "bambino-small-seconds",
+          "url": "/orient/bambino/bambino-small-seconds",
+          "text": "Bambino Small Seconds"
+        }
+      ]
+    },
+    {
+      "name": "Mako",
+      "slug": "mako",
+      "references": [
+        {
+          "slug": "mako-ii-black",
+          "url": "/orient/mako/mako-ii-black",
+          "text": "Mako II Black"
+        },
+        {
+          "slug": "mako-usa-ii-blue",
+          "url": "/orient/mako/mako-usa-ii-blue",
+          "text": "Mako USA II Blue"
+        },
+        {
+          "slug": "mako-iii-black",
+          "url": "/orient/mako/mako-iii-black",
+          "text": "Mako III Black"
+        }
+      ]
+    },
+    {
+      "name": "Ray",
+      "slug": "ray",
+      "references": [
+        {
+          "slug": "ray-ii-black",
+          "url": "/orient/ray/ray-ii-black",
+          "text": "Ray II Black"
+        },
+        {
+          "slug": "ray-ii-blue",
+          "url": "/orient/ray/ray-ii-blue",
+          "text": "Ray II Blue"
+        },
+        {
+          "slug": "ray-raven-ii",
+          "url": "/orient/ray/ray-raven-ii",
+          "text": "Ray Raven II Black PVD"
+        }
+      ]
+    },
+    {
+      "name": "Kamasu",
+      "slug": "kamasu",
+      "references": [
+        {
+          "slug": "kamasu-green",
+          "url": "/orient/kamasu/kamasu-green",
+          "text": "Kamasu Green Dial"
+        },
+        {
+          "slug": "kamasu-red",
+          "url": "/orient/kamasu/kamasu-red",
+          "text": "Kamasu Red Dial"
+        },
+        {
+          "slug": "kamasu-blue",
+          "url": "/orient/kamasu/kamasu-blue",
+          "text": "Kamasu Blue Dial"
+        }
+      ]
+    },
+    {
+      "name": "Sun and Moon",
+      "slug": "sun-and-moon",
+      "references": [
+        {
+          "slug": "sun-and-moon-v3-white",
+          "url": "/orient/sun-and-moon/sun-and-moon-v3-white",
+          "text": "Sun and Moon Version 3 White"
+        },
+        {
+          "slug": "sun-and-moon-v3-blue",
+          "url": "/orient/sun-and-moon/sun-and-moon-v3-blue",
+          "text": "Sun and Moon Version 3 Blue"
+        },
+        {
+          "slug": "sun-and-moon-open-heart",
+          "url": "/orient/sun-and-moon/sun-and-moon-open-heart",
+          "text": "Sun and Moon Open Heart"
+        },
+        {
+          "slug": "sun-and-moon-v5",
+          "url": "/orient/sun-and-moon/sun-and-moon-v5",
+          "text": "Sun and Moon Version 5"
+        }
+      ]
+    }
+  ],
+  "total_references": 16
+}

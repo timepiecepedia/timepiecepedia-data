@@ -1,0 +1,345 @@
+{
+  "brand_slug": "hmt",
+  "collections": [
+    {
+      "name": "Pilot",
+      "slug": "pilot",
+      "references": [
+        {
+          "slug": "pilot-handwound",
+          "url": "/hmt/pilot/pilot-handwound",
+          "title": "Pilot Handwound",
+          "specs": {
+            "Brand": "HMT",
+            "Family": "Pilot",
+            "Reference": "N/A",
+            "Name": "Pilot",
+            "Movement": "HMT 0231 (handwound)",
+            "Materials": "Stainless steel",
+            "Diameter": "34mm",
+            "W/R": "30m",
+            "Glass": "Acrylic",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "pilot-automatic",
+          "url": "/hmt/pilot/pilot-automatic",
+          "title": "Pilot Automatic",
+          "specs": {
+            "Brand": "HMT",
+            "Family": "Pilot",
+            "Reference": "N/A",
+            "Name": "Pilot Automatic",
+            "Movement": "HMT 2194 (automatic)",
+            "Materials": "Stainless steel",
+            "Diameter": "35mm",
+            "W/R": "30m",
+            "Glass": "Acrylic",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "pilot-black-dial",
+          "url": "/hmt/pilot/pilot-black-dial",
+          "title": "Pilot Black Dial",
+          "specs": {
+            "Brand": "HMT",
+            "Family": "Pilot",
+            "Reference": "N/A",
+            "Name": "Pilot Black",
+            "Movement": "HMT 0231 (handwound)",
+            "Materials": "Stainless steel",
+            "Diameter": "34mm",
+            "W/R": "30m",
+            "Glass": "Acrylic",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Janata",
+      "slug": "janata",
+      "references": [
+        {
+          "slug": "janata-white-dial",
+          "url": "/hmt/janata/janata-white-dial",
+          "title": "Janata White Dial",
+          "specs": {
+            "Brand": "HMT",
+            "Family": "Janata",
+            "Reference": "N/A",
+            "Name": "Janata",
+            "Movement": "HMT 0231 (handwound)",
+            "Materials": "Stainless steel",
+            "Diameter": "35mm",
+            "W/R": "30m",
+            "Glass": "Acrylic",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "janata-deluxe",
+          "url": "/hmt/janata/janata-deluxe",
+          "title": "Janata Deluxe",
+          "specs": {
+            "Brand": "HMT",
+            "Family": "Janata",
+            "Reference": "N/A",
+            "Name": "Janata Deluxe",
+            "Movement": "HMT 0231 (handwound)",
+            "Materials": "Stainless steel",
+            "Diameter": "35mm",
+            "W/R": "30m",
+            "Glass": "Acrylic",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "janata-roman",
+          "url": "/hmt/janata/janata-roman",
+          "title": "Janata Roman Numerals",
+          "specs": {
+            "Brand": "HMT",
+            "Family": "Janata",
+            "Reference": "N/A",
+            "Name": "Janata Roman",
+            "Movement": "HMT 0231 (handwound)",
+            "Materials": "Stainless steel",
+            "Diameter": "35mm",
+            "W/R": "30m",
+            "Glass": "Acrylic",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sona",
+      "slug": "sona",
+      "references": [
+        {
+          "slug": "sona-gold-tone",
+          "url": "/hmt/sona/sona-gold-tone",
+          "title": "Sona Gold Tone",
+          "specs": {
+            "Brand": "HMT",
+            "Family": "Sona",
+            "Reference": "N/A",
+            "Name": "Sona",
+            "Movement": "HMT 0231 (handwound)",
+            "Materials": "Gold-plated stainless steel",
+            "Diameter": "34mm",
+            "W/R": "30m",
+            "Glass": "Acrylic",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "sona-automatic",
+          "url": "/hmt/sona/sona-automatic",
+          "title": "Sona Automatic",
+          "specs": {
+            "Brand": "HMT",
+            "Family": "Sona",
+            "Reference": "N/A",
+            "Name": "Sona Automatic",
+            "Movement": "HMT 2194 (automatic)",
+            "Materials": "Gold-plated stainless steel",
+            "Diameter": "35mm",
+            "W/R": "30m",
+            "Glass": "Acrylic",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "sona-regal",
+          "url": "/hmt/sona/sona-regal",
+          "title": "Sona Regal",
+          "specs": {
+            "Brand": "HMT",
+            "Family": "Sona",
+            "Reference": "N/A",
+            "Name": "Sona Regal",
+            "Movement": "HMT 0231 (handwound)",
+            "Materials": "Gold-plated stainless steel",
+            "Diameter": "34mm",
+            "W/R": "30m",
+            "Glass": "Acrylic",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kohinoor",
+      "slug": "kohinoor",
+      "references": [
+        {
+          "slug": "kohinoor-automatic",
+          "url": "/hmt/kohinoor/kohinoor-automatic",
+          "title": "Kohinoor Automatic",
+          "specs": {
+            "Brand": "HMT",
+            "Family": "Kohinoor",
+            "Reference": "N/A",
+            "Name": "Kohinoor",
+            "Movement": "HMT 0231A (automatic)",
+            "Materials": "Stainless steel",
+            "Diameter": "36mm",
+            "W/R": "30m",
+            "Glass": "Acrylic",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "kohinoor-deluxe",
+          "url": "/hmt/kohinoor/kohinoor-deluxe",
+          "title": "Kohinoor Deluxe",
+          "specs": {
+            "Brand": "HMT",
+            "Family": "Kohinoor",
+            "Reference": "N/A",
+            "Name": "Kohinoor Deluxe",
+            "Movement": "HMT 0231A (automatic)",
+            "Materials": "Stainless steel",
+            "Diameter": "36mm",
+            "W/R": "30m",
+            "Glass": "Acrylic",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rajat",
+      "slug": "rajat",
+      "references": [
+        {
+          "slug": "rajat-handwound",
+          "url": "/hmt/rajat/rajat-handwound",
+          "title": "Rajat Handwound",
+          "specs": {
+            "Brand": "HMT",
+            "Family": "Rajat",
+            "Reference": "N/A",
+            "Name": "Rajat",
+            "Movement": "HMT 0231 (handwound)",
+            "Materials": "Stainless steel",
+            "Diameter": "35mm",
+            "W/R": "30m",
+            "Glass": "Acrylic",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "rajat-automatic",
+          "url": "/hmt/rajat/rajat-automatic",
+          "title": "Rajat Automatic",
+          "specs": {
+            "Brand": "HMT",
+            "Family": "Rajat",
+            "Reference": "N/A",
+            "Name": "Rajat Automatic",
+            "Movement": "HMT 2194 (automatic)",
+            "Materials": "Stainless steel",
+            "Diameter": "35mm",
+            "W/R": "30m",
+            "Glass": "Acrylic",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "rajat-white-dial",
+          "url": "/hmt/rajat/rajat-white-dial",
+          "title": "Rajat White Dial",
+          "specs": {
+            "Brand": "HMT",
+            "Family": "Rajat",
+            "Reference": "N/A",
+            "Name": "Rajat White",
+            "Movement": "HMT 0231 (handwound)",
+            "Materials": "Stainless steel",
+            "Diameter": "35mm",
+            "W/R": "30m",
+            "Glass": "Acrylic",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 14,
+  "enriched_at": "2026-04-18T17:11:54.442Z"
+}

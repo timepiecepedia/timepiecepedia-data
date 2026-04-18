@@ -1,0 +1,367 @@
+{
+  "brand_slug": "yema",
+  "collections": [
+    {
+      "name": "Superman",
+      "slug": "superman",
+      "references": [
+        {
+          "slug": "superman-heritage",
+          "url": "/yema/superman/superman-heritage",
+          "title": "Superman Heritage Steel Dive Watch",
+          "specs": {
+            "Brand": "Yema",
+            "Family": "Superman",
+            "Reference": "YSUP2018A",
+            "Name": "Superman Heritage",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "39mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "superman-bronze",
+          "url": "/yema/superman/superman-bronze",
+          "title": "Superman Bronze Dive Watch",
+          "specs": {
+            "Brand": "Yema",
+            "Family": "Superman",
+            "Reference": "N/A",
+            "Name": "Superman Bronze",
+            "Movement": "Automatic",
+            "Materials": "Bronze",
+            "Diameter": "39mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "superman-500",
+          "url": "/yema/superman/superman-500",
+          "title": "Superman 500 Steel Dive Watch",
+          "specs": {
+            "Brand": "Yema",
+            "Family": "Superman",
+            "Reference": "N/A",
+            "Name": "Superman 500",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "41mm",
+            "W/R": "500m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "superman-gmt",
+          "url": "/yema/superman/superman-gmt",
+          "title": "Superman GMT Steel Travel Watch",
+          "specs": {
+            "Brand": "Yema",
+            "Family": "Superman",
+            "Reference": "N/A",
+            "Name": "Superman GMT",
+            "Movement": "Automatic",
+            "Materials": "Stainless Steel",
+            "Diameter": "39mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Date, GMT"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rallygraf",
+      "slug": "rallygraf",
+      "references": [
+        {
+          "slug": "rallygraf-monopoussoir",
+          "url": "/yema/rallygraf/rallygraf-monopoussoir",
+          "title": "Rallygraf Monopoussoir Steel Chronograph",
+          "specs": {
+            "Brand": "Yema",
+            "Family": "Rallygraf",
+            "Reference": "N/A",
+            "Name": "Rallygraf Monopoussoir",
+            "Movement": "Mechanical Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "39mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "rallygraf-39",
+          "url": "/yema/rallygraf/rallygraf-39",
+          "title": "Rallygraf 39 Steel Chronograph",
+          "specs": {
+            "Brand": "Yema",
+            "Family": "Rallygraf",
+            "Reference": "N/A",
+            "Name": "Rallygraf 39",
+            "Movement": "Automatic Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "39mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "rallygraf-traveller",
+          "url": "/yema/rallygraf/rallygraf-traveller",
+          "title": "Rallygraf Traveller Steel GMT Chronograph",
+          "specs": {
+            "Brand": "Yema",
+            "Family": "Rallygraf",
+            "Reference": "N/A",
+            "Name": "Rallygraf Traveller",
+            "Movement": "Automatic Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "41mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date, GMT"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Speedgraf",
+      "slug": "speedgraf",
+      "references": [
+        {
+          "slug": "speedgraf-pilot",
+          "url": "/yema/speedgraf/speedgraf-pilot",
+          "title": "Speedgraf Pilot Steel Chronograph",
+          "specs": {
+            "Brand": "Yema",
+            "Family": "Speedgraf",
+            "Reference": "N/A",
+            "Name": "Speedgraf Pilot",
+            "Movement": "Automatic Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "43mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "speedgraf-38",
+          "url": "/yema/speedgraf/speedgraf-38",
+          "title": "Speedgraf 38 Steel Chronograph",
+          "specs": {
+            "Brand": "Yema",
+            "Family": "Speedgraf",
+            "Reference": "N/A",
+            "Name": "Speedgraf 38",
+            "Movement": "Automatic Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "38mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "speedgraf-bronze",
+          "url": "/yema/speedgraf/speedgraf-bronze",
+          "title": "Speedgraf Bronze Chronograph",
+          "specs": {
+            "Brand": "Yema",
+            "Family": "Speedgraf",
+            "Reference": "N/A",
+            "Name": "Speedgraf Bronze",
+            "Movement": "Automatic Chronograph",
+            "Materials": "Bronze",
+            "Diameter": "43mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Navygraf",
+      "slug": "navygraf",
+      "references": [
+        {
+          "slug": "navygraf-heritage",
+          "url": "/yema/navygraf/navygraf-heritage",
+          "title": "Navygraf Heritage Steel Chronograph",
+          "specs": {
+            "Brand": "Yema",
+            "Family": "Navygraf",
+            "Reference": "N/A",
+            "Name": "Navygraf Heritage",
+            "Movement": "Automatic Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "39mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "navygraf-marine-nationale",
+          "url": "/yema/navygraf/navygraf-marine-nationale",
+          "title": "Navygraf Marine Nationale Steel Chronograph",
+          "specs": {
+            "Brand": "Yema",
+            "Family": "Navygraf",
+            "Reference": "N/A",
+            "Name": "Navygraf Marine Nationale",
+            "Movement": "Automatic Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "39mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "navygraf-maxi-dial",
+          "url": "/yema/navygraf/navygraf-maxi-dial",
+          "title": "Navygraf Maxi Dial Steel Chronograph",
+          "specs": {
+            "Brand": "Yema",
+            "Family": "Navygraf",
+            "Reference": "N/A",
+            "Name": "Navygraf Maxi Dial",
+            "Movement": "Automatic Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "41mm",
+            "W/R": "300m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flygraf",
+      "slug": "flygraf",
+      "references": [
+        {
+          "slug": "flygraf-french-air-force",
+          "url": "/yema/flygraf/flygraf-french-air-force",
+          "title": "Flygraf French Air Force Steel Chronograph",
+          "specs": {
+            "Brand": "Yema",
+            "Family": "Flygraf",
+            "Reference": "N/A",
+            "Name": "Flygraf French Air Force",
+            "Movement": "Automatic Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "39mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "flygraf-type-20",
+          "url": "/yema/flygraf/flygraf-type-20",
+          "title": "Flygraf Type 20 Steel Pilot Chronograph",
+          "specs": {
+            "Brand": "Yema",
+            "Family": "Flygraf",
+            "Reference": "N/A",
+            "Name": "Flygraf Type 20",
+            "Movement": "Automatic Chronograph",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 15,
+  "enriched_at": "2026-04-18T17:27:26.099Z"
+}

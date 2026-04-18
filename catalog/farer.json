@@ -1,0 +1,95 @@
+{
+  "brand_slug": "farer",
+  "collections": [
+    {
+      "name": "Automatic",
+      "slug": "automatic",
+      "references": [
+        {
+          "slug": "lander-iv",
+          "url": "/farer/automatic/lander-iv",
+          "text": "Lander IV Automatic"
+        },
+        {
+          "slug": "oxley",
+          "url": "/farer/automatic/oxley",
+          "text": "Oxley Automatic"
+        },
+        {
+          "slug": "mansfield",
+          "url": "/farer/automatic/mansfield",
+          "text": "Mansfield Automatic"
+        }
+      ]
+    },
+    {
+      "name": "GMT",
+      "slug": "gmt",
+      "references": [
+        {
+          "slug": "oxley-gmt",
+          "url": "/farer/gmt/oxley-gmt",
+          "text": "Oxley GMT"
+        },
+        {
+          "slug": "mansfield-gmt",
+          "url": "/farer/gmt/mansfield-gmt",
+          "text": "Mansfield GMT"
+        },
+        {
+          "slug": "cobb-gmt",
+          "url": "/farer/gmt/cobb-gmt",
+          "text": "Cobb GMT"
+        }
+      ]
+    },
+    {
+      "name": "Chronograph",
+      "slug": "chronograph",
+      "references": [
+        {
+          "slug": "cobb",
+          "url": "/farer/chronograph/cobb",
+          "text": "Cobb Chronograph"
+        },
+        {
+          "slug": "segrave",
+          "url": "/farer/chronograph/segrave",
+          "text": "Segrave Chronograph"
+        },
+        {
+          "slug": "eldridge",
+          "url": "/farer/chronograph/eldridge",
+          "text": "Eldridge Chronograph"
+        },
+        {
+          "slug": "lander",
+          "url": "/farer/chronograph/lander",
+          "text": "Lander Chronograph"
+        }
+      ]
+    },
+    {
+      "name": "Aqua Compressor",
+      "slug": "aqua-compressor",
+      "references": [
+        {
+          "slug": "ponting",
+          "url": "/farer/aqua-compressor/ponting",
+          "text": "Ponting Aqua Compressor"
+        },
+        {
+          "slug": "lomond",
+          "url": "/farer/aqua-compressor/lomond",
+          "text": "Lomond Aqua Compressor"
+        },
+        {
+          "slug": "leven",
+          "url": "/farer/aqua-compressor/leven",
+          "text": "Leven Aqua Compressor"
+        }
+      ]
+    }
+  ],
+  "total_references": 13
+}

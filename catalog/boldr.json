@@ -1,0 +1,111 @@
+{
+  "brand_slug": "boldr",
+  "collections": [
+    {
+      "name": "Venture",
+      "slug": "venture",
+      "references": [
+        {
+          "slug": "venture-oceanographer",
+          "url": "/boldr/venture/venture-oceanographer",
+          "text": "Venture Oceanographer Stainless Steel Field Watch"
+        },
+        {
+          "slug": "venture-safari",
+          "url": "/boldr/venture/venture-safari",
+          "text": "Venture Safari Stainless Steel Field Watch"
+        },
+        {
+          "slug": "venture-field-medic",
+          "url": "/boldr/venture/venture-field-medic",
+          "text": "Venture Field Medic Stainless Steel Field Watch"
+        }
+      ]
+    },
+    {
+      "name": "Odyssey",
+      "slug": "odyssey",
+      "references": [
+        {
+          "slug": "odyssey-automatic-carbon",
+          "url": "/boldr/odyssey/odyssey-automatic-carbon",
+          "text": "Odyssey Automatic Carbon Fiber Dive Watch"
+        },
+        {
+          "slug": "odyssey-chronograph-steel",
+          "url": "/boldr/odyssey/odyssey-chronograph-steel",
+          "text": "Odyssey Chronograph Stainless Steel Dive Watch"
+        },
+        {
+          "slug": "odyssey-titanium",
+          "url": "/boldr/odyssey/odyssey-titanium",
+          "text": "Odyssey Titanium Dive Watch"
+        }
+      ]
+    },
+    {
+      "name": "Expedition",
+      "slug": "expedition",
+      "references": [
+        {
+          "slug": "expedition-gmt-steel",
+          "url": "/boldr/expedition/expedition-gmt-steel",
+          "text": "Expedition GMT Stainless Steel Travel Watch"
+        },
+        {
+          "slug": "expedition-everest",
+          "url": "/boldr/expedition/expedition-everest",
+          "text": "Expedition Everest Stainless Steel GMT Watch"
+        },
+        {
+          "slug": "expedition-everest-titanium",
+          "url": "/boldr/expedition/expedition-everest-titanium",
+          "text": "Expedition Everest Titanium GMT Watch"
+        }
+      ]
+    },
+    {
+      "name": "Journey",
+      "slug": "journey",
+      "references": [
+        {
+          "slug": "journey-clockwork-orange",
+          "url": "/boldr/journey/journey-clockwork-orange",
+          "text": "Journey Clockwork Orange Automatic Watch"
+        },
+        {
+          "slug": "journey-open-heart",
+          "url": "/boldr/journey/journey-open-heart",
+          "text": "Journey Open Heart Automatic Watch"
+        },
+        {
+          "slug": "journey-wayfarer",
+          "url": "/boldr/journey/journey-wayfarer",
+          "text": "Journey Wayfarer Stainless Steel Automatic Watch"
+        }
+      ]
+    },
+    {
+      "name": "Supply",
+      "slug": "supply",
+      "references": [
+        {
+          "slug": "supply-co-38mm",
+          "url": "/boldr/supply/supply-co-38mm",
+          "text": "Supply Co 38mm Stainless Steel Field Watch"
+        },
+        {
+          "slug": "supply-co-titanium",
+          "url": "/boldr/supply/supply-co-titanium",
+          "text": "Supply Co Titanium Field Watch"
+        },
+        {
+          "slug": "supply-co-bronze",
+          "url": "/boldr/supply/supply-co-bronze",
+          "text": "Supply Co Bronze Field Watch"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

@@ -1,0 +1,100 @@
+{
+  "brand_slug": "van-cleef-and-arpels",
+  "collections": [
+    {
+      "name": "Poetic Complications",
+      "slug": "poetic-complications",
+      "references": [
+        {
+          "slug": "midnight-planetarium",
+          "url": "/van-cleef-and-arpels/poetic-complications/midnight-planetarium",
+          "text": "Midnight Planétarium Rose Gold Astronomical"
+        },
+        {
+          "slug": "lady-arpels-planetarium",
+          "url": "/van-cleef-and-arpels/poetic-complications/lady-arpels-planetarium",
+          "text": "Lady Arpels Planétarium White Gold Astronomical"
+        },
+        {
+          "slug": "pont-des-amoureux",
+          "url": "/van-cleef-and-arpels/poetic-complications/pont-des-amoureux",
+          "text": "Pont des Amoureux White Gold Automaton"
+        },
+        {
+          "slug": "midnight-nuit-lumineuse",
+          "url": "/van-cleef-and-arpels/poetic-complications/midnight-nuit-lumineuse",
+          "text": "Midnight Nuit Lumineuse White Gold Moonphase"
+        }
+      ]
+    },
+    {
+      "name": "Alhambra",
+      "slug": "alhambra",
+      "references": [
+        {
+          "slug": "alhambra-watch-white-gold",
+          "url": "/van-cleef-and-arpels/alhambra/alhambra-watch-white-gold",
+          "text": "Alhambra Watch White Gold Mother-of-Pearl"
+        },
+        {
+          "slug": "alhambra-secret-watch",
+          "url": "/van-cleef-and-arpels/alhambra/alhambra-secret-watch",
+          "text": "Alhambra Secret Watch Yellow Gold Diamond"
+        },
+        {
+          "slug": "sweet-alhambra-watch",
+          "url": "/van-cleef-and-arpels/alhambra/sweet-alhambra-watch",
+          "text": "Sweet Alhambra Watch Rose Gold"
+        }
+      ]
+    },
+    {
+      "name": "Lady Arpels",
+      "slug": "lady-arpels",
+      "references": [
+        {
+          "slug": "lady-arpels-ballerine-enchantee",
+          "url": "/van-cleef-and-arpels/lady-arpels/lady-arpels-ballerine-enchantee",
+          "text": "Lady Arpels Ballerine Enchantée White Gold Automaton"
+        },
+        {
+          "slug": "lady-arpels-papillon-automate",
+          "url": "/van-cleef-and-arpels/lady-arpels/lady-arpels-papillon-automate",
+          "text": "Lady Arpels Papillon Automate White Gold"
+        },
+        {
+          "slug": "lady-arpels-fairy",
+          "url": "/van-cleef-and-arpels/lady-arpels/lady-arpels-fairy",
+          "text": "Lady Arpels Fée Ondine White Gold"
+        },
+        {
+          "slug": "lady-arpels-zodiac-lumineux",
+          "url": "/van-cleef-and-arpels/lady-arpels/lady-arpels-zodiac-lumineux",
+          "text": "Lady Arpels Zodiac Lumineux Rose Gold"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Arpels",
+      "slug": "pierre-arpels",
+      "references": [
+        {
+          "slug": "pierre-arpels-pink-gold",
+          "url": "/van-cleef-and-arpels/pierre-arpels/pierre-arpels-pink-gold",
+          "text": "Pierre Arpels Pink Gold"
+        },
+        {
+          "slug": "pierre-arpels-perpetual-calendar",
+          "url": "/van-cleef-and-arpels/pierre-arpels/pierre-arpels-perpetual-calendar",
+          "text": "Pierre Arpels Perpetual Calendar White Gold"
+        },
+        {
+          "slug": "pierre-arpels-three-time-zones",
+          "url": "/van-cleef-and-arpels/pierre-arpels/pierre-arpels-three-time-zones",
+          "text": "Pierre Arpels Three Time Zones Rose Gold"
+        }
+      ]
+    }
+  ],
+  "total_references": 14
+}

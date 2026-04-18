@@ -1,0 +1,111 @@
+{
+  "brand_slug": "shanghai",
+  "collections": [
+    {
+      "name": "Seagull ST19 Series",
+      "slug": "seagull-st19",
+      "references": [
+        {
+          "slug": "st19-panda-chronograph",
+          "url": "/shanghai/seagull-st19/st19-panda-chronograph",
+          "text": "ST19 Panda Chronograph Stainless Steel"
+        },
+        {
+          "slug": "st19-sapphire-blue",
+          "url": "/shanghai/seagull-st19/st19-sapphire-blue",
+          "text": "ST19 Blue Dial Chronograph Sapphire"
+        },
+        {
+          "slug": "st19-gold-plated",
+          "url": "/shanghai/seagull-st19/st19-gold-plated",
+          "text": "ST19 Gold-Plated Chronograph"
+        }
+      ]
+    },
+    {
+      "name": "Classic Mechanical",
+      "slug": "classic-mechanical",
+      "references": [
+        {
+          "slug": "sh-unified-movement",
+          "url": "/shanghai/classic-mechanical/sh-unified-movement",
+          "text": "SH Unified Movement White Dial"
+        },
+        {
+          "slug": "vintage-dress-watch",
+          "url": "/shanghai/classic-mechanical/vintage-dress-watch",
+          "text": "Vintage Dress Watch Gold"
+        },
+        {
+          "slug": "classic-roman-dial",
+          "url": "/shanghai/classic-mechanical/classic-roman-dial",
+          "text": "Classic Roman Dial Automatic"
+        }
+      ]
+    },
+    {
+      "name": "Tourbillon",
+      "slug": "tourbillon",
+      "references": [
+        {
+          "slug": "double-tourbillon",
+          "url": "/shanghai/tourbillon/double-tourbillon",
+          "text": "Double Tourbillon Rose Gold"
+        },
+        {
+          "slug": "flying-tourbillon",
+          "url": "/shanghai/tourbillon/flying-tourbillon",
+          "text": "Flying Tourbillon Skeleton"
+        },
+        {
+          "slug": "tourbillon-moonphase",
+          "url": "/shanghai/tourbillon/tourbillon-moonphase",
+          "text": "Tourbillon Moonphase White Gold"
+        }
+      ]
+    },
+    {
+      "name": "7120 Heritage",
+      "slug": "7120-heritage",
+      "references": [
+        {
+          "slug": "7120-original",
+          "url": "/shanghai/7120-heritage/7120-original",
+          "text": "7120 Original White Dial"
+        },
+        {
+          "slug": "7120-military",
+          "url": "/shanghai/7120-heritage/7120-military",
+          "text": "7120 Military Black Dial"
+        },
+        {
+          "slug": "7120-date",
+          "url": "/shanghai/7120-heritage/7120-date",
+          "text": "7120 Date Function"
+        }
+      ]
+    },
+    {
+      "name": "Modern Sport",
+      "slug": "modern-sport",
+      "references": [
+        {
+          "slug": "sport-diver",
+          "url": "/shanghai/modern-sport/sport-diver",
+          "text": "Sport Diver Automatic 200m"
+        },
+        {
+          "slug": "pilot-chronograph",
+          "url": "/shanghai/modern-sport/pilot-chronograph",
+          "text": "Pilot Chronograph Black PVD"
+        },
+        {
+          "slug": "gmt-traveler",
+          "url": "/shanghai/modern-sport/gmt-traveler",
+          "text": "GMT Traveler Dual Time"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

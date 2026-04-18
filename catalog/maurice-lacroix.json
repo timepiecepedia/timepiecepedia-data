@@ -1,0 +1,110 @@
+{
+  "brand_slug": "maurice-lacroix",
+  "collections": [
+    {
+      "name": "Aikon",
+      "slug": "aikon",
+      "references": [
+        {
+          "slug": "aikon-automatic-39mm-steel",
+          "url": "/maurice-lacroix/aikon/aikon-automatic-39mm-steel",
+          "text": "Aikon Automatic 39mm Stainless Steel"
+        },
+        {
+          "slug": "aikon-automatic-42mm-steel",
+          "url": "/maurice-lacroix/aikon/aikon-automatic-42mm-steel",
+          "text": "Aikon Automatic 42mm Stainless Steel"
+        },
+        {
+          "slug": "aikon-chronograph-steel",
+          "url": "/maurice-lacroix/aikon/aikon-chronograph-steel",
+          "text": "Aikon Chronograph Stainless Steel"
+        },
+        {
+          "slug": "aikon-quartz-39mm",
+          "url": "/maurice-lacroix/aikon/aikon-quartz-39mm",
+          "text": "Aikon Quartz 39mm"
+        }
+      ]
+    },
+    {
+      "name": "Masterpiece",
+      "slug": "masterpiece",
+      "references": [
+        {
+          "slug": "masterpiece-squelette-steel",
+          "url": "/maurice-lacroix/masterpiece/masterpiece-squelette-steel",
+          "text": "Masterpiece Squelette Stainless Steel"
+        },
+        {
+          "slug": "masterpiece-double-retrograde",
+          "url": "/maurice-lacroix/masterpiece/masterpiece-double-retrograde",
+          "text": "Masterpiece Double Retrograde"
+        },
+        {
+          "slug": "masterpiece-lune-retrograde",
+          "url": "/maurice-lacroix/masterpiece/masterpiece-lune-retrograde",
+          "text": "Masterpiece Lune Retrograde Moonphase"
+        },
+        {
+          "slug": "masterpiece-phases-de-lune",
+          "url": "/maurice-lacroix/masterpiece/masterpiece-phases-de-lune",
+          "text": "Masterpiece Phases de Lune"
+        }
+      ]
+    },
+    {
+      "name": "Pontos",
+      "slug": "pontos",
+      "references": [
+        {
+          "slug": "pontos-chronograph-steel",
+          "url": "/maurice-lacroix/pontos/pontos-chronograph-steel",
+          "text": "Pontos Chronograph Stainless Steel"
+        },
+        {
+          "slug": "pontos-date-automatic",
+          "url": "/maurice-lacroix/pontos/pontos-date-automatic",
+          "text": "Pontos Date Automatic"
+        },
+        {
+          "slug": "pontos-day-date",
+          "url": "/maurice-lacroix/pontos/pontos-day-date",
+          "text": "Pontos Day Date"
+        },
+        {
+          "slug": "pontos-s-diver",
+          "url": "/maurice-lacroix/pontos/pontos-s-diver",
+          "text": "Pontos S Diver"
+        }
+      ]
+    },
+    {
+      "name": "Eliros",
+      "slug": "eliros",
+      "references": [
+        {
+          "slug": "eliros-date-automatic",
+          "url": "/maurice-lacroix/eliros/eliros-date-automatic",
+          "text": "Eliros Date Automatic"
+        },
+        {
+          "slug": "eliros-chronograph",
+          "url": "/maurice-lacroix/eliros/eliros-chronograph",
+          "text": "Eliros Chronograph"
+        },
+        {
+          "slug": "eliros-ladies-moonphase",
+          "url": "/maurice-lacroix/eliros/eliros-ladies-moonphase",
+          "text": "Eliros Ladies Moonphase"
+        },
+        {
+          "slug": "eliros-three-hands",
+          "url": "/maurice-lacroix/eliros/eliros-three-hands",
+          "text": "Eliros Three Hands"
+        }
+      ]
+    }
+  ],
+  "total_references": 16
+}

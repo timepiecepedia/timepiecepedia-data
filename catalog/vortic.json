@@ -1,0 +1,84 @@
+{
+  "brand_slug": "vortic",
+  "collections": [
+    {
+      "name": "American Artisan Series",
+      "slug": "american-artisan-series",
+      "references": [
+        {
+          "slug": "elgin-military-conversion",
+          "url": "/vortic/american-artisan-series/elgin-military-conversion",
+          "text": "Elgin Military Conversion"
+        },
+        {
+          "slug": "waltham-custom-conversion",
+          "url": "/vortic/american-artisan-series/waltham-custom-conversion",
+          "text": "Waltham Custom Conversion"
+        },
+        {
+          "slug": "hamilton-992b-conversion",
+          "url": "/vortic/american-artisan-series/hamilton-992b-conversion",
+          "text": "Hamilton 992B Conversion"
+        },
+        {
+          "slug": "illinois-bunn-special",
+          "url": "/vortic/american-artisan-series/illinois-bunn-special",
+          "text": "Illinois Bunn Special Conversion"
+        }
+      ]
+    },
+    {
+      "name": "Military Edition",
+      "slug": "military-edition",
+      "references": [
+        {
+          "slug": "wwii-elgin-military",
+          "url": "/vortic/military-edition/wwii-elgin-military",
+          "text": "WWII Elgin Military"
+        },
+        {
+          "slug": "waltham-a11-navigator",
+          "url": "/vortic/military-edition/waltham-a11-navigator",
+          "text": "Waltham A-11 Navigator"
+        },
+        {
+          "slug": "hamilton-military-grade",
+          "url": "/vortic/military-edition/hamilton-military-grade",
+          "text": "Hamilton Military Grade"
+        }
+      ]
+    },
+    {
+      "name": "Railroad Collection",
+      "slug": "railroad-collection",
+      "references": [
+        {
+          "slug": "hamilton-992-railroad",
+          "url": "/vortic/railroad-collection/hamilton-992-railroad",
+          "text": "Hamilton 992 Railroad"
+        },
+        {
+          "slug": "ball-official-railroad",
+          "url": "/vortic/railroad-collection/ball-official-railroad",
+          "text": "Ball Official Railroad Standard"
+        },
+        {
+          "slug": "waltham-vanguard-railroad",
+          "url": "/vortic/railroad-collection/waltham-vanguard-railroad",
+          "text": "Waltham Vanguard Railroad"
+        },
+        {
+          "slug": "elgin-bw-raymond-railroad",
+          "url": "/vortic/railroad-collection/elgin-bw-raymond-railroad",
+          "text": "Elgin B.W. Raymond Railroad"
+        },
+        {
+          "slug": "south-bend-studebaker",
+          "url": "/vortic/railroad-collection/south-bend-studebaker",
+          "text": "South Bend Studebaker Railroad"
+        }
+      ]
+    }
+  ],
+  "total_references": 12
+}

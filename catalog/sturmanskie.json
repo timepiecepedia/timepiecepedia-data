@@ -1,0 +1,111 @@
+{
+  "brand_slug": "sturmanskie",
+  "collections": [
+    {
+      "name": "Gagarin",
+      "slug": "gagarin",
+      "references": [
+        {
+          "slug": "gagarin-heritage",
+          "url": "/sturmanskie/gagarin/gagarin-heritage",
+          "text": "Gagarin Heritage Steel Manual"
+        },
+        {
+          "slug": "gagarin-anniversary-edition",
+          "url": "/sturmanskie/gagarin/gagarin-anniversary-edition",
+          "text": "Gagarin 60th Anniversary Steel Manual"
+        },
+        {
+          "slug": "gagarin-automatic",
+          "url": "/sturmanskie/gagarin/gagarin-automatic",
+          "text": "Gagarin Steel Automatic"
+        }
+      ]
+    },
+    {
+      "name": "Ocean",
+      "slug": "ocean",
+      "references": [
+        {
+          "slug": "ocean-automatic-diver",
+          "url": "/sturmanskie/ocean/ocean-automatic-diver",
+          "text": "Ocean Steel Automatic Diver"
+        },
+        {
+          "slug": "ocean-chronograph",
+          "url": "/sturmanskie/ocean/ocean-chronograph",
+          "text": "Ocean Steel Chronograph"
+        },
+        {
+          "slug": "ocean-blue-dial",
+          "url": "/sturmanskie/ocean/ocean-blue-dial",
+          "text": "Ocean Blue Dial Steel Automatic"
+        }
+      ]
+    },
+    {
+      "name": "Sputnik",
+      "slug": "sputnik",
+      "references": [
+        {
+          "slug": "sputnik-chronograph",
+          "url": "/sturmanskie/sputnik/sputnik-chronograph",
+          "text": "Sputnik Steel Chronograph"
+        },
+        {
+          "slug": "sputnik-automatic",
+          "url": "/sturmanskie/sputnik/sputnik-automatic",
+          "text": "Sputnik Steel Automatic"
+        },
+        {
+          "slug": "sputnik-limited-edition",
+          "url": "/sturmanskie/sputnik/sputnik-limited-edition",
+          "text": "Sputnik Limited Edition Steel Chronograph"
+        }
+      ]
+    },
+    {
+      "name": "Strela",
+      "slug": "strela",
+      "references": [
+        {
+          "slug": "strela-chronograph-38mm",
+          "url": "/sturmanskie/strela/strela-chronograph-38mm",
+          "text": "Strela Heritage Chronograph 38mm Steel"
+        },
+        {
+          "slug": "strela-chronograph-40mm",
+          "url": "/sturmanskie/strela/strela-chronograph-40mm",
+          "text": "Strela Modern Chronograph 40mm Steel"
+        },
+        {
+          "slug": "strela-cosmos",
+          "url": "/sturmanskie/strela/strela-cosmos",
+          "text": "Strela Cosmos Chronograph Steel"
+        }
+      ]
+    },
+    {
+      "name": "Open Space",
+      "slug": "open-space",
+      "references": [
+        {
+          "slug": "open-space-skeleton",
+          "url": "/sturmanskie/open-space/open-space-skeleton",
+          "text": "Open Space Skeleton Steel Automatic"
+        },
+        {
+          "slug": "open-space-chronograph",
+          "url": "/sturmanskie/open-space/open-space-chronograph",
+          "text": "Open Space Chronograph Steel"
+        },
+        {
+          "slug": "open-space-limited",
+          "url": "/sturmanskie/open-space/open-space-limited",
+          "text": "Open Space Limited Edition Skeleton PVD"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

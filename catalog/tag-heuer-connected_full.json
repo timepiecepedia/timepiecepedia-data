@@ -1,0 +1,317 @@
+{
+  "brand_slug": "tag-heuer-connected",
+  "collections": [
+    {
+      "name": "Connected Modular",
+      "slug": "connected-modular",
+      "references": [
+        {
+          "slug": "connected-modular-45-black-titanium",
+          "url": "/tag-heuer-connected/connected-modular/connected-modular-45-black-titanium",
+          "title": "Connected Modular 45 Black Titanium",
+          "specs": {
+            "Brand": "Tag Heuer Connected",
+            "Family": "Connected Modular",
+            "Reference": "SBF8A8001.11FT6110",
+            "Name": "Connected Modular 45",
+            "Movement": "Intel Atom Z34XX, Wear OS",
+            "Materials": "Black Titanium Carbide Coated Titanium",
+            "Diameter": "45mm",
+            "W/R": "50m",
+            "Glass": "Sapphire Crystal",
+            "Complications": "Smart module, GPS, Heart rate, Activity tracking, Modular system"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "connected-modular-45-steel",
+          "url": "/tag-heuer-connected/connected-modular/connected-modular-45-steel",
+          "title": "Connected Modular 45 Steel",
+          "specs": {
+            "Brand": "Tag Heuer Connected",
+            "Family": "Connected Modular",
+            "Reference": "SBF8A8014.11FT6076",
+            "Name": "Connected Modular 45",
+            "Movement": "Intel Atom Z34XX, Wear OS",
+            "Materials": "Stainless Steel",
+            "Diameter": "45mm",
+            "W/R": "50m",
+            "Glass": "Sapphire Crystal",
+            "Complications": "Smart module, GPS, Heart rate, Activity tracking, Modular system"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "connected-modular-41",
+          "url": "/tag-heuer-connected/connected-modular/connected-modular-41",
+          "title": "Connected Modular 41 Steel",
+          "specs": {
+            "Brand": "Tag Heuer Connected",
+            "Family": "Connected Modular",
+            "Reference": "SBF8A8012.11FT6110",
+            "Name": "Connected Modular 41",
+            "Movement": "Intel Atom Z34XX, Wear OS",
+            "Materials": "Stainless Steel",
+            "Diameter": "41mm",
+            "W/R": "50m",
+            "Glass": "Sapphire Crystal",
+            "Complications": "Smart module, GPS, Heart rate, Activity tracking, Modular system"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Connected Calibre E4",
+      "slug": "connected-calibre-e4",
+      "references": [
+        {
+          "slug": "connected-calibre-e4-45-black-ceramic",
+          "url": "/tag-heuer-connected/connected-calibre-e4/connected-calibre-e4-45-black-ceramic",
+          "title": "Connected Calibre E4 45 Black Ceramic",
+          "specs": {
+            "Brand": "Tag Heuer Connected",
+            "Family": "Connected Calibre E4",
+            "Reference": "SBR8A80.BT6253",
+            "Name": "Connected Calibre E4 45mm",
+            "Movement": "Wear OS by Google",
+            "Materials": "Black Ceramic and Titanium",
+            "Diameter": "45mm",
+            "W/R": "50m",
+            "Glass": "Sapphire Crystal",
+            "Complications": "GPS, Heart rate, Altimeter, Accelerometer, Gyroscope, Sports apps"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "connected-calibre-e4-45-steel",
+          "url": "/tag-heuer-connected/connected-calibre-e4/connected-calibre-e4-45-steel",
+          "title": "Connected Calibre E4 45 Steel",
+          "specs": {
+            "Brand": "Tag Heuer Connected",
+            "Family": "Connected Calibre E4",
+            "Reference": "SBR8A10.BA0646",
+            "Name": "Connected Calibre E4 45mm",
+            "Movement": "Wear OS by Google",
+            "Materials": "Stainless Steel",
+            "Diameter": "45mm",
+            "W/R": "50m",
+            "Glass": "Sapphire Crystal",
+            "Complications": "GPS, Heart rate, Altimeter, Accelerometer, Gyroscope, Sports apps"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "connected-calibre-e4-42-steel",
+          "url": "/tag-heuer-connected/connected-calibre-e4/connected-calibre-e4-42-steel",
+          "title": "Connected Calibre E4 42 Steel",
+          "specs": {
+            "Brand": "Tag Heuer Connected",
+            "Family": "Connected Calibre E4",
+            "Reference": "SBR8A11.BA0646",
+            "Name": "Connected Calibre E4 42mm",
+            "Movement": "Wear OS by Google",
+            "Materials": "Stainless Steel",
+            "Diameter": "42mm",
+            "W/R": "50m",
+            "Glass": "Sapphire Crystal",
+            "Complications": "GPS, Heart rate, Altimeter, Accelerometer, Gyroscope, Sports apps"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "connected-calibre-e4-golf-edition",
+          "url": "/tag-heuer-connected/connected-calibre-e4/connected-calibre-e4-golf-edition",
+          "title": "Connected Calibre E4 Golf Edition",
+          "specs": {
+            "Brand": "Tag Heuer Connected",
+            "Family": "Connected Calibre E4",
+            "Reference": "SBR8A13.BA0646",
+            "Name": "Connected Calibre E4 Golf Edition",
+            "Movement": "Wear OS by Google",
+            "Materials": "Stainless Steel",
+            "Diameter": "45mm",
+            "W/R": "50m",
+            "Glass": "Sapphire Crystal",
+            "Complications": "GPS, Golf app with 2D/3D maps, Distance tracking, Shot detection, Scorecard"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Connected (First Generation)",
+      "slug": "connected-first-generation",
+      "references": [
+        {
+          "slug": "connected-sbf8z8001-black",
+          "url": "/tag-heuer-connected/connected-first-generation/connected-sbf8z8001-black",
+          "title": "Connected First Generation Black Titanium",
+          "specs": {
+            "Brand": "Tag Heuer Connected",
+            "Family": "Connected (First Generation)",
+            "Reference": "SAR8A80.FT6045",
+            "Name": "Connected",
+            "Movement": "Intel Atom Z34XX, Android Wear",
+            "Materials": "Black Titanium Carbide",
+            "Diameter": "46mm",
+            "W/R": "N/A",
+            "Glass": "Sapphire Crystal",
+            "Complications": "GPS, Accelerometer, Gyroscope, Tilt detection, Haptic engine"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "connected-sbf8z8011-steel",
+          "url": "/tag-heuer-connected/connected-first-generation/connected-sbf8z8011-steel",
+          "title": "Connected First Generation Steel",
+          "specs": {
+            "Brand": "Tag Heuer Connected",
+            "Family": "Connected (First Generation)",
+            "Reference": "SAR8A80.FT6056",
+            "Name": "Connected",
+            "Movement": "Intel Atom Z34XX, Android Wear",
+            "Materials": "Stainless Steel",
+            "Diameter": "46mm",
+            "W/R": "N/A",
+            "Glass": "Sapphire Crystal",
+            "Complications": "GPS, Accelerometer, Gyroscope, Tilt detection, Haptic engine"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Connected Special Editions",
+      "slug": "connected-special-editions",
+      "references": [
+        {
+          "slug": "connected-x-super-mario",
+          "url": "/tag-heuer-connected/connected-special-editions/connected-x-super-mario",
+          "title": "Connected x Super Mario Limited Edition",
+          "specs": {
+            "Brand": "Tag Heuer Connected",
+            "Family": "Connected Special Editions",
+            "Reference": "SBR8A80.BT6265",
+            "Name": "Connected x Super Mario",
+            "Movement": "Wear OS by Google",
+            "Materials": "Black Ceramic and Titanium",
+            "Diameter": "45mm",
+            "W/R": "50m",
+            "Glass": "Sapphire Crystal",
+            "Complications": "GPS, Heart rate, Super Mario themed animations and gamification"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "connected-bright-black-edition",
+          "url": "/tag-heuer-connected/connected-special-editions/connected-bright-black-edition",
+          "title": "Connected Bright Black Edition",
+          "specs": {
+            "Brand": "Tag Heuer Connected",
+            "Family": "Connected Special Editions",
+            "Reference": "SBR8A80.BT6270",
+            "Name": "Connected Bright Black",
+            "Movement": "Wear OS by Google",
+            "Materials": "Black Ceramic and Titanium",
+            "Diameter": "45mm",
+            "W/R": "50m",
+            "Glass": "Sapphire Crystal",
+            "Complications": "GPS, Heart rate, Activity tracking, Sports apps"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "connected-porsche-edition",
+          "url": "/tag-heuer-connected/connected-special-editions/connected-porsche-edition",
+          "title": "Connected Porsche Edition",
+          "specs": {
+            "Brand": "Tag Heuer Connected",
+            "Family": "Connected Special Editions",
+            "Reference": "SBR8A8B.BT6295",
+            "Name": "Connected Porsche Edition",
+            "Movement": "Wear OS by Google",
+            "Materials": "Black Titanium Carbide",
+            "Diameter": "45mm",
+            "W/R": "50m",
+            "Glass": "Sapphire Crystal",
+            "Complications": "GPS, Heart rate, Porsche-themed dials and complications"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "connected-aston-martin-edition",
+          "url": "/tag-heuer-connected/connected-special-editions/connected-aston-martin-edition",
+          "title": "Connected Aston Martin Edition",
+          "specs": {
+            "Brand": "Tag Heuer Connected",
+            "Family": "Connected Special Editions",
+            "Reference": "SBR8A81.FT6086",
+            "Name": "Connected Aston Martin Edition",
+            "Movement": "Wear OS by Google",
+            "Materials": "Titanium",
+            "Diameter": "45mm",
+            "W/R": "50m",
+            "Glass": "Sapphire Crystal",
+            "Complications": "GPS, Heart rate, Aston Martin exclusive dials"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 13,
+  "enriched_at": "2026-04-18T17:23:51.532Z"
+}
