@@ -1,0 +1,17 @@
+{
+  "brand_slug": "daniel-roth",
+  "collections": [
+    {
+      "name": "LVMH watches1",
+      "slug": "lvmh",
+      "references": [
+        {
+          "slug": "dr0011yg-01",
+          "text": "DR0011YG-01 Tourbillon Souscription Yellow Gold / Silver",
+          "url": "/daniel-roth/lvmh/dr0011yg-01"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

@@ -1,0 +1,43 @@
+{
+  "brand_slug": "twco",
+  "collections": [
+    {
+      "name": "Sea Rescue Diver watches4",
+      "slug": "sea-rescue-diver",
+      "references": [
+        {
+          "slug": "srd-dlc",
+          "text": "SRD-DLC Sea Rescue Diver \"Tactical Model\" DLC",
+          "url": "/twco/sea-rescue-diver/srd-dlc"
+        },
+        {
+          "slug": "srd-o",
+          "text": "SRD-O Sea Rescue Diver Orange",
+          "url": "/twco/sea-rescue-diver/srd-o"
+        },
+        {
+          "slug": "srd-y",
+          "text": "SRD-Y Sea Rescue Diver Yellow",
+          "url": "/twco/sea-rescue-diver/srd-y"
+        },
+        {
+          "slug": "sd",
+          "text": "SD Salvage Diver",
+          "url": "/twco/sea-rescue-diver/sd"
+        }
+      ]
+    },
+    {
+      "name": "Pilot watches1",
+      "slug": "pilot",
+      "references": [
+        {
+          "slug": "ac",
+          "text": "AC Air Controller",
+          "url": "/twco/pilot/ac"
+        }
+      ]
+    }
+  ],
+  "total_references": 5
+}

@@ -1,0 +1,671 @@
+{
+  "brand_slug": "formex",
+  "collections": [
+    {
+      "name": "Essence watches48",
+      "slug": "essence",
+      "references": [
+        {
+          "slug": "0330-1-7341-100",
+          "text": "0330.1.7341.100 Essence Automatic Silver / Bracelet",
+          "url": "/formex/essence/0330-1-7341-100"
+        },
+        {
+          "slug": "0330-4-6339-910",
+          "text": "0330.4.6339.910 Essence Leggera Automatic Chronometer Electric Blue  / Rubber",
+          "url": "/formex/essence/0330-4-6339-910"
+        },
+        {
+          "slug": "0330-4-6399-910",
+          "text": "0330.4.6399.910 Essence Leggera Automatic Chronometer Forged Carbon / Rubber",
+          "url": "/formex/essence/0330-4-6399-910"
+        },
+        {
+          "slug": "0330-1-6331-910",
+          "text": "0330.1.6331.910 Essence Automatic Chronometer Blue / Rubber",
+          "url": "/formex/essence/0330-1-6331-910"
+        },
+        {
+          "slug": "0330-1-6331-744",
+          "text": "0330.1.6331.744 Essence Automatic Chronometer Blue / Calf",
+          "url": "/formex/essence/0330-1-6331-744"
+        },
+        {
+          "slug": "0330-1-6321-910",
+          "text": "0330.1.6321.910 Essence Automatic Chronometer Black / Rubber",
+          "url": "/formex/essence/0330-1-6321-910"
+        },
+        {
+          "slug": "0330-1-6341-722",
+          "text": "0330.1.6341.722 Essence Automatic Chronometer Silver / Calf",
+          "url": "/formex/essence/0330-1-6341-722"
+        },
+        {
+          "slug": "0330-1-7331-722",
+          "text": "0330.1.7331.722 Essence Automatic Blue / Calf",
+          "url": "/formex/essence/0330-1-7331-722"
+        },
+        {
+          "slug": "0330-1-6331-100",
+          "text": "0330.1.6331.100 Essence Automatic Chronometer Blue / Bracelet",
+          "url": "/formex/essence/0330-1-6331-100"
+        },
+        {
+          "slug": "0330-1-6341-100",
+          "text": "0330.1.6341.100 Essence Automatic Chronometer Silver / Bracelet",
+          "url": "/formex/essence/0330-1-6341-100"
+        },
+        {
+          "slug": "0330-1-6341-910",
+          "text": "0330.1.6341.910 Essence Automatic Chronometer Silver / Rubber",
+          "url": "/formex/essence/0330-1-6341-910"
+        },
+        {
+          "slug": "0330-1-7321-722",
+          "text": "0330.1.7321.722 Essence Automatic Black / Calf",
+          "url": "/formex/essence/0330-1-7321-722"
+        },
+        {
+          "slug": "0330-1-7321-910",
+          "text": "0330.1.7321.910 Essence Automatic Black / Rubber",
+          "url": "/formex/essence/0330-1-7321-910"
+        },
+        {
+          "slug": "0330-1-7331-910",
+          "text": "0330.1.7331.910 Essence Automatic Blue / Rubber",
+          "url": "/formex/essence/0330-1-7331-910"
+        },
+        {
+          "slug": "0330-4-6399-811",
+          "text": "0330.4.6399.811 Essence Leggera Automatic Chronometer Forged Carbon / Nylon",
+          "url": "/formex/essence/0330-4-6399-811"
+        },
+        {
+          "slug": "0330-4-6339-714",
+          "text": "0330.4.6339.714 Essence Leggera Automatic Chronometer Electric Blue  / Calf",
+          "url": "/formex/essence/0330-4-6339-714"
+        },
+        {
+          "slug": "0330-1-7331-100",
+          "text": "0330.1.7331.100 Essence Automatic Blue / Bracelet",
+          "url": "/formex/essence/0330-1-7331-100"
+        },
+        {
+          "slug": "0330-1-7331-744",
+          "text": "0330.1.7331.744 Essence Automatic Blue / Calf",
+          "url": "/formex/essence/0330-1-7331-744"
+        },
+        {
+          "slug": "0330-1-7341-322",
+          "text": "0330.1.7341.322 Essence Automatic Silver / Croco",
+          "url": "/formex/essence/0330-1-7341-322"
+        },
+        {
+          "slug": "0330-1-7331-713",
+          "text": "0330.1.7331.713 Essence Automatic Blue / Calf",
+          "url": "/formex/essence/0330-1-7331-713"
+        },
+        {
+          "slug": "0330-1-7341-713",
+          "text": "0330.1.7341.713 Essence Automatic Silver / Calf",
+          "url": "/formex/essence/0330-1-7341-713"
+        },
+        {
+          "slug": "0330-1-7341-744",
+          "text": "0330.1.7341.744 Essence Automatic Silver / Calf",
+          "url": "/formex/essence/0330-1-7341-744"
+        },
+        {
+          "slug": "0330-1-7341-910",
+          "text": "0330.1.7341.910 Essence Automatic Silver / Rubber",
+          "url": "/formex/essence/0330-1-7341-910"
+        },
+        {
+          "slug": "0330-1-7341-722",
+          "text": "0330.1.7341.722 Essence Automatic Silver / Calf",
+          "url": "/formex/essence/0330-1-7341-722"
+        },
+        {
+          "slug": "0330-1-7321-322",
+          "text": "0330.1.7321.322 Essence Automatic Black / Croco",
+          "url": "/formex/essence/0330-1-7321-322"
+        },
+        {
+          "slug": "0330-1-7321-713",
+          "text": "0330.1.7321.713 Essence Automatic Black / Calf",
+          "url": "/formex/essence/0330-1-7321-713"
+        },
+        {
+          "slug": "0330-1-7321-100",
+          "text": "0330.1.7321.100 Essence Automatic Black / Bracelet",
+          "url": "/formex/essence/0330-1-7321-100"
+        },
+        {
+          "slug": "0330-1-6341-744",
+          "text": "0330.1.6341.744 Essence Automatic Chronometer Silver / Calf",
+          "url": "/formex/essence/0330-1-6341-744"
+        },
+        {
+          "slug": "0330-1-6324-713",
+          "text": "0330.1.6324.713 Essence Automatic Chronometer Dégradé / Calf",
+          "url": "/formex/essence/0330-1-6324-713"
+        },
+        {
+          "slug": "0330-1-6324-100",
+          "text": "0330.1.6324.100 Essence Automatic Chronometer Dégradé / Bracelet",
+          "url": "/formex/essence/0330-1-6324-100"
+        },
+        {
+          "slug": "0330-4-6339-844",
+          "text": "0330.4.6339.844 Essence Leggera Automatic Chronometer Electric Blue  / Nylon",
+          "url": "/formex/essence/0330-4-6339-844"
+        },
+        {
+          "slug": "0330-1-6324-910",
+          "text": "0330.1.6324.910 Essence Automatic Chronometer Dégradé / Rubber",
+          "url": "/formex/essence/0330-1-6324-910"
+        },
+        {
+          "slug": "0330-4-6309-910",
+          "text": "0330.4.6309.910 Essence Leggera Automatic Chronometer Cool Grey / Rubber",
+          "url": "/formex/essence/0330-4-6309-910"
+        },
+        {
+          "slug": "0330-4-6309-833",
+          "text": "0330.4.6309.833 Essence Leggera Automatic Chronometer Cool Grey / Nylon",
+          "url": "/formex/essence/0330-4-6309-833"
+        },
+        {
+          "slug": "0330-4-6309-713",
+          "text": "0330.4.6309.713 Essence Leggera Automatic Chronometer Cool Grey / Calf",
+          "url": "/formex/essence/0330-4-6309-713"
+        },
+        {
+          "slug": "0330-1-6324-722",
+          "text": "0330.1.6324.722 Essence Automatic Chronometer Dégradé / Calf",
+          "url": "/formex/essence/0330-1-6324-722"
+        },
+        {
+          "slug": "0330-1-6324-311",
+          "text": "0330.1.6324.311 Essence Automatic Chronometer Dégradé / Croco",
+          "url": "/formex/essence/0330-1-6324-311"
+        },
+        {
+          "slug": "0330-4-6399-711",
+          "text": "0330.4.6399.711 Essence Leggera Automatic Chronometer Forged Carbon / Calf",
+          "url": "/formex/essence/0330-4-6399-711"
+        },
+        {
+          "slug": "0330-1-6331-722",
+          "text": "0330.1.6331.722 Essence Automatic Chronometer Blue / Calf",
+          "url": "/formex/essence/0330-1-6331-722"
+        },
+        {
+          "slug": "0330-1-6321-100",
+          "text": "0330.1.6321.100 Essence Automatic Chronometer Black / Bracelet",
+          "url": "/formex/essence/0330-1-6321-100"
+        },
+        {
+          "slug": "0330-1-6321-713",
+          "text": "0330.1.6321.713 Essence Automatic Chronometer Black / Calf",
+          "url": "/formex/essence/0330-1-6321-713"
+        },
+        {
+          "slug": "0330-1-6321-722",
+          "text": "0330.1.6321.722 Essence Automatic Chronometer Black / Calf",
+          "url": "/formex/essence/0330-1-6321-722"
+        },
+        {
+          "slug": "0330-1-6321-311",
+          "text": "0330.1.6321.311 Essence Automatic Chronometer Black / Croco",
+          "url": "/formex/essence/0330-1-6321-311"
+        },
+        {
+          "slug": "0330-1-6341-713",
+          "text": "0330.1.6341.713 Essence Automatic Chronometer Silver / Calf",
+          "url": "/formex/essence/0330-1-6341-713"
+        },
+        {
+          "slug": "0330-1-6351-100",
+          "text": "0330.1.6351.100 Essence Automatic Chronometer Brown / Bracelet",
+          "url": "/formex/essence/0330-1-6351-100"
+        },
+        {
+          "slug": "0330-1-6351-722",
+          "text": "0330.1.6351.722 Essence Automatic Chronometer Brown / Calf",
+          "url": "/formex/essence/0330-1-6351-722"
+        },
+        {
+          "slug": "0330-1-6351-910",
+          "text": "0330.1.6351.910 Essence Automatic Chronometer Brown / Rubber",
+          "url": "/formex/essence/0330-1-6351-910"
+        },
+        {
+          "slug": "0330-1-6351-322",
+          "text": "0330.1.6351.322 Essence Automatic Chronometer Brown / Croco",
+          "url": "/formex/essence/0330-1-6351-322"
+        }
+      ]
+    },
+    {
+      "name": "Pilot watches39",
+      "slug": "pilot",
+      "references": [
+        {
+          "slug": "1100-6-7022-110",
+          "text": "1100.6.7022.110 Pilot Automatic Gold / Black / Bracelet",
+          "url": "/formex/pilot/1100-6-7022-110"
+        },
+        {
+          "slug": "1100-4-3084-110",
+          "text": "1100.4.3084.110 Pilot Quartz Chronograph PVD / Black - Yellow / Bracelet",
+          "url": "/formex/pilot/1100-4-3084-110"
+        },
+        {
+          "slug": "1100-1-3040-223",
+          "text": "1100.1.3040.223 Pilot Quartz Chronograph Silver / Calf",
+          "url": "/formex/pilot/1100-1-3040-223"
+        },
+        {
+          "slug": "1100-6-7022-213",
+          "text": "1100.6.7022.213 Pilot Automatic Gold / Black / Calf",
+          "url": "/formex/pilot/1100-6-7022-213"
+        },
+        {
+          "slug": "1100-1-8040-910",
+          "text": "1100.1.8040.910 Pilot Automatic Chronograph Silver / Rubber",
+          "url": "/formex/pilot/1100-1-8040-910"
+        },
+        {
+          "slug": "1100-1-8020-910",
+          "text": "1100.1.8020.910 Pilot Automatic Chronograph Black / Rubber",
+          "url": "/formex/pilot/1100-1-8020-910"
+        },
+        {
+          "slug": "1100-6-7022-910",
+          "text": "1100.6.7022.910 Pilot Automatic Gold / Black / Rubber",
+          "url": "/formex/pilot/1100-6-7022-910"
+        },
+        {
+          "slug": "1100-4-3044-213",
+          "text": "1100.4.3044.213 Pilot Quartz Chronograph PVD / Silver / Calf",
+          "url": "/formex/pilot/1100-4-3044-213"
+        },
+        {
+          "slug": "1100-1-3020-213",
+          "text": "1100.1.3020.213 Pilot Quartz Chronograph Black / Calf",
+          "url": "/formex/pilot/1100-1-3020-213"
+        },
+        {
+          "slug": "1100-9-8199-213",
+          "text": "1100.9.8199.213 Pilot Automatic Chronograph PVD / Carbon Fibre / Limited Edition / Calf",
+          "url": "/formex/pilot/1100-9-8199-213"
+        },
+        {
+          "slug": "1100-1-7020-100",
+          "text": "1100.1.7020.100 Pilot Automatic Black / Bracelet",
+          "url": "/formex/pilot/1100-1-7020-100"
+        },
+        {
+          "slug": "1100-1-8040-223",
+          "text": "1100.1.8040.223 Pilot Automatic Chronograph Silver / Calf",
+          "url": "/formex/pilot/1100-1-8040-223"
+        },
+        {
+          "slug": "1100-1-3040-910",
+          "text": "1100.1.3040.910 Pilot Quartz Chronograph Silver / Rubber",
+          "url": "/formex/pilot/1100-1-3040-910"
+        },
+        {
+          "slug": "1100-5-8129-110",
+          "text": "1100.5.8129.110 Pilot Automatic Chronograph Sandblasted / Carbon Fibre / Bracelet",
+          "url": "/formex/pilot/1100-5-8129-110"
+        },
+        {
+          "slug": "1100-4-3014-930",
+          "text": "1100.4.3014.930 Pilot Quartz Chronograph PVD / Black - White / Rubber",
+          "url": "/formex/pilot/1100-4-3014-930"
+        },
+        {
+          "slug": "1100-4-3064-218",
+          "text": "1100.4.3064.218 Pilot Quartz Chronograph PVD / Black - Orange / Calf",
+          "url": "/formex/pilot/1100-4-3064-218"
+        },
+        {
+          "slug": "1100-9-8199-910",
+          "text": "1100.9.8199.910 Pilot Automatic Chronograph PVD / Carbon Fibre / Limited Edition / Rubber",
+          "url": "/formex/pilot/1100-9-8199-910"
+        },
+        {
+          "slug": "1100-9-8199-110",
+          "text": "1100.9.8199.110 Pilot Automatic Chronograph PVD / Carbon Fibre / Limited Edition / Bracelet",
+          "url": "/formex/pilot/1100-9-8199-110"
+        },
+        {
+          "slug": "1100-1-8020-213",
+          "text": "1100.1.8020.213 Pilot Automatic Chronograph Black / Calf",
+          "url": "/formex/pilot/1100-1-8020-213"
+        },
+        {
+          "slug": "1100-1-8020-100",
+          "text": "1100.1.8020.100 Pilot Automatic Chronograph Black / Bracelet",
+          "url": "/formex/pilot/1100-1-8020-100"
+        },
+        {
+          "slug": "1100-1-8040-100",
+          "text": "1100.1.8040.100 Pilot Automatic Chronograph Silver / Bracelet",
+          "url": "/formex/pilot/1100-1-8040-100"
+        },
+        {
+          "slug": "1100-5-8129-213",
+          "text": "1100.5.8129.213 Pilot Automatic Chronograph Sandblasted / Carbon Fibre / Calf",
+          "url": "/formex/pilot/1100-5-8129-213"
+        },
+        {
+          "slug": "1100-1-8030-243",
+          "text": "1100.1.8030.243 Pilot Automatic Chronograph Blue / Croco",
+          "url": "/formex/pilot/1100-1-8030-243"
+        },
+        {
+          "slug": "1100-1-7020-213",
+          "text": "1100.1.7020.213 Pilot Automatic Black / Calf",
+          "url": "/formex/pilot/1100-1-7020-213"
+        },
+        {
+          "slug": "1100-5-8129-910",
+          "text": "1100.5.8129.910 Pilot Automatic Chronograph Sandblasted / Carbon Fibre / Rubber",
+          "url": "/formex/pilot/1100-5-8129-910"
+        },
+        {
+          "slug": "1100-1-8030-100",
+          "text": "1100.1.8030.100 Pilot Automatic Chronograph Blue / Bracelet",
+          "url": "/formex/pilot/1100-1-8030-100"
+        },
+        {
+          "slug": "1100-4-3044-110",
+          "text": "1100.4.3044.110 Pilot Quartz Chronograph PVD / Silver / Bracelet",
+          "url": "/formex/pilot/1100-4-3044-110"
+        },
+        {
+          "slug": "1100-4-3084-215",
+          "text": "1100.4.3084.215 Pilot Quartz Chronograph PVD / Black - Yellow / Calf",
+          "url": "/formex/pilot/1100-4-3084-215"
+        },
+        {
+          "slug": "1100-4-3014-213",
+          "text": "1100.4.3014.213 Pilot Quartz Chronograph PVD / Black - White / Calf",
+          "url": "/formex/pilot/1100-4-3014-213"
+        },
+        {
+          "slug": "1100-4-3014-110",
+          "text": "1100.4.3014.110 Pilot Quartz Chronograph PVD / Black - White / Bracelet",
+          "url": "/formex/pilot/1100-4-3014-110"
+        },
+        {
+          "slug": "1100-4-3064-980",
+          "text": "1100.4.3064.980 Pilot Quartz Chronograph PVD / Black - Orange / Rubber",
+          "url": "/formex/pilot/1100-4-3064-980"
+        },
+        {
+          "slug": "1100-4-3064-110",
+          "text": "1100.4.3064.110 Pilot Quartz Chronograph PVD / Black - Orange / Bracelet",
+          "url": "/formex/pilot/1100-4-3064-110"
+        },
+        {
+          "slug": "1100-4-3044-910",
+          "text": "1100.4.3044.910 Pilot Quartz Chronograph PVD / Silver / Rubber",
+          "url": "/formex/pilot/1100-4-3044-910"
+        },
+        {
+          "slug": "1100-1-3020-910",
+          "text": "1100.1.3020.910 Pilot Quartz Chronograph Black / Rubber",
+          "url": "/formex/pilot/1100-1-3020-910"
+        },
+        {
+          "slug": "1100-1-3020-100",
+          "text": "1100.1.3020.100 Pilot Quartz Chronograph Black / Bracelet",
+          "url": "/formex/pilot/1100-1-3020-100"
+        },
+        {
+          "slug": "1100-1-3040-213",
+          "text": "1100.1.3040.213 Pilot Quartz Chronograph Silver / Calf",
+          "url": "/formex/pilot/1100-1-3040-213"
+        },
+        {
+          "slug": "1100-1-3040-100",
+          "text": "1100.1.3040.100 Pilot Quartz Chronograph Silver / Bracelet",
+          "url": "/formex/pilot/1100-1-3040-100"
+        },
+        {
+          "slug": "1100-1-7020-910",
+          "text": "1100.1.7020.910 Pilot Automatic Black / Rubber",
+          "url": "/formex/pilot/1100-1-7020-910"
+        },
+        {
+          "slug": "1100-1-7020-223",
+          "text": "1100.1.7020.223 Pilot Automatic Black / Calf",
+          "url": "/formex/pilot/1100-1-7020-223"
+        }
+      ]
+    },
+    {
+      "name": "Diver watches19",
+      "slug": "diver",
+      "references": [
+        {
+          "slug": "2100-3-2072-100",
+          "text": "2100.3.2072.100 Diver Quartz GMT Black - Red / Bracelet",
+          "url": "/formex/diver/2100-3-2072-100"
+        },
+        {
+          "slug": "2100-1-7020-110",
+          "text": "2100.1.7020.110 Diver Automatic Black / Bracelet",
+          "url": "/formex/diver/2100-1-7020-110"
+        },
+        {
+          "slug": "2100-1-7020-910",
+          "text": "2100.1.7020.910 Diver Automatic Black / Rubber",
+          "url": "/formex/diver/2100-1-7020-910"
+        },
+        {
+          "slug": "2100-3-2012-100",
+          "text": "2100.3.2012.100 Diver Quartz GMT White / Bracelet",
+          "url": "/formex/diver/2100-3-2012-100"
+        },
+        {
+          "slug": "2100-1-7020-100",
+          "text": "2100.1.7020.100 Diver Automatic Black / Bracelet",
+          "url": "/formex/diver/2100-1-7020-100"
+        },
+        {
+          "slug": "2100-3-2072-216",
+          "text": "2100.3.2072.216 Diver Quartz GMT Black - Red / Calf",
+          "url": "/formex/diver/2100-3-2072-216"
+        },
+        {
+          "slug": "2100-3-2022-213",
+          "text": "2100.3.2022.213 Diver Quartz GMT Black / Calf",
+          "url": "/formex/diver/2100-3-2022-213"
+        },
+        {
+          "slug": "2100-3-2012-213",
+          "text": "2100.3.2012.213 Diver Quartz GMT White / Calf",
+          "url": "/formex/diver/2100-3-2012-213"
+        },
+        {
+          "slug": "2100-3-2012-930",
+          "text": "2100.3.2012.930 Diver Quartz GMT White / Rubber",
+          "url": "/formex/diver/2100-3-2012-930"
+        },
+        {
+          "slug": "2100-3-2072-960",
+          "text": "2100.3.2072.960 Diver Quartz GMT Black - Red / Rubber",
+          "url": "/formex/diver/2100-3-2072-960"
+        },
+        {
+          "slug": "2100-3-2022-910",
+          "text": "2100.3.2022.910 Diver Quartz GMT Black / Rubber",
+          "url": "/formex/diver/2100-3-2022-910"
+        },
+        {
+          "slug": "2100-3-2022-100",
+          "text": "2100.3.2022.100 Diver Quartz GMT Black / Bracelet",
+          "url": "/formex/diver/2100-3-2022-100"
+        },
+        {
+          "slug": "2100-1-7020-213",
+          "text": "2100.1.7020.213 Diver Automatic Black / Calf",
+          "url": "/formex/diver/2100-1-7020-213"
+        },
+        {
+          "slug": "2100-9-7074-216",
+          "text": "2100.9.7074.216 Diver Automatic Red / Calf",
+          "url": "/formex/diver/2100-9-7074-216"
+        },
+        {
+          "slug": "2100-9-7074-110",
+          "text": "2100.9.7074.110 Diver Automatic Red / Bracelet",
+          "url": "/formex/diver/2100-9-7074-110"
+        },
+        {
+          "slug": "2100-9-7074-960",
+          "text": "2100.9.7074.960 Diver Automatic Red / Rubber",
+          "url": "/formex/diver/2100-9-7074-960"
+        },
+        {
+          "slug": "2100-1-7030-940",
+          "text": "2100.1.7030.940 Diver Automatic Blue / Rubber",
+          "url": "/formex/diver/2100-1-7030-940"
+        },
+        {
+          "slug": "2100-1-7030-243",
+          "text": "2100.1.7030.243 Diver Automatic Blue / Croco",
+          "url": "/formex/diver/2100-1-7030-243"
+        },
+        {
+          "slug": "2100-1-7030-100",
+          "text": "2100.1.7030.100 Diver Automatic Blue / Bracelet",
+          "url": "/formex/diver/2100-1-7030-100"
+        }
+      ]
+    },
+    {
+      "name": "Element watches12",
+      "slug": "element",
+      "references": [
+        {
+          "slug": "1200-1-8021-713",
+          "text": "1200.1.8021.713 Element Automatic Chronograph Full Steel / Black / Croco",
+          "url": "/formex/element/1200-1-8021-713"
+        },
+        {
+          "slug": "1200-1-8021-322",
+          "text": "1200.1.8021.322 Element Automatic Chronograph Full Steel / Black / Calf",
+          "url": "/formex/element/1200-1-8021-322"
+        },
+        {
+          "slug": "1200-5-8027-322",
+          "text": "1200.5.8027.322 Element Automatic Chronograph Ceramic Bezel / Black / Calf",
+          "url": "/formex/element/1200-5-8027-322"
+        },
+        {
+          "slug": "1200-5-8027-713",
+          "text": "1200.5.8027.713 Element Automatic Chronograph Ceramic Bezel / Black / Croco",
+          "url": "/formex/element/1200-5-8027-713"
+        },
+        {
+          "slug": "1200-5-8027-311",
+          "text": "1200.5.8027.311 Element Automatic Chronograph Ceramic Bezel / Black / Croco",
+          "url": "/formex/element/1200-5-8027-311"
+        },
+        {
+          "slug": "1200-5-8017-311",
+          "text": "1200.5.8017.311 Element Automatic Chronograph Ceramic Bezel / White / Croco",
+          "url": "/formex/element/1200-5-8017-311"
+        },
+        {
+          "slug": "1200-5-8017-322",
+          "text": "1200.5.8017.322 Element Automatic Chronograph Ceramic Bezel / White / Croco",
+          "url": "/formex/element/1200-5-8017-322"
+        },
+        {
+          "slug": "1200-5-8017-713",
+          "text": "1200.5.8017.713 Element Automatic Chronograph Ceramic Bezel / White / Calf",
+          "url": "/formex/element/1200-5-8017-713"
+        },
+        {
+          "slug": "1200-1-8021-311",
+          "text": "1200.1.8021.311 Element Automatic Chronograph Full Steel / Black / Croco",
+          "url": "/formex/element/1200-1-8021-311"
+        },
+        {
+          "slug": "1200-1-8011-322",
+          "text": "1200.1.8011.322 Element Automatic Chronograph Full Steel / White / Croco",
+          "url": "/formex/element/1200-1-8011-322"
+        },
+        {
+          "slug": "1200-1-8011-311",
+          "text": "1200.1.8011.311 Element Automatic Chronograph Full Steel / White / Croco",
+          "url": "/formex/element/1200-1-8011-311"
+        },
+        {
+          "slug": "1200-1-8011-713",
+          "text": "1200.1.8011.713 Element Automatic Chronograph Full Steel / White / Calf",
+          "url": "/formex/element/1200-1-8011-713"
+        }
+      ]
+    },
+    {
+      "name": "Motorsport watches9",
+      "slug": "motorsport",
+      "references": [
+        {
+          "slug": "3100-9-8299-110",
+          "text": "3100.9.8299.110 Motorsport Automatic Chronograph PVD / Carbon Bezel / Black / Limited Edition / Bracelet",
+          "url": "/formex/motorsport/3100-9-8299-110"
+        },
+        {
+          "slug": "3100-1-8140-910",
+          "text": "3100.1.8140.910 Motorsport Automatic Chronograph Red Bezel / Black / Rubber",
+          "url": "/formex/motorsport/3100-1-8140-910"
+        },
+        {
+          "slug": "3100-4-8122-216",
+          "text": "3100.4.8122.216 Motorsport Automatic Chronograph PVD / Red Bezel / Black / Calf",
+          "url": "/formex/motorsport/3100-4-8122-216"
+        },
+        {
+          "slug": "3100-1-8140-100",
+          "text": "3100.1.8140.100 Motorsport Automatic Chronograph Red Bezel / Black / Bracelet",
+          "url": "/formex/motorsport/3100-1-8140-100"
+        },
+        {
+          "slug": "3100-9-8299-216",
+          "text": "3100.9.8299.216 Motorsport Automatic Chronograph PVD / Carbon Bezel / Black / Limited Edition / Calf",
+          "url": "/formex/motorsport/3100-9-8299-216"
+        },
+        {
+          "slug": "3100-9-8299-910",
+          "text": "3100.9.8299.910 Motorsport Automatic Chronograph PVD / Carbon Bezel / Black / Limited Edition / Rubber",
+          "url": "/formex/motorsport/3100-9-8299-910"
+        },
+        {
+          "slug": "3100-4-8122-110",
+          "text": "3100.4.8122.110 Motorsport Automatic Chronograph PVD / Red Bezel / Black / Bracelet",
+          "url": "/formex/motorsport/3100-4-8122-110"
+        },
+        {
+          "slug": "3100-4-8122-910",
+          "text": "3100.4.8122.910 Motorsport Automatic Chronograph PVD / Red Bezel / Black / Rubber",
+          "url": "/formex/motorsport/3100-4-8122-910"
+        },
+        {
+          "slug": "3100-1-8140-216",
+          "text": "3100.1.8140.216 Motorsport Automatic Chronograph Red Bezel / Black / Calf",
+          "url": "/formex/motorsport/3100-1-8140-216"
+        }
+      ]
+    }
+  ],
+  "total_references": 127
+}

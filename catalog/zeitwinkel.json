@@ -1,0 +1,158 @@
+{
+  "brand_slug": "zeitwinkel",
+  "collections": [
+    {
+      "name": "42,5mm Classic  watches11",
+      "slug": "42-5mm-classic",
+      "references": [
+        {
+          "slug": "181-blue",
+          "text": "181° Blue 181° Blue",
+          "url": "/zeitwinkel/42-5mm-classic/181-blue"
+        },
+        {
+          "slug": "032-silver",
+          "text": "032° Silver 032° Silver",
+          "url": "/zeitwinkel/42-5mm-classic/032-silver"
+        },
+        {
+          "slug": "312-black",
+          "text": "312° Black 312° Black",
+          "url": "/zeitwinkel/42-5mm-classic/312-black"
+        },
+        {
+          "slug": "273-black",
+          "text": "273° Black 273° Black",
+          "url": "/zeitwinkel/42-5mm-classic/273-black"
+        },
+        {
+          "slug": "273-silver",
+          "text": "273° Silver 273° Silver",
+          "url": "/zeitwinkel/42-5mm-classic/273-silver"
+        },
+        {
+          "slug": "181-silver",
+          "text": "181° Silver 181° Silver",
+          "url": "/zeitwinkel/42-5mm-classic/181-silver"
+        },
+        {
+          "slug": "273-blue",
+          "text": "273° Blue 273° Blue",
+          "url": "/zeitwinkel/42-5mm-classic/273-blue"
+        },
+        {
+          "slug": "312-silver",
+          "text": "312° Silver 312° Silver",
+          "url": "/zeitwinkel/42-5mm-classic/312-silver"
+        },
+        {
+          "slug": "082-rhodium",
+          "text": "082° Rhodium 082° Rhodium",
+          "url": "/zeitwinkel/42-5mm-classic/082-rhodium"
+        },
+        {
+          "slug": "181-black",
+          "text": "181° Black 181° Black",
+          "url": "/zeitwinkel/42-5mm-classic/181-black"
+        },
+        {
+          "slug": "273-sf",
+          "text": "273° SF 273° SF",
+          "url": "/zeitwinkel/42-5mm-classic/273-sf"
+        }
+      ]
+    },
+    {
+      "name": "39mm Midsize  watches17",
+      "slug": "39mm-midsize",
+      "references": [
+        {
+          "slug": "032-black",
+          "text": "032° Black 032° Black",
+          "url": "/zeitwinkel/39mm-midsize/032-black"
+        },
+        {
+          "slug": "188-blue",
+          "text": "188° Blue 188° Blue",
+          "url": "/zeitwinkel/39mm-midsize/188-blue"
+        },
+        {
+          "slug": "081-silver",
+          "text": "081° Silver 081° Silver",
+          "url": "/zeitwinkel/39mm-midsize/081-silver"
+        },
+        {
+          "slug": "082-silver",
+          "text": "082° Silver 082° Silver",
+          "url": "/zeitwinkel/39mm-midsize/082-silver"
+        },
+        {
+          "slug": "083-rhodium",
+          "text": "083° Rhodium 083° Rhodium",
+          "url": "/zeitwinkel/39mm-midsize/083-rhodium"
+        },
+        {
+          "slug": "081-blue",
+          "text": "081° Blue 081° Blue",
+          "url": "/zeitwinkel/39mm-midsize/081-blue"
+        },
+        {
+          "slug": "083-blue",
+          "text": "083° Blue 083° Blue",
+          "url": "/zeitwinkel/39mm-midsize/083-blue"
+        },
+        {
+          "slug": "188-silver",
+          "text": "188° Silver 188° Silver",
+          "url": "/zeitwinkel/39mm-midsize/188-silver"
+        },
+        {
+          "slug": "083-silver",
+          "text": "083° Silver 083° Silver",
+          "url": "/zeitwinkel/39mm-midsize/083-silver"
+        },
+        {
+          "slug": "082-blue",
+          "text": "082° Blue 082° Blue",
+          "url": "/zeitwinkel/39mm-midsize/082-blue"
+        },
+        {
+          "slug": "083-black",
+          "text": "083° Black 083° Black",
+          "url": "/zeitwinkel/39mm-midsize/083-black"
+        },
+        {
+          "slug": "082-egf",
+          "text": "082° EGF 082° émail grand feu",
+          "url": "/zeitwinkel/39mm-midsize/082-egf"
+        },
+        {
+          "slug": "081-rhodium",
+          "text": "081° Rhodium 081° Rhodium",
+          "url": "/zeitwinkel/39mm-midsize/081-rhodium"
+        },
+        {
+          "slug": "188-black",
+          "text": "188° Black 188° Black",
+          "url": "/zeitwinkel/39mm-midsize/188-black"
+        },
+        {
+          "slug": "081-black",
+          "text": "081° Black 081° Black",
+          "url": "/zeitwinkel/39mm-midsize/081-black"
+        },
+        {
+          "slug": "082-black",
+          "text": "082° Black 082° Black",
+          "url": "/zeitwinkel/39mm-midsize/082-black"
+        },
+        {
+          "slug": "188-rhodium",
+          "text": "188° Rhodium 188° Rhodium",
+          "url": "/zeitwinkel/39mm-midsize/188-rhodium"
+        }
+      ]
+    }
+  ],
+  "total_references": 28
+}

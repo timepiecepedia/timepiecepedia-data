@@ -1,0 +1,144 @@
+{
+  "brand_slug": "armin-strom",
+  "collections": [
+    {
+      "name": "Gravity watches12",
+      "slug": "gravity",
+      "references": [
+        {
+          "slug": "st14-te-m-90",
+          "text": "ST14-TE.M.90 Tourbillon Gravity Earth",
+          "url": "/armin-strom/gravity/st14-te-m-90"
+        },
+        {
+          "slug": "rg14-tf-m-90",
+          "text": "RG14-TF.M.90 Tourbillon Gravity Fire",
+          "url": "/armin-strom/gravity/rg14-tf-m-90"
+        },
+        {
+          "slug": "st14-dw-50",
+          "text": "ST14-DW.50 Gravity Date Water",
+          "url": "/armin-strom/gravity/st14-dw-50"
+        },
+        {
+          "slug": "st14-de-90",
+          "text": "ST14-DE.90 Gravity Date Earth",
+          "url": "/armin-strom/gravity/st14-de-90"
+        },
+        {
+          "slug": "rg14-df-90",
+          "text": "RG14-DF.90 Gravity Date Fire",
+          "url": "/armin-strom/gravity/rg14-df-90"
+        },
+        {
+          "slug": "st13-gw-50",
+          "text": "ST13-GW.50 Gravity Water",
+          "url": "/armin-strom/gravity/st13-gw-50"
+        },
+        {
+          "slug": "rg13-gf-90",
+          "text": "RG13-GF.90 Gravity Fire",
+          "url": "/armin-strom/gravity/rg13-gf-90"
+        },
+        {
+          "slug": "st14-tw-m-50",
+          "text": "ST14-TW.M.50 Tourbillon Gravity Water",
+          "url": "/armin-strom/gravity/st14-tw-m-50"
+        },
+        {
+          "slug": "st13-ge-90",
+          "text": "ST13-GE.90 Gravity Earth",
+          "url": "/armin-strom/gravity/st13-ge-90"
+        },
+        {
+          "slug": "ti13-ga-50",
+          "text": "TI13-GA.50 Gravity Air",
+          "url": "/armin-strom/gravity/ti13-ga-50"
+        },
+        {
+          "slug": "ti14-da-50",
+          "text": "TI14-DA.50 Gravity Date Air",
+          "url": "/armin-strom/gravity/ti14-da-50"
+        },
+        {
+          "slug": "ti14-ta-m-50",
+          "text": "TI14-TA.M.50 Tourbillon Gravity Air",
+          "url": "/armin-strom/gravity/ti14-ta-m-50"
+        }
+      ]
+    },
+    {
+      "name": "Skeleton watches8",
+      "slug": "skeleton",
+      "references": [
+        {
+          "slug": "st15-pw-05",
+          "text": "ST15-PW.05 Skeleton Pure Water",
+          "url": "/armin-strom/skeleton/st15-pw-05"
+        },
+        {
+          "slug": "ti15-ta-50",
+          "text": "TI15-TA.50 Tourbillon Skeleton Air",
+          "url": "/armin-strom/skeleton/ti15-ta-50"
+        },
+        {
+          "slug": "st15-te-90",
+          "text": "ST15-TE.90 Tourbillon Skeleton Earth",
+          "url": "/armin-strom/skeleton/st15-te-90"
+        },
+        {
+          "slug": "ti15-pa-rh",
+          "text": "TI15-PA.RH Skeleton Pure Air",
+          "url": "/armin-strom/skeleton/ti15-pa-rh"
+        },
+        {
+          "slug": "st15-tw-05",
+          "text": "ST15-TW.05 Tourbillon Skeleton Water",
+          "url": "/armin-strom/skeleton/st15-tw-05"
+        },
+        {
+          "slug": "st15-pe-40",
+          "text": "ST15-PE.40 Skeleton Pure Earth",
+          "url": "/armin-strom/skeleton/st15-pe-40"
+        },
+        {
+          "slug": "rg15-pf-5n",
+          "text": "RG15-PF.5N Skeleton Pure Fire",
+          "url": "/armin-strom/skeleton/rg15-pf-5n"
+        },
+        {
+          "slug": "rg15-tf-5n",
+          "text": "RG15-TF.5N Tourbillon Skeleton Fire",
+          "url": "/armin-strom/skeleton/rg15-tf-5n"
+        }
+      ]
+    },
+    {
+      "name": "Manual watches4",
+      "slug": "manual",
+      "references": [
+        {
+          "slug": "st11-me-90",
+          "text": "ST11-ME.90 Manual Earth",
+          "url": "/armin-strom/manual/st11-me-90"
+        },
+        {
+          "slug": "st11-mw-05",
+          "text": "ST11-MW.05 Manual Water",
+          "url": "/armin-strom/manual/st11-mw-05"
+        },
+        {
+          "slug": "rg11-mf-90",
+          "text": "RG11-MF.90 Manual Fire",
+          "url": "/armin-strom/manual/rg11-mf-90"
+        },
+        {
+          "slug": "ti11-ma-11",
+          "text": "TI11-MA.11 Manual Air",
+          "url": "/armin-strom/manual/ti11-ma-11"
+        }
+      ]
+    }
+  ],
+  "total_references": 24
+}

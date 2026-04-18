@@ -1,0 +1,37 @@
+{
+  "brand_slug": "laarvee",
+  "collections": [
+    {
+      "name": "Crashed Submariner watches5",
+      "slug": "crashed-submariner",
+      "references": [
+        {
+          "slug": "pea001-ss-nn",
+          "text": "PEA001-SS-NN Crashed Submariner Stainless Steel - Black / Black",
+          "url": "/laarvee/crashed-submariner/pea001-ss-nn"
+        },
+        {
+          "slug": "pea001-tt-bb",
+          "text": "PEA001-TT-BB Crashed Submariner Two Tone - Black / Black",
+          "url": "/laarvee/crashed-submariner/pea001-tt-bb"
+        },
+        {
+          "slug": "pea001-ss-vv",
+          "text": "PEA001-SS-VV Crashed Submariner Stainless Steel - Green / Green",
+          "url": "/laarvee/crashed-submariner/pea001-ss-vv"
+        },
+        {
+          "slug": "pea001-yg-bb",
+          "text": "PEA001-YG-BB Crashed Submariner Yellow Gold - Blue / Blue",
+          "url": "/laarvee/crashed-submariner/pea001-yg-bb"
+        },
+        {
+          "slug": "pea001-ss-vn",
+          "text": "PEA001-SS-VN Crashed Submariner Stainless Steel - Green / Black",
+          "url": "/laarvee/crashed-submariner/pea001-ss-vn"
+        }
+      ]
+    }
+  ],
+  "total_references": 5
+}

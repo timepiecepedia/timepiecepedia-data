@@ -1,0 +1,92 @@
+{
+  "brand_slug": "czapek",
+  "collections": [
+    {
+      "name": "Quai des Bergues watches16",
+      "slug": "quai-des-bergues",
+      "references": [
+        {
+          "slug": "qdb21",
+          "text": "QDB21 Quai des Bergues N°21",
+          "url": "/czapek/quai-des-bergues/qdb21"
+        },
+        {
+          "slug": "qdb29",
+          "text": "QDB29 Quai des Bergues N°29",
+          "url": "/czapek/quai-des-bergues/qdb29"
+        },
+        {
+          "slug": "qdb27bis",
+          "text": "QDB27bis Quai des Bergues N°27 bis",
+          "url": "/czapek/quai-des-bergues/qdb27bis"
+        },
+        {
+          "slug": "qdb25",
+          "text": "QDB25 Quai des Bergues N°25",
+          "url": "/czapek/quai-des-bergues/qdb25"
+        },
+        {
+          "slug": "qdb7",
+          "text": "QDB7 Quai des Bergues Lady N°7",
+          "url": "/czapek/quai-des-bergues/qdb7"
+        },
+        {
+          "slug": "qdb33",
+          "text": "QDB33 Quai des Bergues N°33",
+          "url": "/czapek/quai-des-bergues/qdb33"
+        },
+        {
+          "slug": "qdb29bis",
+          "text": "QDB29bis Quai des Bergues N°29 bis",
+          "url": "/czapek/quai-des-bergues/qdb29bis"
+        },
+        {
+          "slug": "qdb1",
+          "text": "QDB1 Quai des Bergues Lady N°1",
+          "url": "/czapek/quai-des-bergues/qdb1"
+        },
+        {
+          "slug": "qdb3",
+          "text": "QDB3 Quai des Bergues Lady N°3",
+          "url": "/czapek/quai-des-bergues/qdb3"
+        },
+        {
+          "slug": "qdb9",
+          "text": "QDB9 Quai des Bergues Lady N°9",
+          "url": "/czapek/quai-des-bergues/qdb9"
+        },
+        {
+          "slug": "qdb11",
+          "text": "QDB11 Quai des Bergues Lady N°11",
+          "url": "/czapek/quai-des-bergues/qdb11"
+        },
+        {
+          "slug": "qdb33bis",
+          "text": "QDB33bis Quai des Bergues N°33 bis",
+          "url": "/czapek/quai-des-bergues/qdb33bis"
+        },
+        {
+          "slug": "qdb31",
+          "text": "QDB31 Quai des Bergues N°31",
+          "url": "/czapek/quai-des-bergues/qdb31"
+        },
+        {
+          "slug": "qdb27",
+          "text": "QDB27 Quai des Bergues N°27",
+          "url": "/czapek/quai-des-bergues/qdb27"
+        },
+        {
+          "slug": "qdb23",
+          "text": "QDB23 Quai des Bergues N°23",
+          "url": "/czapek/quai-des-bergues/qdb23"
+        },
+        {
+          "slug": "qdb5",
+          "text": "QDB5 Quai des Bergues Lady N°5",
+          "url": "/czapek/quai-des-bergues/qdb5"
+        }
+      ]
+    }
+  ],
+  "total_references": 16
+}

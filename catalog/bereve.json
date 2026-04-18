@@ -1,0 +1,38 @@
+{
+  "brand_slug": "bereve",
+  "collections": [
+    {
+      "name": "Emperor watches2",
+      "slug": "emperor",
+      "references": [
+        {
+          "slug": "a1-bv02-a5-x-w1",
+          "text": "A1.BV02.A5.X.W1 Emperor Grand Feu Black",
+          "url": "/bereve/emperor/a1-bv02-a5-x-w1"
+        },
+        {
+          "slug": "a1-bv02-b5-x-w1",
+          "text": "A1.BV02.B5.X.W1 Emperor Grand Feu White",
+          "url": "/bereve/emperor/a1-bv02-b5-x-w1"
+        }
+      ]
+    },
+    {
+      "name": "Numbers watches2",
+      "slug": "numbers",
+      "references": [
+        {
+          "slug": "a1-bv02-02-x-w1",
+          "text": "A1.BV02.02.X.W1 Numbers Enamel Grand Feu Gold Dial",
+          "url": "/bereve/numbers/a1-bv02-02-x-w1"
+        },
+        {
+          "slug": "a1-bv02-01-x-w1",
+          "text": "A1.BV02.01.X.W1 Numbers Enamel Grand Feu Silver Dial",
+          "url": "/bereve/numbers/a1-bv02-01-x-w1"
+        }
+      ]
+    }
+  ],
+  "total_references": 4
+}

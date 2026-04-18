@@ -1,0 +1,22 @@
+{
+  "brand_slug": "wyler-geneve",
+  "collections": [
+    {
+      "name": "Code-R watches2",
+      "slug": "code-r",
+      "references": [
+        {
+          "slug": "100-2-00-bb1-rba",
+          "text": "100.2.00.BB1.RBA Code-R Chronograph Pink Gold",
+          "url": "/wyler-geneve/code-r/100-2-00-bb1-rba"
+        },
+        {
+          "slug": "100-4-00-re1-cr",
+          "text": "100.4.00.RE1.CR Code-R Chronograph Red Dial",
+          "url": "/wyler-geneve/code-r/100-4-00-re1-cr"
+        }
+      ]
+    }
+  ],
+  "total_references": 2
+}

@@ -1,0 +1,42 @@
+{
+  "brand_slug": "pinion",
+  "collections": [
+    {
+      "name": "Pure watches6",
+      "slug": "pure",
+      "references": [
+        {
+          "slug": "pu23",
+          "text": "PU23 Pure Pro Bronze",
+          "url": "/pinion/pure/pu23"
+        },
+        {
+          "slug": "pu24",
+          "text": "PU24 Pure Pro Steel",
+          "url": "/pinion/pure/pu24"
+        },
+        {
+          "slug": "pu01",
+          "text": "PU01 Pure Stainless Steel LE",
+          "url": "/pinion/pure/pu01"
+        },
+        {
+          "slug": "pu21",
+          "text": "PU21 Pure GG",
+          "url": "/pinion/pure/pu21"
+        },
+        {
+          "slug": "pu02",
+          "text": "PU02 Pure Bronze LE",
+          "url": "/pinion/pure/pu02"
+        },
+        {
+          "slug": "pu22",
+          "text": "PU22 Pure Pro Black",
+          "url": "/pinion/pure/pu22"
+        }
+      ]
+    }
+  ],
+  "total_references": 6
+}

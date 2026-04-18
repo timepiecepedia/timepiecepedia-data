@@ -1,0 +1,22 @@
+{
+  "brand_slug": "takano",
+  "collections": [
+    {
+      "name": "Chateau Nouvelle watches2",
+      "slug": "chateau-nouvelle",
+      "references": [
+        {
+          "slug": "pwt-001c",
+          "text": "PWT-001C Chateau Nouvelle Stainless Steel / Black",
+          "url": "/takano/chateau-nouvelle/pwt-001c"
+        },
+        {
+          "slug": "pwt-002c",
+          "text": "PWT-002C Chateau Nouvelle Stainless Steel / White",
+          "url": "/takano/chateau-nouvelle/pwt-002c"
+        }
+      ]
+    }
+  ],
+  "total_references": 2
+}

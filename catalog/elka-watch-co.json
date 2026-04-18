@@ -1,0 +1,203 @@
+{
+  "brand_slug": "elka-watch-co",
+  "collections": [
+    {
+      "name": "D-Series watches25",
+      "slug": "d-series",
+      "references": [
+        {
+          "slug": "d06-0808",
+          "text": "D06-0808 D-Series Stainless Steel / Pink / Leather",
+          "url": "/elka-watch-co/d-series/d06-0808"
+        },
+        {
+          "slug": "d08-0808",
+          "text": "D08-0808 D-Series Stainless Steel / Baby Blue  / Leather",
+          "url": "/elka-watch-co/d-series/d08-0808"
+        },
+        {
+          "slug": "d04-0807",
+          "text": "D04-0807 D-Series Stainless Steel / Black / Leather",
+          "url": "/elka-watch-co/d-series/d04-0807"
+        },
+        {
+          "slug": "d08-1001",
+          "text": "D08-1001 D-Series Stainless Steel / Baby Blue  / Milanese",
+          "url": "/elka-watch-co/d-series/d08-1001"
+        },
+        {
+          "slug": "d08-0901",
+          "text": "D08-0901 D-Series Stainless Steel / Baby Blue  / NATO",
+          "url": "/elka-watch-co/d-series/d08-0901"
+        },
+        {
+          "slug": "d03-1001",
+          "text": "D03-1001 D-Series Stainless Steel / Grey / Milanese",
+          "url": "/elka-watch-co/d-series/d03-1001"
+        },
+        {
+          "slug": "d05-0804",
+          "text": "D05-0804 D-Series Stainless Steel / Green / Leather",
+          "url": "/elka-watch-co/d-series/d05-0804"
+        },
+        {
+          "slug": "d05-1001",
+          "text": "D05-1001 D-Series Stainless Steel / Green / Milanese",
+          "url": "/elka-watch-co/d-series/d05-1001"
+        },
+        {
+          "slug": "d01-0804",
+          "text": "D01-0804 D-Series Stainless Steel / Silver / Leather",
+          "url": "/elka-watch-co/d-series/d01-0804"
+        },
+        {
+          "slug": "d02-0806",
+          "text": "D02-0806 D-Series Stainless Steel / Blue  / Leather",
+          "url": "/elka-watch-co/d-series/d02-0806"
+        },
+        {
+          "slug": "d02-0902",
+          "text": "D02-0902 D-Series Stainless Steel / Blue  / NATO",
+          "url": "/elka-watch-co/d-series/d02-0902"
+        },
+        {
+          "slug": "d07-1001",
+          "text": "D07-1001 D-Series Stainless Steel / Black / Milanese",
+          "url": "/elka-watch-co/d-series/d07-1001"
+        },
+        {
+          "slug": "d04-1001",
+          "text": "D04-1001 D-Series Stainless Steel / Black / Milanese",
+          "url": "/elka-watch-co/d-series/d04-1001"
+        },
+        {
+          "slug": "d03-0806",
+          "text": "D03-0806 D-Series Stainless Steel / Grey / Leather",
+          "url": "/elka-watch-co/d-series/d03-0806"
+        },
+        {
+          "slug": "d01-0901",
+          "text": "D01-0901 D-Series Stainless Steel / Grey / NATO",
+          "url": "/elka-watch-co/d-series/d01-0901"
+        },
+        {
+          "slug": "d02-1001",
+          "text": "D02-1001 D-Series Stainless Steel / Blue  / Milanese",
+          "url": "/elka-watch-co/d-series/d02-1001"
+        },
+        {
+          "slug": "d02-0805",
+          "text": "D02-0805 D-Series Stainless Steel / Blue  / Leather",
+          "url": "/elka-watch-co/d-series/d02-0805"
+        },
+        {
+          "slug": "d06-1001",
+          "text": "D06-1001 D-Series Stainless Steel / Pink / Milanese",
+          "url": "/elka-watch-co/d-series/d06-1001"
+        },
+        {
+          "slug": "d06-0901",
+          "text": "D06-0901 D-Series Stainless Steel / Pink / NATO",
+          "url": "/elka-watch-co/d-series/d06-0901"
+        },
+        {
+          "slug": "d08-0804",
+          "text": "D08-0804 D-Series Stainless Steel / Baby Blue  / Leather",
+          "url": "/elka-watch-co/d-series/d08-0804"
+        },
+        {
+          "slug": "d01-0808",
+          "text": "D01-0808 D-Series Stainless Steel / Silver / Leather",
+          "url": "/elka-watch-co/d-series/d01-0808"
+        },
+        {
+          "slug": "d07-0810",
+          "text": "D07-0810 D-Series Stainless Steel / Black / Leather",
+          "url": "/elka-watch-co/d-series/d07-0810"
+        },
+        {
+          "slug": "d05-0901",
+          "text": "D05-0901 D-Series Stainless Steel / Green / NATO",
+          "url": "/elka-watch-co/d-series/d05-0901"
+        },
+        {
+          "slug": "d03-0901",
+          "text": "D03-0901 D-Series Stainless Steel / Grey / NATO",
+          "url": "/elka-watch-co/d-series/d03-0901"
+        },
+        {
+          "slug": "d01-1001",
+          "text": "D01-1001 D-Series Stainless Steel / Silver / Milanese",
+          "url": "/elka-watch-co/d-series/d01-1001"
+        }
+      ]
+    },
+    {
+      "name": "X-Series watches12",
+      "slug": "x-series",
+      "references": [
+        {
+          "slug": "x14-0804",
+          "text": "X14-0804 X Ace Jewelers Diversity Series Stainless Steel / Blue / Hebrew",
+          "url": "/elka-watch-co/x-series/x14-0804"
+        },
+        {
+          "slug": "x03-0901",
+          "text": "X03-0901 X-Series Stainless Steel / Blue / NATO",
+          "url": "/elka-watch-co/x-series/x03-0901"
+        },
+        {
+          "slug": "x02-0802",
+          "text": "X02-0802 X-Series Stainless Steel / Beige / Leather",
+          "url": "/elka-watch-co/x-series/x02-0802"
+        },
+        {
+          "slug": "x13-0804",
+          "text": "X13-0804 X Ace Jewelers Diversity Series Stainless Steel / Blue / Chinese",
+          "url": "/elka-watch-co/x-series/x13-0804"
+        },
+        {
+          "slug": "x01-0801",
+          "text": "X01-0801 X-Series Stainless Steel / Black / Leather",
+          "url": "/elka-watch-co/x-series/x01-0801"
+        },
+        {
+          "slug": "x11-0804",
+          "text": "X11-0804 X Ace Jewelers Diversity Series Stainless Steel / Blue / Arabic",
+          "url": "/elka-watch-co/x-series/x11-0804"
+        },
+        {
+          "slug": "x02-0901",
+          "text": "X02-0901 X-Series Stainless Steel / Beige / NATO",
+          "url": "/elka-watch-co/x-series/x02-0901"
+        },
+        {
+          "slug": "x03-0803",
+          "text": "X03-0803 X-Series Stainless Steel / Blue / Leather",
+          "url": "/elka-watch-co/x-series/x03-0803"
+        },
+        {
+          "slug": "x-heroes",
+          "text": "X-heroes X-Heroes",
+          "url": "/elka-watch-co/x-series/x-heroes"
+        },
+        {
+          "slug": "x01-0901",
+          "text": "X01-0901 X-Series Stainless Steel / Black / NATO",
+          "url": "/elka-watch-co/x-series/x01-0901"
+        },
+        {
+          "slug": "x03-0902",
+          "text": "X03-0902 X-Series Stainless Steel / Blue / NATO",
+          "url": "/elka-watch-co/x-series/x03-0902"
+        },
+        {
+          "slug": "x12-0804",
+          "text": "X12-0804 X Ace Jewelers Diversity Series Stainless Steel / Blue / Hindi",
+          "url": "/elka-watch-co/x-series/x12-0804"
+        }
+      ]
+    }
+  ],
+  "total_references": 37
+}

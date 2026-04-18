@@ -1,0 +1,27 @@
+{
+  "brand_slug": "robot-watch",
+  "collections": [
+    {
+      "name": "Graphic watches3",
+      "slug": "graphic",
+      "references": [
+        {
+          "slug": "2202st01",
+          "text": "2202ST01 Graphic Analog Silver",
+          "url": "/robot-watch/graphic/2202st01"
+        },
+        {
+          "slug": "2202st02",
+          "text": "2202ST02 Graphic Analog Black",
+          "url": "/robot-watch/graphic/2202st02"
+        },
+        {
+          "slug": "1901st07",
+          "text": "1901ST07 Graphic Sutnar Chameleon Green",
+          "url": "/robot-watch/graphic/1901st07"
+        }
+      ]
+    }
+  ],
+  "total_references": 3
+}

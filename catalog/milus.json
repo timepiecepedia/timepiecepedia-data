@@ -1,0 +1,64 @@
+{
+  "brand_slug": "milus",
+  "collections": [
+    {
+      "name": "LAB 01 watches3",
+      "slug": "lab-01",
+      "references": [
+        {
+          "slug": "mil-01-003",
+          "text": "MIL.01.003 Lab 01 Blue",
+          "url": "/milus/lab-01/mil-01-003"
+        },
+        {
+          "slug": "mil-01-002",
+          "text": "MIL.01.002 Lab 01 Grey",
+          "url": "/milus/lab-01/mil-01-002"
+        },
+        {
+          "slug": "mil-01-001",
+          "text": "MIL.01.001 Lab 01 Silver",
+          "url": "/milus/lab-01/mil-01-001"
+        }
+      ]
+    },
+    {
+      "name": "Snow Star watches2",
+      "slug": "snow-star",
+      "references": [
+        {
+          "slug": "mih-02-001",
+          "text": "MIH.02.001 Snow Star Silver",
+          "url": "/milus/snow-star/mih-02-001"
+        },
+        {
+          "slug": "mih-02-002",
+          "text": "MIH.02.002 Snow Star Black",
+          "url": "/milus/snow-star/mih-02-002"
+        }
+      ]
+    },
+    {
+      "name": "Archimedes watches3",
+      "slug": "archimedes",
+      "references": [
+        {
+          "slug": "mih-01-002",
+          "text": "MIH.01.002 Archimèdes Blue",
+          "url": "/milus/archimedes/mih-01-002"
+        },
+        {
+          "slug": "mih-01-001",
+          "text": "MIH.01.001 Archimèdes Black",
+          "url": "/milus/archimedes/mih-01-001"
+        },
+        {
+          "slug": "mih-01-001-180",
+          "text": "MIH.01.001.180 Archimèdes Wild Green",
+          "url": "/milus/archimedes/mih-01-001-180"
+        }
+      ]
+    }
+  ],
+  "total_references": 8
+}

@@ -1,0 +1,48 @@
+{
+  "brand_slug": "leijona-heritage",
+  "collections": [
+    {
+      "name": "Urho watches4",
+      "slug": "urho",
+      "references": [
+        {
+          "slug": "19-100-01-210",
+          "text": "19.100.01.210 Urho Chrono Black",
+          "url": "/leijona-heritage/urho/19-100-01-210"
+        },
+        {
+          "slug": "19-300-02-311",
+          "text": "19.300.02.311 Môtiers Classic | Limited Edition",
+          "url": "/leijona-heritage/urho/19-300-02-311"
+        },
+        {
+          "slug": "20-100-01-310",
+          "text": "20.100.01.310 Urho Chrono Toivo",
+          "url": "/leijona-heritage/urho/20-100-01-310"
+        },
+        {
+          "slug": "19-100-01-110",
+          "text": "19.100.01.110 Urho Chrono White Panda",
+          "url": "/leijona-heritage/urho/19-100-01-110"
+        }
+      ]
+    },
+    {
+      "name": "Oiva watches2",
+      "slug": "oiva",
+      "references": [
+        {
+          "slug": "19-300-01-110",
+          "text": "19.300.01.110 Oiva Classic White",
+          "url": "/leijona-heritage/oiva/19-300-01-110"
+        },
+        {
+          "slug": "19-300-01-210",
+          "text": "19.300.01.210 Oiva Classic Graphite Black",
+          "url": "/leijona-heritage/oiva/19-300-01-210"
+        }
+      ]
+    }
+  ],
+  "total_references": 6
+}

@@ -1,0 +1,113 @@
+{
+  "brand_slug": "fortis",
+  "collections": [
+    {
+      "name": "Cosmonaut watches14",
+      "slug": "cosmonaut",
+      "references": [
+        {
+          "slug": "647-10-11",
+          "text": "647.10.11 Official Cosmonauts Day-Date",
+          "url": "/fortis/cosmonaut/647-10-11"
+        },
+        {
+          "slug": "647-28-81",
+          "text": "647.28.81 Official Cosmonauts Day-Date Pitch Black",
+          "url": "/fortis/cosmonaut/647-28-81"
+        },
+        {
+          "slug": "638-10-11",
+          "text": "638.10.11 Official Cosmonauts Chronograph",
+          "url": "/fortis/cosmonaut/638-10-11"
+        },
+        {
+          "slug": "623-10-52",
+          "text": "623.10.52 Spacematic Counterrotation White",
+          "url": "/fortis/cosmonaut/623-10-52"
+        },
+        {
+          "slug": "647-28-13",
+          "text": "647.28.13 Official Cosmonauts Day-Date Mars 500",
+          "url": "/fortis/cosmonaut/647-28-13"
+        },
+        {
+          "slug": "623-10-71",
+          "text": "623.10.71 Spacematic Pilot Professional",
+          "url": "/fortis/cosmonaut/623-10-71"
+        },
+        {
+          "slug": "623-10-51",
+          "text": "623.10.51 Spacematic Counterrotation",
+          "url": "/fortis/cosmonaut/623-10-51"
+        },
+        {
+          "slug": "623-10-42",
+          "text": "623.10.42 Spacematic Classic White",
+          "url": "/fortis/cosmonaut/623-10-42"
+        },
+        {
+          "slug": "647-27-11",
+          "text": "647.27.11 Official Cosmonauts Titanium Day-Date",
+          "url": "/fortis/cosmonaut/647-27-11"
+        },
+        {
+          "slug": "638-28-13",
+          "text": "638.28.13 Official Cosmonauts Chronograph Mars 500",
+          "url": "/fortis/cosmonaut/638-28-13"
+        },
+        {
+          "slug": "647-18-31",
+          "text": "647.18.31 Official Cosmonauts Day-Date Monolith",
+          "url": "/fortis/cosmonaut/647-18-31"
+        },
+        {
+          "slug": "638-18-31",
+          "text": "638.18.31 Official Cosmonauts Chronograph Monolith",
+          "url": "/fortis/cosmonaut/638-18-31"
+        },
+        {
+          "slug": "623-10-41",
+          "text": "623.10.41 Spacematic Classic",
+          "url": "/fortis/cosmonaut/623-10-41"
+        },
+        {
+          "slug": "623-18-71",
+          "text": "623.18.71 Spacematic Pilot Professional PVD",
+          "url": "/fortis/cosmonaut/623-18-71"
+        }
+      ]
+    },
+    {
+      "name": "Novonaut watches5",
+      "slug": "novonaut",
+      "references": [
+        {
+          "slug": "f2040012",
+          "text": "F2040012 Novonaut N-42 Cobalt Blue Edition / Block Bracelet",
+          "url": "/fortis/novonaut/f2040012"
+        },
+        {
+          "slug": "f2040008",
+          "text": "F2040008 Novonaut N-42 Legacy Edition / Block Bracelet",
+          "url": "/fortis/novonaut/f2040008"
+        },
+        {
+          "slug": "f2040010",
+          "text": "F2040010 Novonaut N-42 First Edition / Block Bracelet",
+          "url": "/fortis/novonaut/f2040010"
+        },
+        {
+          "slug": "f2040013",
+          "text": "F2040013 Novonaut N-42 Cobalt Blue Edition / Hybrid Strap",
+          "url": "/fortis/novonaut/f2040013"
+        },
+        {
+          "slug": "f2040009",
+          "text": "F2040009 Novonaut N-42 Legacy Edition / Hybrid Strap",
+          "url": "/fortis/novonaut/f2040009"
+        }
+      ]
+    }
+  ],
+  "total_references": 19
+}

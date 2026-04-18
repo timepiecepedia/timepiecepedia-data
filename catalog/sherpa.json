@@ -1,0 +1,22 @@
+{
+  "brand_slug": "sherpa",
+  "collections": [
+    {
+      "name": "Compressor watches2",
+      "slug": "compressor",
+      "references": [
+        {
+          "slug": "002-01-01",
+          "text": "002/01/01 Ultradive",
+          "url": "/sherpa/compressor/002-01-01"
+        },
+        {
+          "slug": "001-02-01",
+          "text": "001/02/01 OPS",
+          "url": "/sherpa/compressor/001-02-01"
+        }
+      ]
+    }
+  ],
+  "total_references": 2
+}

@@ -1,0 +1,17 @@
+{
+  "brand_slug": "avoirdupois",
+  "collections": [
+    {
+      "name": "Force Majeure watches1",
+      "slug": "force-majeure",
+      "references": [
+        {
+          "slug": "30195509",
+          "text": "30195509 Force Majeure Stainless Steel / Black",
+          "url": "/avoirdupois/force-majeure/30195509"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

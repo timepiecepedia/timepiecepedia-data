@@ -1,0 +1,84 @@
+{
+  "brand_slug": "kobold",
+  "collections": [
+    {
+      "name": "Soarway watches8",
+      "slug": "soarway",
+      "references": [
+        {
+          "slug": "kd-832121-c",
+          "text": "KD 832121-C Soarway Large Diver Stainless Steel / Black",
+          "url": "/kobold/soarway/kd-832121-c"
+        },
+        {
+          "slug": "kd-212441",
+          "text": "KD 212441 Soarway Diver Stainless Steel / Black",
+          "url": "/kobold/soarway/kd-212441"
+        },
+        {
+          "slug": "kd-1172142",
+          "text": "KD 1172142 Soarway Diver Seal  Stainless Steel / Black",
+          "url": "/kobold/soarway/kd-1172142"
+        },
+        {
+          "slug": "kn-266853",
+          "text": "KN 266853 Soarway Transglobe Stainless Steel / Bracelet",
+          "url": "/kobold/soarway/kn-266853"
+        },
+        {
+          "slug": "kd-030779",
+          "text": "KD 030779 Soarway Chronograph Red Gold / White",
+          "url": "/kobold/soarway/kd-030779"
+        },
+        {
+          "slug": "kd-1142142",
+          "text": "KD 1142142 Soarway 44 Stainless Steel / Black",
+          "url": "/kobold/soarway/kd-1142142"
+        },
+        {
+          "slug": "kd212445",
+          "text": "KD212445 Soarway Diver Safari Stainless Steel / DLC / Black",
+          "url": "/kobold/soarway/kd212445"
+        },
+        {
+          "slug": "kd-719121",
+          "text": "KD 719121 Soarway GMT Stainless Steel / Blue",
+          "url": "/kobold/soarway/kd-719121"
+        }
+      ]
+    },
+    {
+      "name": "Phantom watches3",
+      "slug": "phantom",
+      "references": [
+        {
+          "slug": "kn-321866-2",
+          "text": "KN 321866-2 Phantom Tactical Chronograph DLC / Black / Bracelet",
+          "url": "/kobold/phantom/kn-321866-2"
+        },
+        {
+          "slug": "kd-1605041",
+          "text": "KD 1605041 Phantom Chronograph Night Stalkers Edition Stainless Steel / Black",
+          "url": "/kobold/phantom/kd-1605041"
+        },
+        {
+          "slug": "kn-321866-1",
+          "text": "KN 321866-1 Phantom Black Ops Chronograph DLC / Black / Bracelet",
+          "url": "/kobold/phantom/kn-321866-1"
+        }
+      ]
+    },
+    {
+      "name": "Lynx watches1",
+      "slug": "lynx",
+      "references": [
+        {
+          "slug": "kn-230854",
+          "text": "KN 230854 Lynx Stainless Steel / Black",
+          "url": "/kobold/lynx/kn-230854"
+        }
+      ]
+    }
+  ],
+  "total_references": 12
+}

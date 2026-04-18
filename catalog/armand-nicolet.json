@@ -1,0 +1,17 @@
+{
+  "brand_slug": "armand-nicolet",
+  "collections": [
+    {
+      "name": "M02 watches1",
+      "slug": "m02",
+      "references": [
+        {
+          "slug": "9740a-ag-p974mr2",
+          "text": "9740A-AG-P974MR2 Armand Nicolet M02 Day Date",
+          "url": "/armand-nicolet/m02/9740a-ag-p974mr2"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

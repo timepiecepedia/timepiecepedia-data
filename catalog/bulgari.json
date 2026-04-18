@@ -1,0 +1,795 @@
+{
+  "brand_slug": "bulgari",
+  "collections": [
+    {
+      "name": "Octo watches97",
+      "slug": "octo",
+      "references": [
+        {
+          "slug": "103137",
+          "text": "103137 Octo Finissimo Automatic Titanium / Grey / Bracelet",
+          "url": "/bulgari/octo/103137"
+        },
+        {
+          "slug": "103431",
+          "text": "103431 Octo Finissimo S Stainless Steel / Blue / Bracelet",
+          "url": "/bulgari/octo/103431"
+        },
+        {
+          "slug": "103050",
+          "text": "103050 Octo Finissimo Automatic Stainless Steel / Hiroshi Senju / Bracelet",
+          "url": "/bulgari/octo/103050"
+        },
+        {
+          "slug": "102039",
+          "text": "102039 Octo Solotempo 41 Pink Gold Diamonds",
+          "url": "/bulgari/octo/102039"
+        },
+        {
+          "slug": "102028",
+          "text": "102028 Octo Finissimo Platinum",
+          "url": "/bulgari/octo/102028"
+        },
+        {
+          "slug": "103023",
+          "text": "103023 Octo Finissimo Automatic Titanium / Grey / Arab Watch Club",
+          "url": "/bulgari/octo/103023"
+        },
+        {
+          "slug": "102779",
+          "text": "102779 Octo Roma 41 Stainless Steel / Silver",
+          "url": "/bulgari/octo/102779"
+        },
+        {
+          "slug": "102703",
+          "text": "102703 Octo Roma 41 Stainless Steel / Pink Gold / Silver",
+          "url": "/bulgari/octo/102703"
+        },
+        {
+          "slug": "103296",
+          "text": "103296 Octo Finissimo Automatic Titanium / Grey - Burgundy / Bracelet",
+          "url": "/bulgari/octo/103296"
+        },
+        {
+          "slug": "103564",
+          "text": "103564 Octo Finissimo Automatic Steel / Blue / Passione Engadina",
+          "url": "/bulgari/octo/103564"
+        },
+        {
+          "slug": "102795",
+          "text": "102795 Octo Finissimo Platinum / Worldtempus / Blue",
+          "url": "/bulgari/octo/102795"
+        },
+        {
+          "slug": "103077",
+          "text": "103077 Octo Finissimo Automatic Ceramic / Black / Bracelet",
+          "url": "/bulgari/octo/103077"
+        },
+        {
+          "slug": "102714",
+          "text": "102714 Octo Finissimo Skeleton Titanium / Alligator",
+          "url": "/bulgari/octo/102714"
+        },
+        {
+          "slug": "103890",
+          "text": "103890 Octo Finissimo Chronograph GMT Automatic / Titanium / Yoshida Green",
+          "url": "/bulgari/octo/103890"
+        },
+        {
+          "slug": "101882",
+          "text": "101882 Octo Saltarello Retrogradi Chronograph Stainless Steel",
+          "url": "/bulgari/octo/101882"
+        },
+        {
+          "slug": "102104",
+          "text": "102104 Octo Solotempo 38 Black Bracelet",
+          "url": "/bulgari/octo/102104"
+        },
+        {
+          "slug": "102031",
+          "text": "102031 Octo Solotempo 41 Black Bracelet",
+          "url": "/bulgari/octo/102031"
+        },
+        {
+          "slug": "102118",
+          "text": "102118 Octo Solotempo 38 Two Tone Bracelet",
+          "url": "/bulgari/octo/102118"
+        },
+        {
+          "slug": "101964",
+          "text": "101964 Octo Solotempo 41 Black",
+          "url": "/bulgari/octo/101964"
+        },
+        {
+          "slug": "103672",
+          "text": "103672 Octo Finissimo Automatic Design Edition",
+          "url": "/bulgari/octo/103672"
+        },
+        {
+          "slug": "102121",
+          "text": "102121 Octo Solotempo 38 Black",
+          "url": "/bulgari/octo/102121"
+        },
+        {
+          "slug": "103563",
+          "text": "103563 Octo Finissimo Automatic Tatsuo Miyajima / Ceramic",
+          "url": "/bulgari/octo/103563"
+        },
+        {
+          "slug": "103079",
+          "text": "103079 Octo Finissimo Automatic Titanium / Grey / Passione Engadina",
+          "url": "/bulgari/octo/103079"
+        },
+        {
+          "slug": "102115",
+          "text": "102115 Octo Velocissimo",
+          "url": "/bulgari/octo/102115"
+        },
+        {
+          "slug": "103569",
+          "text": "103569 Octo Finissimo Automatic Tatsuo Miyajima / Titanium",
+          "url": "/bulgari/octo/103569"
+        },
+        {
+          "slug": "102116",
+          "text": "102116 Octo Velocissimo",
+          "url": "/bulgari/octo/102116"
+        },
+        {
+          "slug": "102636",
+          "text": "102636 Octo Finissimo Skeleton DLC / Platinum / Alligator",
+          "url": "/bulgari/octo/102636"
+        },
+        {
+          "slug": "100995",
+          "text": "100995 Octo Finissimo Automatic Titanium / Green / Harrods",
+          "url": "/bulgari/octo/100995"
+        },
+        {
+          "slug": "103170",
+          "text": "103170 Octo Finissimo Automatic Titanium / Grey - Blue / Bracelet",
+          "url": "/bulgari/octo/103170"
+        },
+        {
+          "slug": "102776",
+          "text": "102776 Octo Finissimo Skeleton DLC / Alligator / Dubai Edition",
+          "url": "/bulgari/octo/102776"
+        },
+        {
+          "slug": "102941",
+          "text": "102941 Octo Finissimo Skeleton Titanium / Alligator / Limited Edition",
+          "url": "/bulgari/octo/102941"
+        },
+        {
+          "slug": "102229",
+          "text": "102229 Octo Velocissimo Maserati",
+          "url": "/bulgari/octo/102229"
+        },
+        {
+          "slug": "103353",
+          "text": "103353 Octo Finissimo Automatic Tattoo Aria",
+          "url": "/bulgari/octo/103353"
+        },
+        {
+          "slug": "102704",
+          "text": "102704 Octo Roma 41 Stainless Steel / Black / Bracelet",
+          "url": "/bulgari/octo/102704"
+        },
+        {
+          "slug": "103354",
+          "text": "103354 Octo Finissimo Automatic Stainless Steel / Indonesia",
+          "url": "/bulgari/octo/103354"
+        },
+        {
+          "slug": "102859",
+          "text": "102859 Octo Velocissimo Titanium / Grey / Rubber",
+          "url": "/bulgari/octo/102859"
+        },
+        {
+          "slug": "103245",
+          "text": "103245 Octo Finissimo Automatic Tadao Ando",
+          "url": "/bulgari/octo/103245"
+        },
+        {
+          "slug": "103151",
+          "text": "103151 Octo Finissimo Automatic Titanium / DLC / Green",
+          "url": "/bulgari/octo/103151"
+        },
+        {
+          "slug": "102119",
+          "text": "102119 Octo Solotempo 38 Pink Gold",
+          "url": "/bulgari/octo/102119"
+        },
+        {
+          "slug": "102138",
+          "text": "102138 Octo Finissimo Tourbillon Platinum",
+          "url": "/bulgari/octo/102138"
+        },
+        {
+          "slug": "102105",
+          "text": "102105 Octo Solotempo 38 Blue Bracelet",
+          "url": "/bulgari/octo/102105"
+        },
+        {
+          "slug": "102429",
+          "text": "102429 Octo Solotempo 38 Blue",
+          "url": "/bulgari/octo/102429"
+        },
+        {
+          "slug": "103464",
+          "text": "103464 Octo Finissimo S Stainless Steel / Silver / Bracelet",
+          "url": "/bulgari/octo/103464"
+        },
+        {
+          "slug": "103750",
+          "text": "103750 Octo Finissimo Automatic Pisa",
+          "url": "/bulgari/octo/103750"
+        },
+        {
+          "slug": "103126",
+          "text": "103126 Octo Finissimo Skeleton / Ceramic / Bracelet",
+          "url": "/bulgari/octo/103126"
+        },
+        {
+          "slug": "103051",
+          "text": "103051 Octo Finissimo Automatic Titanium / Hiroshi Senju / Bracelet",
+          "url": "/bulgari/octo/103051"
+        },
+        {
+          "slug": "103709",
+          "text": "103709 Octo Finissimo Automatic Philips",
+          "url": "/bulgari/octo/103709"
+        },
+        {
+          "slug": "103244",
+          "text": "103244 Octo Finissimo Tourbillon Carbon",
+          "url": "/bulgari/octo/103244"
+        },
+        {
+          "slug": "103426",
+          "text": "103426 Octo Finissimo Automatic Titanium / Grey / Calf",
+          "url": "/bulgari/octo/103426"
+        },
+        {
+          "slug": "102469",
+          "text": "102469 Octo Finissimo Skeleton DLC / Rose Gold / Alligator",
+          "url": "/bulgari/octo/102469"
+        },
+        {
+          "slug": "102777",
+          "text": "102777 Octo Finissimo Skeleton DLC / Alligator",
+          "url": "/bulgari/octo/102777"
+        },
+        {
+          "slug": "102912",
+          "text": "102912 Octo Finissimo Automatic Pink Gold / Pink / Bracelet",
+          "url": "/bulgari/octo/102912"
+        },
+        {
+          "slug": "103286",
+          "text": "103286 Octo Finissimo 100m Pink Gold / Black / Alligator",
+          "url": "/bulgari/octo/103286"
+        },
+        {
+          "slug": "103707",
+          "text": "103707 Octo Finissimo Automatic Tattoo Acqua",
+          "url": "/bulgari/octo/103707"
+        },
+        {
+          "slug": "103673",
+          "text": "103673 Octo Finissimo Chronograph GMT Design Edition",
+          "url": "/bulgari/octo/103673"
+        },
+        {
+          "slug": "103371",
+          "text": "103371 Octo Finissimo Chronograph GMT Automatic Titanium / Black",
+          "url": "/bulgari/octo/103371"
+        },
+        {
+          "slug": "103370",
+          "text": "103370 Octo Finissimo Automatic Pink Gold / G-Eazy",
+          "url": "/bulgari/octo/103370"
+        },
+        {
+          "slug": "103506",
+          "text": "103506 Octo Finissimo Chronograph GMT Automatic Revolution / The Rake",
+          "url": "/bulgari/octo/103506"
+        },
+        {
+          "slug": "103889",
+          "text": "103889 Octo Finissimo Chronograph GMT Automatic / Titanium / Yoshida Blue",
+          "url": "/bulgari/octo/103889"
+        },
+        {
+          "slug": "103467",
+          "text": "103467 Octo Finissimo S Chronograph GMT Stainless Steel / Blue / Bracelet",
+          "url": "/bulgari/octo/103467"
+        },
+        {
+          "slug": "105053",
+          "text": "105053 Octo Finissimo Automatic Pink Gold / Hiroshi Senju / Bracelet",
+          "url": "/bulgari/octo/105053"
+        },
+        {
+          "slug": "102103",
+          "text": "102103 Octo Velocissimo",
+          "url": "/bulgari/octo/102103"
+        },
+        {
+          "slug": "102737",
+          "text": "102737 Octo Solotempo 41 Ultranero",
+          "url": "/bulgari/octo/102737"
+        },
+        {
+          "slug": "102373",
+          "text": "102373 Octo Finissimo Platinum / Diamond",
+          "url": "/bulgari/octo/102373"
+        },
+        {
+          "slug": "102973",
+          "text": "102973 Octo Finissimo Automatic Titanium / Blue / Japan",
+          "url": "/bulgari/octo/102973"
+        },
+        {
+          "slug": "102702",
+          "text": "102702 Octo Roma 41 Pink Gold / Brown",
+          "url": "/bulgari/octo/102702"
+        },
+        {
+          "slug": "103011",
+          "text": "103011 Octo Finissimo Automatic Stainless Steel / Grey / Bracelet",
+          "url": "/bulgari/octo/103011"
+        },
+        {
+          "slug": "103035",
+          "text": "103035 Octo Finissimo Automatic Stainless Steel / Grey / Alligator",
+          "url": "/bulgari/octo/103035"
+        },
+        {
+          "slug": "103038",
+          "text": "103038 Octo Finissimo Automatic Titanium / Diamond / Grey / Bracelet",
+          "url": "/bulgari/octo/103038"
+        },
+        {
+          "slug": "102249",
+          "text": "102249 Octo Solotempo 41 All Blacks",
+          "url": "/bulgari/octo/102249"
+        },
+        {
+          "slug": "103301",
+          "text": "103301 Octo Finissimo Automatic Arabic Blue / Titanium",
+          "url": "/bulgari/octo/103301"
+        },
+        {
+          "slug": "103300",
+          "text": "103300 Octo Finissimo Automatic Arabic Blue / Rose Gold",
+          "url": "/bulgari/octo/103300"
+        },
+        {
+          "slug": "103710",
+          "text": "103710 Octo Finissimo S Sejima",
+          "url": "/bulgari/octo/103710"
+        },
+        {
+          "slug": "101837",
+          "text": "101837 Octo Saltarello Retrogradi Chronograph Pink Gold",
+          "url": "/bulgari/octo/101837"
+        },
+        {
+          "slug": "102371",
+          "text": "102371 Octo Finissimo Pink Gold",
+          "url": "/bulgari/octo/102371"
+        },
+        {
+          "slug": "102581",
+          "text": "102581 Octo Solotempo 41 Ultranero",
+          "url": "/bulgari/octo/102581"
+        },
+        {
+          "slug": "102250",
+          "text": "102250 Octo Solotempo 41 Criollo",
+          "url": "/bulgari/octo/102250"
+        },
+        {
+          "slug": "102705",
+          "text": "102705 Octo Roma 41 Stainless Steel / Brown",
+          "url": "/bulgari/octo/102705"
+        },
+        {
+          "slug": "102711",
+          "text": "102711 Octo Finissimo Automatic Titanium / Grey / Alligator",
+          "url": "/bulgari/octo/102711"
+        },
+        {
+          "slug": "102207",
+          "text": "102207 Octo Solotempo 38 Two Tone",
+          "url": "/bulgari/octo/102207"
+        },
+        {
+          "slug": "101963",
+          "text": "101963 Octo Solotempo 41 Pink Gold",
+          "url": "/bulgari/octo/101963"
+        },
+        {
+          "slug": "102713",
+          "text": "102713 Octo Finissimo Automatic Titanium / Grey / Bracelet",
+          "url": "/bulgari/octo/102713"
+        },
+        {
+          "slug": "103389",
+          "text": "103389 Octo Finissimo Skeleton Pink Gold  / Calf",
+          "url": "/bulgari/octo/103389"
+        },
+        {
+          "slug": "102719",
+          "text": "102719 Octo Finissimo Tourbillon Squelette Platinum",
+          "url": "/bulgari/octo/102719"
+        },
+        {
+          "slug": "102738",
+          "text": "102738 Octo Solotempo 41 Ultranero / Red",
+          "url": "/bulgari/octo/102738"
+        },
+        {
+          "slug": "102946",
+          "text": "102946 Octo Finissimo Skeleton Pink Gold / Alligator",
+          "url": "/bulgari/octo/102946"
+        },
+        {
+          "slug": "102964",
+          "text": "102964 Octo Finissimo Skeleton DLC / Alligator",
+          "url": "/bulgari/octo/102964"
+        },
+        {
+          "slug": "102945",
+          "text": "102945 Octo Finissimo Automatic Titanium / Grey - Blue / Bracelet",
+          "url": "/bulgari/octo/102945"
+        },
+        {
+          "slug": "102909",
+          "text": "102909 Octo Finissimo Automatic Titanium / Black / Kamine's 111",
+          "url": "/bulgari/octo/102909"
+        },
+        {
+          "slug": "102971",
+          "text": "102971 Octo Finissimo Automatic Titanium / Grey / WorldTempus",
+          "url": "/bulgari/octo/102971"
+        },
+        {
+          "slug": "102955",
+          "text": "102955 Octo Finissimo Platinum / Arije",
+          "url": "/bulgari/octo/102955"
+        },
+        {
+          "slug": "103297",
+          "text": "103297 Octo Finissimo 100m Stainless Steel / Black / Bracelet",
+          "url": "/bulgari/octo/103297"
+        },
+        {
+          "slug": "103068",
+          "text": "103068 Octo Finissimo Chronograph GMT Automatic / Titanium",
+          "url": "/bulgari/octo/103068"
+        },
+        {
+          "slug": "102832",
+          "text": "102832 Octo Finissimo Platinum / Blue",
+          "url": "/bulgari/octo/102832"
+        },
+        {
+          "slug": "102850",
+          "text": "102850 Octo Finissimo Platinum / Worldtempus / Black",
+          "url": "/bulgari/octo/102850"
+        },
+        {
+          "slug": "103113",
+          "text": "103113 Octo Finissimo Automatic Titanium / Grey / AV",
+          "url": "/bulgari/octo/103113"
+        },
+        {
+          "slug": "102975",
+          "text": "102975 Octo Finissimo Automatic Titanium / Blue / Italy",
+          "url": "/bulgari/octo/102975"
+        }
+      ]
+    },
+    {
+      "name": "Serpenti watches27",
+      "slug": "serpenti",
+      "references": [
+        {
+          "slug": "102123",
+          "text": "102123 Serpenti Tubogas Two Tone Black",
+          "url": "/bulgari/serpenti/102123"
+        },
+        {
+          "slug": "102237",
+          "text": "102237 Serpenti Tubogas Two Tone Silver Diamond",
+          "url": "/bulgari/serpenti/102237"
+        },
+        {
+          "slug": "101816",
+          "text": "101816 Serpenti Tubogas Silver Diamond",
+          "url": "/bulgari/serpenti/101816"
+        },
+        {
+          "slug": "101924",
+          "text": "101924 Serpenti Tubogas Yellow Gold Diamond",
+          "url": "/bulgari/serpenti/101924"
+        },
+        {
+          "slug": "102726",
+          "text": "102726 Serpenti Skin Pink Gold / Green",
+          "url": "/bulgari/serpenti/102726"
+        },
+        {
+          "slug": "102236",
+          "text": "102236 Serpenti Tubogas Two Tone Silver Double Tour",
+          "url": "/bulgari/serpenti/102236"
+        },
+        {
+          "slug": "102782",
+          "text": "102782 Serpenti Skin Stainless Steel / Black",
+          "url": "/bulgari/serpenti/102782"
+        },
+        {
+          "slug": "101910",
+          "text": "101910 Serpenti Tubogas Silver Diamond Double Tour",
+          "url": "/bulgari/serpenti/101910"
+        },
+        {
+          "slug": "102781",
+          "text": "102781 Serpenti Skin Stainless Steel / Diamond / MOP",
+          "url": "/bulgari/serpenti/102781"
+        },
+        {
+          "slug": "102730",
+          "text": "102730 Serpenti Skin Pink Gold / Diamond / Red",
+          "url": "/bulgari/serpenti/102730"
+        },
+        {
+          "slug": "101815",
+          "text": "101815 Serpenti Tubogas Pink Gold Black Diamond",
+          "url": "/bulgari/serpenti/101815"
+        },
+        {
+          "slug": "101923",
+          "text": "101923 Serpenti Tubogas Yellow Gold Diamond Double Tour",
+          "url": "/bulgari/serpenti/101923"
+        },
+        {
+          "slug": "101814",
+          "text": "101814 Serpenti Tubogas Pink Gold Black Diamond Double Tour",
+          "url": "/bulgari/serpenti/101814"
+        },
+        {
+          "slug": "101828",
+          "text": "101828 Serpenti Tubogas Silver Large",
+          "url": "/bulgari/serpenti/101828"
+        },
+        {
+          "slug": "102099",
+          "text": "102099 Serpenti Tubogas Two Tone Black Diamond Double Tour",
+          "url": "/bulgari/serpenti/102099"
+        },
+        {
+          "slug": "102129",
+          "text": "102129 Serpenti Spiga Stainless Steel Black",
+          "url": "/bulgari/serpenti/102129"
+        },
+        {
+          "slug": "102202",
+          "text": "102202 Serpenti Spiga Pink Gold White",
+          "url": "/bulgari/serpenti/102202"
+        },
+        {
+          "slug": "102182",
+          "text": "102182 Serpenti Spiga Stainless Steel White",
+          "url": "/bulgari/serpenti/102182"
+        },
+        {
+          "slug": "101956",
+          "text": "101956 Serpenti Tubogas Pink Gold Diamond Double Tour",
+          "url": "/bulgari/serpenti/101956"
+        },
+        {
+          "slug": "101911",
+          "text": "101911 Serpenti Tubogas Silver Double Tour",
+          "url": "/bulgari/serpenti/101911"
+        },
+        {
+          "slug": "102727",
+          "text": "102727 Serpenti Skin Pink Gold / Diamond / MOP",
+          "url": "/bulgari/serpenti/102727"
+        },
+        {
+          "slug": "102098",
+          "text": "102098 Serpenti Tubogas Two Tone Black Diamond",
+          "url": "/bulgari/serpenti/102098"
+        },
+        {
+          "slug": "102128",
+          "text": "102128 Serpenti Spiga Pink Gold Black",
+          "url": "/bulgari/serpenti/102128"
+        },
+        {
+          "slug": "101827",
+          "text": "101827 Serpenti Tubogas Silver Diamond Large",
+          "url": "/bulgari/serpenti/101827"
+        },
+        {
+          "slug": "102005",
+          "text": "102005 Serpenti Tubogas White Gold Diamond",
+          "url": "/bulgari/serpenti/102005"
+        },
+        {
+          "slug": "101817",
+          "text": "101817 Serpenti Tubogas Silver",
+          "url": "/bulgari/serpenti/101817"
+        },
+        {
+          "slug": "102780",
+          "text": "102780 Serpenti Skin Stainless Steel / Diamond / Red",
+          "url": "/bulgari/serpenti/102780"
+        }
+      ]
+    },
+    {
+      "name": "Bulgari Bulgari watches18",
+      "slug": "bulgari-bulgari",
+      "references": [
+        {
+          "slug": "102043",
+          "text": "102043 Bulgari Velocissimo",
+          "url": "/bulgari/bulgari-bulgari/102043"
+        },
+        {
+          "slug": "102396",
+          "text": "102396 Bulgari Solotempo 41.5 Blue Bracelet",
+          "url": "/bulgari/bulgari-bulgari/102396"
+        },
+        {
+          "slug": "101867",
+          "text": "101867 Bulgari Solotempo 41.5 Black",
+          "url": "/bulgari/bulgari-bulgari/101867"
+        },
+        {
+          "slug": "102110",
+          "text": "102110 Bulgari Solotempo 39 Silver Bracelet",
+          "url": "/bulgari/bulgari-bulgari/102110"
+        },
+        {
+          "slug": "102055",
+          "text": "102055 Bulgari Solotempo 41.5 White Bracelet",
+          "url": "/bulgari/bulgari-bulgari/102055"
+        },
+        {
+          "slug": "102056",
+          "text": "102056 Bulgari Solotempo 41.5 White",
+          "url": "/bulgari/bulgari-bulgari/102056"
+        },
+        {
+          "slug": "101868",
+          "text": "101868 Bulgari Solotempo 41.5 Black Bracelet",
+          "url": "/bulgari/bulgari-bulgari/101868"
+        },
+        {
+          "slug": "102140",
+          "text": "102140 Bulgari Velocissimo Two Tone",
+          "url": "/bulgari/bulgari-bulgari/102140"
+        },
+        {
+          "slug": "102106",
+          "text": "102106 Bulgari Solotempo 39 Pink Gold Silver Bracelet",
+          "url": "/bulgari/bulgari-bulgari/102106"
+        },
+        {
+          "slug": "102045",
+          "text": "102045 Bulgari Velocissimo",
+          "url": "/bulgari/bulgari-bulgari/102045"
+        },
+        {
+          "slug": "101869",
+          "text": "101869 Bulgari Solotempo 39 Pink Gold White",
+          "url": "/bulgari/bulgari-bulgari/101869"
+        },
+        {
+          "slug": "102111",
+          "text": "102111 Bulgari Solotempo 39 Silver",
+          "url": "/bulgari/bulgari-bulgari/102111"
+        },
+        {
+          "slug": "102261",
+          "text": "102261 Bulgari Solotempo 39 Pink Gold Black",
+          "url": "/bulgari/bulgari-bulgari/102261"
+        },
+        {
+          "slug": "102053",
+          "text": "102053 Bulgari Solotempo 41.5 Two Tone White Bracelet",
+          "url": "/bulgari/bulgari-bulgari/102053"
+        },
+        {
+          "slug": "102108",
+          "text": "102108 Bulgari Solotempo 39 Two Tone",
+          "url": "/bulgari/bulgari-bulgari/102108"
+        },
+        {
+          "slug": "102044",
+          "text": "102044 Bulgari Velocissimo Pink Gold",
+          "url": "/bulgari/bulgari-bulgari/102044"
+        },
+        {
+          "slug": "102355",
+          "text": "102355 Bulgari Solotempo 41.5 Blue",
+          "url": "/bulgari/bulgari-bulgari/102355"
+        },
+        {
+          "slug": "103443",
+          "text": "103443 Solotempo Fragment",
+          "url": "/bulgari/bulgari-bulgari/103443"
+        }
+      ]
+    },
+    {
+      "name": "B.Zero1 watches11",
+      "slug": "b-zero1",
+      "references": [
+        {
+          "slug": "102320",
+          "text": "102320 B.Zero1 Two Tone Bracelet",
+          "url": "/bulgari/b-zero1/102320"
+        },
+        {
+          "slug": "102176",
+          "text": "102176 B.Zero1 Pink Gold",
+          "url": "/bulgari/b-zero1/102176"
+        },
+        {
+          "slug": "102321",
+          "text": "102321 B.Zero1 Two Tone Brown",
+          "url": "/bulgari/b-zero1/102321"
+        },
+        {
+          "slug": "102179",
+          "text": "102179 B.Zero1 Stainless Steel",
+          "url": "/bulgari/b-zero1/102179"
+        },
+        {
+          "slug": "102319",
+          "text": "102319 B.Zero1 Stainless Steel Black Bracelet",
+          "url": "/bulgari/b-zero1/102319"
+        },
+        {
+          "slug": "102398",
+          "text": "102398 B.Zero1 Two Tone Diamond",
+          "url": "/bulgari/b-zero1/102398"
+        },
+        {
+          "slug": "102088",
+          "text": "102088 B.Zero1 Pink Gold  Ceramic White",
+          "url": "/bulgari/b-zero1/102088"
+        },
+        {
+          "slug": "102085",
+          "text": "102085 B.Zero1 Steel Ceramic Black",
+          "url": "/bulgari/b-zero1/102085"
+        },
+        {
+          "slug": "102087",
+          "text": "102087 B.Zero1 Pink Gold Ceramic Black",
+          "url": "/bulgari/b-zero1/102087"
+        },
+        {
+          "slug": "102086",
+          "text": "102086 B.Zero1 Steel Ceramic White",
+          "url": "/bulgari/b-zero1/102086"
+        },
+        {
+          "slug": "102397",
+          "text": "102397 B.Zero1 Stainless Steel Diamond",
+          "url": "/bulgari/b-zero1/102397"
+        }
+      ]
+    }
+  ],
+  "total_references": 153
+}

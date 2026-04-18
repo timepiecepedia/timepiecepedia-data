@@ -1,0 +1,64 @@
+{
+  "brand_slug": "urwerk",
+  "collections": [
+    {
+      "name": "UR-210 watches2",
+      "slug": "ur-210",
+      "references": [
+        {
+          "slug": "ur-210-rg",
+          "text": "UR-210 RG UR-210",
+          "url": "/urwerk/ur-210/ur-210-rg"
+        },
+        {
+          "slug": "ur-210-s",
+          "text": "UR-210 S UR-210",
+          "url": "/urwerk/ur-210/ur-210-s"
+        }
+      ]
+    },
+    {
+      "name": "UR-110 watches4",
+      "slug": "ur-110",
+      "references": [
+        {
+          "slug": "ur-110-rg",
+          "text": "UR-110 RG UR-110",
+          "url": "/urwerk/ur-110/ur-110-rg"
+        },
+        {
+          "slug": "ur-110-ebony",
+          "text": "UR-110 Ebony UR-110 Eastwood Macassar Ebony",
+          "url": "/urwerk/ur-110/ur-110-ebony"
+        },
+        {
+          "slug": "ur-110-red-ebony",
+          "text": "UR-110 Red Ebony UR-110 Eastwood Red Ebony",
+          "url": "/urwerk/ur-110/ur-110-red-ebony"
+        },
+        {
+          "slug": "ur-210-y",
+          "text": "UR-210 Y UR-210",
+          "url": "/urwerk/ur-110/ur-210-y"
+        }
+      ]
+    },
+    {
+      "name": "UR-105M watches2",
+      "slug": "ur-105m",
+      "references": [
+        {
+          "slug": "ur-105m",
+          "text": "UR-105M UR-105M",
+          "url": "/urwerk/ur-105m/ur-105m"
+        },
+        {
+          "slug": "ur-105m-altin",
+          "text": "UR-105M AlTiN UR-105M",
+          "url": "/urwerk/ur-105m/ur-105m-altin"
+        }
+      ]
+    }
+  ],
+  "total_references": 8
+}

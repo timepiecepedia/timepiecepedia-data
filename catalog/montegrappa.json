@@ -1,0 +1,22 @@
+{
+  "brand_slug": "montegrappa",
+  "collections": [
+    {
+      "name": "Pirates watches2",
+      "slug": "pirates",
+      "references": [
+        {
+          "slug": "idptwasg",
+          "text": "IDPTWASG Pirates Vermeil",
+          "url": "/montegrappa/pirates/idptwasg"
+        },
+        {
+          "slug": "idptwass",
+          "text": "IDPTWASS Pirates",
+          "url": "/montegrappa/pirates/idptwass"
+        }
+      ]
+    }
+  ],
+  "total_references": 2
+}

@@ -1,0 +1,248 @@
+{
+  "brand_slug": "moritz-grossmann",
+  "collections": [
+    {
+      "name": "Atum watches35",
+      "slug": "atum",
+      "references": [
+        {
+          "slug": "mg-001097",
+          "text": "MG-001097 Atum Pure L Stainless Steel / Green",
+          "url": "/moritz-grossmann/atum/mg-001097"
+        },
+        {
+          "slug": "mg-000854",
+          "text": "MG-000854 Atum Date Rose Gold",
+          "url": "/moritz-grossmann/atum/mg-000854"
+        },
+        {
+          "slug": "mg-000857",
+          "text": "MG-000857 Atum Date White  Gold",
+          "url": "/moritz-grossmann/atum/mg-000857"
+        },
+        {
+          "slug": "mg-0001063",
+          "text": "MG-0001063 Atum Matterhorn Rose Gold",
+          "url": "/moritz-grossmann/atum/mg-0001063"
+        },
+        {
+          "slug": "mg-000703",
+          "text": "MG-000703 Atum Pure M Stainless Steel / White",
+          "url": "/moritz-grossmann/atum/mg-000703"
+        },
+        {
+          "slug": "mg-000980",
+          "text": "MG-000980 Atum Primavera White Gold / Burgundy",
+          "url": "/moritz-grossmann/atum/mg-000980"
+        },
+        {
+          "slug": "mg-000464",
+          "text": "MG-000464 Atum White Gold / Silver",
+          "url": "/moritz-grossmann/atum/mg-000464"
+        },
+        {
+          "slug": "mg-001116",
+          "text": "MG-001116 Atum Pure L DLC  / White",
+          "url": "/moritz-grossmann/atum/mg-001116"
+        },
+        {
+          "slug": "mg-001122",
+          "text": "MG-001122 Atum Pure L DLC  / Green",
+          "url": "/moritz-grossmann/atum/mg-001122"
+        },
+        {
+          "slug": "mg-001119",
+          "text": "MG-001119 Atum Pure L DLC  / Orange",
+          "url": "/moritz-grossmann/atum/mg-001119"
+        },
+        {
+          "slug": "mg-000804",
+          "text": "MG-000804 Atum Enamel Rose Gold",
+          "url": "/moritz-grossmann/atum/mg-000804"
+        },
+        {
+          "slug": "mg-000976",
+          "text": "MG-000976 Atum Primavera White Gold / Ice Blue",
+          "url": "/moritz-grossmann/atum/mg-000976"
+        },
+        {
+          "slug": "mg-000978",
+          "text": "MG-000978 Atum Primavera White Gold / Champagne",
+          "url": "/moritz-grossmann/atum/mg-000978"
+        },
+        {
+          "slug": "mg-000685",
+          "text": "MG-000685 Atum Pure M DLC  / Orange",
+          "url": "/moritz-grossmann/atum/mg-000685"
+        },
+        {
+          "slug": "mg-000463",
+          "text": "MG-000463 Atum Rose Gold",
+          "url": "/moritz-grossmann/atum/mg-000463"
+        },
+        {
+          "slug": "mg-000646",
+          "text": "MG-000646 Atum Pure M Stainless Steel / Green",
+          "url": "/moritz-grossmann/atum/mg-000646"
+        },
+        {
+          "slug": "mg-000465",
+          "text": "MG-000465 Atum White Gold / Charcoal",
+          "url": "/moritz-grossmann/atum/mg-000465"
+        },
+        {
+          "slug": "mg-000499",
+          "text": "MG-000499 Atum Pure Stainless Steel / Blue",
+          "url": "/moritz-grossmann/atum/mg-000499"
+        },
+        {
+          "slug": "mg-001158",
+          "text": "MG-001158 Atum Polo Rose Gold",
+          "url": "/moritz-grossmann/atum/mg-001158"
+        },
+        {
+          "slug": "mg-001091",
+          "text": "MG-001091 Atum Pure L Stainless Steel / White",
+          "url": "/moritz-grossmann/atum/mg-001091"
+        },
+        {
+          "slug": "mg-001094",
+          "text": "MG-001094 Atum Pure L Stainless Steel / Orange",
+          "url": "/moritz-grossmann/atum/mg-001094"
+        },
+        {
+          "slug": "mg-001088",
+          "text": "MG-001088 Atum Pure L Stainless Steel / Blue",
+          "url": "/moritz-grossmann/atum/mg-001088"
+        },
+        {
+          "slug": "mg-000470",
+          "text": "MG-000470 Atum Power Reserve Rose Gold",
+          "url": "/moritz-grossmann/atum/mg-000470"
+        },
+        {
+          "slug": "mg-000471",
+          "text": "MG-000471 Atum Power Reserve White Gold",
+          "url": "/moritz-grossmann/atum/mg-000471"
+        },
+        {
+          "slug": "mg-001113",
+          "text": "MG-001113 Atum Pure L DLC  / Blue",
+          "url": "/moritz-grossmann/atum/mg-001113"
+        },
+        {
+          "slug": "mg-000496",
+          "text": "MG-000496 Atum Pure Stainless Steel / Silver",
+          "url": "/moritz-grossmann/atum/mg-000496"
+        },
+        {
+          "slug": "mg-001161",
+          "text": "MG-001161 Atum Polo White Gold",
+          "url": "/moritz-grossmann/atum/mg-001161"
+        },
+        {
+          "slug": "mg-000712",
+          "text": "MG-000712 Atum Pure M DLC  / Blue",
+          "url": "/moritz-grossmann/atum/mg-000712"
+        },
+        {
+          "slug": "mg-000807",
+          "text": "MG-000807 Atum Enamel White Gold",
+          "url": "/moritz-grossmann/atum/mg-000807"
+        },
+        {
+          "slug": "mg-000502",
+          "text": "MG-000502 Atum Pure Stainless Steel / Grey",
+          "url": "/moritz-grossmann/atum/mg-000502"
+        },
+        {
+          "slug": "mg-000688",
+          "text": "MG-000688 Atum Pure M Stainless Steel / Blue",
+          "url": "/moritz-grossmann/atum/mg-000688"
+        },
+        {
+          "slug": "mg-000709",
+          "text": "MG-000709 Atum Pure M Stainless Steel / Orange",
+          "url": "/moritz-grossmann/atum/mg-000709"
+        },
+        {
+          "slug": "mg-000587",
+          "text": "MG-000587 Atum Pure M DLC  / White",
+          "url": "/moritz-grossmann/atum/mg-000587"
+        },
+        {
+          "slug": "mg-001191",
+          "text": "MG-001191 Atum Primavera Rose Gold / Champagne",
+          "url": "/moritz-grossmann/atum/mg-001191"
+        },
+        {
+          "slug": "mg-000706",
+          "text": "MG-000706 Atum Pure M DLC  / Green",
+          "url": "/moritz-grossmann/atum/mg-000706"
+        }
+      ]
+    },
+    {
+      "name": "Benu watches11",
+      "slug": "benu",
+      "references": [
+        {
+          "slug": "mg-000004",
+          "text": "MG-000004 Benu Tourbillon White Gold / Silver",
+          "url": "/moritz-grossmann/benu/mg-000004"
+        },
+        {
+          "slug": "mg-000001",
+          "text": "MG-000001 Benu Rose Gold",
+          "url": "/moritz-grossmann/benu/mg-000001"
+        },
+        {
+          "slug": "mg-000002",
+          "text": "MG-000002 Benu White Gold",
+          "url": "/moritz-grossmann/benu/mg-000002"
+        },
+        {
+          "slug": "mg-000461",
+          "text": "MG-000461 Benu Power Reserve White Gold / Silver",
+          "url": "/moritz-grossmann/benu/mg-000461"
+        },
+        {
+          "slug": "mg-000003",
+          "text": "MG-000003 Benu Platinum",
+          "url": "/moritz-grossmann/benu/mg-000003"
+        },
+        {
+          "slug": "mg-000628",
+          "text": "MG-000628 Benu Power Reserve Platinum",
+          "url": "/moritz-grossmann/benu/mg-000628"
+        },
+        {
+          "slug": "mg-000462",
+          "text": "MG-000462 Benu Power Reserve White Gold / Grey",
+          "url": "/moritz-grossmann/benu/mg-000462"
+        },
+        {
+          "slug": "mg-000460",
+          "text": "MG-000460 Benu Power Reserve Rose Gold / Silver",
+          "url": "/moritz-grossmann/benu/mg-000460"
+        },
+        {
+          "slug": "mg-000622",
+          "text": "MG-000622 Benu Power Reserve White Gold / Grey / Roman",
+          "url": "/moritz-grossmann/benu/mg-000622"
+        },
+        {
+          "slug": "mg-000779",
+          "text": "MG-000779 Benu Tourbillon White Gold / Black",
+          "url": "/moritz-grossmann/benu/mg-000779"
+        },
+        {
+          "slug": "mg-001173",
+          "text": "MG-001173 Benu Tourbillon Skylife",
+          "url": "/moritz-grossmann/benu/mg-001173"
+        }
+      ]
+    }
+  ],
+  "total_references": 46
+}

@@ -1,0 +1,82 @@
+{
+  "brand_slug": "graham",
+  "collections": [
+    {
+      "name": "Chronofighter watches14",
+      "slug": "chronofighter",
+      "references": [
+        {
+          "slug": "2ccbk-b15a",
+          "text": "2CCBK.B15A Chronofighter Oversize Superlight",
+          "url": "/graham/chronofighter/2ccbk-b15a"
+        },
+        {
+          "slug": "2ccau-b02a",
+          "text": "2CCAU.B02A Chronofighter Oversize Black Sahara",
+          "url": "/graham/chronofighter/2ccau-b02a"
+        },
+        {
+          "slug": "2ccau-b01a",
+          "text": "2CCAU.B01A Chronofighter Oversize Black Forest",
+          "url": "/graham/chronofighter/2ccau-b01a"
+        },
+        {
+          "slug": "2ccau-b12a-k93n",
+          "text": "2CCAU.B12A.K93N Chronofighter Oversize Golden Dune",
+          "url": "/graham/chronofighter/2ccau-b12a-k93n"
+        },
+        {
+          "slug": "2ccau-g01a",
+          "text": "2CCAU.G01A Chronofighter Oversize Amazonia Green",
+          "url": "/graham/chronofighter/2ccau-g01a"
+        },
+        {
+          "slug": "2ccau-s01a",
+          "text": "2CCAU.S01A Chronofighter Oversize",
+          "url": "/graham/chronofighter/2ccau-s01a"
+        },
+        {
+          "slug": "2ccac-s01a",
+          "text": "2CCAC.S01A Chronofighter Oversize",
+          "url": "/graham/chronofighter/2ccac-s01a"
+        },
+        {
+          "slug": "2ccau-s02a",
+          "text": "2CCAU.S02A Chronofighter Oversize Black Arrow",
+          "url": "/graham/chronofighter/2ccau-s02a"
+        },
+        {
+          "slug": "2ccau-g02a",
+          "text": "2CCAU.G02A Chronofighter Oversize Black Arrow",
+          "url": "/graham/chronofighter/2ccau-g02a"
+        },
+        {
+          "slug": "2ccbk-b11a",
+          "text": "2CCBK.B11A Chronofighter Oversize Superlight",
+          "url": "/graham/chronofighter/2ccbk-b11a"
+        },
+        {
+          "slug": "2ccacu01a",
+          "text": "2CCAC.U01A Chronofighter Oversize",
+          "url": "/graham/chronofighter/2ccacu01a"
+        },
+        {
+          "slug": "2ccau-b09a",
+          "text": "2CCAU.B09A Chronofighter Oversize",
+          "url": "/graham/chronofighter/2ccau-b09a"
+        },
+        {
+          "slug": "2ccac-b03a",
+          "text": "2CCAC.B03A Chronofighter Oversize",
+          "url": "/graham/chronofighter/2ccac-b03a"
+        },
+        {
+          "slug": "2ccau-e03a",
+          "text": "2CCAU.E03A Chronofighter Oversize Black Arrow",
+          "url": "/graham/chronofighter/2ccau-e03a"
+        }
+      ]
+    }
+  ],
+  "total_references": 14
+}

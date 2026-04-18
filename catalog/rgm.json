@@ -1,0 +1,17 @@
+{
+  "brand_slug": "rgm",
+  "collections": [
+    {
+      "name": "Grand Complications watches1",
+      "slug": "grand-complications",
+      "references": [
+        {
+          "slug": "mm2-steel",
+          "text": "MM2 Steel Pennsylvania Tourbillon",
+          "url": "/rgm/grand-complications/mm2-steel"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

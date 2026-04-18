@@ -1,0 +1,652 @@
+{
+  "brand_slug": "casio",
+  "collections": [
+    {
+      "name": "G-Shock 6900 watches60",
+      "slug": "g-shock-6900",
+      "references": [
+        {
+          "slug": "dw-6900cr-7",
+          "text": "DW-6900CR-7 DW-6900CR-7 White Crocodile",
+          "url": "/casio/g-shock-6900/dw-6900cr-7"
+        },
+        {
+          "slug": "gd-x6900-7",
+          "text": "GD-X6900-7 GD-X6900-7 Black & White",
+          "url": "/casio/g-shock-6900/gd-x6900-7"
+        },
+        {
+          "slug": "dw-6900nb-3",
+          "text": "DW-6900NB-3 DW-6900NB-3 Lime Green",
+          "url": "/casio/g-shock-6900/dw-6900nb-3"
+        },
+        {
+          "slug": "dw-6900sn-1",
+          "text": "DW-6900SN-1 DW-6900SN-1 Black",
+          "url": "/casio/g-shock-6900/dw-6900sn-1"
+        },
+        {
+          "slug": "dw-6900sg-2",
+          "text": "DW-6900SG-2 DW-6900SG-2 Baby Blue",
+          "url": "/casio/g-shock-6900/dw-6900sg-2"
+        },
+        {
+          "slug": "dw-6900mf-1",
+          "text": "DW-6900MF-1 DW-6900MF-1 Black Purple",
+          "url": "/casio/g-shock-6900/dw-6900mf-1"
+        },
+        {
+          "slug": "dw-6900ds-1",
+          "text": "DW-6900DS-1 DW-6900DS-1 Black Diamond Pattern",
+          "url": "/casio/g-shock-6900/dw-6900ds-1"
+        },
+        {
+          "slug": "gd-x6900mnm-1",
+          "text": "GD-X6900MNM-1 GD-X6900MNM-1 Eminem",
+          "url": "/casio/g-shock-6900/gd-x6900mnm-1"
+        },
+        {
+          "slug": "dw-6900pl-7",
+          "text": "DW-6900PL-7 DW-6900PL-7 Polarized White",
+          "url": "/casio/g-shock-6900/dw-6900pl-7"
+        },
+        {
+          "slug": "gd-x6900ht-3",
+          "text": "GD-X6900HT-3 GD-X6900HT-3 Heathered Green",
+          "url": "/casio/g-shock-6900/gd-x6900ht-3"
+        },
+        {
+          "slug": "dw-6900e-1",
+          "text": "DW-6900E-1 DW-6900E-1 Black & Blue",
+          "url": "/casio/g-shock-6900/dw-6900e-1"
+        },
+        {
+          "slug": "gd-x6900lg-8",
+          "text": "GD-X6900LG-8 GD-X6900LG-8 Ice Grey",
+          "url": "/casio/g-shock-6900/gd-x6900lg-8"
+        },
+        {
+          "slug": "dw-6900br-5",
+          "text": "DW-6900BR-5 DW-6900BR-5 Brown Gold",
+          "url": "/casio/g-shock-6900/dw-6900br-5"
+        },
+        {
+          "slug": "dw6900cs1er",
+          "text": "DW6900CS1ER DW-6900CS-1 Zombie Killer",
+          "url": "/casio/g-shock-6900/dw6900cs1er"
+        },
+        {
+          "slug": "gd-x6900fb-1",
+          "text": "GD-X6900FB-1 GD-X6900FB-1ER Black & Gold",
+          "url": "/casio/g-shock-6900/gd-x6900fb-1"
+        },
+        {
+          "slug": "dw6900pl9er",
+          "text": "DW6900PL9ER DW-6900PL-9ER Polarized Yellow",
+          "url": "/casio/g-shock-6900/dw6900pl9er"
+        },
+        {
+          "slug": "dw-6900pl-4",
+          "text": "DW-6900PL-4 DW-6900PL-4 Polarized Pink",
+          "url": "/casio/g-shock-6900/dw-6900pl-4"
+        },
+        {
+          "slug": "dw-6900sb-4",
+          "text": "DW-6900SB-4 DW-6900SB-4 Burgundy",
+          "url": "/casio/g-shock-6900/dw-6900sb-4"
+        },
+        {
+          "slug": "dw-6900nb-4",
+          "text": "DW-6900NB-4 DW-6900NB-4 Purple",
+          "url": "/casio/g-shock-6900/dw-6900nb-4"
+        },
+        {
+          "slug": "dw-6900pl-1",
+          "text": "DW-6900PL-1 DW-6900PL-1 Polarized Gold",
+          "url": "/casio/g-shock-6900/dw-6900pl-1"
+        },
+        {
+          "slug": "dw-6900sn-3",
+          "text": "DW-6900SN-3 DW-6900SN-3 Matte Turquoise",
+          "url": "/casio/g-shock-6900/dw-6900sn-3"
+        },
+        {
+          "slug": "dw-6900nb-7",
+          "text": "DW-6900NB-7 DW-6900NB-7",
+          "url": "/casio/g-shock-6900/dw-6900nb-7"
+        },
+        {
+          "slug": "gd-x6900cm-8",
+          "text": "GD-X6900CM-8 GD-X6900CM-8 Grey Tiger Camo",
+          "url": "/casio/g-shock-6900/gd-x6900cm-8"
+        },
+        {
+          "slug": "dw6900mr1er",
+          "text": "DW6900MR1ER DW-6900MR-1",
+          "url": "/casio/g-shock-6900/dw6900mr1er"
+        },
+        {
+          "slug": "gd-x6900cm-5",
+          "text": "GD-X6900CM-5 GD-X6900CM-5 Green Tiger Camo",
+          "url": "/casio/g-shock-6900/gd-x6900cm-5"
+        },
+        {
+          "slug": "gd-x6900mh-1",
+          "text": "GD-X6900MH-1 GD-X6900MH-1 Maharishi Lunar",
+          "url": "/casio/g-shock-6900/gd-x6900mh-1"
+        },
+        {
+          "slug": "gd-x6900-1",
+          "text": "GD-X6900-1 GD-X6900-1 Black",
+          "url": "/casio/g-shock-6900/gd-x6900-1"
+        },
+        {
+          "slug": "gd-x6900gd-9",
+          "text": "GD-X6900GD-9 GD-X6900GD-9 Rose Gold",
+          "url": "/casio/g-shock-6900/gd-x6900gd-9"
+        },
+        {
+          "slug": "dw-6900ac-2",
+          "text": "DW-6900AC-2 DW-6900AC-2 Red, White, Blue",
+          "url": "/casio/g-shock-6900/dw-6900ac-2"
+        },
+        {
+          "slug": "gd-x6900ht-8",
+          "text": "GD-X6900HT-8 GD-X6900HT-8 Heathered Grey",
+          "url": "/casio/g-shock-6900/gd-x6900ht-8"
+        },
+        {
+          "slug": "dw-6900cb-2",
+          "text": "DW-6900CB-2 DW-6900CB-2 Baby Blue Mirror",
+          "url": "/casio/g-shock-6900/dw-6900cb-2"
+        },
+        {
+          "slug": "dw-6900cr-3",
+          "text": "DW-6900CR-3 DW-6900CR-3 Green Crocodile",
+          "url": "/casio/g-shock-6900/dw-6900cr-3"
+        },
+        {
+          "slug": "dw6900cs4er",
+          "text": "DW6900CS4ER DW-6900CS-4 Pink & Silver",
+          "url": "/casio/g-shock-6900/dw6900cs4er"
+        },
+        {
+          "slug": "dw-6900cb-4",
+          "text": "DW-6900CB-4 DW-6900CB-4 Red",
+          "url": "/casio/g-shock-6900/dw-6900cb-4"
+        },
+        {
+          "slug": "dw-6900sc-4",
+          "text": "DW-6900SC-4 DW-6900SC-4 Orange Stars",
+          "url": "/casio/g-shock-6900/dw-6900sc-4"
+        },
+        {
+          "slug": "dw-6900sc-1",
+          "text": "DW-6900SC-1 DW-6900SC-1ER Stars",
+          "url": "/casio/g-shock-6900/dw-6900sc-1"
+        },
+        {
+          "slug": "dw-6900cb-8",
+          "text": "DW-6900CB-8 DW-6900CB-8 Metallic Mirror",
+          "url": "/casio/g-shock-6900/dw-6900cb-8"
+        },
+        {
+          "slug": "dw-6900gd-9",
+          "text": "DW-6900GD-9 DW-6900GD-9 Dark Gold",
+          "url": "/casio/g-shock-6900/dw-6900gd-9"
+        },
+        {
+          "slug": "gd-x6900ht-2",
+          "text": "GD-X6900HT-2 GD-X6900HT-2 Heathered Purple",
+          "url": "/casio/g-shock-6900/gd-x6900ht-2"
+        },
+        {
+          "slug": "dw-6900hm-1",
+          "text": "DW-6900HM-1 DW-6900HM-1 Brushed Steel",
+          "url": "/casio/g-shock-6900/dw-6900hm-1"
+        },
+        {
+          "slug": "dw-6900hm-2",
+          "text": "DW-6900HM-2 DW-6900HM-2 Navy Blue Brushed Steel",
+          "url": "/casio/g-shock-6900/dw-6900hm-2"
+        },
+        {
+          "slug": "dw-6900mr-7",
+          "text": "DW-6900MR-7 DW-6900MR-7 White Metallic",
+          "url": "/casio/g-shock-6900/dw-6900mr-7"
+        },
+        {
+          "slug": "gd-x6900ht-1",
+          "text": "GD-X6900HT-1 GD-X6900HT-1 Heathered Black",
+          "url": "/casio/g-shock-6900/gd-x6900ht-1"
+        },
+        {
+          "slug": "dw-6900sb-2",
+          "text": "DW-6900SB-2 DW-6900SB-2 Blue Mirror",
+          "url": "/casio/g-shock-6900/dw-6900sb-2"
+        },
+        {
+          "slug": "dw-6900sb-9",
+          "text": "DW-6900SB-9 DW-6900SB-9 Mango",
+          "url": "/casio/g-shock-6900/dw-6900sb-9"
+        },
+        {
+          "slug": "dw-6900sn-4er",
+          "text": "DW-6900SN-4ER DW-6900SN-4 Bubble Gum Pink",
+          "url": "/casio/g-shock-6900/dw-6900sn-4er"
+        },
+        {
+          "slug": "gd-x6900ht-4",
+          "text": "GD-X6900HT-4 GD-X6900HT-4 Heathered Red",
+          "url": "/casio/g-shock-6900/gd-x6900ht-4"
+        },
+        {
+          "slug": "dw-6900ww-7",
+          "text": "DW-6900WW-7 DW-6900WW-7 Basic White",
+          "url": "/casio/g-shock-6900/dw-6900ww-7"
+        },
+        {
+          "slug": "dw-6900mf-4",
+          "text": "DW-6900MF-4 DW-6900MF-4 Red Metallic",
+          "url": "/casio/g-shock-6900/dw-6900mf-4"
+        },
+        {
+          "slug": "gd-x6900pm-1",
+          "text": "GD-X6900PM-1 GD-X6900PM-1 Electric",
+          "url": "/casio/g-shock-6900/gd-x6900pm-1"
+        },
+        {
+          "slug": "gd-x6900ht-7",
+          "text": "GD-X6900HT-7 GD-X6900HT-7 Heathered White",
+          "url": "/casio/g-shock-6900/gd-x6900ht-7"
+        },
+        {
+          "slug": "dw-6900cb-1",
+          "text": "DW-6900CB-1 DW-6900CB-1 Black Gold",
+          "url": "/casio/g-shock-6900/dw-6900cb-1"
+        },
+        {
+          "slug": "gd-x6900ht-9",
+          "text": "GD-X6900HT-9 GD-X6900HT-9 Heathered Yellow",
+          "url": "/casio/g-shock-6900/gd-x6900ht-9"
+        },
+        {
+          "slug": "dw-6900cs-7",
+          "text": "DW-6900CS-7 DW-6900CS-7",
+          "url": "/casio/g-shock-6900/dw-6900cs-7"
+        },
+        {
+          "slug": "dw-6900nb-1",
+          "text": "DW-6900NB-1 DW-6900NB-1 Black Metallic",
+          "url": "/casio/g-shock-6900/dw-6900nb-1"
+        },
+        {
+          "slug": "dw-6900sn-7er",
+          "text": "DW-6900SN-7ER DW-6900SN-7 White Red",
+          "url": "/casio/g-shock-6900/dw-6900sn-7er"
+        },
+        {
+          "slug": "dw6900mt7er",
+          "text": "DW6900MT7ER G-Shock DW-6900MT-7ER",
+          "url": "/casio/g-shock-6900/dw6900mt7er"
+        },
+        {
+          "slug": "dw-6900sc-8er",
+          "text": "DW-6900SC-8ER DW-6900SC-8 Anthracite Stars",
+          "url": "/casio/g-shock-6900/dw-6900sc-8er"
+        },
+        {
+          "slug": "dw-6900cr-1",
+          "text": "DW-6900CR-1 DW-6900CR-1 Black Crocodile",
+          "url": "/casio/g-shock-6900/dw-6900cr-1"
+        },
+        {
+          "slug": "dw-6900mf-2",
+          "text": "DW-6900MF-2 DW-6900MF-2 Grey Metallic",
+          "url": "/casio/g-shock-6900/dw-6900mf-2"
+        }
+      ]
+    },
+    {
+      "name": "G-Shock GA-110 watches33",
+      "slug": "g-shock-ga-110",
+      "references": [
+        {
+          "slug": "ga-110-dn-6a",
+          "text": "GA-110-DN-6A GA-110-DN-6A Dusty Neon Purple",
+          "url": "/casio/g-shock-ga-110/ga-110-dn-6a"
+        },
+        {
+          "slug": "ga-110ts-8a2",
+          "text": "GA-110TS-8A2 GA-110TS-8A2 Grey Blue",
+          "url": "/casio/g-shock-ga-110/ga-110ts-8a2"
+        },
+        {
+          "slug": "ga-110ac-4a",
+          "text": "GA-110AC-4A GA-110AC-4A Red",
+          "url": "/casio/g-shock-ga-110/ga-110ac-4a"
+        },
+        {
+          "slug": "ga-110fc-2a",
+          "text": "GA-110FC-2A GA-110FC-2A Blue Green",
+          "url": "/casio/g-shock-ga-110/ga-110fc-2a"
+        },
+        {
+          "slug": "ga-110rg-7a",
+          "text": "GA-110RG-7A GA-110RG-7A White Rose",
+          "url": "/casio/g-shock-ga-110/ga-110rg-7a"
+        },
+        {
+          "slug": "ga-110cm-9a",
+          "text": "GA-110CM-9A GA-110CM-9A Yellow Camo",
+          "url": "/casio/g-shock-ga-110/ga-110cm-9a"
+        },
+        {
+          "slug": "ga-110hc-2a",
+          "text": "GA-110HC-2A GA-110HC-2A Blue Negative",
+          "url": "/casio/g-shock-ga-110/ga-110hc-2a"
+        },
+        {
+          "slug": "ga-110cm-3a",
+          "text": "GA-110CM-3A GA-110CM-3A Green Camo",
+          "url": "/casio/g-shock-ga-110/ga-110cm-3a"
+        },
+        {
+          "slug": "ga-110sl-3a",
+          "text": "GA-110SL-3A GA-110SL-3A Grey Slash",
+          "url": "/casio/g-shock-ga-110/ga-110sl-3a"
+        },
+        {
+          "slug": "ga-110fc-1a",
+          "text": "GA-110FC-1A GA-110FC-1A Red Blue",
+          "url": "/casio/g-shock-ga-110/ga-110fc-1a"
+        },
+        {
+          "slug": "ga-110ts-8a4",
+          "text": "GA-110TS-8A4 GA-110TS-8A4 Grey Purple",
+          "url": "/casio/g-shock-ga-110/ga-110ts-8a4"
+        },
+        {
+          "slug": "ga-110gw-7a",
+          "text": "GA-110GW-7A GA-110GW-7A",
+          "url": "/casio/g-shock-ga-110/ga-110gw-7a"
+        },
+        {
+          "slug": "ga-110mb-1a",
+          "text": "GA-110MB-1A GA-110MB-1A Mission Black",
+          "url": "/casio/g-shock-ga-110/ga-110mb-1a"
+        },
+        {
+          "slug": "ga-110mr-4a",
+          "text": "GA-110MR-4A GA-110MR-4A Orange",
+          "url": "/casio/g-shock-ga-110/ga-110mr-4a"
+        },
+        {
+          "slug": "ga-110sn-7a",
+          "text": "GA-110SN-7A GA-110SN-7A White",
+          "url": "/casio/g-shock-ga-110/ga-110sn-7a"
+        },
+        {
+          "slug": "ga-110br-5a",
+          "text": "GA-110BR-5A GA-110BR-5A Black Gold",
+          "url": "/casio/g-shock-ga-110/ga-110br-5a"
+        },
+        {
+          "slug": "ga-110cm-1a",
+          "text": "GA-110CM-1A GA-110CM-1A Black Camo",
+          "url": "/casio/g-shock-ga-110/ga-110cm-1a"
+        },
+        {
+          "slug": "ga-110c-7a",
+          "text": "GA-110C-7A GA-110C-7A White",
+          "url": "/casio/g-shock-ga-110/ga-110c-7a"
+        },
+        {
+          "slug": "ga-110sl-8a",
+          "text": "GA-110SL-8A G-A110SL-8A Grey Slash",
+          "url": "/casio/g-shock-ga-110/ga-110sl-8a"
+        },
+        {
+          "slug": "ga-110gd-9a",
+          "text": "GA-110GD-9A GA-110GD-9A Yellow Gold",
+          "url": "/casio/g-shock-ga-110/ga-110gd-9a"
+        },
+        {
+          "slug": "ga-110ac-7a",
+          "text": "GA-110AC-7A GA-110AC-7A Red, White and Blue",
+          "url": "/casio/g-shock-ga-110/ga-110ac-7a"
+        },
+        {
+          "slug": "ga-110-1b",
+          "text": "GA-110-1B GA-110-1B Black",
+          "url": "/casio/g-shock-ga-110/ga-110-1b"
+        },
+        {
+          "slug": "ga-110cm-8a",
+          "text": "GA-110CM-8A GA-110CM-8A Grey Camo",
+          "url": "/casio/g-shock-ga-110/ga-110cm-8a"
+        },
+        {
+          "slug": "ga-110gd-9b2",
+          "text": "GA-110GD-9B2 GA-110GD-9B2 Black x Rose Gold",
+          "url": "/casio/g-shock-ga-110/ga-110gd-9b2"
+        },
+        {
+          "slug": "ga-110c-1a",
+          "text": "GA-110C-1A GA-110C-1A Black",
+          "url": "/casio/g-shock-ga-110/ga-110c-1a"
+        },
+        {
+          "slug": "ga-110-1a",
+          "text": "GA-110-1A GA-110-1A Black",
+          "url": "/casio/g-shock-ga-110/ga-110-1a"
+        },
+        {
+          "slug": "ga-110hc-1a",
+          "text": "GA-110HC-1A GA-110HC-1A Black Purple",
+          "url": "/casio/g-shock-ga-110/ga-110hc-1a"
+        },
+        {
+          "slug": "ga-110dn-4a",
+          "text": "GA-110DN-4A GA-110-DN-4A Dusty Neon Peach",
+          "url": "/casio/g-shock-ga-110/ga-110dn-4a"
+        },
+        {
+          "slug": "ga-110gb-1a",
+          "text": "GA-110GB-1A GA-110GB-1A Black Gold Negative",
+          "url": "/casio/g-shock-ga-110/ga-110gb-1a"
+        },
+        {
+          "slug": "ga-110gd-9b",
+          "text": "GA-110GD-9B GA-110GD-9B Black x Rose Gold",
+          "url": "/casio/g-shock-ga-110/ga-110gd-9b"
+        },
+        {
+          "slug": "ga-110sl-4a",
+          "text": "GA-110SL-4A GA-110SL-4A Red Slash",
+          "url": "/casio/g-shock-ga-110/ga-110sl-4a"
+        },
+        {
+          "slug": "ga-110sg-4a",
+          "text": "GA-110SG-4A GA-110SG-4A Peach",
+          "url": "/casio/g-shock-ga-110/ga-110sg-4a"
+        },
+        {
+          "slug": "ga-110ts-1a",
+          "text": "GA-110TS-1A GA-110TS-1A Grey Orange",
+          "url": "/casio/g-shock-ga-110/ga-110ts-1a"
+        }
+      ]
+    },
+    {
+      "name": "G-Shock GA-100 watches13",
+      "slug": "g-shock-ga-100",
+      "references": [
+        {
+          "slug": "ga-100-a9",
+          "text": "GA-100-A9 GA-100A-9A Bumblebee",
+          "url": "/casio/g-shock-ga-100/ga-100-a9"
+        },
+        {
+          "slug": "ga-100a-7a",
+          "text": "GA-100A-7A GA-100A-7A White Ice",
+          "url": "/casio/g-shock-ga-100/ga-100a-7a"
+        },
+        {
+          "slug": "ga-100mc-1a",
+          "text": "GA-100MC-1A GA-100MC-1A Grey NATO",
+          "url": "/casio/g-shock-ga-100/ga-100mc-1a"
+        },
+        {
+          "slug": "ga-100c-1a3",
+          "text": "GA-100C-1A3 GA-100C-1A3 Green Hands",
+          "url": "/casio/g-shock-ga-100/ga-100c-1a3"
+        },
+        {
+          "slug": "ga-100gd-9a",
+          "text": "GA-100GD-9A GA-100GD-9A Rose Gold",
+          "url": "/casio/g-shock-ga-100/ga-100gd-9a"
+        },
+        {
+          "slug": "ga-100b-4a",
+          "text": "GA-100B-4A GA-100B-4A Red",
+          "url": "/casio/g-shock-ga-100/ga-100b-4a"
+        },
+        {
+          "slug": "ga-100mb-1a",
+          "text": "GA-100MB-1A GA100-MB-1A Black Green",
+          "url": "/casio/g-shock-ga-100/ga-100mb-1a"
+        },
+        {
+          "slug": "ga-100-1a2",
+          "text": "GA-100-1A2 GA-100-1A2 Black Blue",
+          "url": "/casio/g-shock-ga-100/ga-100-1a2"
+        },
+        {
+          "slug": "ga-100mc-1a4",
+          "text": "GA-100MC-1A4 GA-100MC-1A4 Orange NATO",
+          "url": "/casio/g-shock-ga-100/ga-100mc-1a4"
+        },
+        {
+          "slug": "ga-100-1a1",
+          "text": "GA-100-1A1 GA-100-1A1 Black Black",
+          "url": "/casio/g-shock-ga-100/ga-100-1a1"
+        },
+        {
+          "slug": "ga-100-1a4",
+          "text": "GA-100-1A4 GA-100-1A4 Black Red",
+          "url": "/casio/g-shock-ga-100/ga-100-1a4"
+        },
+        {
+          "slug": "ga-100c-8aer",
+          "text": "GA-100C-8AER GA-100C-8A Blue Hands",
+          "url": "/casio/g-shock-ga-100/ga-100c-8aer"
+        },
+        {
+          "slug": "ga-100b-7a",
+          "text": "GA-100B-7A GA-100B-7A White Blue",
+          "url": "/casio/g-shock-ga-100/ga-100b-7a"
+        }
+      ]
+    },
+    {
+      "name": "Mudmaster watches8",
+      "slug": "mudmaster",
+      "references": [
+        {
+          "slug": "gwg-1000-1a9",
+          "text": "GWG-1000-1A9 G-Shock Mudmaster Triple Sensor Black / Yellow",
+          "url": "/casio/mudmaster/gwg-1000-1a9"
+        },
+        {
+          "slug": "gwg-1000rd-4a",
+          "text": "GWG-1000RD-4A G-Shock Mudmaster Triple Sensor Black / Red",
+          "url": "/casio/mudmaster/gwg-1000rd-4a"
+        },
+        {
+          "slug": "gg-1000-1a3",
+          "text": "GG-1000-1A3 G-Shock Mudmaster Twin Sensor Black / Green",
+          "url": "/casio/mudmaster/gg-1000-1a3"
+        },
+        {
+          "slug": "gg-1000gb-1a",
+          "text": "GG-1000GB-1A G-Shock Mudmaster Twin Sensor Vintage Black / Gold",
+          "url": "/casio/mudmaster/gg-1000gb-1a"
+        },
+        {
+          "slug": "gg-1000-1a",
+          "text": "GG-1000-1A G-Shock Mudmaster Twin Sensor Black / Black",
+          "url": "/casio/mudmaster/gg-1000-1a"
+        },
+        {
+          "slug": "gwg-1000-1a",
+          "text": "GWG-1000-1A G-Shock Mudmaster Triple Sensor Black / Black",
+          "url": "/casio/mudmaster/gwg-1000-1a"
+        },
+        {
+          "slug": "gwg-1000gb-1a",
+          "text": "GWG-1000GB-1A G-Shock Mudmaster Triple Sensor Black / Gold",
+          "url": "/casio/mudmaster/gwg-1000gb-1a"
+        },
+        {
+          "slug": "gg-1000-1a5",
+          "text": "GG-1000-1A5 G-Shock Mudmaster Twin Sensor Black / Beige",
+          "url": "/casio/mudmaster/gg-1000-1a5"
+        }
+      ]
+    },
+    {
+      "name": "MR-G watches4",
+      "slug": "mr-g",
+      "references": [
+        {
+          "slug": "mrg-g1000d-1adr",
+          "text": "MRG-G1000D-1ADR MR-G G1000 DLC Bezel",
+          "url": "/casio/mr-g/mrg-g1000d-1adr"
+        },
+        {
+          "slug": "mrg-g1000dc-1adr",
+          "text": "MRG-G1000DC-1ADR MR-G G1000",
+          "url": "/casio/mr-g/mrg-g1000dc-1adr"
+        },
+        {
+          "slug": "mrg-g1000b-1adr",
+          "text": "MRG-G1000B-1ADR MR-G G1000 DLC",
+          "url": "/casio/mr-g/mrg-g1000b-1adr"
+        },
+        {
+          "slug": "mrgg1000hg-9a",
+          "text": "MRGG1000HG-9A MR-G G1000 Hammertone Gold",
+          "url": "/casio/mr-g/mrgg1000hg-9a"
+        }
+      ]
+    },
+    {
+      "name": "MTG watches4",
+      "slug": "mtg",
+      "references": [
+        {
+          "slug": "mtg-g1000d-1a",
+          "text": "MTG-G1000D-1A G-Shock MT-G G1000 Steel / Black",
+          "url": "/casio/mtg/mtg-g1000d-1a"
+        },
+        {
+          "slug": "mtg-g1000bs-1a",
+          "text": "MTG-G1000BS-1A G-Shock MT-G G1000 Aged Gold",
+          "url": "/casio/mtg/mtg-g1000bs-1a"
+        },
+        {
+          "slug": "mtg-g1000gb-1a",
+          "text": "MTG-G1000GB-1A G-Shock MT-G G1000 Black / Gold",
+          "url": "/casio/mtg/mtg-g1000gb-1a"
+        },
+        {
+          "slug": "mtg-g1000d-1a2",
+          "text": "MTG-G1000D-1A2 G-Shock MT-G G1000 Steel / Black / Blue",
+          "url": "/casio/mtg/mtg-g1000d-1a2"
+        }
+      ]
+    }
+  ],
+  "total_references": 122
+}

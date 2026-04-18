@@ -1,0 +1,346 @@
+{
+  "brand_slug": "pequignet",
+  "collections": [
+    {
+      "name": "Rue Royale watches20",
+      "slug": "rue-royale",
+      "references": [
+        {
+          "slug": "9011448cn",
+          "text": "9011448CN Rue Royale Moonphase Yellow Gold / Black / Black Alligator",
+          "url": "/pequignet/rue-royale/9011448cn"
+        },
+        {
+          "slug": "9010933cg",
+          "text": "9010933CG Rue Royale GMT Stainless Steel / Silver",
+          "url": "/pequignet/rue-royale/9010933cg"
+        },
+        {
+          "slug": "9010233cg",
+          "text": "9010233CG Rue Royale Day Date Stainless Steel / Silver / Brown Alligator",
+          "url": "/pequignet/rue-royale/9010233cg"
+        },
+        {
+          "slug": "9010973cb",
+          "text": "9010973CB Rue Royale GMT Stainless Blue",
+          "url": "/pequignet/rue-royale/9010973cb"
+        },
+        {
+          "slug": "9010143cn",
+          "text": "9010143CN Rue Royale Stainless Steel / Black / Black Alligator",
+          "url": "/pequignet/rue-royale/9010143cn"
+        },
+        {
+          "slug": "9011438cn",
+          "text": "9011438CN Rue Royale Moonphase Yellow Gold / Silver / Black Alligator",
+          "url": "/pequignet/rue-royale/9011438cn"
+        },
+        {
+          "slug": "9010943cn",
+          "text": "9010943CN Rue Royale GMT Stainless Steel / Grey",
+          "url": "/pequignet/rue-royale/9010943cn"
+        },
+        {
+          "slug": "9010973cob",
+          "text": "9010973COB Rue Royale GMT Stainless Blue / Fabric",
+          "url": "/pequignet/rue-royale/9010973cob"
+        },
+        {
+          "slug": "9010433cg",
+          "text": "9010433CG Rue Royale Moonphase Stainless Steel / Silver / Brown Alligator",
+          "url": "/pequignet/rue-royale/9010433cg"
+        },
+        {
+          "slug": "9010433cn",
+          "text": "9010433CN Rue Royale Moonphase Stainless Steel / Silver / Black Alligator",
+          "url": "/pequignet/rue-royale/9010433cn"
+        },
+        {
+          "slug": "9010443cn",
+          "text": "9010443CN Rue Royale Moonphase Stainless Steel / Black / Black Alligator",
+          "url": "/pequignet/rue-royale/9010443cn"
+        },
+        {
+          "slug": "9011438cg",
+          "text": "9011438CG Rue Royale Moonphase Yellow Gold / Silver / Brown Alligator",
+          "url": "/pequignet/rue-royale/9011438cg"
+        },
+        {
+          "slug": "9011538cg",
+          "text": "9011538CG Rue Royale Moonphase Red Gold / Silver / Black Alligator",
+          "url": "/pequignet/rue-royale/9011538cg"
+        },
+        {
+          "slug": "9011548cn",
+          "text": "9011548CN Rue Royale Moonphase Red Gold / Black / Black Alligator",
+          "url": "/pequignet/rue-royale/9011548cn"
+        },
+        {
+          "slug": "9010543cn",
+          "text": "9010543CN Rue Royale Moonphase Stainless Steel / Black Panda / Black Alligator",
+          "url": "/pequignet/rue-royale/9010543cn"
+        },
+        {
+          "slug": "9010133cg",
+          "text": "9010133CG Rue Royale Stainless Steel / Silver / Brown Alligator",
+          "url": "/pequignet/rue-royale/9010133cg"
+        },
+        {
+          "slug": "9010437cn",
+          "text": "9010437CN Rue Royale Moonphase Stainless Steel / Silver Guilloche / Black Alligator",
+          "url": "/pequignet/rue-royale/9010437cn"
+        },
+        {
+          "slug": "9010437cg",
+          "text": "9010437CG Rue Royale Moonphase Stainless Steel / Silver Guilloche / Brown Alligator",
+          "url": "/pequignet/rue-royale/9010437cg"
+        },
+        {
+          "slug": "9010243cn",
+          "text": "9010243CN Rue Royale Day Date Stainless Steel / Black / Black Alligator",
+          "url": "/pequignet/rue-royale/9010243cn"
+        },
+        {
+          "slug": "9010133cn",
+          "text": "9010133CN Rue Royale Stainless Steel / Silver / Black Alligator",
+          "url": "/pequignet/rue-royale/9010133cn"
+        }
+      ]
+    },
+    {
+      "name": "Paris Royal watches9",
+      "slug": "paris-royal",
+      "references": [
+        {
+          "slug": "9007437cn",
+          "text": "9007437CN Paris Royal Moonphase Blue Numerals / Black Strap",
+          "url": "/pequignet/paris-royal/9007437cn"
+        },
+        {
+          "slug": "9007433cn",
+          "text": "9007433CN Paris Royal Moonphase Silver Numerals / Black Strap",
+          "url": "/pequignet/paris-royal/9007433cn"
+        },
+        {
+          "slug": "9007443cn",
+          "text": "9007443CN Paris Royal Moonphase Black",
+          "url": "/pequignet/paris-royal/9007443cn"
+        },
+        {
+          "slug": "9001438cn",
+          "text": "9001438CN Paris Royal Yellow Gold / Black Strap",
+          "url": "/pequignet/paris-royal/9001438cn"
+        },
+        {
+          "slug": "9007433cg",
+          "text": "9007433CG Paris Royal Moonphase Silver Numerals / Brown Strap",
+          "url": "/pequignet/paris-royal/9007433cg"
+        },
+        {
+          "slug": "9007437cg",
+          "text": "9007437CG Paris Royal Moonphase Blue Numerals / Brown Strap",
+          "url": "/pequignet/paris-royal/9007437cg"
+        },
+        {
+          "slug": "9000443cn",
+          "text": "9000443CN Paris Royal White Gold / Black",
+          "url": "/pequignet/paris-royal/9000443cn"
+        },
+        {
+          "slug": "9007543cn",
+          "text": "9007543CN Paris Royal Moonphase Black / Silver",
+          "url": "/pequignet/paris-royal/9007543cn"
+        },
+        {
+          "slug": "9001438cg",
+          "text": "9001438CG Paris Royal Yellow Gold / Brown Strap",
+          "url": "/pequignet/paris-royal/9001438cg"
+        }
+      ]
+    },
+    {
+      "name": "Royale Titane watches13",
+      "slug": "royale-titane",
+      "references": [
+        {
+          "slug": "9032883cm",
+          "text": "9032883CM Royale Titane Brown / Fabric",
+          "url": "/pequignet/royale-titane/9032883cm"
+        },
+        {
+          "slug": "9032843-30",
+          "text": "9032843 / 30 Royale Titane Black / Rubber",
+          "url": "/pequignet/royale-titane/9032843-30"
+        },
+        {
+          "slug": "9032713-30",
+          "text": "9032713/30 Royale Titane White / Rubber",
+          "url": "/pequignet/royale-titane/9032713-30"
+        },
+        {
+          "slug": "9032883-38",
+          "text": "9032883 / 38 Royale Titane Brown / Rubber",
+          "url": "/pequignet/royale-titane/9032883-38"
+        },
+        {
+          "slug": "9033843cn",
+          "text": "9033843CN Royale Titane DLC / Fabric",
+          "url": "/pequignet/royale-titane/9033843cn"
+        },
+        {
+          "slug": "9033843-30",
+          "text": "9033843 / 30 Royale Titane DLC / Rubber",
+          "url": "/pequignet/royale-titane/9033843-30"
+        },
+        {
+          "slug": "9022733cn",
+          "text": "9022733CN Royale Titane Grey / Fabric",
+          "url": "/pequignet/royale-titane/9022733cn"
+        },
+        {
+          "slug": "9032713cn",
+          "text": "9032713CN Royale Titane White / Fabric",
+          "url": "/pequignet/royale-titane/9032713cn"
+        },
+        {
+          "slug": "9022733-30",
+          "text": "9022733/30 Royale Titane Grey / Rubber",
+          "url": "/pequignet/royale-titane/9022733-30"
+        },
+        {
+          "slug": "9032843cn",
+          "text": "9032843CN Royale Titane Black / Fabric",
+          "url": "/pequignet/royale-titane/9032843cn"
+        },
+        {
+          "slug": "9032883-30",
+          "text": "9032883 / 30 Royale Titane Brown / Black Rubber",
+          "url": "/pequignet/royale-titane/9032883-30"
+        },
+        {
+          "slug": "9034743-30",
+          "text": "9034743 / 30 Royale Titane DLC / Rubber",
+          "url": "/pequignet/royale-titane/9034743-30"
+        },
+        {
+          "slug": "9035443-cn",
+          "text": "9035443 / CN Royale Titane DLC / Phantom",
+          "url": "/pequignet/royale-titane/9035443-cn"
+        }
+      ]
+    },
+    {
+      "name": "Royale 300 watches11",
+      "slug": "royale-300",
+      "references": [
+        {
+          "slug": "9050443cn",
+          "text": "9050443CN Royale 300 Black / Canvas",
+          "url": "/pequignet/royale-300/9050443cn"
+        },
+        {
+          "slug": "9051473-30",
+          "text": "9051473/30 Royale 300 Blue-Black / Rubber",
+          "url": "/pequignet/royale-300/9051473-30"
+        },
+        {
+          "slug": "9050473-36",
+          "text": "9050473/36 Royale 300 Blue / Rubber",
+          "url": "/pequignet/royale-300/9050473-36"
+        },
+        {
+          "slug": "9050443-30",
+          "text": "9050443/30 Royale 300 Black / Rubber",
+          "url": "/pequignet/royale-300/9050443-30"
+        },
+        {
+          "slug": "9050343-30",
+          "text": "9050343/30 Royale 300 Orange / Rubber",
+          "url": "/pequignet/royale-300/9050343-30"
+        },
+        {
+          "slug": "9050343cn",
+          "text": "9050343CN Royale 300 Orange / Canvas",
+          "url": "/pequignet/royale-300/9050343cn"
+        },
+        {
+          "slug": "9050343-39",
+          "text": "9050343/39 Royale 300 Orange / Orange Rubber",
+          "url": "/pequignet/royale-300/9050343-39"
+        },
+        {
+          "slug": "9050473cn",
+          "text": "9050473CN Royale 300 Blue / Canvas",
+          "url": "/pequignet/royale-300/9050473cn"
+        },
+        {
+          "slug": "9051443-30",
+          "text": "9051443/30 Royale 300 Black-Blue / Rubber",
+          "url": "/pequignet/royale-300/9051443-30"
+        },
+        {
+          "slug": "9051443cn",
+          "text": "9051443CN Royale 300 Black-Blue / Canvas",
+          "url": "/pequignet/royale-300/9051443cn"
+        },
+        {
+          "slug": "9051473cn",
+          "text": "9051473CN Royale 300 Blue-Black / Canvas",
+          "url": "/pequignet/royale-300/9051473cn"
+        }
+      ]
+    },
+    {
+      "name": "Royale Grand Sport watches9",
+      "slug": "royale-grand-sport",
+      "references": [
+        {
+          "slug": "9030243cn",
+          "text": "9030243CN Royale Grand Sport Black / Arabic",
+          "url": "/pequignet/royale-grand-sport/9030243cn"
+        },
+        {
+          "slug": "9030643cn",
+          "text": "9030643CN Royale Grand Sport Black / Dot",
+          "url": "/pequignet/royale-grand-sport/9030643cn"
+        },
+        {
+          "slug": "9030438cn",
+          "text": "9030438CN Royale Grand Sport Moonphase Gilt Numerals / Black Strap",
+          "url": "/pequignet/royale-grand-sport/9030438cn"
+        },
+        {
+          "slug": "9030233cg",
+          "text": "9030233CG Royale Grand Sport Silver Numerals / Brown Strap",
+          "url": "/pequignet/royale-grand-sport/9030233cg"
+        },
+        {
+          "slug": "9030433cg",
+          "text": "9030433CG Royale Grand Sport Moonphase Silver Numerals / Brown Strap",
+          "url": "/pequignet/royale-grand-sport/9030433cg"
+        },
+        {
+          "slug": "9030233cn",
+          "text": "9030233CN Royale Grand Sport Silver Numerals / Black Strap",
+          "url": "/pequignet/royale-grand-sport/9030233cn"
+        },
+        {
+          "slug": "9030443cn",
+          "text": "9030443CN Royale Grand Sport Moonphase Black",
+          "url": "/pequignet/royale-grand-sport/9030443cn"
+        },
+        {
+          "slug": "9030438cg",
+          "text": "9030438CG Royale Grand Sport Moonphase Gilt Numerals / Brown Strap",
+          "url": "/pequignet/royale-grand-sport/9030438cg"
+        },
+        {
+          "slug": "9030433cn",
+          "text": "9030433CN Royale Grand Sport Moonphase Silver Numerals / Black Strap",
+          "url": "/pequignet/royale-grand-sport/9030433cn"
+        }
+      ]
+    }
+  ],
+  "total_references": 62
+}

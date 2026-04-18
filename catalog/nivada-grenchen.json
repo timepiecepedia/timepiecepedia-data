@@ -1,0 +1,820 @@
+{
+  "brand_slug": "nivada-grenchen",
+  "collections": [
+    {
+      "name": "Super Antarctic watches87",
+      "slug": "super-antarctic",
+      "references": [
+        {
+          "slug": "32026a04",
+          "text": "32026A04 Super Antarctic Black - Green Luminova / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/super-antarctic/32026a04"
+        },
+        {
+          "slug": "32026a01",
+          "text": "32026A01 Super Antarctic Black - Green Luminova / Stainless Steel / Tropic",
+          "url": "/nivada-grenchen/super-antarctic/32026a01"
+        },
+        {
+          "slug": "32040a20",
+          "text": "32040A20 Super Antarctic 3.6.9. Brown - White Luminous / Stainless Steel / Flat Link",
+          "url": "/nivada-grenchen/super-antarctic/32040a20"
+        },
+        {
+          "slug": "32040a16",
+          "text": "32040A16 Super Antarctic 3.6.9. Brown - White Luminous / Stainless Steel / Brown",
+          "url": "/nivada-grenchen/super-antarctic/32040a16"
+        },
+        {
+          "slug": "32024a20",
+          "text": "32024A20 Super Antarctic Black - Yellow Luminova / Stainless Steel / Flat Link",
+          "url": "/nivada-grenchen/super-antarctic/32024a20"
+        },
+        {
+          "slug": "32032a20",
+          "text": "32032A20 Super Antarctic 3.6.9. Black / Stainless Steel / Flat Link",
+          "url": "/nivada-grenchen/super-antarctic/32032a20"
+        },
+        {
+          "slug": "35013m14",
+          "text": "35013M14 Super Antarctic 35 Black - Beige Luminova / Stainless Steel / Brown - White",
+          "url": "/nivada-grenchen/super-antarctic/35013m14"
+        },
+        {
+          "slug": "32066a04",
+          "text": "32066A04 Super Antarctic 3.6.9. White - Beige Luminous / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/super-antarctic/32066a04"
+        },
+        {
+          "slug": "35013m04",
+          "text": "35013M04 Super Antarctic 35 Black - Beige Luminova / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/super-antarctic/35013m04"
+        },
+        {
+          "slug": "32039a14",
+          "text": "32039A14 Super Antarctic 3.6.9. Black - No Vintage Effect / Stainless Steel / Brown - White",
+          "url": "/nivada-grenchen/super-antarctic/32039a14"
+        },
+        {
+          "slug": "35014m04",
+          "text": "35014M04 Super Antarctic 35 Black - White Luminova / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/super-antarctic/35014m04"
+        },
+        {
+          "slug": "32040a23",
+          "text": "32040A23 Super Antarctic 3.6.9. Brown - White Luminous / Stainless Steel / Brown Racing",
+          "url": "/nivada-grenchen/super-antarctic/32040a23"
+        },
+        {
+          "slug": "35014m16",
+          "text": "35014M16 Super Antarctic 35 Black - White Luminova / Stainless Steel / Brown",
+          "url": "/nivada-grenchen/super-antarctic/35014m16"
+        },
+        {
+          "slug": "32032a01",
+          "text": "32032A01 Super Antarctic 3.6.9. Black / Stainless Steel / Tropic",
+          "url": "/nivada-grenchen/super-antarctic/32032a01"
+        },
+        {
+          "slug": "32031a01",
+          "text": "32031A01 Super Antarctic 3.6.9. Tropical / Stainless Steel / Tropic",
+          "url": "/nivada-grenchen/super-antarctic/32031a01"
+        },
+        {
+          "slug": "35014m41",
+          "text": "35014M41 Super Antarctic 35 Black - White Luminova / Stainless Steel / Brown Racing",
+          "url": "/nivada-grenchen/super-antarctic/35014m41"
+        },
+        {
+          "slug": "32026a15",
+          "text": "32026A15 Super Antarctic Black - Green Luminova / Stainless Steel / Black - White",
+          "url": "/nivada-grenchen/super-antarctic/32026a15"
+        },
+        {
+          "slug": "32032a15",
+          "text": "32032A15 Super Antarctic 3.6.9. Black / Stainless Steel / Black - White",
+          "url": "/nivada-grenchen/super-antarctic/32032a15"
+        },
+        {
+          "slug": "32039a17",
+          "text": "32039A17 Super Antarctic 3.6.9. Black - No Vintage Effect / Stainless Steel / Black",
+          "url": "/nivada-grenchen/super-antarctic/32039a17"
+        },
+        {
+          "slug": "32041a16",
+          "text": "32041A16 Super Antarctic 3.6.9. Brown - Beige Luminous / Stainless Steel / Brown",
+          "url": "/nivada-grenchen/super-antarctic/32041a16"
+        },
+        {
+          "slug": "32026a17",
+          "text": "32026A17 Super Antarctic Black - Green Luminova / Stainless Steel / Black",
+          "url": "/nivada-grenchen/super-antarctic/32026a17"
+        },
+        {
+          "slug": "35013m40",
+          "text": "35013M40 Super Antarctic 35 Black - Beige Luminova / Stainless Steel / Black Racing",
+          "url": "/nivada-grenchen/super-antarctic/35013m40"
+        },
+        {
+          "slug": "35014m20",
+          "text": "35014M20 Super Antarctic 35 Black - White Luminova / Stainless Steel / Flat Link",
+          "url": "/nivada-grenchen/super-antarctic/35014m20"
+        },
+        {
+          "slug": "32024a04",
+          "text": "32024A04 Super Antarctic Black - Yellow Luminova / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/super-antarctic/32024a04"
+        },
+        {
+          "slug": "32065a04",
+          "text": "32065A04 Super Antarctic White / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/super-antarctic/32065a04"
+        },
+        {
+          "slug": "35013m17",
+          "text": "35013M17 Super Antarctic 35 Black - Beige Luminova / Stainless Steel / Black",
+          "url": "/nivada-grenchen/super-antarctic/35013m17"
+        },
+        {
+          "slug": "35013m15",
+          "text": "35013M15 Super Antarctic 35 Black - Beige Luminova / Stainless Steel / Black - White",
+          "url": "/nivada-grenchen/super-antarctic/35013m15"
+        },
+        {
+          "slug": "35014m17",
+          "text": "35014M17 Super Antarctic 35 Black - White Luminova / Stainless Steel / Black",
+          "url": "/nivada-grenchen/super-antarctic/35014m17"
+        },
+        {
+          "slug": "32040a10",
+          "text": "32040A10 Super Antarctic 3.6.9. Brown - White Luminous / Stainless Steel / Black Racing",
+          "url": "/nivada-grenchen/super-antarctic/32040a10"
+        },
+        {
+          "slug": "32031a23",
+          "text": "32031A23 Super Antarctic 3.6.9. Tropical / Stainless Steel / Brown Racing",
+          "url": "/nivada-grenchen/super-antarctic/32031a23"
+        },
+        {
+          "slug": "32039a16",
+          "text": "32039A16 Super Antarctic 3.6.9. Black - No Vintage Effect / Stainless Steel / Brown",
+          "url": "/nivada-grenchen/super-antarctic/32039a16"
+        },
+        {
+          "slug": "32039a20",
+          "text": "32039A20 Super Antarctic 3.6.9. Black - No Vintage Effect / Stainless Steel / Flat Link",
+          "url": "/nivada-grenchen/super-antarctic/32039a20"
+        },
+        {
+          "slug": "32065a10",
+          "text": "32065A10 Super Antarctic White / Stainless Steel / Black Racing",
+          "url": "/nivada-grenchen/super-antarctic/32065a10"
+        },
+        {
+          "slug": "32064a10",
+          "text": "32064A10 Super Antarctic White - Yellow Luminova / Stainless Steel / Black Racing",
+          "url": "/nivada-grenchen/super-antarctic/32064a10"
+        },
+        {
+          "slug": "32025a20",
+          "text": "32025A20 Super Antarctic Black - White Luminova / Stainless Steel / Flat Link",
+          "url": "/nivada-grenchen/super-antarctic/32025a20"
+        },
+        {
+          "slug": "35013m41",
+          "text": "35013M41 Super Antarctic 35 Black - Beige Luminova / Stainless Steel / Brown Racing",
+          "url": "/nivada-grenchen/super-antarctic/35013m41"
+        },
+        {
+          "slug": "35013m16",
+          "text": "35013M16 Super Antarctic 35 Black - Beige Luminova / Stainless Steel / Brown",
+          "url": "/nivada-grenchen/super-antarctic/35013m16"
+        },
+        {
+          "slug": "32024a01",
+          "text": "32024A01 Super Antarctic Black - Yellow Luminova / Stainless Steel / Tropic",
+          "url": "/nivada-grenchen/super-antarctic/32024a01"
+        },
+        {
+          "slug": "32031a14",
+          "text": "32031A14 Super Antarctic 3.6.9. Tropical / Stainless Steel / Brown - White",
+          "url": "/nivada-grenchen/super-antarctic/32031a14"
+        },
+        {
+          "slug": "32024a02",
+          "text": "32024A02 Super Antarctic Black - Yellow Luminova / Stainless Steel / Brown - White",
+          "url": "/nivada-grenchen/super-antarctic/32024a02"
+        },
+        {
+          "slug": "32024a15",
+          "text": "32024A15 Super Antarctic Black - Yellow Luminova / Stainless Steel / Black - White",
+          "url": "/nivada-grenchen/super-antarctic/32024a15"
+        },
+        {
+          "slug": "32024a17",
+          "text": "32024A17 Super Antarctic Black - Yellow Luminova / Stainless Steel / Black",
+          "url": "/nivada-grenchen/super-antarctic/32024a17"
+        },
+        {
+          "slug": "35013m01",
+          "text": "35013M01 Super Antarctic 35 Black - Beige Luminova / Stainless Steel / Tropic",
+          "url": "/nivada-grenchen/super-antarctic/35013m01"
+        },
+        {
+          "slug": "32039a23",
+          "text": "32039A23 Super Antarctic 3.6.9. Black - No Vintage Effect / Stainless Steel / Brown Racing",
+          "url": "/nivada-grenchen/super-antarctic/32039a23"
+        },
+        {
+          "slug": "32026a02",
+          "text": "32026A02 Super Antarctic Black - Green Luminova / Stainless Steel / Brown - White",
+          "url": "/nivada-grenchen/super-antarctic/32026a02"
+        },
+        {
+          "slug": "32039a04",
+          "text": "32039A04 Super Antarctic 3.6.9. Black - No Vintage Effect / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/super-antarctic/32039a04"
+        },
+        {
+          "slug": "35014m40",
+          "text": "35014M40 Super Antarctic 35 Black - White Luminova / Stainless Steel / Black Racing",
+          "url": "/nivada-grenchen/super-antarctic/35014m40"
+        },
+        {
+          "slug": "35014m01",
+          "text": "35014M01 Super Antarctic 35 Black - White Luminova / Stainless Steel / Tropic",
+          "url": "/nivada-grenchen/super-antarctic/35014m01"
+        },
+        {
+          "slug": "32041a15",
+          "text": "32041A15 Super Antarctic 3.6.9. Brown - Beige Luminous / Stainless Steel / Black - White",
+          "url": "/nivada-grenchen/super-antarctic/32041a15"
+        },
+        {
+          "slug": "32041a14",
+          "text": "32041A14 Super Antarctic 3.6.9. Brown - Beige Luminous / Stainless Steel / Brown - White",
+          "url": "/nivada-grenchen/super-antarctic/32041a14"
+        },
+        {
+          "slug": "32031a20",
+          "text": "32031A20 Super Antarctic 3.6.9. Tropical / Stainless Steel / Flat Link",
+          "url": "/nivada-grenchen/super-antarctic/32031a20"
+        },
+        {
+          "slug": "32041a23",
+          "text": "32041A23 Super Antarctic 3.6.9. Brown - Beige Luminous / Stainless Steel / Brown Racing",
+          "url": "/nivada-grenchen/super-antarctic/32041a23"
+        },
+        {
+          "slug": "35014m14",
+          "text": "35014M14 Super Antarctic 35 Black - White Luminova / Stainless Steel / Brown - White",
+          "url": "/nivada-grenchen/super-antarctic/35014m14"
+        },
+        {
+          "slug": "32040a17",
+          "text": "32040A17 Super Antarctic 3.6.9. Brown - White Luminous / Stainless Steel / Black",
+          "url": "/nivada-grenchen/super-antarctic/32040a17"
+        },
+        {
+          "slug": "35014m15",
+          "text": "35014M15 Super Antarctic 35 Black - White Luminova / Stainless Steel / Black - White",
+          "url": "/nivada-grenchen/super-antarctic/35014m15"
+        },
+        {
+          "slug": "32040a15",
+          "text": "32040A15 Super Antarctic 3.6.9. Brown - White Luminous / Stainless Steel / Black - White",
+          "url": "/nivada-grenchen/super-antarctic/32040a15"
+        },
+        {
+          "slug": "32067a10",
+          "text": "32067A10 Super Antarctic 3.6.9. White - White Luminous / Stainless Steel / Black Racing",
+          "url": "/nivada-grenchen/super-antarctic/32067a10"
+        },
+        {
+          "slug": "35013m20",
+          "text": "35013M20 Super Antarctic 35 Black - Beige Luminova / Stainless Steel / Flat Link",
+          "url": "/nivada-grenchen/super-antarctic/35013m20"
+        },
+        {
+          "slug": "32031a04",
+          "text": "32031A04 Super Antarctic 3.6.9. Tropical / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/super-antarctic/32031a04"
+        },
+        {
+          "slug": "32031a15",
+          "text": "32031A15 Super Antarctic 3.6.9. Tropical / Stainless Steel / Black - White",
+          "url": "/nivada-grenchen/super-antarctic/32031a15"
+        },
+        {
+          "slug": "32031a17",
+          "text": "32031A17 Super Antarctic 3.6.9. Tropical / Stainless Steel / Black",
+          "url": "/nivada-grenchen/super-antarctic/32031a17"
+        },
+        {
+          "slug": "32032a10",
+          "text": "32032A10 Super Antarctic 3.6.9. Black / Stainless Steel / Black Racing",
+          "url": "/nivada-grenchen/super-antarctic/32032a10"
+        },
+        {
+          "slug": "32031a16",
+          "text": "32031A16 Super Antarctic 3.6.9. Tropical / Stainless Steel / Brown",
+          "url": "/nivada-grenchen/super-antarctic/32031a16"
+        },
+        {
+          "slug": "32032a23",
+          "text": "32032A23 Super Antarctic 3.6.9. Black / Stainless Steel / Brown Racing",
+          "url": "/nivada-grenchen/super-antarctic/32032a23"
+        },
+        {
+          "slug": "32031a10",
+          "text": "32031A10 Super Antarctic 3.6.9. Tropical / Stainless Steel / Black Racing",
+          "url": "/nivada-grenchen/super-antarctic/32031a10"
+        },
+        {
+          "slug": "32032a04",
+          "text": "32032A04 Super Antarctic 3.6.9. Black / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/super-antarctic/32032a04"
+        },
+        {
+          "slug": "32032a17",
+          "text": "32032A17 Super Antarctic 3.6.9. Black / Stainless Steel / Black",
+          "url": "/nivada-grenchen/super-antarctic/32032a17"
+        },
+        {
+          "slug": "32041a04",
+          "text": "32041A04 Super Antarctic 3.6.9. Brown - Beige Luminous / Stainless Steel / Flat Link",
+          "url": "/nivada-grenchen/super-antarctic/32041a04"
+        },
+        {
+          "slug": "32066a10",
+          "text": "32066A10 Super Antarctic 3.6.9. White - Beige Luminous / Stainless Steel / Black Racing",
+          "url": "/nivada-grenchen/super-antarctic/32066a10"
+        },
+        {
+          "slug": "32041a17",
+          "text": "32041A17 Super Antarctic 3.6.9. Brown - Beige Luminous / Stainless Steel / Black",
+          "url": "/nivada-grenchen/super-antarctic/32041a17"
+        },
+        {
+          "slug": "32041a20",
+          "text": "32041A20 Super Antarctic 3.6.9. Brown - Beige Luminous / Stainless Steel / Flat Link",
+          "url": "/nivada-grenchen/super-antarctic/32041a20"
+        },
+        {
+          "slug": "32041a01",
+          "text": "32041A01 Super Antarctic 3.6.9. Brown - Beige Luminous / Stainless Steel / Tropic",
+          "url": "/nivada-grenchen/super-antarctic/32041a01"
+        },
+        {
+          "slug": "32041a10",
+          "text": "32041A10 Super Antarctic 3.6.9. Brown - Beige Luminous / Stainless Steel / Black Racing",
+          "url": "/nivada-grenchen/super-antarctic/32041a10"
+        },
+        {
+          "slug": "32039a01",
+          "text": "32039A01 Super Antarctic 3.6.9. Black - No Vintage Effect / Stainless Steel / Tropic",
+          "url": "/nivada-grenchen/super-antarctic/32039a01"
+        },
+        {
+          "slug": "32039a15",
+          "text": "32039A15 Super Antarctic 3.6.9. Black - No Vintage Effect / Stainless Steel / Black - White",
+          "url": "/nivada-grenchen/super-antarctic/32039a15"
+        },
+        {
+          "slug": "32040a04",
+          "text": "32040A04 Super Antarctic 3.6.9. Brown - White Luminous / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/super-antarctic/32040a04"
+        },
+        {
+          "slug": "32040a14",
+          "text": "32040A14 Super Antarctic 3.6.9. Brown - White Luminous / Stainless Steel / Brown - White",
+          "url": "/nivada-grenchen/super-antarctic/32040a14"
+        },
+        {
+          "slug": "32067a04",
+          "text": "32067A04 Super Antarctic 3.6.9. White - White Luminous / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/super-antarctic/32067a04"
+        },
+        {
+          "slug": "32064a04",
+          "text": "32064A04 Super Antarctic White - Yellow Luminova / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/super-antarctic/32064a04"
+        },
+        {
+          "slug": "32039a10",
+          "text": "32039A10 Super Antarctic 3.6.9. Black - No Vintage Effect / Stainless Steel / Black Racing",
+          "url": "/nivada-grenchen/super-antarctic/32039a10"
+        },
+        {
+          "slug": "32032a14",
+          "text": "32032A14 Super Antarctic 3.6.9. Black / Stainless Steel / Brown - White",
+          "url": "/nivada-grenchen/super-antarctic/32032a14"
+        },
+        {
+          "slug": "32032a16",
+          "text": "32032A16 Super Antarctic 3.6.9. Black / Stainless Steel / Brown",
+          "url": "/nivada-grenchen/super-antarctic/32032a16"
+        },
+        {
+          "slug": "32025a17",
+          "text": "32025A17 Super Antarctic Black - White Luminova / Stainless Steel / Black",
+          "url": "/nivada-grenchen/super-antarctic/32025a17"
+        },
+        {
+          "slug": "32025a15",
+          "text": "32025A15 Super Antarctic Black - White Luminova / Stainless Steel / Black - White",
+          "url": "/nivada-grenchen/super-antarctic/32025a15"
+        },
+        {
+          "slug": "32025a02",
+          "text": "32025A02 Super Antarctic Black - White Luminova / Stainless Steel / Brown - White",
+          "url": "/nivada-grenchen/super-antarctic/32025a02"
+        },
+        {
+          "slug": "32025a04",
+          "text": "32025A04 Super Antarctic Black - White Luminova / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/super-antarctic/32025a04"
+        },
+        {
+          "slug": "32025a01",
+          "text": "32025A01 Super Antarctic Black - White Luminova / Stainless Steel / Tropic",
+          "url": "/nivada-grenchen/super-antarctic/32025a01"
+        }
+      ]
+    },
+    {
+      "name": "Antarctic watches36",
+      "slug": "antarctic",
+      "references": [
+        {
+          "slug": "35005m41",
+          "text": "35005M41 Antarctic 35 White - White Luminova / Stainless Steel / Brown Racing",
+          "url": "/nivada-grenchen/antarctic/35005m41"
+        },
+        {
+          "slug": "35004m01",
+          "text": "35004M01 Antarctic 35 Eggshell - White Luminova / Stainless Steel / Tropic",
+          "url": "/nivada-grenchen/antarctic/35004m01"
+        },
+        {
+          "slug": "35004m40",
+          "text": "35004M40 Antarctic 35 Eggshell - White Luminova / Stainless Steel / Black Racing",
+          "url": "/nivada-grenchen/antarctic/35004m40"
+        },
+        {
+          "slug": "35005m14",
+          "text": "35005M14 Antarctic 35 White - White Luminova / Stainless Steel / Brown - White",
+          "url": "/nivada-grenchen/antarctic/35005m14"
+        },
+        {
+          "slug": "35001m41",
+          "text": "35001M41 Antarctic 35 Eggshell - Beige Luminova / Stainless Steel / Brown Racing",
+          "url": "/nivada-grenchen/antarctic/35001m41"
+        },
+        {
+          "slug": "35004m15",
+          "text": "35004M15 Antarctic 35 Eggshell - White Luminova / Stainless Steel / Black - White",
+          "url": "/nivada-grenchen/antarctic/35004m15"
+        },
+        {
+          "slug": "35002m15",
+          "text": "35002M15 Antarctic 35 Black - White Luminova / Stainless Steel / Black - White",
+          "url": "/nivada-grenchen/antarctic/35002m15"
+        },
+        {
+          "slug": "35004m14",
+          "text": "35004M14 Antarctic 35 Eggshell - White Luminova / Stainless Steel / Brown - White",
+          "url": "/nivada-grenchen/antarctic/35004m14"
+        },
+        {
+          "slug": "35002m40",
+          "text": "35002M40 Antarctic 35 Black - White Luminova / Stainless Steel / Black Racing",
+          "url": "/nivada-grenchen/antarctic/35002m40"
+        },
+        {
+          "slug": "35001m15",
+          "text": "35001M15 Antarctic 35 Eggshell - Beige Luminova / Stainless Steel / Black - White",
+          "url": "/nivada-grenchen/antarctic/35001m15"
+        },
+        {
+          "slug": "35001m04",
+          "text": "35001M04 Antarctic 35 Eggshell - Beige Luminova / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/antarctic/35001m04"
+        },
+        {
+          "slug": "35004m20",
+          "text": "35004M20 Antarctic 35 Eggshell - White Luminova / Stainless Steel / Flat Link",
+          "url": "/nivada-grenchen/antarctic/35004m20"
+        },
+        {
+          "slug": "35002m01",
+          "text": "35002M01 Antarctic 35 Black - White Luminova / Stainless Steel / Tropic",
+          "url": "/nivada-grenchen/antarctic/35002m01"
+        },
+        {
+          "slug": "35002m14",
+          "text": "35002M14 Antarctic 35 Black - White Luminova / Stainless Steel / Brown - White",
+          "url": "/nivada-grenchen/antarctic/35002m14"
+        },
+        {
+          "slug": "35002m04",
+          "text": "35002M04 Antarctic 35 Black - White Luminova / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/antarctic/35002m04"
+        },
+        {
+          "slug": "35002m41",
+          "text": "35002M41 Antarctic 35 Black - White Luminova / Stainless Steel / Brown Racing",
+          "url": "/nivada-grenchen/antarctic/35002m41"
+        },
+        {
+          "slug": "35004m41",
+          "text": "35004M41 Antarctic 35 Eggshell - White Luminova / Stainless Steel / Brown Racing",
+          "url": "/nivada-grenchen/antarctic/35004m41"
+        },
+        {
+          "slug": "35005m04",
+          "text": "35005M04 Antarctic 35 White - White Luminova / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/antarctic/35005m04"
+        },
+        {
+          "slug": "35001m01",
+          "text": "35001M01 Antarctic 35 Eggshell - Beige Luminova / Stainless Steel / Tropic",
+          "url": "/nivada-grenchen/antarctic/35001m01"
+        },
+        {
+          "slug": "35004m17",
+          "text": "35004M17 Antarctic 35 Eggshell - White Luminova / Stainless Steel / Black",
+          "url": "/nivada-grenchen/antarctic/35004m17"
+        },
+        {
+          "slug": "35004m04",
+          "text": "35004M04 Antarctic 35 Eggshell - White Luminova / Stainless Steel / Beads of Rice",
+          "url": "/nivada-grenchen/antarctic/35004m04"
+        },
+        {
+          "slug": "35001m20",
+          "text": "35001M20 Antarctic 35 Eggshell - Beige Luminova / Stainless Steel / Flat Link",
+          "url": "/nivada-grenchen/antarctic/35001m20"
+        },
+        {
+          "slug": "35001m17",
+          "text": "35001M17 Antarctic 35 Eggshell - Beige Luminova / Stainless Steel / Black",
+          "url": "/nivada-grenchen/antarctic/35001m17"
+        },
+        {
+          "slug": "35004m16",
+          "text": "35004M16 Antarctic 35 Eggshell - White Luminova / Stainless Steel / Brown",
+          "url": "/nivada-grenchen/antarctic/35004m16"
+        },
+        {
+          "slug": "35002m16",
+          "text": "35002M16 Antarctic 35 Black - White Luminova / Stainless Steel / Brown",
+          "url": "/nivada-grenchen/antarctic/35002m16"
+        },
+        {
+          "slug": "35002m17",
+          "text": "35002M17 Antarctic 35 Black - White Luminova / Stainless Steel / Black",
+          "url": "/nivada-grenchen/antarctic/35002m17"
+        },
+        {
+          "slug": "35001m40",
+          "text": "35001M40 Antarctic 35 Eggshell - Beige Luminova / Stainless Steel / Black Racing",
+          "url": "/nivada-grenchen/antarctic/35001m40"
+        },
+        {
+          "slug": "35002m20",
+          "text": "35002M20 Antarctic 35 Black - White Luminova / Stainless Steel / Flat Link",
+          "url": "/nivada-grenchen/antarctic/35002m20"
+        },
+        {
+          "slug": "35005m01",
+          "text": "35005M01 Antarctic 35 White - White Luminova / Stainless Steel / Tropic",
+          "url": "/nivada-grenchen/antarctic/35005m01"
+        },
+        {
+          "slug": "35001m16",
+          "text": "35001M16 Antarctic 35 Eggshell - Beige Luminova / Stainless Steel / Brown",
+          "url": "/nivada-grenchen/antarctic/35001m16"
+        },
+        {
+          "slug": "35005m15",
+          "text": "35005M15 Antarctic 35 White - White Luminova / Stainless Steel / Black - White",
+          "url": "/nivada-grenchen/antarctic/35005m15"
+        },
+        {
+          "slug": "35005m16",
+          "text": "35005M16 Antarctic 35 White - White Luminova / Stainless Steel / Brown",
+          "url": "/nivada-grenchen/antarctic/35005m16"
+        },
+        {
+          "slug": "35005m17",
+          "text": "35005M17 Antarctic 35 White - White Luminova / Stainless Steel / Black",
+          "url": "/nivada-grenchen/antarctic/35005m17"
+        },
+        {
+          "slug": "35001m14",
+          "text": "35001M14 Antarctic 35 Eggshell - Beige Luminova / Stainless Steel / Brown - White",
+          "url": "/nivada-grenchen/antarctic/35001m14"
+        },
+        {
+          "slug": "35005m20",
+          "text": "35005M20 Antarctic 35 White - White Luminova / Stainless Steel / Flat Link",
+          "url": "/nivada-grenchen/antarctic/35005m20"
+        },
+        {
+          "slug": "35005m40",
+          "text": "35005M40 Antarctic 35 White - White Luminova / Stainless Steel / Black Racing",
+          "url": "/nivada-grenchen/antarctic/35005m40"
+        }
+      ]
+    },
+    {
+      "name": "F77 watches25",
+      "slug": "f77",
+      "references": [
+        {
+          "slug": "68016a77",
+          "text": "68016A77 F77 Stainless Steel / Meteorite / Bracelet",
+          "url": "/nivada-grenchen/f77/68016a77"
+        },
+        {
+          "slug": "68001a77",
+          "text": "68001A77 F77 Stainless Steel / Blue / Bracelet",
+          "url": "/nivada-grenchen/f77/68001a77"
+        },
+        {
+          "slug": "68009a77",
+          "text": "68009A77 F77 Stainless Steel / Lapis Lazuli / Bracelet",
+          "url": "/nivada-grenchen/f77/68009a77"
+        },
+        {
+          "slug": "68002a77-bc",
+          "text": "68002A77-BC F77 Stainless Steel / Brown Smoked / Black / Velcro",
+          "url": "/nivada-grenchen/f77/68002a77-bc"
+        },
+        {
+          "slug": "68000a77-bc",
+          "text": "68000A77-BC F77 Stainless Steel / Black / Velcro",
+          "url": "/nivada-grenchen/f77/68000a77-bc"
+        },
+        {
+          "slug": "68018a77",
+          "text": "68018A77 F77 Titanium / Aventurine / Bracelet",
+          "url": "/nivada-grenchen/f77/68018a77"
+        },
+        {
+          "slug": "68000a77",
+          "text": "68000A77 F77 Stainless Steel / Black / Bracelet",
+          "url": "/nivada-grenchen/f77/68000a77"
+        },
+        {
+          "slug": "68016a77-bc",
+          "text": "68016A77-BC F77 Stainless Steel / Meteorite / Velcro",
+          "url": "/nivada-grenchen/f77/68016a77-bc"
+        },
+        {
+          "slug": "68001a77-bc",
+          "text": "68001A77-BC F77 Stainless Steel / Blue / Velcro",
+          "url": "/nivada-grenchen/f77/68001a77-bc"
+        },
+        {
+          "slug": "68017a77-bc",
+          "text": "68017A77-BC F77 Titanium / Lapis Lazuli / Velcro",
+          "url": "/nivada-grenchen/f77/68017a77-bc"
+        },
+        {
+          "slug": "68010a77-bc",
+          "text": "68010A77-BC F77 Stainless Steel / Aventurine / Velcro",
+          "url": "/nivada-grenchen/f77/68010a77-bc"
+        },
+        {
+          "slug": "68018a77-bc",
+          "text": "68018A77-BC F77 Titanium / Aventurine / Velcro",
+          "url": "/nivada-grenchen/f77/68018a77-bc"
+        },
+        {
+          "slug": "68002a77",
+          "text": "68002A77 F77 Stainless Steel / Brown Smoked / Bracelet",
+          "url": "/nivada-grenchen/f77/68002a77"
+        },
+        {
+          "slug": "68017a77",
+          "text": "68017A77 F77 Titanium / Lapis Lazuli / Bracelet",
+          "url": "/nivada-grenchen/f77/68017a77"
+        },
+        {
+          "slug": "68006a77-bc",
+          "text": "68006A77-BC F77 Titanium / Grey / Velcro",
+          "url": "/nivada-grenchen/f77/68006a77-bc"
+        },
+        {
+          "slug": "68006a77",
+          "text": "68006A77 F77 Titanium / Grey / Bracelet",
+          "url": "/nivada-grenchen/f77/68006a77"
+        },
+        {
+          "slug": "68004a77",
+          "text": "68004A77 F77 Black Ceramic / Black / Bracelet",
+          "url": "/nivada-grenchen/f77/68004a77"
+        },
+        {
+          "slug": "68010a77",
+          "text": "68010A77 F77 Stainless Steel / Aventurine / Bracelet",
+          "url": "/nivada-grenchen/f77/68010a77"
+        },
+        {
+          "slug": "69001a77",
+          "text": "69001A77 F77 Date Stainless Steel / Blue / Bracelet",
+          "url": "/nivada-grenchen/f77/69001a77"
+        },
+        {
+          "slug": "69002a77-bc",
+          "text": "69002A77-BC F77 Date Stainless Steel / Brown Smoked / Velcro",
+          "url": "/nivada-grenchen/f77/69002a77-bc"
+        },
+        {
+          "slug": "69002a77",
+          "text": "69002A77 F77 Date Stainless Steel / Brown Smoked / Bracelet",
+          "url": "/nivada-grenchen/f77/69002a77"
+        },
+        {
+          "slug": "68009a77-bc",
+          "text": "68009A77-BC F77 Stainless Steel / Lapis Lazuli / Velcro",
+          "url": "/nivada-grenchen/f77/68009a77-bc"
+        },
+        {
+          "slug": "69000a77-bc",
+          "text": "69000A77-BC F77 Date Stainless Steel / Black / Velcro",
+          "url": "/nivada-grenchen/f77/69000a77-bc"
+        },
+        {
+          "slug": "69000a77",
+          "text": "69000A77 F77 Date Stainless Steel / Black / Bracelet",
+          "url": "/nivada-grenchen/f77/69000a77"
+        },
+        {
+          "slug": "69001a77-bc",
+          "text": "69001A77-BC F77 Date Stainless Steel / Blue / Velcro",
+          "url": "/nivada-grenchen/f77/69001a77-bc"
+        }
+      ]
+    },
+    {
+      "name": "Chronomaster Aviator Sea Diver watches10",
+      "slug": "chronomaster-aviator-sea-diver",
+      "references": [
+        {
+          "slug": "86007m-rubt",
+          "text": "86007M-RUBT Chronomaster Aviator Sea Diver Manual Stainless Steel / Black / Rubber Tropic",
+          "url": "/nivada-grenchen/chronomaster-aviator-sea-diver/86007m-rubt"
+        },
+        {
+          "slug": "86001a-rubt",
+          "text": "86001A-RUBT Chronomaster Aviator Sea Diver Automatic Stainless Steel / Black / Tropic",
+          "url": "/nivada-grenchen/chronomaster-aviator-sea-diver/86001a-rubt"
+        },
+        {
+          "slug": "86007m-brac",
+          "text": "86007M-BRAC Chronomaster Aviator Sea Diver Manual Stainless Steel / Black / Bracelet",
+          "url": "/nivada-grenchen/chronomaster-aviator-sea-diver/86007m-brac"
+        },
+        {
+          "slug": "86007m-brol",
+          "text": "86007M-BROL Chronomaster Aviator Sea Diver Manual Stainless Steel / Black / Brown Leather",
+          "url": "/nivada-grenchen/chronomaster-aviator-sea-diver/86007m-brol"
+        },
+        {
+          "slug": "86007m-blal",
+          "text": "86007M-BLAL Chronomaster Aviator Sea Diver Manual Stainless Steel / Black / Black Leather",
+          "url": "/nivada-grenchen/chronomaster-aviator-sea-diver/86007m-blal"
+        },
+        {
+          "slug": "86007m-oyst",
+          "text": "86007M-OYST Chronomaster Aviator Sea Diver Manual Stainless Steel / Black / Oyster",
+          "url": "/nivada-grenchen/chronomaster-aviator-sea-diver/86007m-oyst"
+        },
+        {
+          "slug": "86001a-brac",
+          "text": "86001A-BRAC Chronomaster Aviator Sea Diver Automatic Stainless Steel / Black / Bracelet",
+          "url": "/nivada-grenchen/chronomaster-aviator-sea-diver/86001a-brac"
+        },
+        {
+          "slug": "86001a-brol",
+          "text": "86001A-BROL Chronomaster Aviator Sea Diver Automatic Stainless Steel / Black / Brown Leather",
+          "url": "/nivada-grenchen/chronomaster-aviator-sea-diver/86001a-brol"
+        },
+        {
+          "slug": "86001a-blal",
+          "text": "86001A-BLAL Chronomaster Aviator Sea Diver Automatic Stainless Steel / Black / Black Leather",
+          "url": "/nivada-grenchen/chronomaster-aviator-sea-diver/86001a-blal"
+        },
+        {
+          "slug": "86001a-oyst",
+          "text": "86001A-OYST Chronomaster Aviator Sea Diver Automatic Stainless Steel / Black / Oyster",
+          "url": "/nivada-grenchen/chronomaster-aviator-sea-diver/86001a-oyst"
+        }
+      ]
+    }
+  ],
+  "total_references": 158
+}

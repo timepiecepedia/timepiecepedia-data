@@ -1,0 +1,98 @@
+{
+  "brand_slug": "louis-vuitton",
+  "collections": [
+    {
+      "name": "Tambour watches4",
+      "slug": "tambour",
+      "references": [
+        {
+          "slug": "w1st10",
+          "text": "W1ST10 Tambour Automatic Stainless Steel / Silver / Bracelet",
+          "url": "/louis-vuitton/tambour/w1st10"
+        },
+        {
+          "slug": "w1yg10",
+          "text": "W1YG10 Tambour Automatic Yellow Gold / Silver / Bracelet",
+          "url": "/louis-vuitton/tambour/w1yg10"
+        },
+        {
+          "slug": "w1st20",
+          "text": "W1ST20 Tambour Automatic Stainless Steel / Blue / Bracelet",
+          "url": "/louis-vuitton/tambour/w1st20"
+        },
+        {
+          "slug": "w1sp10",
+          "text": "W1SP10 Tambour Automatic Stainless Steel - Rose Gold / Grey / Bracelet",
+          "url": "/louis-vuitton/tambour/w1sp10"
+        }
+      ]
+    },
+    {
+      "name": "Escale watches12",
+      "slug": "escale",
+      "references": [
+        {
+          "slug": "w3yg21",
+          "text": "W3YG21 Escale Automatic 40 Yellow Gold / Tiger's Eye",
+          "url": "/louis-vuitton/escale/w3yg21"
+        },
+        {
+          "slug": "w3pt41",
+          "text": "W3PT41 Escale Worldtime Flying Tourbillon Platinum / Grand Feu Enamel",
+          "url": "/louis-vuitton/escale/w3pt41"
+        },
+        {
+          "slug": "w3pt61",
+          "text": "W3PT61 Escale Twin Zone Platinum - Baguette / Blue Aventurine",
+          "url": "/louis-vuitton/escale/w3pt61"
+        },
+        {
+          "slug": "w3pg71",
+          "text": "W3PG71 Escale Twin Zone Rose Gold / Silver",
+          "url": "/louis-vuitton/escale/w3pg71"
+        },
+        {
+          "slug": "w3pga0",
+          "text": "W3PGA0 Escale Minute Repeater Rose Gold / Grey",
+          "url": "/louis-vuitton/escale/w3pga0"
+        },
+        {
+          "slug": "w3pta1",
+          "text": "W3PTA1 Escale Worldtime Platinum / Blue",
+          "url": "/louis-vuitton/escale/w3pta1"
+        },
+        {
+          "slug": "w3pt31",
+          "text": "W3PT31 Escale Automatic 40.5 Platinum - Baguette / Onyx",
+          "url": "/louis-vuitton/escale/w3pt31"
+        },
+        {
+          "slug": "w3pt21",
+          "text": "W3PT21 Escale Automatic 39 Platinum / Blue Grand Feu Enamel",
+          "url": "/louis-vuitton/escale/w3pt21"
+        },
+        {
+          "slug": "w3pg21",
+          "text": "W3PG21 Escale Automatic 39 Rose Gold / Blue",
+          "url": "/louis-vuitton/escale/w3pg21"
+        },
+        {
+          "slug": "w3pt11",
+          "text": "W3PT11 Escale Automatic 39 Platinum / Meteorite",
+          "url": "/louis-vuitton/escale/w3pt11"
+        },
+        {
+          "slug": "w3ptc1",
+          "text": "W3PTC1 Escale Automatic 39 Platinum - Malachite / Malachite",
+          "url": "/louis-vuitton/escale/w3ptc1"
+        },
+        {
+          "slug": "w3pg11",
+          "text": "W3PG11 Escale Automatic 39 Rose Gold / Silver",
+          "url": "/louis-vuitton/escale/w3pg11"
+        }
+      ]
+    }
+  ],
+  "total_references": 16
+}

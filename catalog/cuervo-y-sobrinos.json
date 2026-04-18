@@ -1,0 +1,77 @@
+{
+  "brand_slug": "cuervo-y-sobrinos",
+  "collections": [
+    {
+      "name": "Historiador watches13",
+      "slug": "historiador",
+      "references": [
+        {
+          "slug": "3195-1tr-s",
+          "text": "3195.1TR.S Historiador Tradición Stainless Steel / Silver / Alligator",
+          "url": "/cuervo-y-sobrinos/historiador/3195-1tr-s"
+        },
+        {
+          "slug": "3130-9fa",
+          "text": "3130.9FA Historiador Flameante Rose Gold / Silver / Alligator",
+          "url": "/cuervo-y-sobrinos/historiador/3130-9fa"
+        },
+        {
+          "slug": "3130-1fa",
+          "text": "3130.1FA Historiador Flameante Stainless Steel / Silver / Alligator",
+          "url": "/cuervo-y-sobrinos/historiador/3130-1fa"
+        },
+        {
+          "slug": "3130-9fb",
+          "text": "3130.9FB Historiador Flameante Rose Gold / Blue / Alligator",
+          "url": "/cuervo-y-sobrinos/historiador/3130-9fb"
+        },
+        {
+          "slug": "3130-1fb",
+          "text": "3130.1FB Historiador Flameante Stainless Steel / Silver / Alligator",
+          "url": "/cuervo-y-sobrinos/historiador/3130-1fb"
+        },
+        {
+          "slug": "3195-1cs-ar",
+          "text": "3195.1CS.AR Historiador Segundos Centrales Stainless Steel / Silver / Kudu",
+          "url": "/cuervo-y-sobrinos/historiador/3195-1cs-ar"
+        },
+        {
+          "slug": "3195-1cs-br",
+          "text": "3195.1CS.BR Historiador Segundos Centrales Stainless Steel / Blue / Alligator",
+          "url": "/cuervo-y-sobrinos/historiador/3195-1cs-br"
+        },
+        {
+          "slug": "3191-1vns",
+          "text": "3191.1VNS Historiador Segundos Pequeños Vintage Stainless Steel / Black / Alligator",
+          "url": "/cuervo-y-sobrinos/historiador/3191-1vns"
+        },
+        {
+          "slug": "3191-1bs",
+          "text": "3191.1BS Historiador Segundos Pequeños Stainless Steel / Blue / Alligator",
+          "url": "/cuervo-y-sobrinos/historiador/3191-1bs"
+        },
+        {
+          "slug": "3191-1i",
+          "text": "3191.1I Historiador Segundos Pequeños Stainless Steel / Ivory / Alligator",
+          "url": "/cuervo-y-sobrinos/historiador/3191-1i"
+        },
+        {
+          "slug": "3191-1vas",
+          "text": "3191.1VAS Historiador Segundos Pequeños Vintage Stainless Steel / Silver / Alligator",
+          "url": "/cuervo-y-sobrinos/historiador/3191-1vas"
+        },
+        {
+          "slug": "3191-1vgs",
+          "text": "3191.1VGS Historiador Segundos Pequeños Vintage Stainless Steel / Black / Alligator",
+          "url": "/cuervo-y-sobrinos/historiador/3191-1vgs"
+        },
+        {
+          "slug": "3195-1tr-c",
+          "text": "3195.1TR.C Historiador Tradición Stainless Steel / Salmon / Alligator",
+          "url": "/cuervo-y-sobrinos/historiador/3195-1tr-c"
+        }
+      ]
+    }
+  ],
+  "total_references": 13
+}

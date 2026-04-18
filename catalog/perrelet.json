@@ -1,0 +1,232 @@
+{
+  "brand_slug": "perrelet",
+  "collections": [
+    {
+      "name": "Turbine watches44",
+      "slug": "turbine",
+      "references": [
+        {
+          "slug": "a1079-1",
+          "text": "A1079/1 Turbine Chrono",
+          "url": "/perrelet/turbine/a1079-1"
+        },
+        {
+          "slug": "a1082-1a",
+          "text": "A1082/1A Turbine Skeleton",
+          "url": "/perrelet/turbine/a1082-1a"
+        },
+        {
+          "slug": "a1047-4",
+          "text": "A1047/4 Turbine",
+          "url": "/perrelet/turbine/a1047-4"
+        },
+        {
+          "slug": "a2046-aa",
+          "text": "A2046/AA Turbine XS",
+          "url": "/perrelet/turbine/a2046-aa"
+        },
+        {
+          "slug": "a1064-4",
+          "text": "A1064/4 Turbine",
+          "url": "/perrelet/turbine/a1064-4"
+        },
+        {
+          "slug": "a1088-1",
+          "text": "A1088/1 Turbine Yacht",
+          "url": "/perrelet/turbine/a1088-1"
+        },
+        {
+          "slug": "a1074-2",
+          "text": "A1074/2 Turbine Chrono",
+          "url": "/perrelet/turbine/a1074-2"
+        },
+        {
+          "slug": "a2053-a",
+          "text": "A2053/A Turbine XXS",
+          "url": "/perrelet/turbine/a2053-a"
+        },
+        {
+          "slug": "a1064-5",
+          "text": "A1064/5 Turbine",
+          "url": "/perrelet/turbine/a1064-5"
+        },
+        {
+          "slug": "a1047-1",
+          "text": "A1047/1 Turbine",
+          "url": "/perrelet/turbine/a1047-1"
+        },
+        {
+          "slug": "a1066-1",
+          "text": "A1066/1 Turbine Diver",
+          "url": "/perrelet/turbine/a1066-1"
+        },
+        {
+          "slug": "a1066-4",
+          "text": "A1066/4 Turbine Yacht",
+          "url": "/perrelet/turbine/a1066-4"
+        },
+        {
+          "slug": "a1050-1",
+          "text": "A1050/1 Turbine XL",
+          "url": "/perrelet/turbine/a1050-1"
+        },
+        {
+          "slug": "1047-5",
+          "text": "1047/5 Turbine",
+          "url": "/perrelet/turbine/1047-5"
+        },
+        {
+          "slug": "a1081-1a",
+          "text": "A1081/1A Turbine Skeleton",
+          "url": "/perrelet/turbine/a1081-1a"
+        },
+        {
+          "slug": "a1086-1a",
+          "text": "A1086/1A Turbine Pilot",
+          "url": "/perrelet/turbine/a1086-1a"
+        },
+        {
+          "slug": "a1067-2",
+          "text": "A1067/2 Turbine Diver",
+          "url": "/perrelet/turbine/a1067-2"
+        },
+        {
+          "slug": "a1067-1",
+          "text": "A1067/1 Turbine Diver",
+          "url": "/perrelet/turbine/a1067-1"
+        },
+        {
+          "slug": "a1089-2",
+          "text": "A1089/2 Turbine Yacht",
+          "url": "/perrelet/turbine/a1089-2"
+        },
+        {
+          "slug": "a1089-1",
+          "text": "A1089/1 Turbine Yacht",
+          "url": "/perrelet/turbine/a1089-1"
+        },
+        {
+          "slug": "a1081-1",
+          "text": "A1081/1 Turbine Skeleton",
+          "url": "/perrelet/turbine/a1081-1"
+        },
+        {
+          "slug": "a3038-1",
+          "text": "A3038/1 Turbine Skeleton",
+          "url": "/perrelet/turbine/a3038-1"
+        },
+        {
+          "slug": "a1051-1",
+          "text": "A1051/1 Turbine XL",
+          "url": "/perrelet/turbine/a1051-1"
+        },
+        {
+          "slug": "a1050-6",
+          "text": "A1050/6 Turbine XL",
+          "url": "/perrelet/turbine/a1050-6"
+        },
+        {
+          "slug": "a1064-2",
+          "text": "A1064/2 Turbine",
+          "url": "/perrelet/turbine/a1064-2"
+        },
+        {
+          "slug": "a1051-9",
+          "text": "A1051/9 Turbine XL",
+          "url": "/perrelet/turbine/a1051-9"
+        },
+        {
+          "slug": "a1051-4",
+          "text": "A1051/4 Turbine XL",
+          "url": "/perrelet/turbine/a1051-4"
+        },
+        {
+          "slug": "a1066-2",
+          "text": "A1066/2 Turbine Diver",
+          "url": "/perrelet/turbine/a1066-2"
+        },
+        {
+          "slug": "a1066-3",
+          "text": "A1066/3 Turbine Diver",
+          "url": "/perrelet/turbine/a1066-3"
+        },
+        {
+          "slug": "a1085-1",
+          "text": "A1085/1 Turbine Pilot",
+          "url": "/perrelet/turbine/a1085-1"
+        },
+        {
+          "slug": "a1086-1",
+          "text": "A1086/1 Turbine Pilot",
+          "url": "/perrelet/turbine/a1086-1"
+        },
+        {
+          "slug": "a1085-1a",
+          "text": "A1085/1A Turbine Pilot",
+          "url": "/perrelet/turbine/a1085-1a"
+        },
+        {
+          "slug": "a2042-aa",
+          "text": "A2042/AA Turbine XS",
+          "url": "/perrelet/turbine/a2042-aa"
+        },
+        {
+          "slug": "a3036-2",
+          "text": "A3036/2 Turbine Chrono",
+          "url": "/perrelet/turbine/a3036-2"
+        },
+        {
+          "slug": "a3036-1",
+          "text": "A3036/1 Turbine Chrono",
+          "url": "/perrelet/turbine/a3036-1"
+        },
+        {
+          "slug": "a3038-1a",
+          "text": "A3038/1A Turbine Skeleton",
+          "url": "/perrelet/turbine/a3038-1a"
+        },
+        {
+          "slug": "a1075-1",
+          "text": "A1075/1 Turbine Chrono",
+          "url": "/perrelet/turbine/a1075-1"
+        },
+        {
+          "slug": "a1082-1",
+          "text": "A1082/1 Turbine Skeleton",
+          "url": "/perrelet/turbine/a1082-1"
+        },
+        {
+          "slug": "a1051-5",
+          "text": "A1051/5 Turbine XL",
+          "url": "/perrelet/turbine/a1051-5"
+        },
+        {
+          "slug": "a1050-5",
+          "text": "A1050/5 Turbine XL",
+          "url": "/perrelet/turbine/a1050-5"
+        },
+        {
+          "slug": "a1050-4",
+          "text": "A1050/4 Turbine XL",
+          "url": "/perrelet/turbine/a1050-4"
+        },
+        {
+          "slug": "a2057-a",
+          "text": "A2057/A Turbine XXS",
+          "url": "/perrelet/turbine/a2057-a"
+        },
+        {
+          "slug": "a1064-3",
+          "text": "A1064/3 Turbine",
+          "url": "/perrelet/turbine/a1064-3"
+        },
+        {
+          "slug": "a1047-2",
+          "text": "A1047/2 Turbine",
+          "url": "/perrelet/turbine/a1047-2"
+        }
+      ]
+    }
+  ],
+  "total_references": 44
+}

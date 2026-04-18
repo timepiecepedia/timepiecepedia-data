@@ -1,0 +1,666 @@
+{
+  "brand_slug": "bremont",
+  "collections": [
+    {
+      "name": "ALT1 watches33",
+      "slug": "alt1",
+      "references": [
+        {
+          "slug": "alt1pbkbr",
+          "text": "ALT1PBKbr ALT1-P Pilot Black Bracelet",
+          "url": "/bremont/alt1/alt1pbkbr"
+        },
+        {
+          "slug": "alt1b",
+          "text": "ALT1B ALT1-B",
+          "url": "/bremont/alt1/alt1b"
+        },
+        {
+          "slug": "alt1pbl",
+          "text": "ALT1PBL ALT1-P Pilot Blue",
+          "url": "/bremont/alt1/alt1pbl"
+        },
+        {
+          "slug": "alt1zcrbr",
+          "text": "ALT1ZCRbr ALT1-Z Zulu Cream Bracelet",
+          "url": "/bremont/alt1/alt1zcrbr"
+        },
+        {
+          "slug": "alt1bbr",
+          "text": "ALT1Bbr ALT1-B Bracelet",
+          "url": "/bremont/alt1/alt1bbr"
+        },
+        {
+          "slug": "alt1-c-pw",
+          "text": "ALT1-C/PW ALT1-C Polished White",
+          "url": "/bremont/alt1/alt1-c-pw"
+        },
+        {
+          "slug": "alt1zbk",
+          "text": "ALT1ZBK ALT1-Z Zulu Black",
+          "url": "/bremont/alt1/alt1zbk"
+        },
+        {
+          "slug": "alt1wtblbr",
+          "text": "ALT1WTBLbr ALT1-WT Worldtimer Blue Bracelet",
+          "url": "/bremont/alt1/alt1wtblbr"
+        },
+        {
+          "slug": "alt1zbkbr",
+          "text": "ALT1ZBKbr ALT1-Z Zulu Black Bracelet",
+          "url": "/bremont/alt1/alt1zbkbr"
+        },
+        {
+          "slug": "alt1wtbk",
+          "text": "ALT1WTBK ALT1-WT Worldtimer Black",
+          "url": "/bremont/alt1/alt1wtbk"
+        },
+        {
+          "slug": "alt1-zt",
+          "text": "ALT1-ZT ALT1-ZT",
+          "url": "/bremont/alt1/alt1-zt"
+        },
+        {
+          "slug": "alt1ccr",
+          "text": "ALT1CCR ALT1-C Classic Cream",
+          "url": "/bremont/alt1/alt1ccr"
+        },
+        {
+          "slug": "alt1can",
+          "text": "ALT1CAN ALT1-C Classic Grey",
+          "url": "/bremont/alt1/alt1can"
+        },
+        {
+          "slug": "alt1pbk",
+          "text": "ALT1PBK ALT1-P Pilot Black",
+          "url": "/bremont/alt1/alt1pbk"
+        },
+        {
+          "slug": "alt1ccrbr",
+          "text": "ALT1CCRbr ALT1-C Classic Cream Bracelet",
+          "url": "/bremont/alt1/alt1ccrbr"
+        },
+        {
+          "slug": "alt1pblbr",
+          "text": "ALT1PBLbr ALT1-P Pilot Blue Bracelet",
+          "url": "/bremont/alt1/alt1pblbr"
+        },
+        {
+          "slug": "alt1-c-pb",
+          "text": "ALT1-C/PB ALT1-C Polished Black",
+          "url": "/bremont/alt1/alt1-c-pb"
+        },
+        {
+          "slug": "alt1wtbl",
+          "text": "ALT1WTBL ALT1-WT Worldtimer Blue",
+          "url": "/bremont/alt1/alt1wtbl"
+        },
+        {
+          "slug": "alt1cgnbr",
+          "text": "ALT1CGNbr ALT1-C Classic Green Bracelet",
+          "url": "/bremont/alt1/alt1cgnbr"
+        },
+        {
+          "slug": "alt1wtwh",
+          "text": "ALT1WTWH ALT1-WT Worldtimer White",
+          "url": "/bremont/alt1/alt1wtwh"
+        },
+        {
+          "slug": "alt1wtwhbr",
+          "text": "ALT1WTWHbr ALT1-WT Worldtimer White Bracelet",
+          "url": "/bremont/alt1/alt1wtwhbr"
+        },
+        {
+          "slug": "alt1-zt-51",
+          "text": "ALT1-ZT/51 ALT1-ZT-51",
+          "url": "/bremont/alt1/alt1-zt-51"
+        },
+        {
+          "slug": "alt1cbkbr",
+          "text": "ALT1CBKbr ALT1-C Classic Black Bracelet",
+          "url": "/bremont/alt1/alt1cbkbr"
+        },
+        {
+          "slug": "alt1-c-rg",
+          "text": "ALT1-C/RG ALT1-C Polished Red Gold",
+          "url": "/bremont/alt1/alt1-c-rg"
+        },
+        {
+          "slug": "alt1csi",
+          "text": "ALT1CSI ALT1-C Classic Silver",
+          "url": "/bremont/alt1/alt1csi"
+        },
+        {
+          "slug": "alt1zcr",
+          "text": "ALT1ZCR ALT1-Z Zulu Cream",
+          "url": "/bremont/alt1/alt1zcr"
+        },
+        {
+          "slug": "alt1zdgbr",
+          "text": "ALT1ZDGbr ALT1-Z Zulu Green Bracelet",
+          "url": "/bremont/alt1/alt1zdgbr"
+        },
+        {
+          "slug": "altizdg",
+          "text": "ALTIZDG ALT1-Z Zulu Green",
+          "url": "/bremont/alt1/altizdg"
+        },
+        {
+          "slug": "alt1csibr",
+          "text": "ALT1CSIbr ALT1-C Classic Silver Bracelet",
+          "url": "/bremont/alt1/alt1csibr"
+        },
+        {
+          "slug": "alt1cgn",
+          "text": "ALT1CGN ALT1-C Classic Green",
+          "url": "/bremont/alt1/alt1cgn"
+        },
+        {
+          "slug": "alt1wtbkbr",
+          "text": "ALT1WTBKbr ALT1-WT Worldtimer Black Bracelet",
+          "url": "/bremont/alt1/alt1wtbkbr"
+        },
+        {
+          "slug": "alt1canbr",
+          "text": "ALT1CANbr ALT1-C Classic Grey Bracelet",
+          "url": "/bremont/alt1/alt1canbr"
+        },
+        {
+          "slug": "alt1cbk",
+          "text": "ALT1CBK ALT1-C Classic Black",
+          "url": "/bremont/alt1/alt1cbk"
+        }
+      ]
+    },
+    {
+      "name": "Special & Limited watches21",
+      "slug": "special-limited",
+      "references": [
+        {
+          "slug": "codebreakerss",
+          "text": "CodebreakerSS Codebreaker Stainless Steel",
+          "url": "/bremont/special-limited/codebreakerss"
+        },
+        {
+          "slug": "oracle-2",
+          "text": "Oracle 2 Oracle 2",
+          "url": "/bremont/special-limited/oracle-2"
+        },
+        {
+          "slug": "dh-88-rg",
+          "text": "DH-88/RG DH-88 Rose Gold",
+          "url": "/bremont/special-limited/dh-88-rg"
+        },
+        {
+          "slug": "norton",
+          "text": "Norton Norton",
+          "url": "/bremont/special-limited/norton"
+        },
+        {
+          "slug": "dh-88-ss",
+          "text": "DH-88/SS DH-88 Stainless Steel",
+          "url": "/bremont/special-limited/dh-88-ss"
+        },
+        {
+          "slug": "wrightflyerss",
+          "text": "WrightFlyerSS Wright Flyer Stainless Steel",
+          "url": "/bremont/special-limited/wrightflyerss"
+        },
+        {
+          "slug": "ep120",
+          "text": "EP120 EP120",
+          "url": "/bremont/special-limited/ep120"
+        },
+        {
+          "slug": "wrightflyerwg",
+          "text": "WrightFlyerWG Wright Flyer White Gold",
+          "url": "/bremont/special-limited/wrightflyerwg"
+        },
+        {
+          "slug": "alt1-wt-kingsman",
+          "text": "ALT1-WT Kingsman ALT1-WT Kingsman",
+          "url": "/bremont/special-limited/alt1-wt-kingsman"
+        },
+        {
+          "slug": "u-2-le",
+          "text": "U-2/LE U-2 LE",
+          "url": "/bremont/special-limited/u-2-le"
+        },
+        {
+          "slug": "hercules",
+          "text": "HERCULES H-4 Hercules Stainless Steel",
+          "url": "/bremont/special-limited/hercules"
+        },
+        {
+          "slug": "alt1-wt-wh-kingsman",
+          "text": "ALT1-WT WH Kingsman ALT1-WT Kingsman",
+          "url": "/bremont/special-limited/alt1-wt-wh-kingsman"
+        },
+        {
+          "slug": "p-51",
+          "text": "P-51 P-51",
+          "url": "/bremont/special-limited/p-51"
+        },
+        {
+          "slug": "codebreakerrg",
+          "text": "CodebreakerRG Codebreaker Rose Gold",
+          "url": "/bremont/special-limited/codebreakerrg"
+        },
+        {
+          "slug": "oracle-1",
+          "text": "Oracle 1 Oracle 1",
+          "url": "/bremont/special-limited/oracle-1"
+        },
+        {
+          "slug": "alt1-b-kingsman",
+          "text": "ALT1-B Kingsman ALT1-WT Kingsman",
+          "url": "/bremont/special-limited/alt1-b-kingsman"
+        },
+        {
+          "slug": "victoryss",
+          "text": "VictorySS Victory Stainless Steel",
+          "url": "/bremont/special-limited/victoryss"
+        },
+        {
+          "slug": "lw-e-type",
+          "text": "LW E-Type Jaguar E-Type Lightweight",
+          "url": "/bremont/special-limited/lw-e-type"
+        },
+        {
+          "slug": "terranova",
+          "text": "TerraNova Terra Nova",
+          "url": "/bremont/special-limited/terranova"
+        },
+        {
+          "slug": "wrightflyerrg",
+          "text": "WrightFlyerRG Wright Flyer Rose Gold",
+          "url": "/bremont/special-limited/wrightflyerrg"
+        },
+        {
+          "slug": "victoryrg",
+          "text": "VictoryRG Victory Rose Gold",
+          "url": "/bremont/special-limited/victoryrg"
+        }
+      ]
+    },
+    {
+      "name": "Supermarine watches15",
+      "slug": "supermarine",
+      "references": [
+        {
+          "slug": "s2000descbr",
+          "text": "S2000DescBr Supermarine Descent Bracelet",
+          "url": "/bremont/supermarine/s2000descbr"
+        },
+        {
+          "slug": "s2000",
+          "text": "S2000 Supermarine S2000",
+          "url": "/bremont/supermarine/s2000"
+        },
+        {
+          "slug": "s500si",
+          "text": "S500SI Supermarine S500 Silver",
+          "url": "/bremont/supermarine/s500si"
+        },
+        {
+          "slug": "s500bkbr",
+          "text": "S500BKbr Supermarine S500 Bracelet",
+          "url": "/bremont/supermarine/s500bkbr"
+        },
+        {
+          "slug": "s2000desc",
+          "text": "S2000Desc Supermarine Descent",
+          "url": "/bremont/supermarine/s2000desc"
+        },
+        {
+          "slug": "s500bl",
+          "text": "S500BL Supermarine S500 Blue",
+          "url": "/bremont/supermarine/s500bl"
+        },
+        {
+          "slug": "s500bk",
+          "text": "S500BK Supermarine S500",
+          "url": "/bremont/supermarine/s500bk"
+        },
+        {
+          "slug": "s2000br",
+          "text": "S2000br Supermarine S2000 Bracelet",
+          "url": "/bremont/supermarine/s2000br"
+        },
+        {
+          "slug": "s300-bk",
+          "text": "S300/BK Supermarine S300 Stainless Steel / Black / Temple Island",
+          "url": "/bremont/supermarine/s300-bk"
+        },
+        {
+          "slug": "s500bkgn",
+          "text": "S500BKGN Supermarine S500 Green",
+          "url": "/bremont/supermarine/s500bkgn"
+        },
+        {
+          "slug": "s500bkgnbr",
+          "text": "S500BKGNbr Supermarine S500 Green Bracelet",
+          "url": "/bremont/supermarine/s500bkgnbr"
+        },
+        {
+          "slug": "s500sibr",
+          "text": "S500SIbr Supermarine S500 Silver Bracelet",
+          "url": "/bremont/supermarine/s500sibr"
+        },
+        {
+          "slug": "s500blbr",
+          "text": "S500BLbr Supermarine S500 Blue Bracelet",
+          "url": "/bremont/supermarine/s500blbr"
+        },
+        {
+          "slug": "s301-bk",
+          "text": "S301/BK Supermarine S301 Stainless Steel / Black / Calf",
+          "url": "/bremont/supermarine/s301-bk"
+        },
+        {
+          "slug": "s300-bk-br",
+          "text": "S300/BK/BR Supermarine S300 Stainless Steel / Black / Bracelet",
+          "url": "/bremont/supermarine/s300-bk-br"
+        }
+      ]
+    },
+    {
+      "name": "Solo watches16",
+      "slug": "solo",
+      "references": [
+        {
+          "slug": "solowh",
+          "text": "SOLOwh Solo 43 Black",
+          "url": "/bremont/solo/solowh"
+        },
+        {
+          "slug": "solo37bksibr",
+          "text": "Solo37BkSiBr Solo 37 Black Bracelet",
+          "url": "/bremont/solo/solo37bksibr"
+        },
+        {
+          "slug": "solowhbr",
+          "text": "SOLOWhBr Solo 43 Black Bracelet",
+          "url": "/bremont/solo/solowhbr"
+        },
+        {
+          "slug": "solocr",
+          "text": "SOLOCr Solo 43 Black Cream",
+          "url": "/bremont/solo/solocr"
+        },
+        {
+          "slug": "solo37bksi",
+          "text": "Solo37BkSi Solo 37 Black",
+          "url": "/bremont/solo/solo37bksi"
+        },
+        {
+          "slug": "solo37sibr",
+          "text": "Solo37SiBr Solo 37 Silver Bracelet",
+          "url": "/bremont/solo/solo37sibr"
+        },
+        {
+          "slug": "solo-pb",
+          "text": "SOLO/PB Solo 43 Polished Black",
+          "url": "/bremont/solo/solo-pb"
+        },
+        {
+          "slug": "solocrbr",
+          "text": "SOLOCrBr Solo Black Cream Bracelet",
+          "url": "/bremont/solo/solocrbr"
+        },
+        {
+          "slug": "solo-pw",
+          "text": "SOLO/PW Solo 43 Polished White",
+          "url": "/bremont/solo/solo-pw"
+        },
+        {
+          "slug": "solowhsi",
+          "text": "SoloWHSI Solo 43 Silver",
+          "url": "/bremont/solo/solowhsi"
+        },
+        {
+          "slug": "solowhsibr",
+          "text": "SOLOWHSIBr Solo 43 Silver Bracelet",
+          "url": "/bremont/solo/solowhsibr"
+        },
+        {
+          "slug": "solo37rg",
+          "text": "Solo37RG Solo 37 Two Tone",
+          "url": "/bremont/solo/solo37rg"
+        },
+        {
+          "slug": "solo37rgbr",
+          "text": "Solo37RGBr Solo 37 Two Tone Bracelet",
+          "url": "/bremont/solo/solo37rgbr"
+        },
+        {
+          "slug": "solo37si",
+          "text": "Solo37Si Solo 37 Silver",
+          "url": "/bremont/solo/solo37si"
+        },
+        {
+          "slug": "solo37sirgbr",
+          "text": "Solo37SiRgBr Solo 37 Silver / Gold Numerals Bracelet",
+          "url": "/bremont/solo/solo37sirgbr"
+        },
+        {
+          "slug": "solo37sirg",
+          "text": "Solo37SiRg Solo 37 Silver / Gold Numerals",
+          "url": "/bremont/solo/solo37sirg"
+        }
+      ]
+    },
+    {
+      "name": "Martin-Baker watches10",
+      "slug": "martin-baker",
+      "references": [
+        {
+          "slug": "mbiian",
+          "text": "MBIIAn MB II Anthracite",
+          "url": "/bremont/martin-baker/mbiian"
+        },
+        {
+          "slug": "mbiiian",
+          "text": "MBIIIAn MB III GMT Anthracite",
+          "url": "/bremont/martin-baker/mbiiian"
+        },
+        {
+          "slug": "mbiian-wh",
+          "text": "MBIIAn-WH MB II Anthracite White Dial",
+          "url": "/bremont/martin-baker/mbiian-wh"
+        },
+        {
+          "slug": "mbiign",
+          "text": "MBIIGn MB II Green",
+          "url": "/bremont/martin-baker/mbiign"
+        },
+        {
+          "slug": "mbiiior",
+          "text": "MBIIIOr MB III GMT Orange",
+          "url": "/bremont/martin-baker/mbiiior"
+        },
+        {
+          "slug": "mb1",
+          "text": "MB1 MB I",
+          "url": "/bremont/martin-baker/mb1"
+        },
+        {
+          "slug": "mbiiibr",
+          "text": "MBIIIbr MB III GMT Bronze",
+          "url": "/bremont/martin-baker/mbiiibr"
+        },
+        {
+          "slug": "mbiior",
+          "text": "MBIIOr MB II Orange",
+          "url": "/bremont/martin-baker/mbiior"
+        },
+        {
+          "slug": "mbiigr-wh",
+          "text": "MBIIGr-WH MB II Green White Dial",
+          "url": "/bremont/martin-baker/mbiigr-wh"
+        },
+        {
+          "slug": "mbiior-wh",
+          "text": "MBIIOr-WH MB II Orange White Dial",
+          "url": "/bremont/martin-baker/mbiior-wh"
+        }
+      ]
+    },
+    {
+      "name": "Boeing watches7",
+      "slug": "boeing",
+      "references": [
+        {
+          "slug": "247wh",
+          "text": "247WH Boeing Model 247 White",
+          "url": "/bremont/boeing/247wh"
+        },
+        {
+          "slug": "247bk",
+          "text": "247BK Boeing Model 247 Black",
+          "url": "/bremont/boeing/247bk"
+        },
+        {
+          "slug": "247-ti-gmt",
+          "text": "247 Ti-GMT Boeing Model 247 Ti-GMT",
+          "url": "/bremont/boeing/247-ti-gmt"
+        },
+        {
+          "slug": "bb100",
+          "text": "BB100 Boeing Model 100",
+          "url": "/bremont/boeing/bb100"
+        },
+        {
+          "slug": "1bk",
+          "text": "1BK Boeing Model 1 Black",
+          "url": "/bremont/boeing/1bk"
+        },
+        {
+          "slug": "1wh",
+          "text": "1WH Boeing Model 1 White",
+          "url": "/bremont/boeing/1wh"
+        },
+        {
+          "slug": "1-ti-gmt",
+          "text": "1 Ti-GMT Boeing Model 1 Ti-GMT",
+          "url": "/bremont/boeing/1-ti-gmt"
+        }
+      ]
+    },
+    {
+      "name": "Airco watches5",
+      "slug": "airco",
+      "references": [
+        {
+          "slug": "airco-mach-3-bl",
+          "text": "AIRCO MACH 3/BL Airco Mach 3 Stainless Steel / Blue / Calf",
+          "url": "/bremont/airco/airco-mach-3-bl"
+        },
+        {
+          "slug": "airco-mach-1-bk",
+          "text": "AIRCO MACH 1/BK Airco Mach 1 Stainless Steel / Black / Calf",
+          "url": "/bremont/airco/airco-mach-1-bk"
+        },
+        {
+          "slug": "airco-mach-2-wh",
+          "text": "AIRCO MACH 2/WH Airco Mach 2 Stainless Steel / White / Calf",
+          "url": "/bremont/airco/airco-mach-2-wh"
+        },
+        {
+          "slug": "airco-mach-2-an",
+          "text": "AIRCO MACH 2/AN Airco Mach 2 Stainless Steel / Black / Calf",
+          "url": "/bremont/airco/airco-mach-2-an"
+        },
+        {
+          "slug": "airco-mach-1-wh",
+          "text": "AIRCO MACH 1/WH Airco Mach 1 Stainless Steel / White / Calf",
+          "url": "/bremont/airco/airco-mach-1-wh"
+        }
+      ]
+    },
+    {
+      "name": "America's Cup watches6",
+      "slug": "america-s-cup",
+      "references": [
+        {
+          "slug": "ac-r-rg",
+          "text": "AC-R/RG America's Cup Regatta Rose Gold",
+          "url": "/bremont/america-s-cup/ac-r-rg"
+        },
+        {
+          "slug": "ac-1",
+          "text": "AC-1 America's Cup 1",
+          "url": "/bremont/america-s-cup/ac-1"
+        },
+        {
+          "slug": "ac-2",
+          "text": "AC-2 America's Cup 2",
+          "url": "/bremont/america-s-cup/ac-2"
+        },
+        {
+          "slug": "otusa-r-bk",
+          "text": "OTUSA-R/BK Oracle Team USA Regatta Black",
+          "url": "/bremont/america-s-cup/otusa-r-bk"
+        },
+        {
+          "slug": "ac-r-ss",
+          "text": "AC-R/SS America's Cup Regatta Stainless Steel",
+          "url": "/bremont/america-s-cup/ac-r-ss"
+        },
+        {
+          "slug": "otusa-r-wh",
+          "text": "OTUSA-R/WH Oracle Team USA Regatta White",
+          "url": "/bremont/america-s-cup/otusa-r-wh"
+        }
+      ]
+    },
+    {
+      "name": "U2 watches4",
+      "slug": "u2",
+      "references": [
+        {
+          "slug": "u-2-dlc",
+          "text": "U-2/DLC U-2/DLC",
+          "url": "/bremont/u2/u-2-dlc"
+        },
+        {
+          "slug": "u-2-bl",
+          "text": "U-2/BL U-2 Blue",
+          "url": "/bremont/u2/u-2-bl"
+        },
+        {
+          "slug": "u-2-ss",
+          "text": "U-2/SS U-2 Black",
+          "url": "/bremont/u2/u-2-ss"
+        },
+        {
+          "slug": "u-22",
+          "text": "U-22 U-22",
+          "url": "/bremont/u2/u-22"
+        }
+      ]
+    },
+    {
+      "name": "Jaguar watches3",
+      "slug": "jaguar",
+      "references": [
+        {
+          "slug": "mkii",
+          "text": "MKII Jaguar E-Type MK2",
+          "url": "/bremont/jaguar/mkii"
+        },
+        {
+          "slug": "mkiii",
+          "text": "MKIII Jaguar E-Type MK3",
+          "url": "/bremont/jaguar/mkiii"
+        },
+        {
+          "slug": "mk1",
+          "text": "MK1 Jaguar E-Type MK1",
+          "url": "/bremont/jaguar/mk1"
+        }
+      ]
+    }
+  ],
+  "total_references": 120
+}

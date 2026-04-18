@@ -1,0 +1,27 @@
+{
+  "brand_slug": "fiona-kruger",
+  "collections": [
+    {
+      "name": "Skull watches3",
+      "slug": "skull",
+      "references": [
+        {
+          "slug": "fkst-a",
+          "text": "FKST A Celebration Skull",
+          "url": "/fiona-kruger/skull/fkst-a"
+        },
+        {
+          "slug": "fkst-bl",
+          "text": "FKST-BL Black Skull",
+          "url": "/fiona-kruger/skull/fkst-bl"
+        },
+        {
+          "slug": "fkst",
+          "text": "FKST Skull",
+          "url": "/fiona-kruger/skull/fkst"
+        }
+      ]
+    }
+  ],
+  "total_references": 3
+}

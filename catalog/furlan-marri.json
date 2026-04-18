@@ -1,0 +1,145 @@
+{
+  "brand_slug": "furlan-marri",
+  "collections": [
+    {
+      "name": "Chronograph Mecha-Quartz watches13",
+      "slug": "chronograph-mecha-quartz",
+      "references": [
+        {
+          "slug": "1085-a",
+          "text": "1085-A Chronograph Rosso Grigio",
+          "url": "/furlan-marri/chronograph-mecha-quartz/1085-a"
+        },
+        {
+          "slug": "1031-a",
+          "text": "1031-A Chronograph Havana Salmon",
+          "url": "/furlan-marri/chronograph-mecha-quartz/1031-a"
+        },
+        {
+          "slug": "1051-a",
+          "text": "1051-A Chronograph Mare Blu",
+          "url": "/furlan-marri/chronograph-mecha-quartz/1051-a"
+        },
+        {
+          "slug": "1061-a",
+          "text": "1061-A Chronograph Havana Green Seddiqi & Sons Dubai Watch Week 2021",
+          "url": "/furlan-marri/chronograph-mecha-quartz/1061-a"
+        },
+        {
+          "slug": "1011-a",
+          "text": "1011-A Chronograph Tasti Tondi",
+          "url": "/furlan-marri/chronograph-mecha-quartz/1011-a"
+        },
+        {
+          "slug": "1041-a",
+          "text": "1041-A Chronograph Mr. Grey",
+          "url": "/furlan-marri/chronograph-mecha-quartz/1041-a"
+        },
+        {
+          "slug": "1022-b",
+          "text": "1022-B Chronograph Farro",
+          "url": "/furlan-marri/chronograph-mecha-quartz/1022-b"
+        },
+        {
+          "slug": "1072-a",
+          "text": "1072-A Chronograph Nero Sabbia",
+          "url": "/furlan-marri/chronograph-mecha-quartz/1072-a"
+        },
+        {
+          "slug": "1009-a",
+          "text": "1009-A Chronograph Castagna",
+          "url": "/furlan-marri/chronograph-mecha-quartz/1009-a"
+        },
+        {
+          "slug": "1022-a",
+          "text": "1022-A Chronograph Laccato Nero",
+          "url": "/furlan-marri/chronograph-mecha-quartz/1022-a"
+        },
+        {
+          "slug": "1121-a",
+          "text": "1121-A Chronograph Solidarity Blue / World Central Kitchen",
+          "url": "/furlan-marri/chronograph-mecha-quartz/1121-a"
+        },
+        {
+          "slug": "20201",
+          "text": "20201 Chronograph Bronzo Rosso / Watches of Switzerland",
+          "url": "/furlan-marri/chronograph-mecha-quartz/20201"
+        },
+        {
+          "slug": "1072-2",
+          "text": "1072-2 Chronograph Heartz Beat / + seconde/seconde/",
+          "url": "/furlan-marri/chronograph-mecha-quartz/1072-2"
+        }
+      ]
+    },
+    {
+      "name": "Chronograph Flyback watches3",
+      "slug": "chronograph-flyback",
+      "references": [
+        {
+          "slug": "3188-a",
+          "text": "3188-A Salmon Flyback",
+          "url": "/furlan-marri/chronograph-flyback/3188-a"
+        },
+        {
+          "slug": "3199-a",
+          "text": "3199-A Honey Blue Flyback",
+          "url": "/furlan-marri/chronograph-flyback/3199-a"
+        },
+        {
+          "slug": "3177-a",
+          "text": "3177-A Taupe Flyback",
+          "url": "/furlan-marri/chronograph-flyback/3177-a"
+        }
+      ]
+    },
+    {
+      "name": "Three Hands watches4",
+      "slug": "three-hands",
+      "references": [
+        {
+          "slug": "2161-a",
+          "text": "2161-A White Sector",
+          "url": "/furlan-marri/three-hands/2161-a"
+        },
+        {
+          "slug": "2145-a",
+          "text": "2145-A Grey Sector",
+          "url": "/furlan-marri/three-hands/2145-a"
+        },
+        {
+          "slug": "2154-a",
+          "text": "2154-A Salmon Sector",
+          "url": "/furlan-marri/three-hands/2154-a"
+        },
+        {
+          "slug": "2222-a",
+          "text": "2222-A Outback Elegy",
+          "url": "/furlan-marri/three-hands/2222-a"
+        }
+      ]
+    },
+    {
+      "name": "Disco Volante watches3",
+      "slug": "disco-volante",
+      "references": [
+        {
+          "slug": "20205-dc",
+          "text": "20205-DC Disco Celeste",
+          "url": "/furlan-marri/disco-volante/20205-dc"
+        },
+        {
+          "slug": "20205-dh",
+          "text": "20205-DH Disco Havana",
+          "url": "/furlan-marri/disco-volante/20205-dh"
+        },
+        {
+          "slug": "20205-dv",
+          "text": "20205-DV Disco Verde",
+          "url": "/furlan-marri/disco-volante/20205-dv"
+        }
+      ]
+    }
+  ],
+  "total_references": 23
+}

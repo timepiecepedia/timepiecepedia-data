@@ -1,0 +1,257 @@
+{
+  "brand_slug": "louis-erard",
+  "collections": [
+    {
+      "name": "Excellence watches49",
+      "slug": "excellence",
+      "references": [
+        {
+          "slug": "54230ag59-bdc02",
+          "text": "54230AG59.BDC02 Excellence Regulator Stainless Steel / Green",
+          "url": "/louis-erard/excellence/54230ag59-bdc02"
+        },
+        {
+          "slug": "85237aa35-bva35",
+          "text": "85237AA35.BVA35 Excellence Le Régulateur Lapis-Lazuli",
+          "url": "/louis-erard/excellence/85237aa35-bva35"
+        },
+        {
+          "slug": "85358tt02-btt88",
+          "text": "85358TT02.BTT88 Excellence Le Régulateur Louis Erard x Alain Silberstein II Titanium / Black",
+          "url": "/louis-erard/excellence/85358tt02-btt88"
+        },
+        {
+          "slug": "85237aa32-bva36",
+          "text": "85237AA32.BVA36 Excellence Le Régulateur Aventurine",
+          "url": "/louis-erard/excellence/85237aa32-bva36"
+        },
+        {
+          "slug": "54230as61-bva08",
+          "text": "54230AS61.BVA08 Excellence Le Régulateur Louis Erard x Alain Silberstein Stainless Steel / White",
+          "url": "/louis-erard/excellence/54230as61-bva08"
+        },
+        {
+          "slug": "9356tt06-btt89",
+          "text": "9356TT06.BTT89 Excellence Le Régulateur Tourbillon Louis Erard x Alain Silberstein III Titanium / Khaki",
+          "url": "/louis-erard/excellence/9356tt06-btt89"
+        },
+        {
+          "slug": "74239aa01-bva31",
+          "text": "74239AA01.BVA31 Excellence Chrono Monopoussoir Stainless Steel / Silver",
+          "url": "/louis-erard/excellence/74239aa01-bva31"
+        },
+        {
+          "slug": "85237aa53-bva33",
+          "text": "85237AA53.BVA33 Excellence Le Régulateur Louis Erard x atelier oï",
+          "url": "/louis-erard/excellence/85237aa53-bva33"
+        },
+        {
+          "slug": "85237aa75-bva103",
+          "text": "85237AA75.BVA103 Excellence Le Régulateur Louis Erard x Massena LAB Gold",
+          "url": "/louis-erard/excellence/85237aa75-bva103"
+        },
+        {
+          "slug": "86236nn22-bdcn51",
+          "text": "86236NN22.BDCN51 Excellence Le Régulateur Louis Erard x Eric Giroud PVD/ Black",
+          "url": "/louis-erard/excellence/86236nn22-bdcn51"
+        },
+        {
+          "slug": "85237aa51-bva35",
+          "text": "85237AA51.BVA35 Excellence Le Régulateur Louis Erard x Vianney Halter Stainless Steel / Silver",
+          "url": "/louis-erard/excellence/85237aa51-bva35"
+        },
+        {
+          "slug": "85358tt01-btt83",
+          "text": "85358TT01.BTT83 Excellence Le Régulateur Blanc Louis Erard x Alain Silberstein  Titanium / White",
+          "url": "/louis-erard/excellence/85358tt01-btt83"
+        },
+        {
+          "slug": "85237aa39-bva37",
+          "text": "85237AA39.BVA37 Excellence Le Régulateur Malachite",
+          "url": "/louis-erard/excellence/85237aa39-bva37"
+        },
+        {
+          "slug": "85237aa88-bga088",
+          "text": "85237AA88.BGA088 Excellence Le Régulateur Louis Erard x Konstantin Chaykin",
+          "url": "/louis-erard/excellence/85237aa88-bga088"
+        },
+        {
+          "slug": "34238aa39-bva136",
+          "text": "34238AA39.BVA136 Excellence Petite Seconde 39 Malachite",
+          "url": "/louis-erard/excellence/34238aa39-bva136"
+        },
+        {
+          "slug": "34238aa54-bva95",
+          "text": "34238AA54.BVA95 Excellence Émail Grand Feu II",
+          "url": "/louis-erard/excellence/34238aa54-bva95"
+        },
+        {
+          "slug": "34248aa66-bva151",
+          "text": "34248AA66.BVA151 Excellence Petite Seconde 39 x The Horophile Metropolis Tobacco",
+          "url": "/louis-erard/excellence/34248aa66-bva151"
+        },
+        {
+          "slug": "75357tt25-btt82",
+          "text": "75357TT25.BTT82 Excellence La Semaine Louis Erard x Alain Silberstein Stephen Silver",
+          "url": "/louis-erard/excellence/75357tt25-btt82"
+        },
+        {
+          "slug": "75357tt01-btt83",
+          "text": "75357TT01.BTT83 Excellence La Semaine Blanche Louis Erard x Alain Silberstein Titanium / White",
+          "url": "/louis-erard/excellence/75357tt01-btt83"
+        },
+        {
+          "slug": "85358tt06-btt89",
+          "text": "85358TT06.BTT89 Excellence Le Régulateur Louis Erard x Alain Silberstein III Titanium / Khaki",
+          "url": "/louis-erard/excellence/85358tt06-btt89"
+        },
+        {
+          "slug": "34238aa07-bva26",
+          "text": "34238AA07.BVA26 Excellence Petite Seconde 39 Terracotta",
+          "url": "/louis-erard/excellence/34238aa07-bva26"
+        },
+        {
+          "slug": "54230ag52-bdc02",
+          "text": "54230AG52.BDC02 Excellence Regulator Stainless Steel / Grey",
+          "url": "/louis-erard/excellence/54230ag52-bdc02"
+        },
+        {
+          "slug": "86236aa25-bdc555",
+          "text": "86236AA25.BDC555 Excellence Le Régulateur Louis Erard x Eric Giroud Stainless Steel / Blue",
+          "url": "/louis-erard/excellence/86236aa25-bdc555"
+        },
+        {
+          "slug": "85248aa89-bga091",
+          "text": "85248AA89.BGA091 Excellence Le Régulateur 39 Louis Erard x Konstantin Chaykin",
+          "url": "/louis-erard/excellence/85248aa89-bga091"
+        },
+        {
+          "slug": "34248aa06-bva142",
+          "text": "34248AA06.BVA142 Excellence Petite Seconde 39 Stainless Steel / Violette",
+          "url": "/louis-erard/excellence/34248aa06-bva142"
+        },
+        {
+          "slug": "75357tt02-btt88",
+          "text": "75357TT02.BTT88 Excellence La Semaine Louis Erard x Alain Silberstein Titanium / Black",
+          "url": "/louis-erard/excellence/75357tt02-btt88"
+        },
+        {
+          "slug": "34237aa58-bva108",
+          "text": "34237AA58.BVA108 Excellence Marqueterie",
+          "url": "/louis-erard/excellence/34237aa58-bva108"
+        },
+        {
+          "slug": "85237aa21-bva31",
+          "text": "85237AA21.BVA31 Excellence Regulator Stainless Steel / Silver",
+          "url": "/louis-erard/excellence/85237aa21-bva31"
+        },
+        {
+          "slug": "85237nn57-bat02",
+          "text": "85237NN57.BAT02 Excellence Le Régulateur Louis Erard x Label Noir",
+          "url": "/louis-erard/excellence/85237nn57-bat02"
+        },
+        {
+          "slug": "85237aa76-bva103",
+          "text": "85237AA76.BVA103 Excellence Le Régulateur Louis Erard x Massena LAB Silver",
+          "url": "/louis-erard/excellence/85237aa76-bva103"
+        },
+        {
+          "slug": "54230sg04-baav04",
+          "text": "54230SG04.BAAV04 Excellence Regulator Limited Edition Gems",
+          "url": "/louis-erard/excellence/54230sg04-baav04"
+        },
+        {
+          "slug": "54230ag55-bdc02",
+          "text": "54230AG55.BDC02 Excellence Regulator Stainless Steel / Blue",
+          "url": "/louis-erard/excellence/54230ag55-bdc02"
+        },
+        {
+          "slug": "54230aa41-bdc02",
+          "text": "54230AA41.BDC02 Excellence Regulator Stainless Steel / Silver",
+          "url": "/louis-erard/excellence/54230aa41-bdc02"
+        },
+        {
+          "slug": "34238aa61-bva130",
+          "text": "34238AA61.BVA130 Excellence La Petite Seconde Louis Horror x seconde/seconde/",
+          "url": "/louis-erard/excellence/34238aa61-bva130"
+        },
+        {
+          "slug": "34248aa44-bva152",
+          "text": "34248AA44.BVA152 Excellence Petite Seconde 39 x The Horophile Metropolis Slatet",
+          "url": "/louis-erard/excellence/34248aa44-bva152"
+        },
+        {
+          "slug": "34248aa64-bva150",
+          "text": "34248AA64.BVA150 Excellence Petite Seconde 39 x The Horophile Metropolis Salmon",
+          "url": "/louis-erard/excellence/34248aa64-bva150"
+        },
+        {
+          "slug": "34248aa08-bva141",
+          "text": "34248AA08.BVA141 Excellence Petite Seconde 39 Stainless Steel / Bleu Glacier",
+          "url": "/louis-erard/excellence/34248aa08-bva141"
+        },
+        {
+          "slug": "75357tt06-btt89",
+          "text": "75357TT06.BTT89 Excellence La Semaine Louis Erard x Alain Silberstein III Titanium / Khaki",
+          "url": "/louis-erard/excellence/75357tt06-btt89"
+        },
+        {
+          "slug": "34248aa05-bva134",
+          "text": "34248AA05.BVA134 Excellence Petite Seconde 39 Stainless Steel / Blue Nuit",
+          "url": "/louis-erard/excellence/34248aa05-bva134"
+        },
+        {
+          "slug": "54230ns62-bva09",
+          "text": "54230NS62.BVA09 Excellence Le Régulateur Louis Erard x Alain Silberstein PVD / Black",
+          "url": "/louis-erard/excellence/54230ns62-bva09"
+        },
+        {
+          "slug": "34238aa32-bva134",
+          "text": "34238AA32.BVA134 Excellence Petite Seconde 39 Aventurine",
+          "url": "/louis-erard/excellence/34238aa32-bva134"
+        },
+        {
+          "slug": "34238aa35-bva133",
+          "text": "34238AA35.BVA133 Excellence Petite Seconde 39 Lapis Lazulli",
+          "url": "/louis-erard/excellence/34238aa35-bva133"
+        },
+        {
+          "slug": "34237aa01-bva31",
+          "text": "34237AA01.BVA31 Excellence Petite Seconde Stainless Steel / Silver",
+          "url": "/louis-erard/excellence/34237aa01-bva31"
+        },
+        {
+          "slug": "34237aa54-bva38",
+          "text": "34237AA54.BVA38 Excellence Émail Grand Feu",
+          "url": "/louis-erard/excellence/34237aa54-bva38"
+        },
+        {
+          "slug": "66237aa52-bva34",
+          "text": "66237AA52.BVA34 Excellence Guilloché Main",
+          "url": "/louis-erard/excellence/66237aa52-bva34"
+        },
+        {
+          "slug": "74359tt02-btt88",
+          "text": "74359TT02.BTT88 Excellence Le Chrono Monopoussoir Louis Erard x Alain Silberstein Titanium / Black",
+          "url": "/louis-erard/excellence/74359tt02-btt88"
+        },
+        {
+          "slug": "34237aa95-bva103",
+          "text": "34237AA95.BVA103 Excellence Guilloché Main II",
+          "url": "/louis-erard/excellence/34237aa95-bva103"
+        },
+        {
+          "slug": "34237aa07-bva25",
+          "text": "34237AA07.BVA25 Excellence Petite Seconde Terracotta",
+          "url": "/louis-erard/excellence/34237aa07-bva25"
+        },
+        {
+          "slug": "85237aa61-bva31",
+          "text": "85237AA61.BVA31 Excellence Le Régulateur Louis Erard x seconde/seconde/",
+          "url": "/louis-erard/excellence/85237aa61-bva31"
+        }
+      ]
+    }
+  ],
+  "total_references": 49
+}

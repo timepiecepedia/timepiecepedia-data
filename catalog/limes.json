@@ -1,0 +1,344 @@
+{
+  "brand_slug": "limes",
+  "collections": [
+    {
+      "name": "Pharo watches22",
+      "slug": "pharo",
+      "references": [
+        {
+          "slug": "u6282c-la4-3",
+          "text": "U6282C-LA4.3 Pharo BigDate - Silvered / black leather strap",
+          "url": "/limes/pharo/u6282c-la4-3"
+        },
+        {
+          "slug": "u6282c-lh1-1",
+          "text": "U6282C-LH1.1 Pharo Cartouche H - 6498 Standard - Black leather strap",
+          "url": "/limes/pharo/u6282c-lh1-1"
+        },
+        {
+          "slug": "u6282c-la3-1",
+          "text": "U6282C-LA3.1 Pharo Open Balance - Silvered / black leather strap",
+          "url": "/limes/pharo/u6282c-la3-1"
+        },
+        {
+          "slug": "u6282c-la3-3",
+          "text": "U6282C-LA3.3 Pharo Open Balance - Roman / black leather strap",
+          "url": "/limes/pharo/u6282c-la3-3"
+        },
+        {
+          "slug": "u6282c-lhr1-2",
+          "text": "U6282C-LHR1.2 Pharo Hand wound - Two-tone / brown leather strap",
+          "url": "/limes/pharo/u6282c-lhr1-2"
+        },
+        {
+          "slug": "u6282c-lc1-1",
+          "text": "U6282C-LC1.1 Pharo Chrono - Silvered / roman / black leather strap",
+          "url": "/limes/pharo/u6282c-lc1-1"
+        },
+        {
+          "slug": "u6282c-la5-1",
+          "text": "U6282C-LA5.1 Pharo Cartouche A - Silvered dial - Black leather strap",
+          "url": "/limes/pharo/u6282c-la5-1"
+        },
+        {
+          "slug": "u6282c-lc1-2",
+          "text": "U6282C-LC1.2 Pharo Chrono - Silvered / roman / brown leather strap",
+          "url": "/limes/pharo/u6282c-lc1-2"
+        },
+        {
+          "slug": "u6282c-lc2-1",
+          "text": "U6282C-LC2.1 Pharo Chrono - Black / roman / black leather strap",
+          "url": "/limes/pharo/u6282c-lc2-1"
+        },
+        {
+          "slug": "u6282c-la2-2",
+          "text": "U6282C-LA2.2 Pharo DayDate - Two-tone / brown leather strap",
+          "url": "/limes/pharo/u6282c-la2-2"
+        },
+        {
+          "slug": "u6282c-lc2-2",
+          "text": "U6282C-LC2.2 Pharo Chrono - Black / roman / brown leather strap",
+          "url": "/limes/pharo/u6282c-lc2-2"
+        },
+        {
+          "slug": "u6282c-la4-4",
+          "text": "U6282C-LA4.4 Pharo BigDate - Silvered / Brown leather strap",
+          "url": "/limes/pharo/u6282c-la4-4"
+        },
+        {
+          "slug": "u6282c-lh1-2",
+          "text": "U6282C-LH1.2 Pharo Cartouche H - 6498 Standard - Brown leather strap",
+          "url": "/limes/pharo/u6282c-lh1-2"
+        },
+        {
+          "slug": "u6282c-la4-2",
+          "text": "U6282C-LA4.2 Pharo BigDate - Two-tone / brown leather strep",
+          "url": "/limes/pharo/u6282c-la4-2"
+        },
+        {
+          "slug": "u6282c-la2-1",
+          "text": "U6282C-LA2.1 Pharo DayDate - Silvered / black leather strap",
+          "url": "/limes/pharo/u6282c-la2-1"
+        },
+        {
+          "slug": "u6282c-la2-3",
+          "text": "U6282C-LA2.3 Pharo DayDate - silvered - black leather strap",
+          "url": "/limes/pharo/u6282c-la2-3"
+        },
+        {
+          "slug": "u6282c-la3-2",
+          "text": "U6282C-LA3.2 Pharo Open Balance - Two-tone / brown leather strap",
+          "url": "/limes/pharo/u6282c-la3-2"
+        },
+        {
+          "slug": "u6282c-la3-4",
+          "text": "U6282C-LA3.4 Pharo Open Balance - Roman / brown leather strap",
+          "url": "/limes/pharo/u6282c-la3-4"
+        },
+        {
+          "slug": "u6282c-la2-4",
+          "text": "U6282C-LA2.4 Pharo DayDate - silvered / brown leather strap",
+          "url": "/limes/pharo/u6282c-la2-4"
+        },
+        {
+          "slug": "u6282c-la4-1",
+          "text": "U6282C-LA4.1 Pharo BigDate - Silvered / black leather strap",
+          "url": "/limes/pharo/u6282c-la4-1"
+        },
+        {
+          "slug": "u6282c-lhr1-1",
+          "text": "U6282C-LHR1.1 Pharo Hand wound - Silvered / black leather strap",
+          "url": "/limes/pharo/u6282c-lhr1-1"
+        },
+        {
+          "slug": "u6282c-la5-2",
+          "text": "U6282C-LA5.2 Pharo Cartouche A - Silvered dial - Brown leather strap",
+          "url": "/limes/pharo/u6282c-la5-2"
+        }
+      ]
+    },
+    {
+      "name": "Endurance watches27",
+      "slug": "endurance",
+      "references": [
+        {
+          "slug": "u8787sw-la2-3",
+          "text": "U8787SW-LA2.3 1Tausend Automatic PVD Orange - Leather strap",
+          "url": "/limes/endurance/u8787sw-la2-3"
+        },
+        {
+          "slug": "u8777b-la2-1",
+          "text": "U8777B-LA2.1 Endurance Neptun1 - steel bracelet",
+          "url": "/limes/endurance/u8777b-la2-1"
+        },
+        {
+          "slug": "u8797b-lc2-1",
+          "text": "U8797B-LC2.1 Endurance Chrono - Black / steel bracelet",
+          "url": "/limes/endurance/u8797b-lc2-1"
+        },
+        {
+          "slug": "u8777b-la3-1",
+          "text": "U8777B-LA3.1 Endurance Neptun2 - steel bracelet",
+          "url": "/limes/endurance/u8777b-la3-1"
+        },
+        {
+          "slug": "u8777b-la2-2",
+          "text": "U8777B-LA2.2 Endurance Neptun1 - steel bracelet",
+          "url": "/limes/endurance/u8777b-la2-2"
+        },
+        {
+          "slug": "u8797-lc2-1",
+          "text": "U8797-LC2.1 Endurance Chrono - Black / leather strap",
+          "url": "/limes/endurance/u8797-lc2-1"
+        },
+        {
+          "slug": "u8787b-la2-5",
+          "text": "U8787B-LA2.5 1Tausend Automatic Yellow - steel bracelet",
+          "url": "/limes/endurance/u8787b-la2-5"
+        },
+        {
+          "slug": "u8887b-la1-1",
+          "text": "U8887B-LA1.1 Endurance Leviathan - steel bracelet",
+          "url": "/limes/endurance/u8887b-la1-1"
+        },
+        {
+          "slug": "u8797b-lc2-3",
+          "text": "U8797B-LC2.3 Endurance Chrono - Orange / steel bracelet",
+          "url": "/limes/endurance/u8797b-lc2-3"
+        },
+        {
+          "slug": "u8797-lc2-2",
+          "text": "U8797-LC2.2 Endurance Chrono - Orange / leather strap",
+          "url": "/limes/endurance/u8797-lc2-2"
+        },
+        {
+          "slug": "u8777-la3-1",
+          "text": "U8777-LA3.1 Endurance Neptun2 - Leather strap",
+          "url": "/limes/endurance/u8777-la3-1"
+        },
+        {
+          "slug": "u4515-lc3-2",
+          "text": "U4515-LC3.2 Endurance Rallye - Rallye strap / black and red",
+          "url": "/limes/endurance/u4515-lc3-2"
+        },
+        {
+          "slug": "u8887-la1-1",
+          "text": "U8887-LA1.1 Endurance Leviathan - Leather strap",
+          "url": "/limes/endurance/u8887-la1-1"
+        },
+        {
+          "slug": "u4515-lc3-1",
+          "text": "U4515-LC3.1 Endurance Rallye - Rallye strap / black and white",
+          "url": "/limes/endurance/u4515-lc3-1"
+        },
+        {
+          "slug": "u4515-lc3-3",
+          "text": "U4515-LC3.3 Endurance Rallye - Leather strap",
+          "url": "/limes/endurance/u4515-lc3-3"
+        },
+        {
+          "slug": "u8787b-la2-3",
+          "text": "U8787B-LA2.3 Tausend Automatic Orange - steel bracelet",
+          "url": "/limes/endurance/u8787b-la2-3"
+        },
+        {
+          "slug": "u8787-la2-3",
+          "text": "U8787-LA2.3 1Tausend Automatic Orange - Leather strap",
+          "url": "/limes/endurance/u8787-la2-3"
+        },
+        {
+          "slug": "u8787-la2-5",
+          "text": "U8787-LA2.5 1Tausend Automatic Yellow - Leather strap",
+          "url": "/limes/endurance/u8787-la2-5"
+        },
+        {
+          "slug": "u8787sw-la2-7",
+          "text": "U8787SW-LA2.7 1Tausend Automatic PVD Blue - Leather strap",
+          "url": "/limes/endurance/u8787sw-la2-7"
+        },
+        {
+          "slug": "u8787-la2-1",
+          "text": "U8787-LA2.1 1Tausend Automatic - Leather strap",
+          "url": "/limes/endurance/u8787-la2-1"
+        },
+        {
+          "slug": "u8777-la2-1",
+          "text": "U8777-LA2.1 Endurance Neptun1 - Leather strap",
+          "url": "/limes/endurance/u8777-la2-1"
+        },
+        {
+          "slug": "u8787sw-la2-1",
+          "text": "U8787SW-LA2.1 1Tausend Automatic PVD - Leather strap",
+          "url": "/limes/endurance/u8787sw-la2-1"
+        },
+        {
+          "slug": "u8787-la2-7",
+          "text": "U8787-LA2.7 1Tausend Automatic Blue - Leather strap",
+          "url": "/limes/endurance/u8787-la2-7"
+        },
+        {
+          "slug": "u8787b-la2-1",
+          "text": "U8787B-LA2.1 1Tausend Automatic - steel bracelet",
+          "url": "/limes/endurance/u8787b-la2-1"
+        },
+        {
+          "slug": "u8787b-la2-7",
+          "text": "U8787B-LA2.7 1Tausend Automatic Blue - steel bracelet",
+          "url": "/limes/endurance/u8787b-la2-7"
+        },
+        {
+          "slug": "u8787sw-la2-5",
+          "text": "U8787SW-LA2.5 1Tausend Automatic PVD Yellow - Leather strap",
+          "url": "/limes/endurance/u8787sw-la2-5"
+        },
+        {
+          "slug": "u8777-la2-2",
+          "text": "U8777-LA2.2 Endurance Neptun1 - Leather strap",
+          "url": "/limes/endurance/u8777-la2-2"
+        }
+      ]
+    },
+    {
+      "name": "Chyros watches15",
+      "slug": "chyros",
+      "references": [
+        {
+          "slug": "u6017-la3-1",
+          "text": "U6017-LA3.1 Chyros Klassik - Black leather (plain)",
+          "url": "/limes/chyros/u6017-la3-1"
+        },
+        {
+          "slug": "u6017-la3-2",
+          "text": "U6017-LA3.2 Chyros Klassik - Brown leather (Croco)",
+          "url": "/limes/chyros/u6017-la3-2"
+        },
+        {
+          "slug": "u6017-la2-3",
+          "text": "U6017-LA2.3 Chyros Balancier Visible - Black / black leather strap",
+          "url": "/limes/chyros/u6017-la2-3"
+        },
+        {
+          "slug": "u6017-la3-3",
+          "text": "U6017-LA3.3 Chyros Klassik - Black leather (Croco)",
+          "url": "/limes/chyros/u6017-la3-3"
+        },
+        {
+          "slug": "u6017-la2-2",
+          "text": "U6017-LA2.2 Chyros Balancier Visible - Silvered / brown leather strap",
+          "url": "/limes/chyros/u6017-la2-2"
+        },
+        {
+          "slug": "u6017-la2-5",
+          "text": "U6017-LA2.5 Chyros Balancier Visible - silvered / black leather strap (Croco)",
+          "url": "/limes/chyros/u6017-la2-5"
+        },
+        {
+          "slug": "u6017-la2-1",
+          "text": "U6017-LA2.1 Chyros Balancier Visible - silvered / black leather strap",
+          "url": "/limes/chyros/u6017-la2-1"
+        },
+        {
+          "slug": "u6017-la2-6",
+          "text": "U6017-LA2.6 Chyros Balancier Visible - Schwarz / schwarzes Lederband (Croco)",
+          "url": "/limes/chyros/u6017-la2-6"
+        },
+        {
+          "slug": "u6017-la1-2",
+          "text": "U6017-LA1.2 Chyros Automatic - Silvered / brown leather strap (Croco)",
+          "url": "/limes/chyros/u6017-la1-2"
+        },
+        {
+          "slug": "u6017-la1-6",
+          "text": "U6017-LA1.6 Chyros Automatic - Black / black leather strap (Croco)",
+          "url": "/limes/chyros/u6017-la1-6"
+        },
+        {
+          "slug": "u6017-la1-5",
+          "text": "U6017-LA1.5 Chyros Automatic - Silvered / black leather strap (Croco)",
+          "url": "/limes/chyros/u6017-la1-5"
+        },
+        {
+          "slug": "u6017-la2-4",
+          "text": "U6017-LA2.4 Chyros Balancier Visible - Black / brown leather strap",
+          "url": "/limes/chyros/u6017-la2-4"
+        },
+        {
+          "slug": "u6017-la1-4",
+          "text": "U6017-LA1.4 Chyros Automatic - Black / brown leather strap (Croco)",
+          "url": "/limes/chyros/u6017-la1-4"
+        },
+        {
+          "slug": "u6017-la1-1",
+          "text": "U6017-LA1.1 Chyros Automatic - Silvered / black leather strap",
+          "url": "/limes/chyros/u6017-la1-1"
+        },
+        {
+          "slug": "u6017-la1-3",
+          "text": "U6017-LA1.3 Chyros Automatic - Black / black leather strap",
+          "url": "/limes/chyros/u6017-la1-3"
+        }
+      ]
+    }
+  ],
+  "total_references": 64
+}

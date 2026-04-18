@@ -1,0 +1,32 @@
+{
+  "brand_slug": "berneron",
+  "collections": [
+    {
+      "name": "Mirage watches4",
+      "slug": "mirage",
+      "references": [
+        {
+          "slug": "m38s",
+          "text": "M38S Mirage 38 Sienna",
+          "url": "/berneron/mirage/m38s"
+        },
+        {
+          "slug": "m38pb",
+          "text": "M38PB Mirage 38 Prussian Blue",
+          "url": "/berneron/mirage/m38pb"
+        },
+        {
+          "slug": "m34ll",
+          "text": "M34LL Mirage 34 Lapis Lazuli",
+          "url": "/berneron/mirage/m34ll"
+        },
+        {
+          "slug": "m34te",
+          "text": "M34TE Mirage 34 Tiger's Eye",
+          "url": "/berneron/mirage/m34te"
+        }
+      ]
+    }
+  ],
+  "total_references": 4
+}

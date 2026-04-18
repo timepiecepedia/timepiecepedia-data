@@ -1,0 +1,202 @@
+{
+  "brand_slug": "doxa",
+  "collections": [
+    {
+      "name": "SUB 300 watches38",
+      "slug": "sub-300",
+      "references": [
+        {
+          "slug": "840-10-201-32",
+          "text": "840.10.201.32 SUB 300T Caribbean",
+          "url": "/doxa/sub-300/840-10-201-32"
+        },
+        {
+          "slug": "822-70-361-20",
+          "text": "822.70.361.20 SUB 300 Carbon Divingstar",
+          "url": "/doxa/sub-300/822-70-361-20"
+        },
+        {
+          "slug": "821-10-101-20",
+          "text": "821.10.101.20 SUB 300 Sharkhunter",
+          "url": "/doxa/sub-300/821-10-101-20"
+        },
+        {
+          "slug": "821-10-101-10",
+          "text": "821.10.101.10 SUB 300 Sharkhunter / Bracelet",
+          "url": "/doxa/sub-300/821-10-101-10"
+        },
+        {
+          "slug": "840-10-201-10",
+          "text": "840.10.201.10 SUB 300T Caribbean / Bracelet",
+          "url": "/doxa/sub-300/840-10-201-10"
+        },
+        {
+          "slug": "840-10-351-10",
+          "text": "840.10.351.10 SUB 300T Professional / Bracelet",
+          "url": "/doxa/sub-300/840-10-351-10"
+        },
+        {
+          "slug": "821-10-241-10",
+          "text": "821.10.241.10 SUB 300 Aquamarine / Bracelet",
+          "url": "/doxa/sub-300/821-10-241-10"
+        },
+        {
+          "slug": "821-10-351-10",
+          "text": "821.10.351.10 SUB 300 Professional / Bracelet",
+          "url": "/doxa/sub-300/821-10-351-10"
+        },
+        {
+          "slug": "821-10-011-10",
+          "text": "821.10.011.10 SUB 300 Whitepearl / Bracelet",
+          "url": "/doxa/sub-300/821-10-011-10"
+        },
+        {
+          "slug": "840-10-101-10",
+          "text": "840.10.101.10 SUB 300T Sharkhunter / Bracelet",
+          "url": "/doxa/sub-300/840-10-101-10"
+        },
+        {
+          "slug": "821-10-361-10",
+          "text": "821.10.361.10 SUB 300 Divingstar / Bracelet",
+          "url": "/doxa/sub-300/821-10-361-10"
+        },
+        {
+          "slug": "840-10-021-10",
+          "text": "840.10.021.10 SUB 300T Searambler / Bracelet",
+          "url": "/doxa/sub-300/840-10-021-10"
+        },
+        {
+          "slug": "840-10-241-25",
+          "text": "840.10.241.25 SUB 300T Aquamarine",
+          "url": "/doxa/sub-300/840-10-241-25"
+        },
+        {
+          "slug": "840-10-361-10",
+          "text": "840.10.361.10 SUB 300T Divingstar / Bracelet",
+          "url": "/doxa/sub-300/840-10-361-10"
+        },
+        {
+          "slug": "840-10-101-20",
+          "text": "840.10.101.20 SUB 300T Sharkhunter",
+          "url": "/doxa/sub-300/840-10-101-20"
+        },
+        {
+          "slug": "840-10-021-20",
+          "text": "840.10.021.20 SUB 300T Searambler",
+          "url": "/doxa/sub-300/840-10-021-20"
+        },
+        {
+          "slug": "840-10-361-31",
+          "text": "840.10.361.31 SUB 300T Divingstar",
+          "url": "/doxa/sub-300/840-10-361-31"
+        },
+        {
+          "slug": "840-10-351-21",
+          "text": "840.10.351.21 SUB 300T Professional",
+          "url": "/doxa/sub-300/840-10-351-21"
+        },
+        {
+          "slug": "821-10-241-25",
+          "text": "821.10.241.25 SUB 300 Aquamarine",
+          "url": "/doxa/sub-300/821-10-241-25"
+        },
+        {
+          "slug": "840-10-241-10",
+          "text": "840.10.241.10 SUB 300T Aquamarine / Bracelet",
+          "url": "/doxa/sub-300/840-10-241-10"
+        },
+        {
+          "slug": "821-10-011-23",
+          "text": "821.10.011.23 SUB 300 Whitepearl",
+          "url": "/doxa/sub-300/821-10-011-23"
+        },
+        {
+          "slug": "840-10-011-23",
+          "text": "840.10.011.23 SUB 300T Whitepearl",
+          "url": "/doxa/sub-300/840-10-011-23"
+        },
+        {
+          "slug": "822-70-351-21",
+          "text": "822.70.351.21 SUB 300 Carbon Professional",
+          "url": "/doxa/sub-300/822-70-351-21"
+        },
+        {
+          "slug": "822-70-011-20",
+          "text": "822.70.011.20 SUB 300 Carbon Whitepearl",
+          "url": "/doxa/sub-300/822-70-011-20"
+        },
+        {
+          "slug": "840-10-011-10",
+          "text": "840.10.011.10 SUB 300T Whitepearl / Bracelet",
+          "url": "/doxa/sub-300/840-10-011-10"
+        },
+        {
+          "slug": "821-10-361-31",
+          "text": "821.10.361.31 SUB 300 Divingstar",
+          "url": "/doxa/sub-300/821-10-361-31"
+        },
+        {
+          "slug": "821-10-201-32",
+          "text": "821.10.201.32 SUB 300 Caribbean",
+          "url": "/doxa/sub-300/821-10-201-32"
+        },
+        {
+          "slug": "822-70-101aql-20",
+          "text": "822.70.101AQL.20 SUB  300 Carbon Aqua Lung US Divers",
+          "url": "/doxa/sub-300/822-70-101aql-20"
+        },
+        {
+          "slug": "822-70-351-20",
+          "text": "822.70.351.20 SUB 300 Carbon Professional",
+          "url": "/doxa/sub-300/822-70-351-20"
+        },
+        {
+          "slug": "821-10-201-10",
+          "text": "821.10.201.10 SUB 300 Caribbean / Bracelet",
+          "url": "/doxa/sub-300/821-10-201-10"
+        },
+        {
+          "slug": "821-10-021-20",
+          "text": "821.10.021.20 SUB 300 Searambler",
+          "url": "/doxa/sub-300/821-10-021-20"
+        },
+        {
+          "slug": "821-10-021-10",
+          "text": "821.10.021.10 SUB 300 Searambler / Bracelet",
+          "url": "/doxa/sub-300/821-10-021-10"
+        },
+        {
+          "slug": "821-10-351-21",
+          "text": "821.10.351.21 SUB 300 Professional",
+          "url": "/doxa/sub-300/821-10-351-21"
+        },
+        {
+          "slug": "822-70-241-20",
+          "text": "822.70.241.20 SUB 300 Carbon Aquamarine",
+          "url": "/doxa/sub-300/822-70-241-20"
+        },
+        {
+          "slug": "822-70-201-20",
+          "text": "822.70.201.20 SUB 300 Carbon Caribbean",
+          "url": "/doxa/sub-300/822-70-201-20"
+        },
+        {
+          "slug": "822-70-021-20",
+          "text": "822.70.021.20 SUB 300 Carbon Searambler",
+          "url": "/doxa/sub-300/822-70-021-20"
+        },
+        {
+          "slug": "822-70-101-20",
+          "text": "822.70.101.20 SUB 300 Carbon Sharkhunter",
+          "url": "/doxa/sub-300/822-70-101-20"
+        },
+        {
+          "slug": "822-70-011-23",
+          "text": "822.70.011.23 SUB 300 Carbon Whitepearl",
+          "url": "/doxa/sub-300/822-70-011-23"
+        }
+      ]
+    }
+  ],
+  "total_references": 38
+}

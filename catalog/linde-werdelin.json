@@ -1,0 +1,82 @@
+{
+  "brand_slug": "linde-werdelin",
+  "collections": [
+    {
+      "name": "Spido watches14",
+      "slug": "spido",
+      "references": [
+        {
+          "slug": "spidolite-titanium-red",
+          "text": "SpidoLite Titanium Red SpidoLite",
+          "url": "/linde-werdelin/spido/spidolite-titanium-red"
+        },
+        {
+          "slug": "spidospeed-anthracite-dlc",
+          "text": "SpidoSpeed Anthracite DLC SpidoSpeed",
+          "url": "/linde-werdelin/spido/spidospeed-anthracite-dlc"
+        },
+        {
+          "slug": "spidospeed-steel",
+          "text": "SpidoSpeed Steel SpidoSpeed",
+          "url": "/linde-werdelin/spido/spidospeed-steel"
+        },
+        {
+          "slug": "spidolite-tech-gold",
+          "text": "SpidoLite Tech Gold SpidoLite",
+          "url": "/linde-werdelin/spido/spidolite-tech-gold"
+        },
+        {
+          "slug": "spidospeed-carbon-green",
+          "text": "SpidoSpeed Carbon Green SpidoSpeed",
+          "url": "/linde-werdelin/spido/spidospeed-carbon-green"
+        },
+        {
+          "slug": "spidospeed-gold",
+          "text": "SpidoSpeed Gold SpidoSpeed",
+          "url": "/linde-werdelin/spido/spidospeed-gold"
+        },
+        {
+          "slug": "spidolite-tech-green",
+          "text": "Spidolite Tech Green SpidoLite",
+          "url": "/linde-werdelin/spido/spidolite-tech-green"
+        },
+        {
+          "slug": "spidolite-titanium-blue",
+          "text": "SpidoLite Titanium Blue SpidoLite",
+          "url": "/linde-werdelin/spido/spidolite-titanium-blue"
+        },
+        {
+          "slug": "spidolite-ii-titanium",
+          "text": "SpidoLite II Titanium SpidoLite",
+          "url": "/linde-werdelin/spido/spidolite-ii-titanium"
+        },
+        {
+          "slug": "spidospeed-black-dlc",
+          "text": "SpidoSpeed Black DLC SpidoSpeed",
+          "url": "/linde-werdelin/spido/spidospeed-black-dlc"
+        },
+        {
+          "slug": "spidolite-anthracite-dlc",
+          "text": "SpidoLite Anthracite DLC SpidoLite",
+          "url": "/linde-werdelin/spido/spidolite-anthracite-dlc"
+        },
+        {
+          "slug": "spidospeed-gold-titanium",
+          "text": "SpidoSpeed Gold Titanium SpidoSpeed",
+          "url": "/linde-werdelin/spido/spidospeed-gold-titanium"
+        },
+        {
+          "slug": "spidospeed-black-orange",
+          "text": "SpidoSpeed Black Orange SpidoSpeed",
+          "url": "/linde-werdelin/spido/spidospeed-black-orange"
+        },
+        {
+          "slug": "spidolite-black-gold",
+          "text": "SpidoLite Black Gold SpidoLite",
+          "url": "/linde-werdelin/spido/spidolite-black-gold"
+        }
+      ]
+    }
+  ],
+  "total_references": 14
+}

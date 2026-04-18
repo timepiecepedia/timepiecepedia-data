@@ -1,0 +1,38 @@
+{
+  "brand_slug": "christopher-ward",
+  "collections": [
+    {
+      "name": "Dress watches3",
+      "slug": "dress",
+      "references": [
+        {
+          "slug": "c5swt",
+          "text": "C5SWT Malvern C5 MK1 Stainless Steel / Silver / Strap",
+          "url": "/christopher-ward/dress/c5swt"
+        },
+        {
+          "slug": "c5gwt",
+          "text": "C5GWT Malvern C5 MK1 Stainless Steel / Silver / Strap",
+          "url": "/christopher-ward/dress/c5gwt"
+        },
+        {
+          "slug": "c5sks",
+          "text": "C5SKS Malvern C5 MK1 Stainless Steel / Black / Bracelet",
+          "url": "/christopher-ward/dress/c5sks"
+        }
+      ]
+    },
+    {
+      "name": "Dive watches1",
+      "slug": "dive",
+      "references": [
+        {
+          "slug": "c60-38ada2-s0rk0-rk",
+          "text": "C60-38ADA2-S0RK0-RK C60 Trident Pro 600 38MM Stainless Steel / Black / Red / Rubber",
+          "url": "/christopher-ward/dive/c60-38ada2-s0rk0-rk"
+        }
+      ]
+    }
+  ],
+  "total_references": 4
+}

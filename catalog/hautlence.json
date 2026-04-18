@@ -1,0 +1,17 @@
+{
+  "brand_slug": "hautlence",
+  "collections": [
+    {
+      "name": "Atelier watches1",
+      "slug": "atelier",
+      "references": [
+        {
+          "slug": "tourb01",
+          "text": "Tourb01 Hautlence Tourbillon 01",
+          "url": "/hautlence/atelier/tourb01"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

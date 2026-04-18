@@ -1,0 +1,17 @@
+{
+  "brand_slug": "aonic",
+  "collections": [
+    {
+      "name": "Automat watches1",
+      "slug": "automat",
+      "references": [
+        {
+          "slug": "aafe",
+          "text": "ÄAFE Automat First Edition",
+          "url": "/aonic/automat/aafe"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

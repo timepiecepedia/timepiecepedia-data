@@ -1,0 +1,37 @@
+{
+  "brand_slug": "lang-1943",
+  "collections": [
+    {
+      "name": "Field Watch watches5",
+      "slug": "field-watch",
+      "references": [
+        {
+          "slug": "l4300106",
+          "text": "L4300106 Field Watch Retro Green",
+          "url": "/lang-1943/field-watch/l4300106"
+        },
+        {
+          "slug": "l4300103",
+          "text": "L4300103 Field Watch x seconde/seconde/  The Onion Crown King",
+          "url": "/lang-1943/field-watch/l4300103"
+        },
+        {
+          "slug": "l4300105",
+          "text": "L4300105 Field Watch Retro Orange",
+          "url": "/lang-1943/field-watch/l4300105"
+        },
+        {
+          "slug": "l4300102",
+          "text": "L4300102 Field Watch Edition One",
+          "url": "/lang-1943/field-watch/l4300102"
+        },
+        {
+          "slug": "l4300104",
+          "text": "L4300104 Field Watch x seconde/seconde/ The Sun",
+          "url": "/lang-1943/field-watch/l4300104"
+        }
+      ]
+    }
+  ],
+  "total_references": 5
+}

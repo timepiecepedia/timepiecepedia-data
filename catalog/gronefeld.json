@@ -1,0 +1,22 @@
+{
+  "brand_slug": "gronefeld",
+  "collections": [
+    {
+      "name": "Parallax Tourbillon watches2",
+      "slug": "parallax-tourbillon",
+      "references": [
+        {
+          "slug": "parallax-rg",
+          "text": "Parallax RG Parallax Tourbillon",
+          "url": "/gronefeld/parallax-tourbillon/parallax-rg"
+        },
+        {
+          "slug": "parallax-1912",
+          "text": "Parallax 1912 Parallax Tourbillon",
+          "url": "/gronefeld/parallax-tourbillon/parallax-1912"
+        }
+      ]
+    }
+  ],
+  "total_references": 2
+}

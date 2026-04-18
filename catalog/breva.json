@@ -1,0 +1,33 @@
+{
+  "brand_slug": "breva",
+  "collections": [
+    {
+      "name": "Génie 03 watches2",
+      "slug": "genie-03",
+      "references": [
+        {
+          "slug": "genie-03-sailing",
+          "text": "Génie 03 Sailing Génie 03 Anemometer Limited Edition",
+          "url": "/breva/genie-03/genie-03-sailing"
+        },
+        {
+          "slug": "genie-03-2",
+          "text": "genie-03-2 Génie 03",
+          "url": "/breva/genie-03/genie-03-2"
+        }
+      ]
+    },
+    {
+      "name": "Génie 02 watches1",
+      "slug": "genie-02",
+      "references": [
+        {
+          "slug": "genie-02-air",
+          "text": "genie-02-air Génie 02 Air",
+          "url": "/breva/genie-02/genie-02-air"
+        }
+      ]
+    }
+  ],
+  "total_references": 3
+}

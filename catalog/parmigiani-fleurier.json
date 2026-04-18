@@ -1,0 +1,741 @@
+{
+  "brand_slug": "parmigiani-fleurier",
+  "collections": [
+    {
+      "name": "Tonda watches78",
+      "slug": "tonda",
+      "references": [
+        {
+          "slug": "pfc267-1263300-ha2141",
+          "text": "PFC267-1263300-HA2141 Tonda 1950 Sertie White Gold / White MOP / Alligator",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1263300-ha2141"
+        },
+        {
+          "slug": "pfc288-0000600-xa3142",
+          "text": "PFC288-0000600-XA3142 Tonda 1950 Stainless Steel / Blue Abyss / Alligator",
+          "url": "/parmigiani-fleurier/tonda/pfc288-0000600-xa3142"
+        },
+        {
+          "slug": "pfc288-0001400-xa1442",
+          "text": "PFC288-0001400-XA1442 Tonda 1950 Stainless Steel / Black / Alligator",
+          "url": "/parmigiani-fleurier/tonda/pfc288-0001400-xa1442"
+        },
+        {
+          "slug": "pfc273-0061400-b00002",
+          "text": "PFC273-0061400-B00002 Tonda Metropolitaine Stainless Steel / Black / Diamond / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc273-0061400-b00002"
+        },
+        {
+          "slug": "pfc267-1200300-ha1441",
+          "text": "PFC267-1200300-HA1441 Tonda 1950 White Gold / Graphite",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1200300-ha1441"
+        },
+        {
+          "slug": "pfc273-0001400-he1421",
+          "text": "PFC273-0001400-HE1421 Tonda Metropolitaine Stainless Steel / Black",
+          "url": "/parmigiani-fleurier/tonda/pfc273-0001400-he1421"
+        },
+        {
+          "slug": "pfc267-1262400-ha3921",
+          "text": "PFC267-1262400-HA3921 Tonda 1950 Sertie White Gold / White",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1262400-ha3921"
+        },
+        {
+          "slug": "pfh227-1201300-ha1241",
+          "text": "PFH227-1201300-HA1241 Tonda Centum White Gold / Brown",
+          "url": "/parmigiani-fleurier/tonda/pfh227-1201300-ha1241"
+        },
+        {
+          "slug": "pfc272-1002400-ha1241",
+          "text": "PFC272-1002400-HA1241 Tonda Quator Rose Gold / Sable",
+          "url": "/parmigiani-fleurier/tonda/pfc272-1002400-ha1241"
+        },
+        {
+          "slug": "pfc267-3000600-ha3141",
+          "text": "PFC267-3000600-HA3141 Tonda 1950 Titanium / Meteorite Blue",
+          "url": "/parmigiani-fleurier/tonda/pfc267-3000600-ha3141"
+        },
+        {
+          "slug": "pfc273-0060900-he242",
+          "text": "PFC273-0060900-HE242 Tonda Metropolitaine Stainless Steel / Amarante / Diamond",
+          "url": "/parmigiani-fleurier/tonda/pfc273-0060900-he242"
+        },
+        {
+          "slug": "pfc274-0000100-xc1342",
+          "text": "PFC274-0000100-XC1342 Tonda Metrographe Stainless Steel / White / Strap",
+          "url": "/parmigiani-fleurier/tonda/pfc274-0000100-xc1342"
+        },
+        {
+          "slug": "pfc288-1062500-ha1421",
+          "text": "PFC288-1062500-HA1421 Tonda 1950 Galaxy Set",
+          "url": "/parmigiani-fleurier/tonda/pfc288-1062500-ha1421"
+        },
+        {
+          "slug": "pfh279-1202400",
+          "text": "PFH279-1202400 Tonda 1950 Tourbillon White Jade",
+          "url": "/parmigiani-fleurier/tonda/pfh279-1202400"
+        },
+        {
+          "slug": "pfc272-1202400-ha1241",
+          "text": "PFC272-1202400-HA1241 Tonda Quator White Gold / Sable",
+          "url": "/parmigiani-fleurier/tonda/pfc272-1202400-ha1241"
+        },
+        {
+          "slug": "pfc274-0005600-b33002",
+          "text": "PFC274-0005600-B33002 Tonda Metrographe Stainless Steel / Mint / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc274-0005600-b33002"
+        },
+        {
+          "slug": "pfc231-1001200-ha1241",
+          "text": "PFC231-1001200-HA1241 Tonda Hemispheres Rose Gold / Brown",
+          "url": "/parmigiani-fleurier/tonda/pfc231-1001200-ha1241"
+        },
+        {
+          "slug": "pfc274-0001401-b33002",
+          "text": "PFC274-0001401-B33002 Tonda Metrographe Stainless Steel / Black / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc274-0001401-b33002"
+        },
+        {
+          "slug": "pfc267-1063300-ha3921",
+          "text": "PFC267-1063300-HA3921 Tonda 1950 Sertie Rose Gold / MOP / Alligator",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1063300-ha3921"
+        },
+        {
+          "slug": "pfh279-1201400",
+          "text": "PFH279-1201400 Tonda 1950 Tourbillon Black Jade",
+          "url": "/parmigiani-fleurier/tonda/pfh279-1201400"
+        },
+        {
+          "slug": "pfc273-0000900-he2421",
+          "text": "PFC273-0000900-HE2421 Tonda Metropolitaine Stainless Steel / Amarante",
+          "url": "/parmigiani-fleurier/tonda/pfc273-0000900-he2421"
+        },
+        {
+          "slug": "pfc280-1000100-ha1241",
+          "text": "PFC280-1000100-HA1241 Tonda 1950 Squelette Rose Gold",
+          "url": "/parmigiani-fleurier/tonda/pfc280-1000100-ha1241"
+        },
+        {
+          "slug": "pfc280-1260100-ha2121",
+          "text": "PFC280-1260100-HA2121 Tonda 1950 Squelette White Gold / Milky Sapphire / Diamond",
+          "url": "/parmigiani-fleurier/tonda/pfc280-1260100-ha2121"
+        },
+        {
+          "slug": "pfs288-1002500-ha3141",
+          "text": "PFS288-1002500-HA3141 Tonda 1950 Rose Gold / Lapis Lazuli / Alligator",
+          "url": "/parmigiani-fleurier/tonda/pfs288-1002500-ha3141"
+        },
+        {
+          "slug": "pfc267-1000600-ha3141",
+          "text": "PFC267-1000600-HA3141 Tonda 1950 Rose Gold / Meteorite Blue / Alligator",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1000600-ha3141"
+        },
+        {
+          "slug": "pfc222-1200100-ha3141",
+          "text": "PFC222-1200100-HA3141 Tonda 39 Qualite Fleurier White Gold",
+          "url": "/parmigiani-fleurier/tonda/pfc222-1200100-ha3141"
+        },
+        {
+          "slug": "pfc274-0000100-b33002",
+          "text": "PFC274-0000100-B33002 Tonda Metrographe Stainless Steel / White / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc274-0000100-b33002"
+        },
+        {
+          "slug": "pfc288-0000100-xa1442",
+          "text": "PFC288-0000100-XA1442 Tonda 1950 Stainless Steel / White / Alligator",
+          "url": "/parmigiani-fleurier/tonda/pfc288-0000100-xa1442"
+        },
+        {
+          "slug": "pfc231-0001400-ha4042",
+          "text": "PFC231-0001400-HA4042 Tonda Hemispheres Stainless Steel / Black",
+          "url": "/parmigiani-fleurier/tonda/pfc231-0001400-ha4042"
+        },
+        {
+          "slug": "pfc231-0001800-ha1442",
+          "text": "PFC231-0001800-HA1442 Tonda Hemispheres Stainless Steel / Blue",
+          "url": "/parmigiani-fleurier/tonda/pfc231-0001800-ha1442"
+        },
+        {
+          "slug": "pfc267-1000300-ha1441",
+          "text": "PFC267-1000300-HA1441 Tonda 1950 Rose Gold / Graphite / Alligator",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1000300-ha1441"
+        },
+        {
+          "slug": "pfc273-0061400-he1421",
+          "text": "PFC273-0061400-HE1421 Tonda Metropolitaine Stainless Steel / Black / Diamond",
+          "url": "/parmigiani-fleurier/tonda/pfc273-0061400-he1421"
+        },
+        {
+          "slug": "pfc222-1602400-ha1431",
+          "text": "PFC222-1602400-HA1431 Tonda 39 Qualite Fleurier Red Gold",
+          "url": "/parmigiani-fleurier/tonda/pfc222-1602400-ha1431"
+        },
+        {
+          "slug": "pfc231-1200100-ha1441",
+          "text": "PFC231-1200100-HA1441 Tonda Hemispheres White Gold / Silver",
+          "url": "/parmigiani-fleurier/tonda/pfc231-1200100-ha1441"
+        },
+        {
+          "slug": "pfh279-1000600",
+          "text": "PFH279-1000600 Tonda 1950 Tourbillon Blue Abyss",
+          "url": "/parmigiani-fleurier/tonda/pfh279-1000600"
+        },
+        {
+          "slug": "pfc274-0000600-b33002",
+          "text": "PFC274-0000600-B33002 Tonda Metrographe Stainless Steel / Blue Abyss / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc274-0000600-b33002"
+        },
+        {
+          "slug": "pfc267-1202400-ha1241",
+          "text": "PFC267-1202400-HA1241 Tonda 1950 White Gold / White / Alligator",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1202400-ha1241"
+        },
+        {
+          "slug": "pfc267-1063300-b10002",
+          "text": "PFC267-1063300-B10002 Tonda 1950 Sertie Rose Gold / MOP / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1063300-b10002"
+        },
+        {
+          "slug": "pfc274-0001404-xc1442",
+          "text": "PFC274-0001404-XC1442 Tonda Metrographe Stainless Steel / Black / Strap",
+          "url": "/parmigiani-fleurier/tonda/pfc274-0001404-xc1442"
+        },
+        {
+          "slug": "fh227-1200300-ha1441",
+          "text": "FH227-1200300-HA1441 Tonda Centum White Gold / Graphite",
+          "url": "/parmigiani-fleurier/tonda/fh227-1200300-ha1441"
+        },
+        {
+          "slug": "pfc280-1060100-ha3921",
+          "text": "PFC280-1060100-HA3921 Tonda 1950 Squelette Rose Gold / Milky Sapphire / Diamond",
+          "url": "/parmigiani-fleurier/tonda/pfc280-1060100-ha3921"
+        },
+        {
+          "slug": "pfc267-1002400-ha1241",
+          "text": "PFC267-1002400-HA1241 Tonda 1950 Rose Gold / White / Alligator",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1002400-ha1241"
+        },
+        {
+          "slug": "pfc267-1064600-b10002",
+          "text": "PFC267-1064600-B10002 Tonda 1950 Sertie Rose Gold / Full Set / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1064600-b10002"
+        },
+        {
+          "slug": "pfc273-0003300-b00002",
+          "text": "PFC273-0003300-B00002 Tonda Metropolitaine Stainless Steel / MOP / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc273-0003300-b00002"
+        },
+        {
+          "slug": "pfc267-1264600-ha2121",
+          "text": "PFC267-1264600-HA2121 Tonda 1950 Sertie White Gold / Full Set / Alligator",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1264600-ha2121"
+        },
+        {
+          "slug": "pfs288-1001300-ha1241",
+          "text": "PFS288-1001300-HA1241 Tonda 1950 Rose Gold / Tiger's Eye / Alligator",
+          "url": "/parmigiani-fleurier/tonda/pfs288-1001300-ha1241"
+        },
+        {
+          "slug": "pfc273-0065600-b00002",
+          "text": "PFC273-0065600-B00002 Tonda Metropolitaine Stainless Steel / Green / Diamond / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc273-0065600-b00002"
+        },
+        {
+          "slug": "pfc267-1263800-hc2641",
+          "text": "PFC267-1263800-HC2641 Tonda 1950 Sertie White Gold / Black MOP / Calf",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1263800-hc2641"
+        },
+        {
+          "slug": "pfc273-0063300-hc6121",
+          "text": "PFC273-0063300-HC6121 Tonda Metropolitaine Stainless Steel / MOP / Diamond",
+          "url": "/parmigiani-fleurier/tonda/pfc273-0063300-hc6121"
+        },
+        {
+          "slug": "pfc267-1260300-ha1421",
+          "text": "PFC267-1260300-HA1421 Tonda 1950 Sertie White Gold / Graphite",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1260300-ha1421"
+        },
+        {
+          "slug": "pfc267-1060300-ha1421",
+          "text": "PFC267-1060300-HA1421 Tonda 1950 Sertie Rose Gold / Graphite",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1060300-ha1421"
+        },
+        {
+          "slug": "pfs288-1004100-ha1241",
+          "text": "PFS288-1004100-HA1241 Tonda 1950 Rose Gold / Malachite / Alligator",
+          "url": "/parmigiani-fleurier/tonda/pfs288-1004100-ha1241"
+        },
+        {
+          "slug": "pfc273-0063300-b00002",
+          "text": "PFC273-0063300-B00002 Tonda Metropolitaine Stainless Steel / MOP / Diamond / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc273-0063300-b00002"
+        },
+        {
+          "slug": "pfc274-0002400-b33002",
+          "text": "PFC274-0002400-B33002 Tonda Metrographe Stainless Steel / White / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc274-0002400-b33002"
+        },
+        {
+          "slug": "pfc231-1002400-ha1241",
+          "text": "PFC231-1002400-HA1241 Tonda Hemispheres Rose Gold / White",
+          "url": "/parmigiani-fleurier/tonda/pfc231-1002400-ha1241"
+        },
+        {
+          "slug": "pfc274-0001404-b33002",
+          "text": "PFC274-0001404-B33002 Tonda Metrographe Stainless Steel / Black / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc274-0001404-b33002"
+        },
+        {
+          "slug": "pfc267-1032000-b10002",
+          "text": "PFC267-1032000-B10002 Tonda 1950 Sertie Rose Gold / Poppy / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1032000-b10002"
+        },
+        {
+          "slug": "pfc274-0001401-he1442",
+          "text": "PFC274-0001401-HE1442 Tonda Metrographe Stainless Steel / Black / Strap",
+          "url": "/parmigiani-fleurier/tonda/pfc274-0001401-he1442"
+        },
+        {
+          "slug": "pfc274-0000600-hc3142",
+          "text": "PFC274-0000600-HC3142 Tonda Metrographe Stainless Steel / Blue Abyss / Strap",
+          "url": "/parmigiani-fleurier/tonda/pfc274-0000600-hc3142"
+        },
+        {
+          "slug": "pfc274-0002400-he6022",
+          "text": "PFC274-0002400-HE6022 Tonda Metrographe Stainless Steel / White / Strap",
+          "url": "/parmigiani-fleurier/tonda/pfc274-0002400-he6022"
+        },
+        {
+          "slug": "pfh227-1002600-ha1241",
+          "text": "PFH227-1002600-HA1241 Tonda Centum Rose Gold / Silver",
+          "url": "/parmigiani-fleurier/tonda/pfh227-1002600-ha1241"
+        },
+        {
+          "slug": "pfc273-0000900-b00002",
+          "text": "PFC273-0000900-B00002 Tonda Metropolitaine Stainless Steel / Amarante / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc273-0000900-b00002"
+        },
+        {
+          "slug": "pfc273-0003300-hc6121",
+          "text": "PFC273-0003300-HC6121 Tonda Metropolitaine Stainless Steel / MOP",
+          "url": "/parmigiani-fleurier/tonda/pfc273-0003300-hc6121"
+        },
+        {
+          "slug": "pfc267-1062400-ha3921",
+          "text": "PFC267-1062400-HA3921 Tonda 1950 Sertie Rose Gold / White",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1062400-ha3921"
+        },
+        {
+          "slug": "pfc273-0060900-b00002",
+          "text": "PFC273-0060900-B00002 Tonda Metropolitaine Stainless Steel / Amarante / Diamond / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc273-0060900-b00002"
+        },
+        {
+          "slug": "pfc267-1063800-ha2721",
+          "text": "PFC267-1063800-HA2721 Tonda 1950 Sertie Rose Gold / Black MOP / Alligator",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1063800-ha2721"
+        },
+        {
+          "slug": "pfh251-1000100-ha1241",
+          "text": "PFH251-1000100-HA1241 Tonda Tourbillon Rose Gold / Silver",
+          "url": "/parmigiani-fleurier/tonda/pfh251-1000100-ha1241"
+        },
+        {
+          "slug": "pfh251-2000200-ha144",
+          "text": "PFH251-2000200-HA144 Tonda Tourbillon Platinum / Graphite",
+          "url": "/parmigiani-fleurier/tonda/pfh251-2000200-ha144"
+        },
+        {
+          "slug": "pfc222-1690600-ha3141",
+          "text": "PFC222-1690600-HA3141 Tonda 39 Qualite Fleurier 10 Ans",
+          "url": "/parmigiani-fleurier/tonda/pfc222-1690600-ha3141"
+        },
+        {
+          "slug": "pfc267-3002400-ha1441",
+          "text": "PFC267-3002400-HA1441 Tonda 1950 Titanium/ Meteorite Cold North",
+          "url": "/parmigiani-fleurier/tonda/pfc267-3002400-ha1441"
+        },
+        {
+          "slug": "pfc280-1200100-ha1441",
+          "text": "PFC280-1200100-HA1441 Tonda 1950 Squelette White Gold",
+          "url": "/parmigiani-fleurier/tonda/pfc280-1200100-ha1441"
+        },
+        {
+          "slug": "pfc267-1000300-b10002",
+          "text": "PFC267-1000300-B10002 Tonda 1950 Rose Gold / Graphite / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc267-1000300-b10002"
+        },
+        {
+          "slug": "pfc267-3001400-ha1441",
+          "text": "PFC267-3001400-HA1441 Tonda 1950 Titanium / Black Meteorite / Alligator",
+          "url": "/parmigiani-fleurier/tonda/pfc267-3001400-ha1441"
+        },
+        {
+          "slug": "pfc273-0001400-b00002",
+          "text": "PFC273-0001400-B00002 Tonda Metropolitaine Stainless Steel / Black / Bracelet",
+          "url": "/parmigiani-fleurier/tonda/pfc273-0001400-b00002"
+        },
+        {
+          "slug": "pfc272-1000200-ha1441",
+          "text": "PFC272-1000200-HA1441 Tonda Quator Rose Gold / Black",
+          "url": "/parmigiani-fleurier/tonda/pfc272-1000200-ha1441"
+        },
+        {
+          "slug": "pfc272-1200200-ha1441",
+          "text": "PFC272-1200200-HA1441 Tonda Quator White Gold / Black",
+          "url": "/parmigiani-fleurier/tonda/pfc272-1200200-ha1441"
+        },
+        {
+          "slug": "pfh279-1266100",
+          "text": "PFH279-1266100 Tonda 1950 Tourbillon Diamond / Grey MOP",
+          "url": "/parmigiani-fleurier/tonda/pfh279-1266100"
+        },
+        {
+          "slug": "pfh279-1067000",
+          "text": "PFH279-1067000 Tonda 1950 Tourbillon Diamond / Blue Aventurine",
+          "url": "/parmigiani-fleurier/tonda/pfh279-1067000"
+        }
+      ]
+    },
+    {
+      "name": "Kalpa watches43",
+      "slug": "kalpa",
+      "references": [
+        {
+          "slug": "pfc1601021100b10202",
+          "text": "PFC1601021100B10202 Kalpa Piccola",
+          "url": "/parmigiani-fleurier/kalpa/pfc1601021100b10202"
+        },
+        {
+          "slug": "pfc1601023300b10002",
+          "text": "PFC1601023300B10002 Kalpa Piccola",
+          "url": "/parmigiani-fleurier/kalpa/pfc1601023300b10002"
+        },
+        {
+          "slug": "pfc1600020700b00002",
+          "text": "PFC1600020700B00002 Kalpa Piccola",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600020700b00002"
+        },
+        {
+          "slug": "pfc1601023300b10202",
+          "text": "PFC1601023300B10202 Kalpa Piccola",
+          "url": "/parmigiani-fleurier/kalpa/pfc1601023300b10202"
+        },
+        {
+          "slug": "pfc128-1001400-ha1441",
+          "text": "PFC128-1001400-HA1441 Kalpagraphe Rose Gold / Black / Alligator",
+          "url": "/parmigiani-fleurier/kalpa/pfc128-1001400-ha1441"
+        },
+        {
+          "slug": "pfc1600020700b00202",
+          "text": "PFC1600020700B00202 Kalpa Piccola",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600020700b00202"
+        },
+        {
+          "slug": "pfc1601001100b10002",
+          "text": "PFC1601001100B10002 Kalpa Piccola",
+          "url": "/parmigiani-fleurier/kalpa/pfc1601001100b10002"
+        },
+        {
+          "slug": "pfc1601021100ha4021",
+          "text": "PFC1601021100HA4021 Kalpa Piccola",
+          "url": "/parmigiani-fleurier/kalpa/pfc1601021100ha4021"
+        },
+        {
+          "slug": "pfc128-0001400-x01402",
+          "text": "PFC128-0001400-X01402 Kalpagraphe Stainless Steel / Black / Rubber",
+          "url": "/parmigiani-fleurier/kalpa/pfc128-0001400-x01402"
+        },
+        {
+          "slug": "pfc1600020701b00202",
+          "text": "PFC1600020701B00202 Kalpa Donna",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600020701b00202"
+        },
+        {
+          "slug": "pfc1281001200",
+          "text": "PFC1281001200 Kalpagraphe",
+          "url": "/parmigiani-fleurier/kalpa/pfc1281001200"
+        },
+        {
+          "slug": "pfc1600001101b00002",
+          "text": "PFC1600001101B00002 Kalpa Donna",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600001101b00002"
+        },
+        {
+          "slug": "pfc1600021100b00202",
+          "text": "PFC1600021100B00202 Kalpa Piccola",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600021100b00202"
+        },
+        {
+          "slug": "pfc128-0001400-hc1442",
+          "text": "PFC128-0001400-HC1442 Kalpagraphe Stainless Steel / Black / Calf",
+          "url": "/parmigiani-fleurier/kalpa/pfc128-0001400-hc1442"
+        },
+        {
+          "slug": "pfc1601023300ha3921",
+          "text": "PFC1601023300HA3921 Kalpa Piccola",
+          "url": "/parmigiani-fleurier/kalpa/pfc1601023300ha3921"
+        },
+        {
+          "slug": "pfc128-0001400-b00102",
+          "text": "PFC128-0001400-B00102 Kalpagraphe Stainless Steel / Black / Bracelet",
+          "url": "/parmigiani-fleurier/kalpa/pfc128-0001400-b00102"
+        },
+        {
+          "slug": "pfc1600023400b00202",
+          "text": "PFC1600023400B00202 Kalpa Donna",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600023400b00202"
+        },
+        {
+          "slug": "pfc101-1200100-ha1241",
+          "text": "PFC101-1200100-HA1241 Kalpa XL Hebdomadaire White Gold / Silver Grille / Alligator",
+          "url": "/parmigiani-fleurier/kalpa/pfc101-1200100-ha1241"
+        },
+        {
+          "slug": "pfc128-0000100-hc1442",
+          "text": "PFC128-0000100-HC1442 Kalpagraphe Stainless Steel / Silver / Calf",
+          "url": "/parmigiani-fleurier/kalpa/pfc128-0000100-hc1442"
+        },
+        {
+          "slug": "pfc193-1002500-xa1442",
+          "text": "PFC193-1002500-XA1442 Kalpagraphe Chronometre Rose Gold / Blue / Alligator",
+          "url": "/parmigiani-fleurier/kalpa/pfc193-1002500-xa1442"
+        },
+        {
+          "slug": "pfc1600020701b00002",
+          "text": "PFC1600020701B00002 Kalpa Donna",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600020701b00002"
+        },
+        {
+          "slug": "pfc101-1001400-ha1442",
+          "text": "PFC101-1001400-HA1442 Kalpa Hebdomadaire Rose Gold / Black / Alligator",
+          "url": "/parmigiani-fleurier/kalpa/pfc101-1001400-ha1442"
+        },
+        {
+          "slug": "pfc128-1000100-ha1441",
+          "text": "PFC128-1000100-HA1441 Kalpagraphe Rose Gold / Silver / Alligator",
+          "url": "/parmigiani-fleurier/kalpa/pfc128-1000100-ha1441"
+        },
+        {
+          "slug": "pfc1280000100x01402",
+          "text": "PFC1280000100X01402 Kalpagraphe",
+          "url": "/parmigiani-fleurier/kalpa/pfc1280000100x01402"
+        },
+        {
+          "slug": "pfc1600020501b00202",
+          "text": "PFC1600020501B00202 Kalpa Donna",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600020501b00202"
+        },
+        {
+          "slug": "pfc1600043300b00402",
+          "text": "PFC1600043300B00402 Kalpa Donna 'Ouranos'",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600043300b00402"
+        },
+        {
+          "slug": "pfc1600021101b00202",
+          "text": "PFC1600021101B00202 Kalpa Donna",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600021101b00202"
+        },
+        {
+          "slug": "pfc101-1001200-ha1241",
+          "text": "PFC101-1001200-HA1241 Kalpa XL Hebdomadaire Rose Gold / Silver Grille / Alligator",
+          "url": "/parmigiani-fleurier/kalpa/pfc101-1001200-ha1241"
+        },
+        {
+          "slug": "pfh187-1001400-ha1442",
+          "text": "PFH187-1001400-HA1442 Kalpa Chronor Rose Gold / Black / Alligator",
+          "url": "/parmigiani-fleurier/kalpa/pfh187-1001400-ha1442"
+        },
+        {
+          "slug": "pfc1601020701b10202",
+          "text": "PFC1601020701B10202 Kalpa Donna",
+          "url": "/parmigiani-fleurier/kalpa/pfc1601020701b10202"
+        },
+        {
+          "slug": "pfc1600020501b00002",
+          "text": "PFC1600020501B00002 Kalpa Donna",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600020501b00002"
+        },
+        {
+          "slug": "pfc128-0000100-b00102",
+          "text": "PFC128-0000100-B00102 Kalpagraphe Stainless Steel / Silver / Bracelet",
+          "url": "/parmigiani-fleurier/kalpa/pfc128-0000100-b00102"
+        },
+        {
+          "slug": "pfc1600023400b00002",
+          "text": "PFC1600023400B00002 Kalpa Donna",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600023400b00002"
+        },
+        {
+          "slug": "pfc1600021100b00002",
+          "text": "PFC1600021100B00002 Kalpa Piccola",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600021100b00002"
+        },
+        {
+          "slug": "pfc1600021101b00002",
+          "text": "PFC1600021101B00002 Kalpa Donna",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600021101b00002"
+        },
+        {
+          "slug": "pfc1600020901b00202",
+          "text": "PFC1600020901B00202 Kalpa Donna",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600020901b00202"
+        },
+        {
+          "slug": "pfc1600020901b00002",
+          "text": "PFC1600020901B00002 Kalpa Donna",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600020901b00002"
+        },
+        {
+          "slug": "pfc1281202600",
+          "text": "PFC1281202600 Kalpagraphe",
+          "url": "/parmigiani-fleurier/kalpa/pfc1281202600"
+        },
+        {
+          "slug": "pfc1281200600",
+          "text": "PFC1281200600 Kalpagraphe",
+          "url": "/parmigiani-fleurier/kalpa/pfc1281200600"
+        },
+        {
+          "slug": "pfc1601021100b10002",
+          "text": "PFC1601021100B10002 Kalpa Piccola",
+          "url": "/parmigiani-fleurier/kalpa/pfc1601021100b10002"
+        },
+        {
+          "slug": "pfc1600021400b00202",
+          "text": "PFC1600021400B00202 Kalpa Piccola",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600021400b00202"
+        },
+        {
+          "slug": "pfc1600020800b00202",
+          "text": "PFC1600020800B00202 Kalpa Piccola",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600020800b00202"
+        },
+        {
+          "slug": "pfc1600020900b00002",
+          "text": "PFC1600020900B00002 Kalpa Piccola",
+          "url": "/parmigiani-fleurier/kalpa/pfc1600020900b00002"
+        }
+      ]
+    },
+    {
+      "name": "Pershing watches14",
+      "slug": "pershing",
+      "references": [
+        {
+          "slug": "pfc5280010101x01402",
+          "text": "PFC5280010101X01402 Pershing 005",
+          "url": "/parmigiani-fleurier/pershing/pfc5280010101x01402"
+        },
+        {
+          "slug": "pfc5280010500b00102",
+          "text": "PFC5280010500B00102 Pershing 005",
+          "url": "/parmigiani-fleurier/pershing/pfc5280010500b00102"
+        },
+        {
+          "slug": "pfc5281010301ha1442",
+          "text": "PFC5281010301HA1442 Pershing 005",
+          "url": "/parmigiani-fleurier/pershing/pfc5281010301ha1442"
+        },
+        {
+          "slug": "pfc5281010100ha1442",
+          "text": "PFC5281010100HA1442 Pershing 005",
+          "url": "/parmigiani-fleurier/pershing/pfc5281010100ha1442"
+        },
+        {
+          "slug": "pfc5280414100ha4142",
+          "text": "PFC5280414100HA4142 Pershing 005",
+          "url": "/parmigiani-fleurier/pershing/pfc5280414100ha4142"
+        },
+        {
+          "slug": "pfc5281010300ha1442",
+          "text": "PFC5281010300HA1442 Pershing 002",
+          "url": "/parmigiani-fleurier/pershing/pfc5281010300ha1442"
+        },
+        {
+          "slug": "pfc5280010300b00102",
+          "text": "PFC5280010300B00102 Pershing 002",
+          "url": "/parmigiani-fleurier/pershing/pfc5280010300b00102"
+        },
+        {
+          "slug": "pfc5280010300x01402",
+          "text": "PFC5280010300X01402 Pershing 002",
+          "url": "/parmigiani-fleurier/pershing/pfc5280010300x01402"
+        },
+        {
+          "slug": "pfc5280010301b00102",
+          "text": "PFC5280010301B00102 Pershing 005",
+          "url": "/parmigiani-fleurier/pershing/pfc5280010301b00102"
+        },
+        {
+          "slug": "pfc5280010100x01402",
+          "text": "PFC5280010100X01402 Pershing 002",
+          "url": "/parmigiani-fleurier/pershing/pfc5280010100x01402"
+        },
+        {
+          "slug": "pfc5280010100b00102",
+          "text": "PFC5280010100B00102 Pershing 002",
+          "url": "/parmigiani-fleurier/pershing/pfc5280010100b00102"
+        },
+        {
+          "slug": "pfc5280010101b00102",
+          "text": "PFC5280010101B00102 Pershing 005",
+          "url": "/parmigiani-fleurier/pershing/pfc5280010101b00102"
+        },
+        {
+          "slug": "pfc5280010301x01402",
+          "text": "PFC5280010301X01402 Pershing 005",
+          "url": "/parmigiani-fleurier/pershing/pfc5280010301x01402"
+        },
+        {
+          "slug": "pfc5280010500x01402",
+          "text": "PFC5280010500X01402 Pershing 005",
+          "url": "/parmigiani-fleurier/pershing/pfc5280010500x01402"
+        }
+      ]
+    },
+    {
+      "name": "Toric watches4",
+      "slug": "toric",
+      "references": [
+        {
+          "slug": "pfh4371000100ha1441",
+          "text": "PFH4371000100HA1441 Toric Quaestor Licorne",
+          "url": "/parmigiani-fleurier/toric/pfh4371000100ha1441"
+        },
+        {
+          "slug": "pfh4371202700ha1441",
+          "text": "PFH4371202700HA1441 Toric Quaestor Phoenix",
+          "url": "/parmigiani-fleurier/toric/pfh4371202700ha1441"
+        },
+        {
+          "slug": "pfh4372001400ha1441",
+          "text": "PFH4372001400HA1441 Toric Quaestor Pegase",
+          "url": "/parmigiani-fleurier/toric/pfh4372001400ha1441"
+        },
+        {
+          "slug": "pfh4392004100ha1441",
+          "text": "PFH4392004100HA1441 Toric Quaestor Labyrinthe",
+          "url": "/parmigiani-fleurier/toric/pfh4392004100ha1441"
+        }
+      ]
+    },
+    {
+      "name": "Bugatti watches2",
+      "slug": "bugatti",
+      "references": [
+        {
+          "slug": "pfc3293405600hc6032",
+          "text": "PFC3293405600HC6032 Bugatti Aerolithe",
+          "url": "/parmigiani-fleurier/bugatti/pfc3293405600hc6032"
+        },
+        {
+          "slug": "pfc3293400600he3132",
+          "text": "PFC3293400600HE3132 Bugatti Aerolithe",
+          "url": "/parmigiani-fleurier/bugatti/pfc3293400600he3132"
+        }
+      ]
+    }
+  ],
+  "total_references": 141
+}

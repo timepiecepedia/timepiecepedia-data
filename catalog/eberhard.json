@@ -1,0 +1,114 @@
+{
+  "brand_slug": "eberhard",
+  "collections": [
+    {
+      "name": "Contodat watches9",
+      "slug": "contodat",
+      "references": [
+        {
+          "slug": "31156-02",
+          "text": "31156.02 Contodat Chronographe Stainless Steel / Green",
+          "url": "/eberhard/contodat/31156-02"
+        },
+        {
+          "slug": "31156-01",
+          "text": "31156.01 Contodat Chronographe Stainless Steel / Blue",
+          "url": "/eberhard/contodat/31156-01"
+        },
+        {
+          "slug": "41156-03",
+          "text": "41156.03 Contodat Automatic Stainless Steel / Silver",
+          "url": "/eberhard/contodat/41156-03"
+        },
+        {
+          "slug": "31156-03",
+          "text": "31156.03 Contodat Chronographe Stainless Steel / Silver",
+          "url": "/eberhard/contodat/31156-03"
+        },
+        {
+          "slug": "31156-04",
+          "text": "31156.04 Contodat Chronographe Stainless Steel / Silver",
+          "url": "/eberhard/contodat/31156-04"
+        },
+        {
+          "slug": "41156-05",
+          "text": "41156.05 Contodat Automatic Stainless Steel / Black",
+          "url": "/eberhard/contodat/41156-05"
+        },
+        {
+          "slug": "41156-04",
+          "text": "41156.04 Contodat Automatic Stainless Steel / Grey",
+          "url": "/eberhard/contodat/41156-04"
+        },
+        {
+          "slug": "41156-01",
+          "text": "41156.01 Contodat Automatic Stainless Steel / Blue",
+          "url": "/eberhard/contodat/41156-01"
+        },
+        {
+          "slug": "41156-02",
+          "text": "41156.02 Contodat Automatic Stainless Steel / Green",
+          "url": "/eberhard/contodat/41156-02"
+        }
+      ]
+    },
+    {
+      "name": "1887 watches7",
+      "slug": "1887",
+      "references": [
+        {
+          "slug": "31081-01-cp",
+          "text": "31081.01 CP Chronographe 1887 Édition Limitée Stainless Steel / Coquille d'Oeuf",
+          "url": "/eberhard/1887/31081-01-cp"
+        },
+        {
+          "slug": "31081-02-cp",
+          "text": "31081.02 CP Chronographe 1887 Édition Limitée Stainless Steel / Black",
+          "url": "/eberhard/1887/31081-02-cp"
+        },
+        {
+          "slug": "31081-03-cp",
+          "text": "31081.03 CP Chronographe 1887 Édition Limitée Stainless Steel / Bronze",
+          "url": "/eberhard/1887/31081-03-cp"
+        },
+        {
+          "slug": "31082-01-cp",
+          "text": "31082.01 CP Chronographe 1887 Automatique Stainless Steel / White",
+          "url": "/eberhard/1887/31082-01-cp"
+        },
+        {
+          "slug": "31082-04-cp",
+          "text": "31082.04 CP Chronographe 1887 Automatique Stainless Steel / Silver - Roman",
+          "url": "/eberhard/1887/31082-04-cp"
+        },
+        {
+          "slug": "31082-03-cp",
+          "text": "31082.03 CP Chronographe 1887 Automatique Stainless Steel / Black",
+          "url": "/eberhard/1887/31082-03-cp"
+        },
+        {
+          "slug": "31082-06-cp",
+          "text": "31082.06 CP Chronographe 1887 Automatique Stainless Steel / Blue - Roman",
+          "url": "/eberhard/1887/31082-06-cp"
+        }
+      ]
+    },
+    {
+      "name": "Scientigraf watches2",
+      "slug": "scientigraf",
+      "references": [
+        {
+          "slug": "41043-01",
+          "text": "41043-01 Scientigraf Stainless Steel / Black",
+          "url": "/eberhard/scientigraf/41043-01"
+        },
+        {
+          "slug": "41043-02",
+          "text": "41043.02 Scientigraf Stainless Steel / Black",
+          "url": "/eberhard/scientigraf/41043-02"
+        }
+      ]
+    }
+  ],
+  "total_references": 18
+}

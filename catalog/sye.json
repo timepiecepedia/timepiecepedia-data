@@ -1,0 +1,212 @@
+{
+  "brand_slug": "sye",
+  "collections": [
+    {
+      "name": "MOT1ON watches40",
+      "slug": "mot1on",
+      "references": [
+        {
+          "slug": "mafe-bl-tu",
+          "text": "MAFE-BL-TU MOT1ON Automatic 24 Black Edition / Tundra",
+          "url": "/sye/mot1on/mafe-bl-tu"
+        },
+        {
+          "slug": "mcfe-bl-tu",
+          "text": "MCFE-BL-TU MOT1ON Chronograph Black Edition / Tundra",
+          "url": "/sye/mot1on/mcfe-bl-tu"
+        },
+        {
+          "slug": "mcfe-si-sb",
+          "text": "MCFE-SI-SB MOT1ON Chronograph Silver Edition / SYE Blue",
+          "url": "/sye/mot1on/mcfe-si-sb"
+        },
+        {
+          "slug": "mcfe-si-im",
+          "text": "MCFE-SI-IM MOT1ON Chronograph Silver Edition / Impala",
+          "url": "/sye/mot1on/mcfe-si-im"
+        },
+        {
+          "slug": "mafe-bl-im",
+          "text": "MAFE-BL-IM MOT1ON Automatic 24 Black Edition / Impala",
+          "url": "/sye/mot1on/mafe-bl-im"
+        },
+        {
+          "slug": "mcfe-si-wh",
+          "text": "MCFE-SI-WH MOT1ON Chronograph Silver Edition / Whiskey",
+          "url": "/sye/mot1on/mcfe-si-wh"
+        },
+        {
+          "slug": "mafe-si-hi",
+          "text": "MAFE-SI-HI MOT1ON Automatic 24 Silver Edition / Highland",
+          "url": "/sye/mot1on/mafe-si-hi"
+        },
+        {
+          "slug": "mcfe-si-tu",
+          "text": "MCFE-SI-TU MOT1ON Chronograph Silver Edition / Tundra",
+          "url": "/sye/mot1on/mcfe-si-tu"
+        },
+        {
+          "slug": "mcfe-si-sk",
+          "text": "MCFE-SI-SK MOT1ON Chronograph Silver Edition / Skybury",
+          "url": "/sye/mot1on/mcfe-si-sk"
+        },
+        {
+          "slug": "mafe-si-sy",
+          "text": "MAFE-SI-SY MOT1ON Automatic 24 Silver Edition / Syrah",
+          "url": "/sye/mot1on/mafe-si-sy"
+        },
+        {
+          "slug": "mcfe-bl-cb",
+          "text": "MCFE-BL-CB MOT1ON Chronograph Black Edition / Carbon Black",
+          "url": "/sye/mot1on/mcfe-bl-cb"
+        },
+        {
+          "slug": "mcfe-si-hi",
+          "text": "MCFE-SI-HI MOT1ON Chronograph Silver Edition / Highland",
+          "url": "/sye/mot1on/mcfe-si-hi"
+        },
+        {
+          "slug": "mcfe-si-cb",
+          "text": "MCFE-SI-CB MOT1ON Chronograph Silver Edition / Carbon Black",
+          "url": "/sye/mot1on/mcfe-si-cb"
+        },
+        {
+          "slug": "mafe-si-as",
+          "text": "MAFE-SI-AS MOT1ON Automatic 24 Silver Edition / Asphalt",
+          "url": "/sye/mot1on/mafe-si-as"
+        },
+        {
+          "slug": "mcfe-si-sy",
+          "text": "MCFE-SI-SY MOT1ON Chronograph Silver Edition / Syrah",
+          "url": "/sye/mot1on/mcfe-si-sy"
+        },
+        {
+          "slug": "mafe-bl-sy",
+          "text": "MAFE-BL-SY MOT1ON Automatic 24 Black Edition / Syrah",
+          "url": "/sye/mot1on/mafe-bl-sy"
+        },
+        {
+          "slug": "mcfe-bl-as",
+          "text": "MCFE-BL-AS MOT1ON Chronograph Black Edition / Asphalt",
+          "url": "/sye/mot1on/mcfe-bl-as"
+        },
+        {
+          "slug": "mafe-bl-as",
+          "text": "MAFE-BL-AS MOT1ON Automatic 24 Black Edition / Asphalt",
+          "url": "/sye/mot1on/mafe-bl-as"
+        },
+        {
+          "slug": "mcfe-bl-wh",
+          "text": "MCFE-BL-WH MOT1ON Chronograph Black Edition / Whiskey",
+          "url": "/sye/mot1on/mcfe-bl-wh"
+        },
+        {
+          "slug": "mcfe-bl-im",
+          "text": "MCFE-BL-IM MOT1ON Chronograph Black Edition / Impala",
+          "url": "/sye/mot1on/mcfe-bl-im"
+        },
+        {
+          "slug": "mcfe-bl-hi",
+          "text": "MCFE-BL-HI MOT1ON Chronograph Black Edition / Highland",
+          "url": "/sye/mot1on/mcfe-bl-hi"
+        },
+        {
+          "slug": "mafe-si-sk",
+          "text": "MAFE-SI-SK MOT1ON Automatic 24 Silver Edition / Skybury",
+          "url": "/sye/mot1on/mafe-si-sk"
+        },
+        {
+          "slug": "mcfe-bl-pe",
+          "text": "MCFE-BL-PE MOT1ON Chronograph Black Edition / Petroleum",
+          "url": "/sye/mot1on/mcfe-bl-pe"
+        },
+        {
+          "slug": "mcfe-bl-sb",
+          "text": "MCFE-BL-SB MOT1ON Chronograph Black Edition / SYE Blue",
+          "url": "/sye/mot1on/mcfe-bl-sb"
+        },
+        {
+          "slug": "mcfe-si-as",
+          "text": "MCFE-SI-AS MOT1ON Chronograph Silver Edition / Asphalt",
+          "url": "/sye/mot1on/mcfe-si-as"
+        },
+        {
+          "slug": "mcfe-bl-sk",
+          "text": "MCFE-BL-SK MOT1ON Chronograph Black Edition / Skybury",
+          "url": "/sye/mot1on/mcfe-bl-sk"
+        },
+        {
+          "slug": "mcfe-bl-sy",
+          "text": "MCFE-BL-SY MOT1ON Chronograph Black Edition / Syrah",
+          "url": "/sye/mot1on/mcfe-bl-sy"
+        },
+        {
+          "slug": "mcfe-si-pe",
+          "text": "MCFE-SI-PE MOT1ON Chronograph Silver Edition / Petroleum",
+          "url": "/sye/mot1on/mcfe-si-pe"
+        },
+        {
+          "slug": "mafe-bl-sb",
+          "text": "MAFE-BL-SB MOT1ON Automatic 24 Black Edition / SYE Blue",
+          "url": "/sye/mot1on/mafe-bl-sb"
+        },
+        {
+          "slug": "mafe-bl-pe",
+          "text": "MAFE-BL-PE MOT1ON Automatic 24 Black Edition / Petroleum",
+          "url": "/sye/mot1on/mafe-bl-pe"
+        },
+        {
+          "slug": "mafe-bl-hi",
+          "text": "MAFE-BL-HI MOT1ON Automatic 24 Black Edition / Highland",
+          "url": "/sye/mot1on/mafe-bl-hi"
+        },
+        {
+          "slug": "mafe-bl-wh",
+          "text": "MAFE-BL-WH MOT1ON Automatic 24 Black Edition / Whiskey",
+          "url": "/sye/mot1on/mafe-bl-wh"
+        },
+        {
+          "slug": "mafe-bl-cb",
+          "text": "MAFE-BL-CB MOT1ON Automatic 24 Black Edition / Carbon Black",
+          "url": "/sye/mot1on/mafe-bl-cb"
+        },
+        {
+          "slug": "mafe-bl-sk",
+          "text": "MAFE-BL-SK MOT1ON Automatic 24 Black Edition / Skybury",
+          "url": "/sye/mot1on/mafe-bl-sk"
+        },
+        {
+          "slug": "mafe-si-sb",
+          "text": "MAFE-SI-SB MOT1ON Automatic 24 Silver Edition / SYE Blue",
+          "url": "/sye/mot1on/mafe-si-sb"
+        },
+        {
+          "slug": "mafe-si-pe",
+          "text": "MAFE-SI-PE MOT1ON Automatic 24 Silver Edition / Petroleum",
+          "url": "/sye/mot1on/mafe-si-pe"
+        },
+        {
+          "slug": "mafe-si-tu",
+          "text": "MAFE-SI-TU MOT1ON Automatic 24 Silver Edition / Tundra",
+          "url": "/sye/mot1on/mafe-si-tu"
+        },
+        {
+          "slug": "mafe-si-im",
+          "text": "MAFE-SI-IM MOT1ON Automatic 24 Silver Edition / Impala",
+          "url": "/sye/mot1on/mafe-si-im"
+        },
+        {
+          "slug": "mafe-si-cb",
+          "text": "MAFE-SI-CB MOT1ON Automatic 24 Silver Edition / Carbon Black",
+          "url": "/sye/mot1on/mafe-si-cb"
+        },
+        {
+          "slug": "mafe-si-wh",
+          "text": "MAFE-SI-WH MOT1ON Automatic 24 Silver Edition / Whiskey",
+          "url": "/sye/mot1on/mafe-si-wh"
+        }
+      ]
+    }
+  ],
+  "total_references": 40
+}

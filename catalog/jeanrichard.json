@@ -1,0 +1,60 @@
+{
+  "brand_slug": "jeanrichard",
+  "collections": [
+    {
+      "name": "Terrascope watches3",
+      "slug": "terrascope",
+      "references": [
+        {
+          "slug": "60520-11-601-fb6a",
+          "text": "60520-11-601-FB6A Terrascope GMT Stainless Steel / Black",
+          "url": "/jeanrichard/terrascope/60520-11-601-fb6a"
+        },
+        {
+          "slug": "60500-11-d01-fk7a",
+          "text": "60500-11-D01-FK7A Terrascope Stainless Steel / Purple",
+          "url": "/jeanrichard/terrascope/60500-11-d01-fk7a"
+        },
+        {
+          "slug": "60500-11-206-hde0",
+          "text": "60500-11-206-HDE0 Terrascope Stainless Steel / DLC / Grey",
+          "url": "/jeanrichard/terrascope/60500-11-206-hde0"
+        }
+      ]
+    },
+    {
+      "name": "1681 watches1",
+      "slug": "1681",
+      "references": [
+        {
+          "slug": "60330-11-133-hb20",
+          "text": "60330-11-133-HB20 1681 Small Seconds Stainless Steel / Silver / Barenia",
+          "url": "/jeanrichard/1681/60330-11-133-hb20"
+        }
+      ]
+    },
+    {
+      "name": "Aquascope watches1",
+      "slug": "aquascope",
+      "references": [
+        {
+          "slug": "60400-11b401-11a",
+          "text": "60400-11B401-11A Aquascope Stainless Steel / Blue",
+          "url": "/jeanrichard/aquascope/60400-11b401-11a"
+        }
+      ]
+    },
+    {
+      "name": "Aeroscope watches1",
+      "slug": "aeroscope",
+      "references": [
+        {
+          "slug": "60650-21i613-fk3a",
+          "text": "60650-21I613-FK3A Aeroscope Titanium / DLC / Orange",
+          "url": "/jeanrichard/aeroscope/60650-21i613-fk3a"
+        }
+      ]
+    }
+  ],
+  "total_references": 6
+}

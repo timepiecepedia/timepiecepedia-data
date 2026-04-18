@@ -1,0 +1,234 @@
+{
+  "brand_slug": "apple",
+  "collections": [
+    {
+      "name": "Watch watches20",
+      "slug": "watch",
+      "references": [
+        {
+          "slug": "mj302ll",
+          "text": "MJ302LL Watch 38mm",
+          "url": "/apple/watch/mj302ll"
+        },
+        {
+          "slug": "mj452ll",
+          "text": "MJ452LL Watch 42mm",
+          "url": "/apple/watch/mj452ll"
+        },
+        {
+          "slug": "mjyn2ll",
+          "text": "MJYN2LL Watch 42mm",
+          "url": "/apple/watch/mjyn2ll"
+        },
+        {
+          "slug": "mj3f2ll",
+          "text": "MJ3F2LL Watch 38mm",
+          "url": "/apple/watch/mj3f2ll"
+        },
+        {
+          "slug": "mj3y2ll",
+          "text": "MJ3Y2LL Watch 42mm",
+          "url": "/apple/watch/mj3y2ll"
+        },
+        {
+          "slug": "mj472ll",
+          "text": "MJ472LL Watch 42mm",
+          "url": "/apple/watch/mj472ll"
+        },
+        {
+          "slug": "mj3u2ll",
+          "text": "MJ3U2LL Watch 42mm",
+          "url": "/apple/watch/mj3u2ll"
+        },
+        {
+          "slug": "mj2y2ll",
+          "text": "MJ2Y2LL Watch 38mm",
+          "url": "/apple/watch/mj2y2ll"
+        },
+        {
+          "slug": "mj482ll",
+          "text": "MJ482LL Watch 42mm",
+          "url": "/apple/watch/mj482ll"
+        },
+        {
+          "slug": "mj3v2ll",
+          "text": "MJ3V2LL Watch 42mm",
+          "url": "/apple/watch/mj3v2ll"
+        },
+        {
+          "slug": "mj322ll",
+          "text": "MJ322LL Watch 38mm",
+          "url": "/apple/watch/mj322ll"
+        },
+        {
+          "slug": "mj312ll",
+          "text": "MJ312LL Watch 38mm",
+          "url": "/apple/watch/mj312ll"
+        },
+        {
+          "slug": "mjyk2ll",
+          "text": "MJYK2LL Watch 38mm",
+          "url": "/apple/watch/mjyk2ll"
+        },
+        {
+          "slug": "mj362ll",
+          "text": "MJ362LL Watch 38mm",
+          "url": "/apple/watch/mj362ll"
+        },
+        {
+          "slug": "mj432ll",
+          "text": "MJ432LL Watch 42mm",
+          "url": "/apple/watch/mj432ll"
+        },
+        {
+          "slug": "mj3a2ll",
+          "text": "MJ3A2LL Watch 38mm",
+          "url": "/apple/watch/mj3a2ll"
+        },
+        {
+          "slug": "mj3e2ll",
+          "text": "MJ3E2LL Watch 38mm",
+          "url": "/apple/watch/mj3e2ll"
+        },
+        {
+          "slug": "mj3x2ll",
+          "text": "MJ3X2LL Watch 42mm",
+          "url": "/apple/watch/mj3x2ll"
+        },
+        {
+          "slug": "mj332ll",
+          "text": "MJ332LL Watch 38mm",
+          "url": "/apple/watch/mj332ll"
+        },
+        {
+          "slug": "mj402ll",
+          "text": "MJ402LL Watch 42mm",
+          "url": "/apple/watch/mj402ll"
+        }
+      ]
+    },
+    {
+      "name": "Watch Sport watches14",
+      "slug": "watch-sport",
+      "references": [
+        {
+          "slug": "mlcj2ll",
+          "text": "MLCJ2LL Watch Sport Gold 38mm",
+          "url": "/apple/watch-sport/mlcj2ll"
+        },
+        {
+          "slug": "mj2v2ll",
+          "text": "MJ2V2LL Watch Sport 38mm",
+          "url": "/apple/watch-sport/mj2v2ll"
+        },
+        {
+          "slug": "mj2w2ll",
+          "text": "MJ2W2LL Watch Sport 38mm",
+          "url": "/apple/watch-sport/mj2w2ll"
+        },
+        {
+          "slug": "mlch2ll",
+          "text": "MLCH2LL Watch Sport Rose Gold 38mm",
+          "url": "/apple/watch-sport/mlch2ll"
+        },
+        {
+          "slug": "mj3p2ll",
+          "text": "MJ3P2LL Watch Sport 42mm",
+          "url": "/apple/watch-sport/mj3p2ll"
+        },
+        {
+          "slug": "mj3n2ll",
+          "text": "MJ3N2LL Watch Sport 42mm",
+          "url": "/apple/watch-sport/mj3n2ll"
+        },
+        {
+          "slug": "mj2u2ll",
+          "text": "MJ2U2LL Watch Sport 38mm",
+          "url": "/apple/watch-sport/mj2u2ll"
+        },
+        {
+          "slug": "mj2x2ll",
+          "text": "MJ2X2LL Watch Sport 38mm",
+          "url": "/apple/watch-sport/mj2x2ll"
+        },
+        {
+          "slug": "mlc62ll",
+          "text": "MLC62LL Watch Sport Rose Gold 42mm",
+          "url": "/apple/watch-sport/mlc62ll"
+        },
+        {
+          "slug": "mlc72ll",
+          "text": "MLC72LL Watch Sport Gold 42mm",
+          "url": "/apple/watch-sport/mlc72ll"
+        },
+        {
+          "slug": "mj3q2ll",
+          "text": "MJ3Q2LL Watch Sport 42mm",
+          "url": "/apple/watch-sport/mj3q2ll"
+        },
+        {
+          "slug": "mj2t2ll",
+          "text": "MJ2T2LL Watch Sport 38mm",
+          "url": "/apple/watch-sport/mj2t2ll"
+        },
+        {
+          "slug": "mj3r2ll",
+          "text": "MJ3R2LL Watch Sport 42mm",
+          "url": "/apple/watch-sport/mj3r2ll"
+        },
+        {
+          "slug": "mj3t2ll",
+          "text": "MJ3T2LL Watch Sport 42mm",
+          "url": "/apple/watch-sport/mj3t2ll"
+        }
+      ]
+    },
+    {
+      "name": "Watch Edition watches8",
+      "slug": "watch-edition",
+      "references": [
+        {
+          "slug": "mjvt2ll",
+          "text": "MJVT2LL Watch Edition 42mm",
+          "url": "/apple/watch-edition/mjvt2ll"
+        },
+        {
+          "slug": "mj8q2ll",
+          "text": "MJ8Q2LL Watch Edition 42mm",
+          "url": "/apple/watch-edition/mj8q2ll"
+        },
+        {
+          "slug": "mj3g2ll",
+          "text": "MJ3G2LL Watch Edition 38mm",
+          "url": "/apple/watch-edition/mj3g2ll"
+        },
+        {
+          "slug": "mj8p2ll",
+          "text": "MJ8P2LL Watch Edition 38mm",
+          "url": "/apple/watch-edition/mj8p2ll"
+        },
+        {
+          "slug": "mkl52ll",
+          "text": "MKL52LL Watch Edition 38mm",
+          "url": "/apple/watch-edition/mkl52ll"
+        },
+        {
+          "slug": "mj4a2ll",
+          "text": "MJ4A2LL Watch Edition 42mm",
+          "url": "/apple/watch-edition/mj4a2ll"
+        },
+        {
+          "slug": "mj3k2ll",
+          "text": "MJ3K2LL Watch Edition 38mm",
+          "url": "/apple/watch-edition/mj3k2ll"
+        },
+        {
+          "slug": "mkl62ll",
+          "text": "MKL62LL Watch Edition 42mm",
+          "url": "/apple/watch-edition/mkl62ll"
+        }
+      ]
+    }
+  ],
+  "total_references": 42
+}

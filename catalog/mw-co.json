@@ -1,0 +1,17 @@
+{
+  "brand_slug": "mw-co",
+  "collections": [
+    {
+      "name": "Asset watches1",
+      "slug": "asset",
+      "references": [
+        {
+          "slug": "212017",
+          "text": "212017 Asset 2.1",
+          "url": "/mw-co/asset/212017"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

@@ -1,0 +1,239 @@
+{
+  "brand_slug": "corum",
+  "collections": [
+    {
+      "name": "Bubble watches39",
+      "slug": "bubble",
+      "references": [
+        {
+          "slug": "l082-02958",
+          "text": "L082/02958 Bubble 47  Roulette",
+          "url": "/corum/bubble/l082-02958"
+        },
+        {
+          "slug": "l082-02990",
+          "text": "L082/02990 Bubble 47 Lunar System",
+          "url": "/corum/bubble/l082-02990"
+        },
+        {
+          "slug": "l295-03047",
+          "text": "L295/03047 Bubble 42 Blue MOP",
+          "url": "/corum/bubble/l295-03047"
+        },
+        {
+          "slug": "l082-02424",
+          "text": "L082/02424 Bubble 47 Heritage",
+          "url": "/corum/bubble/l082-02424"
+        },
+        {
+          "slug": "l082-03039",
+          "text": "L082/03039 Bubble 47 Dice",
+          "url": "/corum/bubble/l082-03039"
+        },
+        {
+          "slug": "l390-03635",
+          "text": "L390/03635 Big Bubble Magical 52 Titanium / Nelson de la Nuez / Rubber",
+          "url": "/corum/bubble/l390-03635"
+        },
+        {
+          "slug": "l390-03640",
+          "text": "L390/03640 Big Bubble Magical 52 Titanium / Golf Ball / Rubber",
+          "url": "/corum/bubble/l390-03640"
+        },
+        {
+          "slug": "l295-03052",
+          "text": "L295/03052 Bubble 42 White MOP / Diamond",
+          "url": "/corum/bubble/l295-03052"
+        },
+        {
+          "slug": "l390-03667",
+          "text": "L390/03667 Big Bubble Magical 52 PVD Titanium / Elisabetta Fantone - Dali / Rubber",
+          "url": "/corum/bubble/l390-03667"
+        },
+        {
+          "slug": "l390-03634",
+          "text": "L390/03634 Big Bubble Magical 52 PVD Titanium / Matt Barnes - Clown / Rubber",
+          "url": "/corum/bubble/l390-03634"
+        },
+        {
+          "slug": "l390-03637",
+          "text": "L390/03637 Big Bubble Magical 52 Titanium / PVD Georges Melies / Rubber",
+          "url": "/corum/bubble/l390-03637"
+        },
+        {
+          "slug": "l082-03017",
+          "text": "L082/03017 Bubble 47 Dani Olivier",
+          "url": "/corum/bubble/l082-03017"
+        },
+        {
+          "slug": "l295-03048",
+          "text": "L295/03048 Bubble 42 Pink MOP",
+          "url": "/corum/bubble/l295-03048"
+        },
+        {
+          "slug": "l390-03639",
+          "text": "L390/03639 Big Bubble Magical 52 Titanium / Speaker / Rubber",
+          "url": "/corum/bubble/l390-03639"
+        },
+        {
+          "slug": "l082-03605",
+          "text": "L082/03605 Big Bubble Magical 47 PVD Titanium / Nelson de la Nuez / Rubber",
+          "url": "/corum/bubble/l082-03605"
+        },
+        {
+          "slug": "l082-02848",
+          "text": "L082/02848 Bubble 47 Op Art Drop",
+          "url": "/corum/bubble/l082-02848"
+        },
+        {
+          "slug": "l082-02849",
+          "text": "L082/02849 Bubble 47 Op Art Sphere²",
+          "url": "/corum/bubble/l082-02849"
+        },
+        {
+          "slug": "l295-03051",
+          "text": "L295/03051 Bubble 42 Pink MOP / Diamond",
+          "url": "/corum/bubble/l295-03051"
+        },
+        {
+          "slug": "l390-03340",
+          "text": "L390/03340 Big Bubble Magical 52 PVD Titanium / Matt Barnes - Magical Vodoo / Rubber",
+          "url": "/corum/bubble/l390-03340"
+        },
+        {
+          "slug": "l295-03049",
+          "text": "L295/03049 Bubble 42 White MOP",
+          "url": "/corum/bubble/l295-03049"
+        },
+        {
+          "slug": "l082-03053",
+          "text": "L082/03053 Bubble 42 Casino Chip",
+          "url": "/corum/bubble/l082-03053"
+        },
+        {
+          "slug": "l082-02996",
+          "text": "L082/02996 Bubble 42 Green Python",
+          "url": "/corum/bubble/l082-02996"
+        },
+        {
+          "slug": "l082-02992",
+          "text": "L082/02992 Bubble 47 Lunar System Death Star",
+          "url": "/corum/bubble/l082-02992"
+        },
+        {
+          "slug": "l082-03002",
+          "text": "L082/03002 Bubble 47 Black & White",
+          "url": "/corum/bubble/l082-03002"
+        },
+        {
+          "slug": "l082-03026",
+          "text": "L082/03026 Bubble 47 Luminova Red Sun",
+          "url": "/corum/bubble/l082-03026"
+        },
+        {
+          "slug": "l082-03054",
+          "text": "L082/03054 Bubble 42 Purple & Red",
+          "url": "/corum/bubble/l082-03054"
+        },
+        {
+          "slug": "l082-02995",
+          "text": "L082/02995 Bubble 47 8 Ball",
+          "url": "/corum/bubble/l082-02995"
+        },
+        {
+          "slug": "l082-02999",
+          "text": "L082/02999 Bubble 47 Casino Chip",
+          "url": "/corum/bubble/l082-02999"
+        },
+        {
+          "slug": "l082-310-20-0371-jo01",
+          "text": "L082.310.20/0371 JO01 Bubble 47 Joker",
+          "url": "/corum/bubble/l082-310-20-0371-jo01"
+        },
+        {
+          "slug": "l082-03024",
+          "text": "L082/03024 Bubble 47 Luminova Black Sun",
+          "url": "/corum/bubble/l082-03024"
+        },
+        {
+          "slug": "l390-03694",
+          "text": "L390/03694 Big Bubble Magical 52 PVD Titanium / Djibril Cissé / Rubber",
+          "url": "/corum/bubble/l390-03694"
+        },
+        {
+          "slug": "l390-03636",
+          "text": "L390/03636 Big Bubble Magical 52 PVD Titanium / Wire Frame / Rubber",
+          "url": "/corum/bubble/l390-03636"
+        },
+        {
+          "slug": "l082-03027",
+          "text": "L082/03027 Bubble 47 Luminova White",
+          "url": "/corum/bubble/l082-03027"
+        },
+        {
+          "slug": "l390-03638",
+          "text": "L390/03638 Big Bubble Magical 52 Titanium / Hexagon / Rubber",
+          "url": "/corum/bubble/l390-03638"
+        },
+        {
+          "slug": "l082-03016",
+          "text": "L082/03016 Bubble 47 Dani Olivier",
+          "url": "/corum/bubble/l082-03016"
+        },
+        {
+          "slug": "l082-03020",
+          "text": "L082/03020 Bubble 47 Disco",
+          "url": "/corum/bubble/l082-03020"
+        },
+        {
+          "slug": "l295-03050",
+          "text": "L295/03050 Bubble 42 Blue MOP / Diamond",
+          "url": "/corum/bubble/l295-03050"
+        },
+        {
+          "slug": "l082-03057",
+          "text": "L082/03057 Bubble 42 Purple Luminova",
+          "url": "/corum/bubble/l082-03057"
+        },
+        {
+          "slug": "l082-02981",
+          "text": "L082/02981 Bubble 47 Red Python",
+          "url": "/corum/bubble/l082-02981"
+        }
+      ]
+    },
+    {
+      "name": "Heritage watches3",
+      "slug": "heritage",
+      "references": [
+        {
+          "slug": "c293-02910",
+          "text": "C293/02910 Coin Watch Automatic Gold $20 Double Eagle PVD",
+          "url": "/corum/heritage/c293-02910"
+        },
+        {
+          "slug": "c082-02355",
+          "text": "C082/02355 Coin Watch Automatic Indian Head",
+          "url": "/corum/heritage/c082-02355"
+        },
+        {
+          "slug": "c082-03059",
+          "text": "C082/03059 Coin Watch Automatic 50th AnnvieSilver $1",
+          "url": "/corum/heritage/c082-03059"
+        }
+      ]
+    },
+    {
+      "name": "Admiral's Cup watches1",
+      "slug": "admiral-s-cup",
+      "references": [
+        {
+          "slug": "a984-02987",
+          "text": "A984/02987 Admiral's Cup 42 Chronograph Blue",
+          "url": "/corum/admiral-s-cup/a984-02987"
+        }
+      ]
+    }
+  ],
+  "total_references": 43
+}

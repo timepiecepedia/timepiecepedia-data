@@ -1,0 +1,22 @@
+{
+  "brand_slug": "prim",
+  "collections": [
+    {
+      "name": "Sport watches2",
+      "slug": "sport",
+      "references": [
+        {
+          "slug": "105-005-487-00-1",
+          "text": "105-005-487-00-1 Orlík 38 Small Seconds Stainless Steel / Black / Rubber",
+          "url": "/prim/sport/105-005-487-00-1"
+        },
+        {
+          "slug": "95-007-487-00-1",
+          "text": "95-007-487-00-1 Orlík 38 Stainless Steel / Black / Rubber",
+          "url": "/prim/sport/95-007-487-00-1"
+        }
+      ]
+    }
+  ],
+  "total_references": 2
+}

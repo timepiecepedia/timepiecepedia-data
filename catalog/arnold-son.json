@@ -1,0 +1,249 @@
+{
+  "brand_slug": "arnold-son",
+  "collections": [
+    {
+      "name": "Royal Collection watches39",
+      "slug": "royal-collection",
+      "references": [
+        {
+          "slug": "1glas-b01a-c122s",
+          "text": "1GLAS.B01A.C122S HM Perpetual Moon",
+          "url": "/arnold-son/royal-collection/1glas-b01a-c122s"
+        },
+        {
+          "slug": "1lcap-s07a-c111a",
+          "text": "1LCAP.S07A.C111A HMS1 Victory",
+          "url": "/arnold-son/royal-collection/1lcap-s07a-c111a"
+        },
+        {
+          "slug": "1lcap-u02a-c110a",
+          "text": "1LCAP.U02A.C110A HMS1",
+          "url": "/arnold-son/royal-collection/1lcap-u02a-c110a"
+        },
+        {
+          "slug": "1h6ap-d05a-c60b",
+          "text": "1H6AP.D05A.C60B Hornet James Cook Set",
+          "url": "/arnold-son/royal-collection/1h6ap-d05a-c60b"
+        },
+        {
+          "slug": "1tbap-s01a-c113a",
+          "text": "1TBAP.S01A.C113A TB88",
+          "url": "/arnold-son/royal-collection/1tbap-s01a-c113a"
+        },
+        {
+          "slug": "1sjaw-b02a-c113a",
+          "text": "1SJAW.B02A.C113A TE8",
+          "url": "/arnold-son/royal-collection/1sjaw-b02a-c113a"
+        },
+        {
+          "slug": "1tbas-b01a-c113s",
+          "text": "1TBAS.B01A.C113S TB88",
+          "url": "/arnold-son/royal-collection/1tbas-b01a-c113s"
+        },
+        {
+          "slug": "1ctar-u01a-c112r",
+          "text": "1CTAR.U01A.C112R TEC1",
+          "url": "/arnold-son/royal-collection/1ctar-u01a-c112r"
+        },
+        {
+          "slug": "1lcaw-s08a-c111w",
+          "text": "1LCAW.S08A.C111W HM Beagle",
+          "url": "/arnold-son/royal-collection/1lcaw-s08a-c111w"
+        },
+        {
+          "slug": "1lcap-b01a-c111a",
+          "text": "1LCAP.B01A.C111A HMS1",
+          "url": "/arnold-son/royal-collection/1lcap-b01a-c111a"
+        },
+        {
+          "slug": "1lcaw-s09a-c111w",
+          "text": "1LCAW.S09A.C111W HMS1",
+          "url": "/arnold-son/royal-collection/1lcaw-s09a-c111w"
+        },
+        {
+          "slug": "1lcap-w03a-c111a",
+          "text": "1LCAP.W03A.C111A HM Horses",
+          "url": "/arnold-son/royal-collection/1lcap-w03a-c111a"
+        },
+        {
+          "slug": "1lcap-b04a-c111a",
+          "text": "1LCAP.B04A.C111A HM Horses",
+          "url": "/arnold-son/royal-collection/1lcap-b04a-c111a"
+        },
+        {
+          "slug": "lcap-m07a-c110a",
+          "text": "LCAP.M07A.C110A HM Goats",
+          "url": "/arnold-son/royal-collection/lcap-m07a-c110a"
+        },
+        {
+          "slug": "1lcas-s02a-c111s",
+          "text": "1LCAS.S02A.C111S HMS1",
+          "url": "/arnold-son/royal-collection/1lcas-s02a-c111s"
+        },
+        {
+          "slug": "1lcas-s01a-c111s",
+          "text": "1LCAS.S01A.C111S HMS1",
+          "url": "/arnold-son/royal-collection/1lcas-s01a-c111s"
+        },
+        {
+          "slug": "1lcap-s10a-c110a",
+          "text": "1LCAP.S10A.C110A HMS1",
+          "url": "/arnold-son/royal-collection/1lcap-s10a-c110a"
+        },
+        {
+          "slug": "1glar-u01a-c123a",
+          "text": "1GLAR.U01A.C123A HM Perpetual Moon",
+          "url": "/arnold-son/royal-collection/1glar-u01a-c123a"
+        },
+        {
+          "slug": "1sjar-g01a-c112a",
+          "text": "1SJAR.G01A.C112A TE8",
+          "url": "/arnold-son/royal-collection/1sjar-g01a-c112a"
+        },
+        {
+          "slug": "1lcaw-s03a-c111w",
+          "text": "1LCAW.S03A.C111W HMS1",
+          "url": "/arnold-son/royal-collection/1lcaw-s03a-c111w"
+        },
+        {
+          "slug": "1sjar-v01a-c112a",
+          "text": "1SJAR.V01A.C112A TES",
+          "url": "/arnold-son/royal-collection/1sjar-v01a-c112a"
+        },
+        {
+          "slug": "1h6as-o01a-c79f",
+          "text": "1H6AS.O01A.C79F Hornet World Timer Skeleton",
+          "url": "/arnold-son/royal-collection/1h6as-o01a-c79f"
+        },
+        {
+          "slug": "1h6as-b05a-c79f",
+          "text": "1H6AS.B05A.C79F Hornet World Timer",
+          "url": "/arnold-son/royal-collection/1h6as-b05a-c79f"
+        },
+        {
+          "slug": "1glar-i01a-c122a",
+          "text": "1GLAR.I01A.C122A HM Perpetual Moon",
+          "url": "/arnold-son/royal-collection/1glar-i01a-c122a"
+        },
+        {
+          "slug": "1ctag-u02a-c113g",
+          "text": "1CTAG.U02A.C113G TEC1",
+          "url": "/arnold-son/royal-collection/1ctag-u02a-c113g"
+        },
+        {
+          "slug": "1pmmp-w01a-c114a",
+          "text": "1PMMP.W01A.C114A HMS Lady",
+          "url": "/arnold-son/royal-collection/1pmmp-w01a-c114a"
+        },
+        {
+          "slug": "1h6ap-d07a-c60b",
+          "text": "1H6AP.D07A.C60B Hornet James Cook Set",
+          "url": "/arnold-son/royal-collection/1h6ap-d07a-c60b"
+        },
+        {
+          "slug": "1lcap-w01a-c110a",
+          "text": "1LCAP.W01A.C110A HMS1",
+          "url": "/arnold-son/royal-collection/1lcap-w01a-c110a"
+        },
+        {
+          "slug": "1h6ap-d06a-c60b",
+          "text": "1H6AP.D06A.C60B Hornet James Cook Set",
+          "url": "/arnold-son/royal-collection/1h6ap-d06a-c60b"
+        },
+        {
+          "slug": "1h6ap-b06a-c60b",
+          "text": "1H6AP.B06A.C60B Hornet World Timer",
+          "url": "/arnold-son/royal-collection/1h6ap-b06a-c60b"
+        },
+        {
+          "slug": "1pmmp-w01a-c119a",
+          "text": "1PMMP.W01A.C119A HMS Lady",
+          "url": "/arnold-son/royal-collection/1pmmp-w01a-c119a"
+        },
+        {
+          "slug": "1lcap-b03a-c111a",
+          "text": "1LCAP.B03A.C111A HM Pandas",
+          "url": "/arnold-son/royal-collection/1lcap-b03a-c111a"
+        },
+        {
+          "slug": "1ctar-g01a-c112r",
+          "text": "1CTAR.G01A.C112R TEC1",
+          "url": "/arnold-son/royal-collection/1ctar-g01a-c112r"
+        },
+        {
+          "slug": "1ctags01ac113g",
+          "text": "1CTAG.S01A.C113G TEC1",
+          "url": "/arnold-son/royal-collection/1ctags01ac113g"
+        },
+        {
+          "slug": "1lcap-s05a-c111a",
+          "text": "1LCAP.S05A.C111A HMS1 Victory",
+          "url": "/arnold-son/royal-collection/1lcap-s05a-c111a"
+        },
+        {
+          "slug": "1lcap-s06a-c111a",
+          "text": "1LCAP.S06A.C111A HMS1 Victory",
+          "url": "/arnold-son/royal-collection/1lcap-s06a-c111a"
+        },
+        {
+          "slug": "1lcap-s04a-c110a",
+          "text": "1LCAP.S04A.C110A HMS1",
+          "url": "/arnold-son/royal-collection/1lcap-s04a-c110a"
+        },
+        {
+          "slug": "1lcap-b02a-c111a",
+          "text": "1LCAP.B02A.C111A HMS1 Dragon",
+          "url": "/arnold-son/royal-collection/1lcap-b02a-c111a"
+        },
+        {
+          "slug": "1tbap-b01a-c113a",
+          "text": "1TBAP.B01A.C113A TB88",
+          "url": "/arnold-son/royal-collection/1tbap-b01a-c113a"
+        }
+      ]
+    },
+    {
+      "name": "Instrument Collection watches4",
+      "slug": "instrument-collection",
+      "references": [
+        {
+          "slug": "1tpas-s01a-c124s",
+          "text": "1TPAS.S01A.C124S Time Pyramid",
+          "url": "/arnold-son/instrument-collection/1tpas-s01a-c124s"
+        },
+        {
+          "slug": "1tpar-s01a-c125a",
+          "text": "1TPAR.S01A.C125A Time Pyramid",
+          "url": "/arnold-son/instrument-collection/1tpar-s01a-c125a"
+        },
+        {
+          "slug": "1atar-l01a-c120a",
+          "text": "1ATAR.L01A.C120A DSTB",
+          "url": "/arnold-son/instrument-collection/1atar-l01a-c120a"
+        },
+        {
+          "slug": "1dtar-l01a-c120a",
+          "text": "1DTAR.L01A.C120A DTE",
+          "url": "/arnold-son/instrument-collection/1dtar-l01a-c120a"
+        }
+      ]
+    },
+    {
+      "name": "Métiers d'Art watches2",
+      "slug": "metiers-d-art",
+      "references": [
+        {
+          "slug": "1sjar-b04a-c113a",
+          "text": "1SJAR.B04A.C113A TE8 Métiers d'Art II",
+          "url": "/arnold-son/metiers-d-art/1sjar-b04a-c113a"
+        },
+        {
+          "slug": "1sjap-b04a-c113a",
+          "text": "1SJAP.B04A.C113A TE8 Métiers D'art I",
+          "url": "/arnold-son/metiers-d-art/1sjap-b04a-c113a"
+        }
+      ]
+    }
+  ],
+  "total_references": 45
+}

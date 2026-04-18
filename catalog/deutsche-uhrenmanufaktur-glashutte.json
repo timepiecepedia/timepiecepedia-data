@@ -1,0 +1,78 @@
+{
+  "brand_slug": "deutsche-uhrenmanufaktur-glashutte",
+  "collections": [
+    {
+      "name": "Purist Type 2 watches6",
+      "slug": "purist-typ-2",
+      "references": [
+        {
+          "slug": "p2db-lb",
+          "text": "P2DB-LB Purist Typ 2 Datum Stainless Steel / Blue",
+          "url": "/deutsche-uhrenmanufaktur-glashutte/purist-typ-2/p2db-lb"
+        },
+        {
+          "slug": "p2nw-ls",
+          "text": "P2NW-LS Purist Typ 2 Stainless Steel / White",
+          "url": "/deutsche-uhrenmanufaktur-glashutte/purist-typ-2/p2nw-ls"
+        },
+        {
+          "slug": "p2ds-ls",
+          "text": "P2DS-LS Purist Typ 2 Datum Stainless Steel / Black",
+          "url": "/deutsche-uhrenmanufaktur-glashutte/purist-typ-2/p2ds-ls"
+        },
+        {
+          "slug": "p2dw-ls",
+          "text": "P2DW-LS Purist Typ 2 Datum Stainless Steel / White",
+          "url": "/deutsche-uhrenmanufaktur-glashutte/purist-typ-2/p2dw-ls"
+        },
+        {
+          "slug": "p2ns-ls",
+          "text": "P2NS-LS Purist Typ 2 Stainless Steel / Black",
+          "url": "/deutsche-uhrenmanufaktur-glashutte/purist-typ-2/p2ns-ls"
+        },
+        {
+          "slug": "p2nb-lb",
+          "text": "P2NB-LB Purist Typ 2 Stainless Steel / Blue",
+          "url": "/deutsche-uhrenmanufaktur-glashutte/purist-typ-2/p2nb-lb"
+        }
+      ]
+    },
+    {
+      "name": "Purist Typ 1 watches6",
+      "slug": "purist-typ-1",
+      "references": [
+        {
+          "slug": "p1ns-ls",
+          "text": "P1NS-LS Purist Typ 1 Stainless Steel / Black",
+          "url": "/deutsche-uhrenmanufaktur-glashutte/purist-typ-1/p1ns-ls"
+        },
+        {
+          "slug": "p1nw-ls",
+          "text": "P1NW-LS Purist Typ 1 Stainless Steel / White",
+          "url": "/deutsche-uhrenmanufaktur-glashutte/purist-typ-1/p1nw-ls"
+        },
+        {
+          "slug": "p1db-lb",
+          "text": "P1DB-LB Purist Typ 1 Datum Stainless Steel / Blue",
+          "url": "/deutsche-uhrenmanufaktur-glashutte/purist-typ-1/p1db-lb"
+        },
+        {
+          "slug": "p1ds-ls",
+          "text": "P1DS-LS Purist Typ 1 Datum Stainless Steel / Black",
+          "url": "/deutsche-uhrenmanufaktur-glashutte/purist-typ-1/p1ds-ls"
+        },
+        {
+          "slug": "p1dw-ls",
+          "text": "P1DW-LS Purist Typ 1 Datum Stainless Steel / White",
+          "url": "/deutsche-uhrenmanufaktur-glashutte/purist-typ-1/p1dw-ls"
+        },
+        {
+          "slug": "p1nb-lb",
+          "text": "P1NB-LB Purist Typ 1 Stainless Steel / Blue",
+          "url": "/deutsche-uhrenmanufaktur-glashutte/purist-typ-1/p1nb-lb"
+        }
+      ]
+    }
+  ],
+  "total_references": 12
+}

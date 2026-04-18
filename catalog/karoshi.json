@@ -1,0 +1,17 @@
+{
+  "brand_slug": "karoshi",
+  "collections": [
+    {
+      "name": "K-011 watches1",
+      "slug": "k-011",
+      "references": [
+        {
+          "slug": "k-011-os-01",
+          "text": "K-011/OS-01 K-011",
+          "url": "/karoshi/k-011/k-011-os-01"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

@@ -1,0 +1,229 @@
+{
+  "brand_slug": "junghans",
+  "collections": [
+    {
+      "name": "Max Bill watches36",
+      "slug": "max-bill",
+      "references": [
+        {
+          "slug": "027-3502-00",
+          "text": "027/3502.00 Max Bill Automatic Silver No-Date",
+          "url": "/junghans/max-bill/027-3502-00"
+        },
+        {
+          "slug": "027-5703-00",
+          "text": "027/5703.00 Max Bill Hand-Winding PVD",
+          "url": "/junghans/max-bill/027-5703-00"
+        },
+        {
+          "slug": "027-3004-44",
+          "text": "027/3004.44 Max Bill Hand-Winding Silver Stick Bracelet",
+          "url": "/junghans/max-bill/027-3004-44"
+        },
+        {
+          "slug": "041-4463-44",
+          "text": "041/4463.44 Max Bill Quartz Silver Stick Bracelet",
+          "url": "/junghans/max-bill/041-4463-44"
+        },
+        {
+          "slug": "027-3400-00",
+          "text": "027/3400.00 Max Bill Automatic Black No-Date",
+          "url": "/junghans/max-bill/027-3400-00"
+        },
+        {
+          "slug": "041-4462-00",
+          "text": "041/4462.00 Max Bill Quartz Black",
+          "url": "/junghans/max-bill/041-4462-00"
+        },
+        {
+          "slug": "047-4355-00",
+          "text": "047/4355.00 Max Bill Ladies Stick White",
+          "url": "/junghans/max-bill/047-4355-00"
+        },
+        {
+          "slug": "041-4465-00",
+          "text": "041/4465.00 Max Bill Quartz Black Stick",
+          "url": "/junghans/max-bill/041-4465-00"
+        },
+        {
+          "slug": "027-3501-00",
+          "text": "027/3501.00 Max Bill Automatic Silver Stick No-Date",
+          "url": "/junghans/max-bill/027-3501-00"
+        },
+        {
+          "slug": "027-4700-00",
+          "text": "027/4700.00 Max Bill Automatic Silver",
+          "url": "/junghans/max-bill/027-4700-00"
+        },
+        {
+          "slug": "027-4500-44",
+          "text": "027/4500.44 Max Bill Chronoscope Black Day / Date Bracelet",
+          "url": "/junghans/max-bill/027-4500-44"
+        },
+        {
+          "slug": "027-3500-00",
+          "text": "027/3500.00 Max Bill Automatic Silver No-Date",
+          "url": "/junghans/max-bill/027-3500-00"
+        },
+        {
+          "slug": "027-3401-00",
+          "text": "027/3401.00 Max Bill Automatic Grey No-Date",
+          "url": "/junghans/max-bill/027-3401-00"
+        },
+        {
+          "slug": "027-3701-00",
+          "text": "027/3701.00 Max Bill Hand-Winding Silver",
+          "url": "/junghans/max-bill/027-3701-00"
+        },
+        {
+          "slug": "027-4502-00",
+          "text": "027/4502.00 Max Bill Chronoscope Silver",
+          "url": "/junghans/max-bill/027-4502-00"
+        },
+        {
+          "slug": "027-4002-44",
+          "text": "027/4002.44 Max Bill Automatic Silver Stick Bracelet",
+          "url": "/junghans/max-bill/027-4002-44"
+        },
+        {
+          "slug": "027-3700-00",
+          "text": "027/3700.00 Max Bill Hand-Winding Silver Stick",
+          "url": "/junghans/max-bill/027-3700-00"
+        },
+        {
+          "slug": "027-3702-00",
+          "text": "027/3702.00 Max Bill Hand-Winding Black",
+          "url": "/junghans/max-bill/027-3702-00"
+        },
+        {
+          "slug": "047-4251-00",
+          "text": "047/4251.00 Max Bill Ladies Stick",
+          "url": "/junghans/max-bill/047-4251-00"
+        },
+        {
+          "slug": "027-7700-00",
+          "text": "027/7700.00 Max Bill Automatic PVD",
+          "url": "/junghans/max-bill/027-7700-00"
+        },
+        {
+          "slug": "027-7800-00",
+          "text": "027/7800.00 Max Bill Chronoscope PVD",
+          "url": "/junghans/max-bill/027-7800-00"
+        },
+        {
+          "slug": "027-4003-44",
+          "text": "027/4003.44 Max Bill Chronoscope Silver Bracelet",
+          "url": "/junghans/max-bill/027-4003-44"
+        },
+        {
+          "slug": "027-4600-00",
+          "text": "027/4600.00 Max Bill Chronoscope Silver Stick",
+          "url": "/junghans/max-bill/027-4600-00"
+        },
+        {
+          "slug": "041-4464-00",
+          "text": "041/4464.00 Max Bill Quartz Silver Stick",
+          "url": "/junghans/max-bill/041-4464-00"
+        },
+        {
+          "slug": "027-4701-00",
+          "text": "027/4701.00 Max Bill Automatic Black Stick",
+          "url": "/junghans/max-bill/027-4701-00"
+        },
+        {
+          "slug": "027-4601-00v",
+          "text": "027/4601.00v Max Bill Chronoscope Black Stick",
+          "url": "/junghans/max-bill/027-4601-00v"
+        },
+        {
+          "slug": "041-4562-00",
+          "text": "041/4562.00 Max Bill Quartz Silver",
+          "url": "/junghans/max-bill/041-4562-00"
+        },
+        {
+          "slug": "047-4540-00",
+          "text": "047/4540.00 Max Bill Ladies Blue",
+          "url": "/junghans/max-bill/047-4540-00"
+        },
+        {
+          "slug": "047-4541-00",
+          "text": "047/4541.00 Max Bill Ladies Red",
+          "url": "/junghans/max-bill/047-4541-00"
+        },
+        {
+          "slug": "047-4252-00",
+          "text": "047/4252.00 Max Bill Ladies Cream",
+          "url": "/junghans/max-bill/047-4252-00"
+        },
+        {
+          "slug": "027-4501-00",
+          "text": "027/4501.00 Max Bill Chronoscope Grey Day / Date",
+          "url": "/junghans/max-bill/027-4501-00"
+        },
+        {
+          "slug": "047-4250-44",
+          "text": "047/4250.44 Max Bill Ladies Stick Bracelet",
+          "url": "/junghans/max-bill/047-4250-44"
+        },
+        {
+          "slug": "047-4356-44",
+          "text": "047/4356.44 Max Bill Ladies Stick Grey Bracelet",
+          "url": "/junghans/max-bill/047-4356-44"
+        },
+        {
+          "slug": "047-4254-00",
+          "text": "047/4254.00 Max Bill Ladies White",
+          "url": "/junghans/max-bill/047-4254-00"
+        },
+        {
+          "slug": "047-4542-00",
+          "text": "047/4542.00 Max Bill Ladies Grey",
+          "url": "/junghans/max-bill/047-4542-00"
+        },
+        {
+          "slug": "041-4461-00",
+          "text": "041/4461.00 Max Bill Quartz Silver",
+          "url": "/junghans/max-bill/041-4461-00"
+        }
+      ]
+    },
+    {
+      "name": "Form watches4",
+      "slug": "form",
+      "references": [
+        {
+          "slug": "027-4735-00",
+          "text": "027/4735.00 Form A Stainless Steel / White Arabic / Blue  Calf",
+          "url": "/junghans/form/027-4735-00"
+        },
+        {
+          "slug": "027-4731-00",
+          "text": "027/4731.00 Form A Stainless Steel / White Arabic / Black Calf",
+          "url": "/junghans/form/027-4731-00"
+        },
+        {
+          "slug": "027-4730-00",
+          "text": "027/4730.00 Form A Stainless Steel / White Stick / Black Calf",
+          "url": "/junghans/form/027-4730-00"
+        },
+        {
+          "slug": "027-4734-00",
+          "text": "027/4734.00 Form A Stainless Steel / White Stick / Brown Calf",
+          "url": "/junghans/form/027-4734-00"
+        }
+      ]
+    },
+    {
+      "name": "Bogner watches1",
+      "slug": "bogner",
+      "references": [
+        {
+          "slug": "027-4260",
+          "text": "027/4260 Bogner by Junghans Willy Chronoscope Stainless Steel / White",
+          "url": "/junghans/bogner/027-4260"
+        }
+      ]
+    }
+  ],
+  "total_references": 41
+}

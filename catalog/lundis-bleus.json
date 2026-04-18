@@ -1,0 +1,42 @@
+{
+  "brand_slug": "lundis-bleus",
+  "collections": [
+    {
+      "name": "1100 watches6",
+      "slug": "1100",
+      "references": [
+        {
+          "slug": "1100-01",
+          "text": "1100-01 Lundis Bleus Ref. 1100 Stainless Steel / Silver / Silver Index",
+          "url": "/lundis-bleus/1100/1100-01"
+        },
+        {
+          "slug": "1100-03",
+          "text": "1100-03 Lundis Bleus Ref. 1100 Stainless Steel / Rose / Rose Index",
+          "url": "/lundis-bleus/1100/1100-03"
+        },
+        {
+          "slug": "1100-02",
+          "text": "1100-02 Lundis Bleus Ref. 1100 Stainless Steel / Grey / Silver Index",
+          "url": "/lundis-bleus/1100/1100-02"
+        },
+        {
+          "slug": "1100-04",
+          "text": "1100-04 Lundis Bleus Ref. 1100 Stainless Steel / Silver / Rose Index",
+          "url": "/lundis-bleus/1100/1100-04"
+        },
+        {
+          "slug": "1100-06",
+          "text": "1100-06 Lundis Bleus Ref. 1100 Stainless Steel / Rose / Silver Index",
+          "url": "/lundis-bleus/1100/1100-06"
+        },
+        {
+          "slug": "1100-05",
+          "text": "1100-05 Lundis Bleus Ref. 1100 Stainless Steel / Grey / Rose Index",
+          "url": "/lundis-bleus/1100/1100-05"
+        }
+      ]
+    }
+  ],
+  "total_references": 6
+}

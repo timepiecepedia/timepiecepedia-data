@@ -1,0 +1,5376 @@
+[
+  {
+    "term": "24-Hour Subdial",
+    "short": "Secondary dial displaying 24-hour time format instead of traditional 12-hour cycle.",
+    "category": "Complications"
+  },
+  {
+    "term": "24h Scale",
+    "short": "Full 24-hour time scale instead of standard 12-hour format",
+    "category": "Dial"
+  },
+  {
+    "term": "36000 BPH",
+    "short": "Movement oscillating at 36,000 beats per hour, standard in chronographs for 1/10th second resolution.",
+    "category": "Movement"
+  },
+  {
+    "term": "Abraham-Louis Breguet",
+    "short": "Swiss-French horologist who revolutionized watchmaking with innovations like the tourbillon and Breguet spiral",
+    "category": "History"
+  },
+  {
+    "term": "Accelerometer Calibration",
+    "short": "Process of zeroing motion sensors to ensure accurate step counting and gesture recognition",
+    "category": "Tools"
+  },
+  {
+    "term": "Accuracy Certificate",
+    "short": "Official document certifying watch meets specified precision standards.",
+    "category": "Certification"
+  },
+  {
+    "term": "Accuracy Tolerance",
+    "short": "Acceptable deviation from precise time, chronometer ±4-6 sec/day, standard ±15 sec/day",
+    "category": "Movement"
+  },
+  {
+    "term": "Acid Etching",
+    "short": "Using chemical acids to selectively eat into metal surfaces creating textured designs.",
+    "category": "Decoration"
+  },
+  {
+    "term": "Activity Classification Algorithm",
+    "short": "Machine learning system identifying exercise types from accelerometer and heart rate data",
+    "category": "Movement"
+  },
+  {
+    "term": "Adjustable Bracelet",
+    "short": "Bracelet with removable links allowing sizing to fit the wearer's wrist.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Afterglow",
+    "short": "Residual luminescence visible on watch dial after primary glow has substantially faded",
+    "category": "Display"
+  },
+  {
+    "term": "Age of Moon Dial",
+    "short": "Display indicating days elapsed in current lunar cycle from new moon to full moon.",
+    "category": "Complications"
+  },
+  {
+    "term": "AHCI",
+    "short": "Académie Horlogère des Créateurs Indépendants; prestigious association of independent watchmakers",
+    "category": "Organizations"
+  },
+  {
+    "term": "Air-King",
+    "short": "Rolex's entry-level sports watch honoring RAF pilots from 1945",
+    "category": "Model"
+  },
+  {
+    "term": "Alarm Chronograph",
+    "short": "Watch combining chronograph stopwatch function with mechanical alarm capability.",
+    "category": "Complications"
+  },
+  {
+    "term": "Alarm Complication",
+    "short": "Mechanical mechanism that sounds an alert at a preset time, requiring a separate alarm barrel and trigger.",
+    "category": "Complications"
+  },
+  {
+    "term": "Alarm Mechanism",
+    "short": "Mechanical striking system activating audible alert at predetermined time.",
+    "category": "Complications"
+  },
+  {
+    "term": "Alarm Watch",
+    "short": "Timepiece with mechanical or electronic alarm function alerting wearer at set time.",
+    "category": "Watch Types"
+  },
+  {
+    "term": "All Original",
+    "short": "Watch with all factory-original components including case, dial, hands, bezel, and movement",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Alligator Leather",
+    "short": "Premium reptile skin with smaller scales than crocodile, refined luxury material",
+    "category": "Strap"
+  },
+  {
+    "term": "Alligator Mississippiensis",
+    "short": "American alligator leather with smaller, more uniform scales than crocodile",
+    "category": "Strap"
+  },
+  {
+    "term": "Alligator strap",
+    "short": "Genuine alligator leather with distinctive scaled texture, premium luxury option",
+    "category": "Strap"
+  },
+  {
+    "term": "Aluminum",
+    "short": "Lightweight metal alloy used in sport watch cases and bezel inserts",
+    "category": "Materials"
+  },
+  {
+    "term": "Aluminum Insert",
+    "short": "Lightweight anodized aluminum bezel insert with printed scale",
+    "category": "Dial"
+  },
+  {
+    "term": "Ambient Light Sensor",
+    "short": "Photoreceptor that auto-adjusts display brightness based on surrounding conditions",
+    "category": "Complications"
+  },
+  {
+    "term": "Ambient Temperature Sensor",
+    "short": "Thermistor measuring environmental temperature for weather prediction applications",
+    "category": "Complications"
+  },
+  {
+    "term": "Amplitude",
+    "short": "Maximum arc of the balance wheel's swing; indicates movement health and power reserve.",
+    "category": "Movement"
+  },
+  {
+    "term": "Anchor Escapement",
+    "short": "Traditional escapement design shaped like an anchor, most common in mechanical watches before lever escapements.",
+    "category": "Complications"
+  },
+  {
+    "term": "Anglage",
+    "short": "Beveling technique decorating edges of movement components with angled chamfers",
+    "category": "Manufacture"
+  },
+  {
+    "term": "Annual Calendar",
+    "short": "Calendar mechanism requiring manual correction only once per year in February or March.",
+    "category": "Complications"
+  },
+  {
+    "term": "Annual Perpetual Calendar",
+    "short": "Calendar watch combining annual and perpetual calendar features for extended accuracy.",
+    "category": "Complications"
+  },
+  {
+    "term": "Annual Winding",
+    "short": "Complication requiring manual winding of the mainspring only once per year, storing energy for 365 days.",
+    "category": "Complications"
+  },
+  {
+    "term": "Anodizing",
+    "short": "Electrochemical process creating protective oxide layers on aluminum watch components.",
+    "category": "Surface Coating"
+  },
+  {
+    "term": "Anti-Magnetic",
+    "short": "Movement shielded or constructed to resist magnetic field interference affecting timekeeping.",
+    "category": "Movement"
+  },
+  {
+    "term": "Anti-Reflective Coating",
+    "short": "Optical treatment on sapphire reducing light reflection for improved dial visibility.",
+    "category": "Case"
+  },
+  {
+    "term": "Anti-Shock System",
+    "short": "Protective mechanism that allows jeweled bearings to move laterally when watch experiences impact.",
+    "category": "Movement"
+  },
+  {
+    "term": "Antimagnetic Case",
+    "short": "Watch case constructed from non-ferrous materials or soft iron shield protecting the movement.",
+    "category": "Case"
+  },
+  {
+    "term": "Antimagnetic Properties",
+    "short": "Resistance to magnetic fields, critical in modern movements like Omega Co-Axial 8900",
+    "category": "Movement"
+  },
+  {
+    "term": "Antimagnetic Watch",
+    "short": "Timepiece designed to resist magnetic field interference using special materials and shielding.",
+    "category": "Features"
+  },
+  {
+    "term": "Aperture",
+    "short": "Window or opening in dial revealing complications like date or moonphase.",
+    "category": "Dial"
+  },
+  {
+    "term": "Applied Indices",
+    "short": "Dial hour markers individually applied and set separately from dial surface for sophistication.",
+    "category": "Dial"
+  },
+  {
+    "term": "Applied Markers",
+    "short": "Metal or material indices affixed to dial surface for superior aesthetic and durability.",
+    "category": "Dial"
+  },
+  {
+    "term": "Arabic Numerals",
+    "short": "Standard numerical hour markers using Arabic numeral style",
+    "category": "Dial"
+  },
+  {
+    "term": "Arbor",
+    "short": "Main rotating axle of the barrel that connects the mainspring to the gear train.",
+    "category": "Movement"
+  },
+  {
+    "term": "Ascent Rate",
+    "short": "Speed of underwater ascent; typically limited to prevent nitrogen narcosis and bends.",
+    "category": "Diving"
+  },
+  {
+    "term": "Assembly Lubrication",
+    "short": "Strategic application of oils during movement reassembly process",
+    "category": "Maintenance"
+  },
+  {
+    "term": "Astrolabe",
+    "short": "Historic astronomical instrument adapted into watch form to measure celestial positions and angles.",
+    "category": "Complications"
+  },
+  {
+    "term": "Asymmetric case",
+    "short": "Unbalanced case design where elements are not mirrored, creating unique visual interest and distinctiveness.",
+    "category": "Case"
+  },
+  {
+    "term": "Atelier",
+    "short": "Workshop or studio where watches are crafted by skilled artisans",
+    "category": "Manufacture"
+  },
+  {
+    "term": "ATM",
+    "short": "Atmosphere unit; 1 ATM equals approximately 10 meters of water depth.",
+    "category": "Standards"
+  },
+  {
+    "term": "Audemars Piguet Caliber 3120",
+    "short": "In-house automatic, 60-hour reserve, chronometer certified, basis for Royal Oak movements",
+    "category": "Movement"
+  },
+  {
+    "term": "Automatic Movement",
+    "short": "Self-winding mechanical movement powered by the wearer's wrist motion via a rotor.",
+    "category": "Movement"
+  },
+  {
+    "term": "Aventurine",
+    "short": "Quartz-based stone with sparkling inclusions used for decorative watch dials and bezels.",
+    "category": "Materials"
+  },
+  {
+    "term": "Back Crystal",
+    "short": "Transparent caseback allowing view of the movement inside.",
+    "category": "Case"
+  },
+  {
+    "term": "Balance Cock",
+    "short": "Bridge component that supports upper balance wheel pivot and hairspring stud",
+    "category": "Movement"
+  },
+  {
+    "term": "Balance Wheel",
+    "short": "Oscillating wheel that regulates timekeeping by vibrating at a constant frequency.",
+    "category": "Movement"
+  },
+  {
+    "term": "Balance Wheel Service",
+    "short": "Cleaning, inspection, and adjustment of balance wheel for timekeeping accuracy",
+    "category": "Service"
+  },
+  {
+    "term": "Banking Pins",
+    "short": "Fixed pins limiting pallet fork swing to prevent excessive escape wheel engagement",
+    "category": "Movement"
+  },
+  {
+    "term": "Bar",
+    "short": "Metric pressure unit; 1 bar equals approximately 10 meters of water depth.",
+    "category": "Standards"
+  },
+  {
+    "term": "Bar Rating",
+    "short": "Watches rated in bars; typical diver watches are 30 bar minimum.",
+    "category": "Standards"
+  },
+  {
+    "term": "Barenia Leather",
+    "short": "Natural vegetable-tanned leather from Hermès with visible grain, develops rich patina over time",
+    "category": "Strap"
+  },
+  {
+    "term": "Barometer Complication",
+    "short": "Mechanical display showing atmospheric pressure changes, indicating weather patterns or altitude.",
+    "category": "Complications"
+  },
+  {
+    "term": "Barometric Altitude Engine",
+    "short": "Pressure sensor calculating elevation gain for mountaineering and aviation watches",
+    "category": "Complications"
+  },
+  {
+    "term": "Barrel",
+    "short": "Cylindrical drum containing the mainspring; core component of the movement's power system.",
+    "category": "Movement"
+  },
+  {
+    "term": "Barrel-shaped case",
+    "short": "Cylindrical case wider in the middle and tapered toward the ends, resembling a wooden barrel.",
+    "category": "Case"
+  },
+  {
+    "term": "Baselworld",
+    "short": "Annual watch and jewelry trade show held in Basel, Switzerland; industry standard for decades",
+    "category": "Events"
+  },
+  {
+    "term": "Batman GMT",
+    "short": "GMT-Master II with black and blue bezel insert, resembling Batman's color palette.",
+    "category": "History"
+  },
+  {
+    "term": "Baton Indices",
+    "short": "Simplified rectangular hour markers minimizing complexity while maintaining readability",
+    "category": "Dial"
+  },
+  {
+    "term": "Baton Markers",
+    "short": "Simple rectangular hour markers without numerical designation",
+    "category": "Dial"
+  },
+  {
+    "term": "Battery State of Health Monitor",
+    "short": "Circuit analyzing lithium-ion degradation to predict remaining battery lifespan",
+    "category": "Movement"
+  },
+  {
+    "term": "Bead blasting",
+    "short": "Shooting glass or ceramic beads at surface for consistent matte effect",
+    "category": "Finishing"
+  },
+  {
+    "term": "Beads of rice",
+    "short": "Narrow interlocking oval links creating a delicate, flexible, rice-grain-like appearance",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Beat Counting",
+    "short": "Acoustic method of measuring watch frequency by listening to ticks.",
+    "category": "Testing"
+  },
+  {
+    "term": "Beat Error",
+    "short": "Asymmetry in the oscillation between left and right balance wheel swings.",
+    "category": "Precision"
+  },
+  {
+    "term": "Beat Error Threshold",
+    "short": "Maximum acceptable asymmetry reading on timing machines before movement adjustment is required.",
+    "category": "Tools"
+  },
+  {
+    "term": "Beat Rate",
+    "short": "Number of oscillations the balance wheel completes per hour; common rates include 28,800 bph.",
+    "category": "Movement"
+  },
+  {
+    "term": "Beats Per Hour",
+    "short": "Standard measurement of balance wheel oscillations; higher rates generally indicate better precision.",
+    "category": "Movement"
+  },
+  {
+    "term": "Beats Per Hour (BPH)",
+    "short": "Oscillation frequency specification, 7750 at 28,800 bph, El Primero at 36,000 bph",
+    "category": "Movement"
+  },
+  {
+    "term": "Bends",
+    "short": "Decompression sickness caused by rapid pressure reduction; prevented by proper timing.",
+    "category": "Diving"
+  },
+  {
+    "term": "Beveling",
+    "short": "Cutting angled edges on metal components to create three-dimensional visual effects.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Bezel",
+    "short": "Rotating or fixed ring surrounding the crystal, often used for timing or design.",
+    "category": "Case"
+  },
+  {
+    "term": "Bezel action",
+    "short": "Rotational feel and click resistance of bezel, important quality factor in watches.",
+    "category": "Design"
+  },
+  {
+    "term": "Bezel Adjustment",
+    "short": "Precise alignment and fixing of rotating bezel to ensure accurate measurements",
+    "category": "Service"
+  },
+  {
+    "term": "Bezel Insert",
+    "short": "Removable ring with markings or graduations on the bezel.",
+    "category": "Case"
+  },
+  {
+    "term": "Bezel lume",
+    "short": "Luminous material applied to rotating watch bezel markers or indexes",
+    "category": "Materials"
+  },
+  {
+    "term": "BGW9",
+    "short": "High-performance Super-LumiNova variant offering exceptional brightness and glow duration",
+    "category": "Materials"
+  },
+  {
+    "term": "BGW9 alternative",
+    "short": "Other high-performance Super-LumiNova variants offering comparable or superior luminescent properties",
+    "category": "Materials"
+  },
+  {
+    "term": "Bidirectional Bezel",
+    "short": "Rotating bezel functioning in both clockwise and counterclockwise directions",
+    "category": "Dial"
+  },
+  {
+    "term": "Big Crown",
+    "short": "Large crown characteristic of early Submariner models, reference 5510 and predecessors.",
+    "category": "Design"
+  },
+  {
+    "term": "Big Date",
+    "short": "Oversized date numerals displayed in one or two windows on the dial for better readability.",
+    "category": "Complications"
+  },
+  {
+    "term": "Big Pilot",
+    "short": "IWC's large aviation watch with oversized crown for pilot gloves",
+    "category": "Model"
+  },
+  {
+    "term": "Bimetallic balance",
+    "short": "Balance wheel made of two different metals to automatically compensate for temperature changes",
+    "category": "History"
+  },
+  {
+    "term": "Biometric Authentication Module",
+    "short": "Fingerprint or heart rate sensor for secure smartwatch access control",
+    "category": "Complications"
+  },
+  {
+    "term": "Birth year watch",
+    "short": "Timepiece manufactured in the same year as the wearer's birth; sentimental collectible",
+    "category": "Collecting"
+  },
+  {
+    "term": "Black polish",
+    "short": "Deep glossy black finish applied through specialized polishing technique",
+    "category": "Finishing"
+  },
+  {
+    "term": "Blood Oxygen Saturation (SpO2) Sensor",
+    "short": "Optical pulse oximetry module measuring arterial oxygen levels continuously",
+    "category": "Complications"
+  },
+  {
+    "term": "Blue lume",
+    "short": "Modern luminous coating like Chromalight that glows blue, offering superior brightness and duration",
+    "category": "Display"
+  },
+  {
+    "term": "Bluetooth Low Energy (BLE) Protocol",
+    "short": "Power-efficient wireless connectivity standard for hybrid watch synchronization",
+    "category": "Movement"
+  },
+  {
+    "term": "Bluing",
+    "short": "Heat treatment process that turns steel components blue, improving hardness and preventing corrosion.",
+    "category": "Heat Treatment"
+  },
+  {
+    "term": "BMG-TECH",
+    "short": "Bulk metallic glass technology used by some manufacturers for ultra-hard, scratch-resistant watch cases.",
+    "category": "Materials"
+  },
+  {
+    "term": "Bottom Time",
+    "short": "Total duration a diver spends at working depth during dive operation.",
+    "category": "Diving"
+  },
+  {
+    "term": "Box and Papers",
+    "short": "Original packaging and documentation that accompanied the watch at purchase",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Bracelet",
+    "short": "Metal strap made of integrated links, typically stainless steel, gold, or titanium",
+    "category": "Materials"
+  },
+  {
+    "term": "Bracelet Cleaning",
+    "short": "Deep cleaning of watch bracelet links and removal of accumulated dirt",
+    "category": "Cleaning"
+  },
+  {
+    "term": "Bracelet integration",
+    "short": "Seamless connection between case and bracelet for unified design",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Bracelet stretch",
+    "short": "Gradual loosening of watch bracelet links from wear; affects fit and comfort over time",
+    "category": "Maintenance"
+  },
+  {
+    "term": "Bracelet taper",
+    "short": "Gradual narrowing of bracelet width toward the clasp for refined appearance",
+    "category": "Detail"
+  },
+  {
+    "term": "Bracelet-Integrated Chronograph",
+    "short": "Chronograph pushers integrated into the watch bracelet lugs rather than case sides.",
+    "category": "Complications"
+  },
+  {
+    "term": "Braided Leather",
+    "short": "Interwoven leather straps, adds visual interest and texture",
+    "category": "Strap"
+  },
+  {
+    "term": "Breguet spiral",
+    "short": "Hairspring with specially shaped terminal curve invented by Abraham-Louis Breguet for improved chronometry",
+    "category": "History"
+  },
+  {
+    "term": "Bridge",
+    "short": "Metal component spanning the plate providing additional support and bearing points for pivots.",
+    "category": "Movement"
+  },
+  {
+    "term": "Bronze",
+    "short": "Copper-tin alloy developing patina over time; used for vintage-style watch cases",
+    "category": "Materials"
+  },
+  {
+    "term": "Brushed Bezel",
+    "short": "Bezel with directional satin finishing reducing reflection and enhancing tactile appeal",
+    "category": "Bezel"
+  },
+  {
+    "term": "Brushed case",
+    "short": "Case finish with fine parallel lines creating a matte appearance, more subtle than polished.",
+    "category": "Case"
+  },
+  {
+    "term": "Brushed Dial",
+    "short": "Matte finish achieved through directional abrasive surface treatment.",
+    "category": "Dial"
+  },
+  {
+    "term": "Brushed Finish",
+    "short": "Matte surface treatment with fine linear grain pattern, reducing reflectivity and improving durability.",
+    "category": "Treatments"
+  },
+  {
+    "term": "Brushed steel",
+    "short": "Fine parallel lines creating soft directional matte appearance",
+    "category": "Finishing"
+  },
+  {
+    "term": "Brushed titanium",
+    "short": "Fine linear finish on titanium creating grey matte appearance",
+    "category": "Finishing"
+  },
+  {
+    "term": "Brushing",
+    "short": "Mechanical process creating a satin finish on watch surfaces using directional abrasive materials.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Butterfly clasp",
+    "short": "Symmetrical folding clasp design resembling butterfly wings",
+    "category": "Clasp"
+  },
+  {
+    "term": "C.O.S.C. Certificate",
+    "short": "Official document proving watch movement meets chronometer precision standards",
+    "category": "Certification"
+  },
+  {
+    "term": "C1",
+    "short": "Early luminous compound containing radium, historically used before safer alternatives were developed",
+    "category": "Materials"
+  },
+  {
+    "term": "C3",
+    "short": "Vintage radium-based luminous material formerly used on watches, now obsolete due to radioactivity",
+    "category": "Materials"
+  },
+  {
+    "term": "Calatrava",
+    "short": "Patek Philippe's classic round dress watch collection established in 1932",
+    "category": "Model"
+  },
+  {
+    "term": "Calf Hair Strap",
+    "short": "Textured leather with preserved animal hair, distinctive pattern and feel",
+    "category": "Strap"
+  },
+  {
+    "term": "Calf Leather",
+    "short": "Smooth, fine-grained leather from young cattle, versatile and refined",
+    "category": "Strap"
+  },
+  {
+    "term": "Caliber",
+    "short": "Specific model designation of a watch movement, identifying its design and specifications.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber Number",
+    "short": "Designation for specific movement type used in a watch, identifies internal mechanical components",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Cannon Pinion",
+    "short": "Hollow pinion on center wheel shaft that drives minute wheel and hour wheel gearing",
+    "category": "Movement"
+  },
+  {
+    "term": "Canvas Strap",
+    "short": "Heavy-duty cotton fabric strap, casual aesthetic, durable and affordable",
+    "category": "Strap"
+  },
+  {
+    "term": "Caoutchouc",
+    "short": "Natural rubber material, flexible and durable, used in vintage and modern straps",
+    "category": "Strap"
+  },
+  {
+    "term": "Carbon Dial",
+    "short": "Carbon fiber or carbon composite dial offering lightweight durability and contemporary appearance",
+    "category": "Dial"
+  },
+  {
+    "term": "Carbon Fiber",
+    "short": "Lightweight composite material used in modern sports and racing watch cases",
+    "category": "Materials"
+  },
+  {
+    "term": "Carbotech",
+    "short": "TAG Heuer's proprietary carbon composite material for lightweight, durable watch cases and components.",
+    "category": "Materials"
+  },
+  {
+    "term": "Carrera",
+    "short": "TAG Heuer's sports chronograph named after the Carrera Panamericana race",
+    "category": "Model"
+  },
+  {
+    "term": "Case Back Design",
+    "short": "Solid screw-down backs enhance water resistance versus caseback windows.",
+    "category": "Case"
+  },
+  {
+    "term": "Case back display",
+    "short": "Transparent watch case back allowing visibility of internal movement and complications",
+    "category": "Design"
+  },
+  {
+    "term": "Case Back Seating Tool",
+    "short": "Specialized accessory for case presses designed to properly seat and compress case back gaskets.",
+    "category": "Tools"
+  },
+  {
+    "term": "Case Bracelet Lug",
+    "short": "Reinforced lug connection point for integrated bracelet attachment.",
+    "category": "Case"
+  },
+  {
+    "term": "Case Diameter",
+    "short": "Width of the watch case measured from lug to lug.",
+    "category": "Case"
+  },
+  {
+    "term": "Case Finishing",
+    "short": "Surface treatment of the case: polished, brushed, or combination.",
+    "category": "Case"
+  },
+  {
+    "term": "Case Hardening",
+    "short": "Surface hardening process that hardens outer steel layers while maintaining tough inner core.",
+    "category": "Heat Treatment"
+  },
+  {
+    "term": "Case Lip",
+    "short": "Raised edge around the crystal that protects it from impacts.",
+    "category": "Case"
+  },
+  {
+    "term": "Case Material",
+    "short": "Metal or alloy used for the case: steel, gold, titanium, or bronze.",
+    "category": "Case"
+  },
+  {
+    "term": "Case middle",
+    "short": "Central section of the watch case that houses the dial and movement, between crystal and caseback.",
+    "category": "Case"
+  },
+  {
+    "term": "Case Number",
+    "short": "Manufacturing code engraved on watch case back, sometimes differs from serial number",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Case Opener",
+    "short": "Tool designed to safely open and close watch cases without damage",
+    "category": "Tools"
+  },
+  {
+    "term": "Case Press Hydraulic Cylinder",
+    "short": "Pressurized fluid system in case presses that generates controlled force for crystal and case back sealing.",
+    "category": "Tools"
+  },
+  {
+    "term": "Case Press Load Cell",
+    "short": "Electronic force sensor in modern case presses providing digital readout of applied pressure values.",
+    "category": "Tools"
+  },
+  {
+    "term": "Case Press Pressure Gauge",
+    "short": "Calibrated manometer on case presses indicating applied force in tons or kilograms during assembly.",
+    "category": "Tools"
+  },
+  {
+    "term": "Case Refinishing",
+    "short": "Polishing or brushing watch case to restore original appearance and remove damage",
+    "category": "Refinishing"
+  },
+  {
+    "term": "Case Sealing",
+    "short": "Application of sealant compounds to ensure water resistance and dust protection",
+    "category": "Maintenance"
+  },
+  {
+    "term": "Case Thickness",
+    "short": "Height of the watch case from caseback to crystal.",
+    "category": "Case"
+  },
+  {
+    "term": "Case Wear",
+    "short": "Visible signs of use on watch case including scratches, dents, and polishing marks",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Caseback",
+    "short": "Cover plate on the back of the case, removable or fixed.",
+    "category": "Case"
+  },
+  {
+    "term": "Caseback Engraving",
+    "short": "Custom text or designs etched onto the back cover of the case.",
+    "category": "Case"
+  },
+  {
+    "term": "Casemaker",
+    "short": "Specialized artisan or manufacturer producing watch cases from precious metals",
+    "category": "Industry"
+  },
+  {
+    "term": "Casing Back Tool",
+    "short": "Tool used to safely open and close screw-down case backs without damage",
+    "category": "Tools"
+  },
+  {
+    "term": "Celestial Chart",
+    "short": "Dial representation showing positions of stars, constellations, and celestial bodies.",
+    "category": "Complications"
+  },
+  {
+    "term": "Center Wheel",
+    "short": "Main wheel rotating once per hour, drives minute wheel and hour wheel via cannon pinion",
+    "category": "Movement"
+  },
+  {
+    "term": "Cerachrom",
+    "short": "Rolex ceramic bezel insert technology offering scratch and fade resistance with color permanence.",
+    "category": "Materials"
+  },
+  {
+    "term": "Cerakote",
+    "short": "Ceramic-based protective coating used on watch components for enhanced durability and corrosion resistance",
+    "category": "Materials"
+  },
+  {
+    "term": "Cerakote bezel",
+    "short": "Ceramic insert bezel technology providing superior scratch and fade resistance.",
+    "category": "Materials"
+  },
+  {
+    "term": "Ceramic",
+    "short": "Hard, scratch-resistant material used for bezels, case inserts, and dial elements",
+    "category": "Materials"
+  },
+  {
+    "term": "Ceramic Bezel",
+    "short": "Highly scratch-resistant bezel insert made from advanced ceramic materials for durability.",
+    "category": "Case"
+  },
+  {
+    "term": "Ceramic Bracelet",
+    "short": "Watch bracelet made from ceramic, hypoallergenic, scratch-resistant, lightweight",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Ceramic Case",
+    "short": "High-tech ceramic material used for watch cases, providing scratch resistance and thermal stability.",
+    "category": "Materials"
+  },
+  {
+    "term": "Ceramic Insert",
+    "short": "Durable scratch-resistant material inlaid in rotating bezel",
+    "category": "Dial"
+  },
+  {
+    "term": "Challenge Diving",
+    "short": "Watches pushed to extreme depths beyond normal certification limits.",
+    "category": "Diving"
+  },
+  {
+    "term": "Chamfered lugs",
+    "short": "Precisely beveled watch attachment points for refined appearance",
+    "category": "Finishing"
+  },
+  {
+    "term": "Chamfering",
+    "short": "Cutting beveled edges on components to eliminate sharp corners and improve aesthetics.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Champleve",
+    "short": "Decoration technique where designs are engraved and filled with enamel or contrasting materials.",
+    "category": "Decoration"
+  },
+  {
+    "term": "Champlevé",
+    "short": "Enameling technique where design areas are recessed into metal then filled with colored enamel.",
+    "category": "Treatments"
+  },
+  {
+    "term": "Chapter Ring",
+    "short": "Separate ring containing hour markers applied to dial surface",
+    "category": "Dial"
+  },
+  {
+    "term": "Charging time",
+    "short": "Duration of light exposure required for photoluminescent materials to achieve maximum brightness",
+    "category": "Materials"
+  },
+  {
+    "term": "Checkering",
+    "short": "Creating repetitive diamond or square grid pattern on watch surfaces for tactile texture.",
+    "category": "Decoration"
+  },
+  {
+    "term": "Chromalight",
+    "short": "Rolex's proprietary luminous material providing blue glow and superior visibility in darkness.",
+    "category": "Dial"
+  },
+  {
+    "term": "Chromium Plating",
+    "short": "Hard chrome coating process providing extreme hardness and mirror-like reflective finish.",
+    "category": "Surface Coating"
+  },
+  {
+    "term": "Chronergy",
+    "short": "Rolex's escapement system improving efficiency and precision in watches",
+    "category": "Movement"
+  },
+  {
+    "term": "Chronergy Escapement",
+    "short": "Rolex innovation, improved efficiency over standard escapement, reduces friction and wear",
+    "category": "Movement"
+  },
+  {
+    "term": "Chronograph",
+    "short": "Complication allowing precise measurement of elapsed time with start, stop, and reset functions via pushers.",
+    "category": "Complications"
+  },
+  {
+    "term": "Chronograph Flyback",
+    "short": "Chronograph feature allowing single-button reset while running, then immediate restart.",
+    "category": "Complications"
+  },
+  {
+    "term": "Chronograph Function",
+    "short": "Integrated stopwatch mechanism allowing precise timing of elapsed intervals independently.",
+    "category": "Complication"
+  },
+  {
+    "term": "Chronograph Hand Stack",
+    "short": "Multiple chronograph hands pivoting from center of dial for simultaneous event timing.",
+    "category": "Complications"
+  },
+  {
+    "term": "Chronograph Module",
+    "short": "Integrated or modular addition to base movement for stopwatch function, 7750, 8900 examples",
+    "category": "Movement"
+  },
+  {
+    "term": "Chronograph Mono-Pusher",
+    "short": "Chronograph operated by a single button controlling start, stop, and reset functions sequentially.",
+    "category": "Complications"
+  },
+  {
+    "term": "Chronograph Movement",
+    "short": "Mechanical movement with integrated stopwatch function including start, stop, and reset buttons.",
+    "category": "Movement"
+  },
+  {
+    "term": "Chronograph Service",
+    "short": "Complete servicing of chronograph movement and pusher mechanisms",
+    "category": "Service"
+  },
+  {
+    "term": "Chronograph Three-Pusher",
+    "short": "Traditional chronograph with individual pushers for start, stop, and reset for maximum control.",
+    "category": "Complications"
+  },
+  {
+    "term": "Chronograph Two-Pusher",
+    "short": "Chronograph with separate pushers for start/stop and reset functions for easier operation.",
+    "category": "Complications"
+  },
+  {
+    "term": "Chronometer",
+    "short": "High-precision movement certified to meet strict accuracy standards, typically -4/+6 seconds.",
+    "category": "Movement"
+  },
+  {
+    "term": "Chronometer Certification",
+    "short": "Official certification verifying movement accuracy within specific daily rate tolerances.",
+    "category": "Movement"
+  },
+  {
+    "term": "Chronometer Escapement",
+    "short": "Precision escapement design using detent mechanism for improved accuracy and lower friction.",
+    "category": "Movement"
+  },
+  {
+    "term": "Chronometer Function",
+    "short": "High-precision movement meeting COSC standards with chronometer certification, achieving ±-4/+6 seconds accuracy.",
+    "category": "Complications"
+  },
+  {
+    "term": "Chronometer rate",
+    "short": "Measurement of how accurately a chronometer maintains timekeeping over extended periods",
+    "category": "History"
+  },
+  {
+    "term": "Chronometer Rating",
+    "short": "Official COSC certification grade indicating movement precision within specific tolerances",
+    "category": "Certification"
+  },
+  {
+    "term": "Chronometer Standard",
+    "short": "Set of rigorous testing criteria ensuring exceptional timekeeping precision.",
+    "category": "Certification"
+  },
+  {
+    "term": "Chronometer Testing",
+    "short": "Testing of movement rate accuracy to verify chronometer certification standards",
+    "category": "Testing"
+  },
+  {
+    "term": "Chronometric Accuracy",
+    "short": "Degree to which watch maintains precise and consistent timekeeping.",
+    "category": "Certification"
+  },
+  {
+    "term": "Chronometric precision",
+    "short": "Standard of accuracy required for movements to be officially certified as chronometer-quality",
+    "category": "History"
+  },
+  {
+    "term": "Circular graining",
+    "short": "Concentric circular pattern applied to surface through abrasive finishing",
+    "category": "Finishing"
+  },
+  {
+    "term": "Click",
+    "short": "Spring-loaded component that engages the ratchet wheel to prevent backward mainspring rotation.",
+    "category": "Movement"
+  },
+  {
+    "term": "Cloisonné",
+    "short": "Enameling technique using thin metal walls to contain and separate colored enamel sections.",
+    "category": "Decoration"
+  },
+  {
+    "term": "Clutch Wheel",
+    "short": "Wheel that couples or decouples train wheels during winding versus timekeeping modes",
+    "category": "Movement"
+  },
+  {
+    "term": "Co-axial Escapement",
+    "short": "Modern escapement with concentric design reducing friction and improving chronometer performance.",
+    "category": "Movement"
+  },
+  {
+    "term": "Coaxial Escapement",
+    "short": "Co-axial mechanism reducing friction between escapement components for improved accuracy",
+    "category": "Movement"
+  },
+  {
+    "term": "Cochlea",
+    "short": "Spiral-shaped component in the mainspring barrel",
+    "category": "Movement"
+  },
+  {
+    "term": "Cock",
+    "short": "Single-sided metal bridge that supports one end of a pivot; commonly used for balance wheel.",
+    "category": "Movement"
+  },
+  {
+    "term": "Cock Screws",
+    "short": "Specialized screws securing the balance cock to the movement plate",
+    "category": "Movement"
+  },
+  {
+    "term": "Codependency",
+    "short": "Interaction between multiple complications affecting overall function",
+    "category": "Complications"
+  },
+  {
+    "term": "Coefficient of Expansion",
+    "short": "Rate at which case materials expand with temperature changes",
+    "category": "Materials"
+  },
+  {
+    "term": "Coin Edge Bezel",
+    "short": "Bezel with raised ridges resembling coin milling for grip",
+    "category": "Dial"
+  },
+  {
+    "term": "Coin-Edge Bezel",
+    "short": "Bezel with concentric circular ridges resembling coin edge, providing enhanced grip",
+    "category": "Bezel"
+  },
+  {
+    "term": "Coinage Bezel",
+    "short": "Bezel with raised ridged edge resembling coin milling",
+    "category": "Case"
+  },
+  {
+    "term": "Coke GMT",
+    "short": "GMT-Master II with red and black bezel insert, resembling Coca-Cola branding.",
+    "category": "History"
+  },
+  {
+    "term": "Cold Turning",
+    "short": "Machining technique performed without heat application",
+    "category": "Tools"
+  },
+  {
+    "term": "Collection strategy",
+    "short": "Deliberate plan guiding watch acquisitions based on themes, brands, or complications",
+    "category": "Collecting"
+  },
+  {
+    "term": "Collet",
+    "short": "Small metal tube fixing hairspring to balance wheel staff or collet holder",
+    "category": "Movement"
+  },
+  {
+    "term": "Collet Chuck",
+    "short": "Precision clamping device for holding small watch components",
+    "category": "Tools"
+  },
+  {
+    "term": "Collet Closing Sleeve",
+    "short": "Draw tube mechanism on precision watch lathes that tightens collets for secure component holding.",
+    "category": "Tools"
+  },
+  {
+    "term": "Collet Closure",
+    "short": "Spring-loaded mechanism securing watch crystal to case",
+    "category": "Case"
+  },
+  {
+    "term": "Collimator",
+    "short": "Optical instrument used in precision dial finishing verification",
+    "category": "Tools"
+  },
+  {
+    "term": "Column Wheel",
+    "short": "Chronograph component controlling start/stop, found in 7750 and 321, superior precision",
+    "category": "Movement"
+  },
+  {
+    "term": "Comex dial",
+    "short": "Specialized dial for commercial diving watch, often with unique printing or design.",
+    "category": "History"
+  },
+  {
+    "term": "Compass Bezel",
+    "short": "Rotating bezel marked with cardinal directions for navigation",
+    "category": "Dial"
+  },
+  {
+    "term": "Compensation balance",
+    "short": "Balance wheel designed to maintain accurate rate despite temperature fluctuations",
+    "category": "History"
+  },
+  {
+    "term": "Compensation curb",
+    "short": "Historical device used to adjust effective hairspring length for rate regulation",
+    "category": "History"
+  },
+  {
+    "term": "Complication",
+    "short": "Any function beyond basic timekeeping, such as chronograph or annual calendar",
+    "category": "Industry"
+  },
+  {
+    "term": "Complications Suite",
+    "short": "Multiple complex functions combined in single timepiece",
+    "category": "Complications"
+  },
+  {
+    "term": "Component Replacement",
+    "short": "Substitution of worn or damaged individual watch parts during service",
+    "category": "Parts"
+  },
+  {
+    "term": "Concave Dial",
+    "short": "Inward-curved dial surface creating depth illusion",
+    "category": "Dial"
+  },
+  {
+    "term": "Concentric Circles",
+    "short": "Nested circular patterns on dial creating depth and visual layering.",
+    "category": "Dial"
+  },
+  {
+    "term": "Concentric Guilloche",
+    "short": "Decorative pattern of nested circular lines on dial or case",
+    "category": "Dial"
+  },
+  {
+    "term": "Concentric Rings",
+    "short": "Multiple circular scales or rings printed concentrically on dial",
+    "category": "Dial"
+  },
+  {
+    "term": "Condensation Resistance",
+    "short": "Case seal capability preventing internal moisture accumulation",
+    "category": "Case"
+  },
+  {
+    "term": "Conical Pivots",
+    "short": "Tapered pivot points reducing bearing friction in movement",
+    "category": "Movement"
+  },
+  {
+    "term": "Connector Bar",
+    "short": "Metal link joining lug to bracelet or strap attachment point",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Conquest Line",
+    "short": "Historical watch model series emphasizing robust construction",
+    "category": "History"
+  },
+  {
+    "term": "Constant Force",
+    "short": "Mechanism maintaining consistent power delivery to the movement throughout the mainspring's unwind.",
+    "category": "Movement"
+  },
+  {
+    "term": "Constant Force Escapement",
+    "short": "Mechanism maintaining uniform force delivery to regulating organ",
+    "category": "Movement"
+  },
+  {
+    "term": "Constructor Movement",
+    "short": "In-house developed and manufactured caliber by manufacturer",
+    "category": "Movement"
+  },
+  {
+    "term": "Contact Plate",
+    "short": "Metallic surface on bezel insert for tactile engagement feedback",
+    "category": "Case"
+  },
+  {
+    "term": "Contextual Awareness Engine",
+    "short": "AI algorithm determining user activity and environmental context to optimize power consumption",
+    "category": "Movement"
+  },
+  {
+    "term": "Continuous Power Reserve",
+    "short": "Mechanism extending power storage across multiple barrels",
+    "category": "Complications"
+  },
+  {
+    "term": "Contour Finishing",
+    "short": "Case surface treatment following case shape contours",
+    "category": "Case"
+  },
+  {
+    "term": "Contrast Dial",
+    "short": "High-contrast dial design for easy reading underwater in low light conditions.",
+    "category": "Dial"
+  },
+  {
+    "term": "Convex Crystal",
+    "short": "Outward-bulging sapphire or mineral glass cover lens",
+    "category": "Case"
+  },
+  {
+    "term": "Copper Balance",
+    "short": "Balance wheel incorporating copper for temperature compensation",
+    "category": "Movement"
+  },
+  {
+    "term": "Cordura strap",
+    "short": "Durable synthetic fabric strap with reinforced weave, resistant to abrasion",
+    "category": "Strap"
+  },
+  {
+    "term": "Core Movement",
+    "short": "Base caliber upon which additional complications are added",
+    "category": "Movement"
+  },
+  {
+    "term": "Corne de Vache",
+    "short": "Elongated curved horn-shaped lug design for comfort",
+    "category": "Case"
+  },
+  {
+    "term": "Corniche Case",
+    "short": "Rounded rectangular case shape with integrated lugs",
+    "category": "Case"
+  },
+  {
+    "term": "Coronet crown",
+    "short": "Rolex crown logo with distinctive coronet design, trademark of the brand.",
+    "category": "Design"
+  },
+  {
+    "term": "Corrosion Inhibitor",
+    "short": "Protective coating preventing oxidation of metal components",
+    "category": "Materials"
+  },
+  {
+    "term": "COSC",
+    "short": "Contrôle Officiel Suisse des Chronomètres - Swiss official chronometer testing institute",
+    "category": "Certification"
+  },
+  {
+    "term": "COSC Certification",
+    "short": "Swiss Official Chronometer Testing Institute certification for precision mechanical movements.",
+    "category": "Movement"
+  },
+  {
+    "term": "COSC Tolerance",
+    "short": "Chronometer standard: -4 to +6 seconds per day maximum variation.",
+    "category": "Certification"
+  },
+  {
+    "term": "Cosmic Ray Testing",
+    "short": "Extreme altitude testing verifying chronometer performance stability",
+    "category": "Certification"
+  },
+  {
+    "term": "Cotes de Geneve",
+    "short": "Traditional decoration of parallel lines on watch movements, hallmark of Geneva watchmaking.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Côtes de Genève",
+    "short": "Geneva stripes; parallel lines decorating watch movement surfaces for aesthetic finish",
+    "category": "Manufacture"
+  },
+  {
+    "term": "Count-Up Bezel",
+    "short": "Bezel with numbers increasing from zero for elapsed time tracking",
+    "category": "Dial"
+  },
+  {
+    "term": "Counter Dial",
+    "short": "Secondary subdial displaying alternative time or function measurement",
+    "category": "Dial"
+  },
+  {
+    "term": "Counter Gauge",
+    "short": "Tool measuring subdial counter positioning and spacing accuracy",
+    "category": "Tools"
+  },
+  {
+    "term": "Coupled Chronograph",
+    "short": "Chronograph integrated with main timekeeping mechanism sharing components",
+    "category": "Complications"
+  },
+  {
+    "term": "Coupling Clutch",
+    "short": "Friction device connecting chronograph to main movement when activated",
+    "category": "Movement"
+  },
+  {
+    "term": "Course Correction Adjuster",
+    "short": "Fine-tuning mechanism for rate adjustment in movement",
+    "category": "Movement"
+  },
+  {
+    "term": "Crinkle Lume",
+    "short": "Luminous material with textured surface increasing light absorption",
+    "category": "Dial"
+  },
+  {
+    "term": "Crocodile Porosus",
+    "short": "Saltwater crocodile leather with distinctive square scales, premium luxury material",
+    "category": "Strap"
+  },
+  {
+    "term": "Cross Staff",
+    "short": "Cruciform component in escapement connecting to balance wheel",
+    "category": "Movement"
+  },
+  {
+    "term": "Cross-brushing",
+    "short": "Multi-directional brushing creating crosshatch texture pattern",
+    "category": "Finishing"
+  },
+  {
+    "term": "Cross-Platform Synchronization Protocol",
+    "short": "Bridging standard enabling seamless data transfer between smartwatch and smartphone ecosystems",
+    "category": "Movement"
+  },
+  {
+    "term": "Crosshair Dial",
+    "short": "Dial with cross or target pattern in center for vintage military style",
+    "category": "Dial"
+  },
+  {
+    "term": "Crown",
+    "short": "Knob on the case used to wind the watch and adjust the time.",
+    "category": "Case"
+  },
+  {
+    "term": "Crown at 6 o'clock",
+    "short": "Non-standard crown position at the bottom of the case, reducing accidental crown bumps while worn.",
+    "category": "Case"
+  },
+  {
+    "term": "Crown at 9 o'clock",
+    "short": "Crown positioned on the left side of the case, designed for comfortable left-handed operation.",
+    "category": "Case"
+  },
+  {
+    "term": "Crown Gasket",
+    "short": "Elastomer seal preventing moisture entry through crown tube",
+    "category": "Case"
+  },
+  {
+    "term": "Crown Guard",
+    "short": "Protective structure around the crown to prevent accidental damage.",
+    "category": "Case"
+  },
+  {
+    "term": "Crown guards",
+    "short": "Protective extensions or shield around the crown preventing accidental bumps and damage.",
+    "category": "Case"
+  },
+  {
+    "term": "Crown Removal Tool",
+    "short": "Specialized tool for extracting watch crown with minimal damage to threads",
+    "category": "Tools"
+  },
+  {
+    "term": "Crown Shoulders",
+    "short": "Sloped or angular sections connecting the crown to the case.",
+    "category": "Case"
+  },
+  {
+    "term": "Crown Tube",
+    "short": "Internal stem that connects the crown to the movement.",
+    "category": "Case"
+  },
+  {
+    "term": "Crown-Up Position",
+    "short": "Vertical crown-up position used in timing measurement protocol.",
+    "category": "Testing"
+  },
+  {
+    "term": "Crystal",
+    "short": "Transparent cover protecting the dial, typically sapphire or mineral glass.",
+    "category": "Case"
+  },
+  {
+    "term": "Crystal Centering Ring",
+    "short": "Precision guidance collar in case presses that aligns watch crystals before pressing operations.",
+    "category": "Tools"
+  },
+  {
+    "term": "Crystal Recess",
+    "short": "Recessed channel in case middle holding crystal edge",
+    "category": "Case"
+  },
+  {
+    "term": "Crystal Replacement",
+    "short": "Replacement of watch face glass or plastic when scratched or broken",
+    "category": "Parts"
+  },
+  {
+    "term": "Crystal Tension Ring",
+    "short": "Beveled metal ring compressing crystal into case with precise pressure",
+    "category": "Case"
+  },
+  {
+    "term": "Culmination Point",
+    "short": "Moment when chronograph hand reaches maximum measurement capacity",
+    "category": "Complications"
+  },
+  {
+    "term": "Curvex Case",
+    "short": "Cushion-shaped case with curved sides and rounded corners",
+    "category": "Case"
+  },
+  {
+    "term": "Cushion case",
+    "short": "Rounded square case shape with softly curved corners, popular in vintage and modern watches.",
+    "category": "Case"
+  },
+  {
+    "term": "Custom Dial",
+    "short": "Dial specifically designed for individual client specifications",
+    "category": "Dial"
+  },
+  {
+    "term": "Custom Marker Set",
+    "short": "Uniquely designed hour indices created for specific model",
+    "category": "Dial"
+  },
+  {
+    "term": "Cyclops date window",
+    "short": "Magnifying lens over date window, standard Rolex feature magnifying by 2.5x.",
+    "category": "Design"
+  },
+  {
+    "term": "Cyclops lens",
+    "short": "Rolex's magnifying lens over date window magnifying by 2.5 times",
+    "category": "Dial"
+  },
+  {
+    "term": "Cyclops Magnification",
+    "short": "Magnifying lens over date window enlarging numerals 2.5 times",
+    "category": "Case"
+  },
+  {
+    "term": "Cylindrical Balance Wheel",
+    "short": "Balance wheel with drum-shaped mass distribution design",
+    "category": "Movement"
+  },
+  {
+    "term": "Cylindrical Pivot",
+    "short": "Standard rounded pivot point between movement components",
+    "category": "Movement"
+  },
+  {
+    "term": "Daily beater",
+    "short": "Reliable, affordable watch worn regularly without concern for damage or wear",
+    "category": "Lifestyle"
+  },
+  {
+    "term": "Daily Rate",
+    "short": "Average gain or loss in seconds measured over a 24-hour period.",
+    "category": "Timekeeping"
+  },
+  {
+    "term": "Damascene Inlay",
+    "short": "Decorative technique using contrasting metal wire for surface patterns",
+    "category": "Dial"
+  },
+  {
+    "term": "Damascening",
+    "short": "Technique of inlaying precious metals into steel to create decorative contrasting patterns.",
+    "category": "Decoration"
+  },
+  {
+    "term": "Damper Spring",
+    "short": "Secondary spring reducing oscillation in balance wheel assembly",
+    "category": "Movement"
+  },
+  {
+    "term": "Date Corrector",
+    "short": "Quick-set mechanism advancing calendar without advancing hour hand",
+    "category": "Complications"
+  },
+  {
+    "term": "Date Ring",
+    "short": "Rotating disc beneath dial displaying current calendar date",
+    "category": "Dial"
+  },
+  {
+    "term": "Date Wheel Service",
+    "short": "Inspection and replacement of date mechanism components if necessary",
+    "category": "Service"
+  },
+  {
+    "term": "Date Wheel Thickness",
+    "short": "Measurement specifying date disc component dimensions",
+    "category": "Movement"
+  },
+  {
+    "term": "Date Window",
+    "short": "Simple complication displaying the current date, typically requiring manual adjustment for months with fewer days.",
+    "category": "Complications"
+  },
+  {
+    "term": "Datejust",
+    "short": "Rolex's legendary watch with cyclops magnifier over date window since 1945",
+    "category": "Model"
+  },
+  {
+    "term": "Dauphine hands",
+    "short": "Tapered luxedo-style hands typical of dress watches like Cartier Tank",
+    "category": "Dial"
+  },
+  {
+    "term": "Day-Date",
+    "short": "Watch displaying both day and date windows, often referred to as the President watch.",
+    "category": "Watch Types"
+  },
+  {
+    "term": "Day-Date Complication",
+    "short": "Displays day and date, common in NH35 and mid-tier movements, adds mechanical complexity",
+    "category": "Movement"
+  },
+  {
+    "term": "Day-Date Display",
+    "short": "Dual window showing both day of week and date of month simultaneously on the dial.",
+    "category": "Complications"
+  },
+  {
+    "term": "Day-Date Window",
+    "short": "Twin windows displaying both day of week and calendar date in separate apertures",
+    "category": "Dial"
+  },
+  {
+    "term": "Day-Night Indicator",
+    "short": "Subdial showing whether current time is daytime or nighttime",
+    "category": "Complications"
+  },
+  {
+    "term": "Daytona",
+    "short": "Rolex's legendary racing chronograph named after Daytona International Speedway",
+    "category": "Model"
+  },
+  {
+    "term": "Deactivation Spring",
+    "short": "Component disengaging chronograph mechanism when pusher released",
+    "category": "Movement"
+  },
+  {
+    "term": "Dead Seconds",
+    "short": "Jumping seconds hand that advances in discrete steps rather than continuously, European term.",
+    "category": "Complications"
+  },
+  {
+    "term": "Dead-Beat Seconds",
+    "short": "Seconds hand that advances in discrete ticks rather than smoothly, pausing between each second.",
+    "category": "Complications"
+  },
+  {
+    "term": "Decimal Chronograph",
+    "short": "Chronograph with dial divisions marked in tenths of a second rather than traditional fifths.",
+    "category": "Complications"
+  },
+  {
+    "term": "Decimal Time Display",
+    "short": "Shows time in decimal system dividing the day into 10 hours, used in scientific or historical contexts.",
+    "category": "Complications"
+  },
+  {
+    "term": "Deck Watch",
+    "short": "Robust nautical timepiece used on ship decks, predecessor to modern dive watches.",
+    "category": "History"
+  },
+  {
+    "term": "Decompression",
+    "short": "Controlled ascent process to safely release gases from diver's body and equipment.",
+    "category": "Diving"
+  },
+  {
+    "term": "Deep Sea",
+    "short": "Watches certified for extreme depth diving; typically 1000m or greater.",
+    "category": "Diving"
+  },
+  {
+    "term": "Degaussing",
+    "short": "Process of removing accumulated magnetism from watch components.",
+    "category": "Maintenance"
+  },
+  {
+    "term": "Demagnetizing",
+    "short": "Process of removing unwanted magnetic charge from watch movement parts",
+    "category": "Service"
+  },
+  {
+    "term": "Deployant Clasp",
+    "short": "Folding buckle that extends from the wrist and folds closed securely.",
+    "category": "Clasp"
+  },
+  {
+    "term": "Deployment clasp",
+    "short": "Fold-over mechanism that deploys outward from watch case for secure fastening",
+    "category": "Clasp"
+  },
+  {
+    "term": "Depth",
+    "short": "Engagement depth between escape wheel and pallet fork affecting timekeeping stability",
+    "category": "Movement"
+  },
+  {
+    "term": "Depth Gauge",
+    "short": "Analog dial indication of current water depth; requires special pressure sensor.",
+    "category": "Dial"
+  },
+  {
+    "term": "Depth Rating",
+    "short": "Water resistance scale printed on dial indicating maximum depth",
+    "category": "Dial"
+  },
+  {
+    "term": "Destro",
+    "short": "Italian term for left-handed; watch with crown at 9 o'clock for left-handed wearers.",
+    "category": "Case"
+  },
+  {
+    "term": "Detached escapement",
+    "short": "Escapement design where the balance wheel operates independently during most of its oscillation",
+    "category": "History"
+  },
+  {
+    "term": "Deviation Tolerance",
+    "short": "Maximum allowable variation from mean daily rate per standards.",
+    "category": "Certification"
+  },
+  {
+    "term": "Dial Enamel",
+    "short": "Glass-like coating applied to watch dials for durability and aesthetic finish",
+    "category": "Materials"
+  },
+  {
+    "term": "Dial Feet",
+    "short": "Small posts on dial underside securing it to movement bridges.",
+    "category": "Dial"
+  },
+  {
+    "term": "Dial finishing",
+    "short": "Surface treatment of watch dial including sunburst, guilloche, or matte patterns",
+    "category": "Design"
+  },
+  {
+    "term": "Dial luminance",
+    "short": "Level of brightness emitted by luminous dial and hand coating in low-light conditions",
+    "category": "Display"
+  },
+  {
+    "term": "Dial Painter",
+    "short": "Skilled craftsperson hand-painting and decorating watch dials with precision",
+    "category": "Manufacture"
+  },
+  {
+    "term": "Dial Printing",
+    "short": "Text and markings applied to dial surface, condition indicates authenticity and age of watch",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Dial Printing Check",
+    "short": "Inspection of dial printing integrity to ensure legibility and adhesion",
+    "category": "Inspection"
+  },
+  {
+    "term": "Dial Restoration",
+    "short": "Repair or refinishing of watch dial to restore legibility and appearance",
+    "category": "Refinishing"
+  },
+  {
+    "term": "Dial Ring",
+    "short": "Outer circumferential section of dial, often featuring minute markers.",
+    "category": "Dial"
+  },
+  {
+    "term": "Dial Subdial",
+    "short": "Secondary small dial positioned within main dial for functions like chronograph or GMT",
+    "category": "Dial"
+  },
+  {
+    "term": "Dial-Up Position",
+    "short": "Horizontal dial-facing-up position used in timing measurement.",
+    "category": "Testing"
+  },
+  {
+    "term": "Differential Complication",
+    "short": "Mechanism mechanically adding or subtracting time from two different sources to derive a third function.",
+    "category": "Complications"
+  },
+  {
+    "term": "Digital Display",
+    "short": "Mechanical display of time using numerals in windows rather than traditional hands.",
+    "category": "Complications"
+  },
+  {
+    "term": "Direct Impulse",
+    "short": "Escapement design delivering impulse directly to the balance wheel, reducing energy loss.",
+    "category": "Movement"
+  },
+  {
+    "term": "Distortion-free polishing",
+    "short": "Precision polishing preventing surface warping or reflection distortion",
+    "category": "Finishing"
+  },
+  {
+    "term": "Distressed Leather",
+    "short": "Leather deliberately treated to appear worn, aged, or used for vintage aesthetic",
+    "category": "Strap"
+  },
+  {
+    "term": "Dive Bezel",
+    "short": "Rotating bezel with markings for underwater timing and decompression",
+    "category": "Dial"
+  },
+  {
+    "term": "Dive Computer Integration",
+    "short": "Watches combining traditional timekeeping with electronic dive computer functions.",
+    "category": "Features"
+  },
+  {
+    "term": "Dive Watch",
+    "short": "Water-resistant timepiece rated for underwater use, featuring rotating bezel and luminous markers.",
+    "category": "Watch Types"
+  },
+  {
+    "term": "Diver Extension",
+    "short": "Expandable bracelet segment or strap allowing watch to fit over wet suit.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Diver's Watch",
+    "short": "Specialized dive watch meeting ISO standards for underwater use and decompression safety.",
+    "category": "Water Sports"
+  },
+  {
+    "term": "Diving bezel",
+    "short": "Rotating bezel with timing marks for underwater use, typically unidirectional for safety during dives.",
+    "category": "Case"
+  },
+  {
+    "term": "Diving extension",
+    "short": "Extending bracelet or strap designed to fit over wetsuits or thick clothing",
+    "category": "Extension"
+  },
+  {
+    "term": "DLC Coating",
+    "short": "Diamond-Like Carbon coating providing extreme hardness and scratch resistance",
+    "category": "Materials"
+  },
+  {
+    "term": "Double Seal",
+    "short": "Two gasket seals on crown and case back for improved water resistance.",
+    "category": "Case"
+  },
+  {
+    "term": "Double Split-Seconds Chronograph",
+    "short": "Two superimposed chronograph hands allowing simultaneous timing of multiple independent events.",
+    "category": "Complications"
+  },
+  {
+    "term": "Double Tourbillon",
+    "short": "Two independent tourbillons rotating in opposite directions for improved chronometric performance.",
+    "category": "Complications"
+  },
+  {
+    "term": "Dress Watch",
+    "short": "Elegant timepiece designed for formal occasions, typically thin with minimalist dial and leather strap.",
+    "category": "Watch Types"
+  },
+  {
+    "term": "Drilled lugs",
+    "short": "Lugs with holes for direct strap attachment, found on vintage military watches.",
+    "category": "Design"
+  },
+  {
+    "term": "Driver's watch",
+    "short": "Watch with crown positioned at 3 o'clock, designed to be worn on the right wrist for left-handed operation.",
+    "category": "Case"
+  },
+  {
+    "term": "Drop",
+    "short": "Angular clearance allowing pallet fork to separate from escape wheel teeth",
+    "category": "Movement"
+  },
+  {
+    "term": "Dual Barrel",
+    "short": "Two mainsprings in series, increases power reserve, common in chronograph movements like 9300",
+    "category": "Movement"
+  },
+  {
+    "term": "Dual Time Zone",
+    "short": "Displays two different time zones simultaneously, typically with a 24-hour hand tracking second zone.",
+    "category": "Complications"
+  },
+  {
+    "term": "Dual-Layer Case Architecture",
+    "short": "Hybrid watch design housing analog movement beneath integrated digital sensor layer",
+    "category": "Case"
+  },
+  {
+    "term": "E-Ink Display Technology",
+    "short": "Low-power reflective screen used in hybrid watches for extended battery life",
+    "category": "Dial"
+  },
+  {
+    "term": "Easylink",
+    "short": "Quick-adjust bracelet extension system allowing rapid sizing adjustment",
+    "category": "Clasp"
+  },
+  {
+    "term": "Easylink bracelet",
+    "short": "Rolex's quick extension system allowing additional links to be added",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Ebauche",
+    "short": "Unfinished watch movement; semi-completed base for assembly and finishing",
+    "category": "Manufacture"
+  },
+  {
+    "term": "Ébauche",
+    "short": "Unfinished watch movement blank purchased by brands for assembly and finishing",
+    "category": "Technical"
+  },
+  {
+    "term": "Eco-Drive",
+    "short": "Citizen's light-powered technology using any light source to charge the watch indefinitely.",
+    "category": "Movement"
+  },
+  {
+    "term": "Elapsed Time Bezel",
+    "short": "Bezel starting at zero for tracking elapsed time measurement",
+    "category": "Dial"
+  },
+  {
+    "term": "Electrocardiogram (ECG) Module",
+    "short": "Integrated cardiac rhythm sensor for health monitoring in advanced smartwatches",
+    "category": "Complications"
+  },
+  {
+    "term": "Electroplating",
+    "short": "Electrical process coating watch components with thin layers of precious metals like gold.",
+    "category": "Surface Coating"
+  },
+  {
+    "term": "Enamel Dial",
+    "short": "Porcelain-like fired coating providing smooth, durable, and lustrous finish.",
+    "category": "Dial"
+  },
+  {
+    "term": "End Link",
+    "short": "Terminal links connecting the bracelet directly to the watch lugs.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Endlink fit",
+    "short": "Custom connection between bracelet and case lugs for improved aesthetics",
+    "category": "Detail"
+  },
+  {
+    "term": "Engine Turning",
+    "short": "Mechanical engraving technique creating intricate geometric patterns using a rose engine lathe.",
+    "category": "Decoration"
+  },
+  {
+    "term": "Engine-Turned Bezel",
+    "short": "Bezel with intricate geometric pattern created using engine-turning decorative technique",
+    "category": "Bezel"
+  },
+  {
+    "term": "Engineer bracelet",
+    "short": "Robust three-piece link construction with solid links throughout, durable and masculine",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Epsom Leather",
+    "short": "Structured leather with waxy coating, rigid finish, resists water and retains shape",
+    "category": "Strap"
+  },
+  {
+    "term": "Equation Marchante",
+    "short": "Moving hour hand that varies in speed to track the equation of time throughout the year.",
+    "category": "Complications"
+  },
+  {
+    "term": "Equation of Time",
+    "short": "Shows the difference between mean solar time and apparent solar time, ranging from -14 to +16 minutes.",
+    "category": "Complications"
+  },
+  {
+    "term": "Escape Pinion",
+    "short": "Small pinion on escape wheel shaft that meshes with lever or pallet fork",
+    "category": "Movement"
+  },
+  {
+    "term": "Escape Wheel",
+    "short": "Toothed wheel that delivers impulses to the balance wheel via pallet fork",
+    "category": "Movement"
+  },
+  {
+    "term": "Escape Wheel Frequency",
+    "short": "Number of escape wheel teeth engaged per hour; defines movement speed and accuracy rating.",
+    "category": "Movement"
+  },
+  {
+    "term": "Escapement",
+    "short": "Mechanism that releases energy from the mainspring in precise, regulated pulses.",
+    "category": "Movement"
+  },
+  {
+    "term": "Escapement Efficiency",
+    "short": "Energy transfer ratio from mainspring to oscillator, improved in Co-Axial and Chronergy",
+    "category": "Movement"
+  },
+  {
+    "term": "Escapement Inspection",
+    "short": "Close examination of escapement mechanism for wear and proper function",
+    "category": "Inspection"
+  },
+  {
+    "term": "Escapement Wheel",
+    "short": "Toothed wheel in the escapement mechanism that interacts with the lever to release energy.",
+    "category": "Movement"
+  },
+  {
+    "term": "ETA Caliber 2824",
+    "short": "Ubiquitous workhorse movement, 38-hour reserve, automatic, reliable and affordable",
+    "category": "Movement"
+  },
+  {
+    "term": "ETA Caliber 7750",
+    "short": "Legendary chronograph movement, column wheel, 42-hour reserve, widely used by luxury brands",
+    "category": "Movement"
+  },
+  {
+    "term": "ETA movement",
+    "short": "Generic Swiss movement manufactured by ETA SA; widely used in affordable watchmaking",
+    "category": "Technical"
+  },
+  {
+    "term": "Exhibition caseback",
+    "short": "Transparent or open caseback allowing view of the movement, common on mechanical and automatic watches.",
+    "category": "Case"
+  },
+  {
+    "term": "Explorer Polar",
+    "short": "Explorer II with white dial, resembling polar ice fields, reference 16570.",
+    "category": "Aesthetics"
+  },
+  {
+    "term": "Fabric NATO Strap",
+    "short": "NATO design in woven fabric variants, breathable and casual styling option",
+    "category": "Strap"
+  },
+  {
+    "term": "Fabric Strap",
+    "short": "Woven textile strap often used for sport or casual watch applications.",
+    "category": "Strap"
+  },
+  {
+    "term": "Faded Bezel",
+    "short": "Bezel with worn or faded markings from decades of use and UV exposure",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Faded insert",
+    "short": "Aged bezel insert with significant color fading, highly prized by vintage collectors.",
+    "category": "Aesthetics"
+  },
+  {
+    "term": "Faraday Cage",
+    "short": "Soft iron inner case protecting movement from external magnetic field interference.",
+    "category": "Case"
+  },
+  {
+    "term": "Fast/Slow",
+    "short": "Directional adjustment to increase or decrease watch running rate.",
+    "category": "Adjustment"
+  },
+  {
+    "term": "Field Watch",
+    "short": "Rugged military-style watch with clear dial, reliable movement, and durable construction for outdoor use.",
+    "category": "Watch Types"
+  },
+  {
+    "term": "Finishing",
+    "short": "Final decorative and protective treatment of movement and case surfaces",
+    "category": "Manufacture"
+  },
+  {
+    "term": "Firmware Over-The-Air (OTA) Update",
+    "short": "Wireless system uploading software patches directly to wristwatch without dock connection",
+    "category": "Movement"
+  },
+  {
+    "term": "Fixed Bezel",
+    "short": "Stationary bezel integrated into the case, non-rotating.",
+    "category": "Case"
+  },
+  {
+    "term": "Flange",
+    "short": "Raised inner ring on the bezel or dial used for measuring elapsed time on chronograph watches.",
+    "category": "Case"
+  },
+  {
+    "term": "Flieger Watch",
+    "short": "German military pilot watch with dial designed for excellent readability in aircraft cockpits.",
+    "category": "History"
+  },
+  {
+    "term": "Fluted Bezel",
+    "short": "Bezel with vertical grooves or ridges for enhanced grip and aesthetics",
+    "category": "Dial"
+  },
+  {
+    "term": "Flyback Chronograph",
+    "short": "Chronograph that instantly resets and restarts with a single pusher action, without stopping first.",
+    "category": "Complications"
+  },
+  {
+    "term": "Flyback Function",
+    "short": "Chronograph reset mechanism allowing restart without returning to zero, jumping to new time.",
+    "category": "Complications"
+  },
+  {
+    "term": "Flying Tourbillon",
+    "short": "Tourbillon cage mounted on single end, appearing to float without visible lower bridge.",
+    "category": "Complications"
+  },
+  {
+    "term": "Folding Clasp",
+    "short": "Safety clasp that folds closed, providing secure and elegant fastening.",
+    "category": "Clasp"
+  },
+  {
+    "term": "Forged Carbon",
+    "short": "Lightweight carbon fiber composite material creating unique weave patterns in watch cases and dials.",
+    "category": "Materials"
+  },
+  {
+    "term": "Foudroyante",
+    "short": "Lightning-fast subdial hand completing a full rotation in fractions of a second for precise timing.",
+    "category": "Complications"
+  },
+  {
+    "term": "Foxing",
+    "short": "Brown spots or staining on dial caused by oxidation and moisture over decades",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Free sprung balance",
+    "short": "Balance wheel without a regulator index, relying solely on the hairspring for rate adjustment",
+    "category": "History"
+  },
+  {
+    "term": "Frequency",
+    "short": "Number of oscillations per hour; determines movement precision and commonly rated in Hz.",
+    "category": "Movement"
+  },
+  {
+    "term": "Frosted finish",
+    "short": "Translucent matte surface resembling frosted glass appearance",
+    "category": "Finishing"
+  },
+  {
+    "term": "Frosting",
+    "short": "Surface treatment creating a matte, crystalline appearance on watch components.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Full Service",
+    "short": "Complete disassembly, cleaning, and reassembly of watch movement with all parts replaced",
+    "category": "Service"
+  },
+  {
+    "term": "Full Set",
+    "short": "Watch sold with all original components including box, papers, warranty card, and accessories",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Full-Grain Leather",
+    "short": "Top leather layer retaining natural grain, develops character and patina",
+    "category": "Strap"
+  },
+  {
+    "term": "Fumé Dial",
+    "short": "Smoked or translucent dial with gradient coloring from center to edges, appearing misty",
+    "category": "Dial"
+  },
+  {
+    "term": "Fused bezel",
+    "short": "Bezel with insert bonded to aluminum ring using specialized adhesive process.",
+    "category": "Materials"
+  },
+  {
+    "term": "Fusee",
+    "short": "Conical spool that equalizes mainspring force through variable mechanical advantage",
+    "category": "History"
+  },
+  {
+    "term": "Fusee-Chain",
+    "short": "Historical mechanism using a tapering cone to maintain constant torque as mainspring unwinds.",
+    "category": "Movement"
+  },
+  {
+    "term": "Gaining Rate",
+    "short": "Number of seconds per day a watch runs ahead of correct time.",
+    "category": "Timekeeping"
+  },
+  {
+    "term": "Galvanic Treatment",
+    "short": "Electrochemical process depositing thin metal layers onto watch dials for color and finish enhancement.",
+    "category": "Treatments"
+  },
+  {
+    "term": "Gaseous tritium light source",
+    "short": "GTLS technology using tritium gas in sealed tubes to provide continuous watch dial illumination",
+    "category": "Materials"
+  },
+  {
+    "term": "Gasket",
+    "short": "Rubber or synthetic seal that creates water-resistant barriers around openings.",
+    "category": "Case"
+  },
+  {
+    "term": "Gasket Replacement",
+    "short": "Replacement of rubber or synthetic seals that prevent water and dust ingress",
+    "category": "Parts"
+  },
+  {
+    "term": "Gauss",
+    "short": "Unit of measurement for magnetic field strength affecting watches.",
+    "category": "Environmental"
+  },
+  {
+    "term": "Gear Train",
+    "short": "Series of interconnected gears that transmit and regulate energy throughout the movement.",
+    "category": "Movement"
+  },
+  {
+    "term": "Geneva Seal",
+    "short": "Hallmark certifying excellence in watchmaking, awarded by Geneva Canton",
+    "category": "History"
+  },
+  {
+    "term": "Geneva Stripes",
+    "short": "Parallel lines pattern applied to movement plates, also known as Cotes de Geneve or Genevese stripes.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Gesture Detection Algorithm",
+    "short": "Software processing arm movements to trigger watch functions without screen interaction",
+    "category": "Movement"
+  },
+  {
+    "term": "Ghost Bezel",
+    "short": "Faded or nearly invisible bezel markings on vintage sports watches, especially divers",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Gilt",
+    "short": "Thin layer of gold plating applied to brass or other base metals",
+    "category": "Materials"
+  },
+  {
+    "term": "Gilt Dial",
+    "short": "Dial with gold-plated finish giving warm vintage appearance",
+    "category": "Dial"
+  },
+  {
+    "term": "Glide-lock extension",
+    "short": "Sliding adjustment mechanism on dive extension for precise custom fit",
+    "category": "Extension"
+  },
+  {
+    "term": "Glidelock",
+    "short": "Rolex clasp system allowing micro-adjustment with sliding mechanism for easy sizing",
+    "category": "Clasp"
+  },
+  {
+    "term": "Glidelock bracelet",
+    "short": "Rolex's tool-free micro-adjustment bracelet system for dive suit wear",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Glossy Dial",
+    "short": "Shiny dial finish, less common on vintage sports watches, more typical of dress models",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Glow duration",
+    "short": "Time period during which watch lume remains visibly luminous after light exposure stops",
+    "category": "Display"
+  },
+  {
+    "term": "GMT (Greenwich Mean Time)",
+    "short": "Complication displaying two time zones simultaneously, typically with a 24-hour hand for second time zone.",
+    "category": "Complications"
+  },
+  {
+    "term": "GMT Bezel",
+    "short": "Specialized bezel with 24-hour markings for tracking multiple time zones.",
+    "category": "Case"
+  },
+  {
+    "term": "GMT Complication",
+    "short": "Second time zone display allowing simultaneous viewing of time in two different locations.",
+    "category": "Complications"
+  },
+  {
+    "term": "GMT Master",
+    "short": "Rolex dual time zone watch with independent 24-hour hand, developed for airline pilots.",
+    "category": "Icons"
+  },
+  {
+    "term": "GMT Movement",
+    "short": "Specialized movement with independent hour hand for tracking second time zone simultaneously.",
+    "category": "Movement"
+  },
+  {
+    "term": "GMT Scale",
+    "short": "24-hour scale on dial or bezel for tracking second time zone",
+    "category": "Dial"
+  },
+  {
+    "term": "GMT Watch",
+    "short": "Dual time zone watch with 24-hour hand showing a second timezone simultaneously.",
+    "category": "Watch Types"
+  },
+  {
+    "term": "GMT-Master",
+    "short": "Rolex's dual time zone pilot watch featuring 24-hour hand since 1955",
+    "category": "Model"
+  },
+  {
+    "term": "GMT/World Time",
+    "short": "Additional timezone display showing simultaneous time in different locations worldwide.",
+    "category": "Complications"
+  },
+  {
+    "term": "Gold",
+    "short": "Precious metal used in watch cases; yellow, white, and rose gold are common varieties",
+    "category": "Materials"
+  },
+  {
+    "term": "Gold Bracelet",
+    "short": "Precious metal bracelet, available in yellow, white, or rose gold variants",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Gold Plating",
+    "short": "Electroplating process coating watch parts with thin layers of gold for luxury appearance.",
+    "category": "Surface Coating"
+  },
+  {
+    "term": "Grail watch",
+    "short": "Highly desired timepiece representing the ultimate goal in a collector's pursuit",
+    "category": "Collecting"
+  },
+  {
+    "term": "Grained finish",
+    "short": "Textured surface with visible grain pattern creating visual interest",
+    "category": "Finishing"
+  },
+  {
+    "term": "Grand Feu Enamel",
+    "short": "High-temperature enamel firing process creating durable, lustrous colored watch dial surfaces.",
+    "category": "Treatments"
+  },
+  {
+    "term": "Grande Complication",
+    "short": "Watch combining multiple complex functions like perpetual calendar and minute repeater",
+    "category": "History"
+  },
+  {
+    "term": "Grande Sonnerie",
+    "short": "Most complex striking complication that chimes hours and quarter-hours automatically throughout the day.",
+    "category": "Complications"
+  },
+  {
+    "term": "Graphical Rate Display",
+    "short": "Visual representation on timing machines showing real-time deviation from chronometer standard accuracy.",
+    "category": "Tools"
+  },
+  {
+    "term": "Grasshopper escapement",
+    "short": "Harrison's innovative escapement mechanism using three pivoted pallets for efficient energy transfer",
+    "category": "History"
+  },
+  {
+    "term": "Green lume",
+    "short": "Traditional luminous material that glows bright green in darkness, common in vintage and modern watches",
+    "category": "Display"
+  },
+  {
+    "term": "GTLS",
+    "short": "Abbreviation for gaseous tritium light source, a self-illuminating watch dial technology",
+    "category": "Materials"
+  },
+  {
+    "term": "Guillochage",
+    "short": "Decorative hand-engraved pattern applied to watch dials creating intricate geometric surface designs.",
+    "category": "Treatments"
+  },
+  {
+    "term": "Guilloche",
+    "short": "Decorative machine-engraved pattern with repetitive geometric or wavy lines.",
+    "category": "Dial"
+  },
+  {
+    "term": "Guilloché",
+    "short": "Decorative machine-engraved pattern on watch dials and components",
+    "category": "Manufacture"
+  },
+  {
+    "term": "Guilloche Dial",
+    "short": "Dial with intricate geometric machine-engraved pattern",
+    "category": "Dial"
+  },
+  {
+    "term": "Guilloche Finishing",
+    "short": "Machine-applied decorative pattern on dial surface creating subtle light-reflecting effects.",
+    "category": "Dial"
+  },
+  {
+    "term": "Guilloche pattern",
+    "short": "Intricate engraved pattern with mechanical precision and elegance",
+    "category": "Finishing"
+  },
+  {
+    "term": "Guillochéd Dial",
+    "short": "Intricate decorative pattern engraved mechanically into dial surface using rose engine techniques",
+    "category": "Dial"
+  },
+  {
+    "term": "Gyromax Rotator",
+    "short": "Oscillating weight system maintaining constant moment of inertia regardless of position.",
+    "category": "Complications"
+  },
+  {
+    "term": "H-link bracelet",
+    "short": "Three-piece link design with center H-shaped connectors, offering flexibility and comfort",
+    "category": "Bracelet"
+  },
+  {
+    "term": "H1",
+    "short": "John Harrison's first marine chronometer, completed in 1735 using a grasshopper escapement",
+    "category": "History"
+  },
+  {
+    "term": "H4",
+    "short": "Harrison's pocket watch-style chronometer that won the Longitude Prize with remarkable accuracy",
+    "category": "History"
+  },
+  {
+    "term": "Hacking Seconds",
+    "short": "Second hand stops when crown pulled, enables precise synchronization, common in field watches",
+    "category": "Movement"
+  },
+  {
+    "term": "Hairlines",
+    "short": "Fine surface scratches on polished watch case surfaces, expected on worn vintage timepieces",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Hairspring",
+    "short": "Delicate spiral spring attached to the balance wheel that controls its oscillation rate.",
+    "category": "Movement"
+  },
+  {
+    "term": "Hairspring Cleaning",
+    "short": "Careful removal and cleaning of delicate hairspring without deformation",
+    "category": "Cleaning"
+  },
+  {
+    "term": "Hairspring Stud",
+    "short": "Fixed point anchoring one end of hairspring to balance cock or balance wheel",
+    "category": "Movement"
+  },
+  {
+    "term": "Half-Hunter",
+    "short": "Pocket watch case with small opening in cover allowing dial to be viewed without opening fully.",
+    "category": "Watch Types"
+  },
+  {
+    "term": "Hallmark of Geneva",
+    "short": "Official Swiss quality certification for watches made in Geneva region",
+    "category": "Certification"
+  },
+  {
+    "term": "Hammered finish",
+    "short": "Irregular dimpled surface mimicking hand-hammering technique",
+    "category": "Finishing"
+  },
+  {
+    "term": "Hand Engraving",
+    "short": "Manually cutting decorative designs into watch components using specialized engraving tools.",
+    "category": "Decoration"
+  },
+  {
+    "term": "Hand lume",
+    "short": "Luminous material applied to watch hands enabling visibility in darkness",
+    "category": "Materials"
+  },
+  {
+    "term": "Hand Press",
+    "short": "Mechanical press tool for installing watch hands with precise alignment and pressure",
+    "category": "Tools"
+  },
+  {
+    "term": "Hand-beveled",
+    "short": "Edges manually angled and finished by hand for sophisticated look",
+    "category": "Finishing"
+  },
+  {
+    "term": "Hand-chamfered",
+    "short": "Manually beveled edges at precise angles for refined appearance",
+    "category": "Finishing"
+  },
+  {
+    "term": "Hand-polished",
+    "short": "Surface finished by hand using polishing compounds for refined shine",
+    "category": "Finishing"
+  },
+  {
+    "term": "Hand-Wound Movement",
+    "short": "Manual winding required, no automatic rotor, lighter and simpler design, 4R36, 6R35, 240",
+    "category": "Movement"
+  },
+  {
+    "term": "Hands Replacement",
+    "short": "Installation of new watch hands when original is damaged or worn",
+    "category": "Parts"
+  },
+  {
+    "term": "Hands Set",
+    "short": "Complete assembly of hour, minute, and seconds hands in coordinated design.",
+    "category": "Dial"
+  },
+  {
+    "term": "Hands Visibility",
+    "short": "Enlarged, contrasting hour hands critical for quick time reading during dives.",
+    "category": "Dial"
+  },
+  {
+    "term": "Hands-on collecting",
+    "short": "Watch collecting emphasizing physical evaluation and appreciation of timepieces over investment",
+    "category": "Collecting"
+  },
+  {
+    "term": "Hands-set date change",
+    "short": "Vintage watches where date changes coincide with hour hand position at midnight.",
+    "category": "History"
+  },
+  {
+    "term": "Haptic Feedback Engine",
+    "short": "Miniature vibration motor providing tactile notifications without audible alerts",
+    "category": "Complications"
+  },
+  {
+    "term": "HAQ",
+    "short": "High-Accuracy Quartz movement achieving annual rates better than ±10 seconds.",
+    "category": "Movement"
+  },
+  {
+    "term": "Haute Horlogerie",
+    "short": "High watchmaking; artisanal craftsmanship producing exceptional mechanical timepieces",
+    "category": "History"
+  },
+  {
+    "term": "Heat Treatment",
+    "short": "Heating metal to specific temperatures to alter hardness, strength, and other physical properties.",
+    "category": "Heat Treatment"
+  },
+  {
+    "term": "Helium Escape Valve",
+    "short": "One-way valve on the case allowing pressurized gas release during decompression.",
+    "category": "Case"
+  },
+  {
+    "term": "Helium Saturation",
+    "short": "Condition where helium gas saturates diver tissues during extended deep work.",
+    "category": "Diving"
+  },
+  {
+    "term": "Helium Valve",
+    "short": "Gas escape valve used in dive watches to release helium trapped during saturation diving decompression",
+    "category": "Case"
+  },
+  {
+    "term": "Hesalite",
+    "short": "Acrylic plastic crystal material used in vintage watches; lightweight and prone to scratching",
+    "category": "Materials"
+  },
+  {
+    "term": "HEV",
+    "short": "Abbreviation for helium escape valve; critical for deep saturation diving operations.",
+    "category": "Case"
+  },
+  {
+    "term": "High polish",
+    "short": "Mirror-like reflective surface achieved through progressive polishing",
+    "category": "Finishing"
+  },
+  {
+    "term": "High-Beat Movement",
+    "short": "Movement with vibration frequency above 28,800 bph for smoother second hand motion.",
+    "category": "Movement"
+  },
+  {
+    "term": "Hollow case",
+    "short": "Case made with hollow sections inside the caseband to reduce weight while maintaining durability.",
+    "category": "Case"
+  },
+  {
+    "term": "Hollow Link",
+    "short": "Lightweight bracelet link with interior space, reducing overall weight.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Hollow links",
+    "short": "Bracelet links with interior space, lighter weight and cost-effective construction",
+    "category": "Link Type"
+  },
+  {
+    "term": "Homage watch",
+    "short": "Timepiece inspired by or closely resembling another iconic watch design",
+    "category": "Design"
+  },
+  {
+    "term": "Honeycomb Dial",
+    "short": "Dial surface with hexagonal pattern texture resembling honeycomb structure",
+    "category": "Dial"
+  },
+  {
+    "term": "Honing",
+    "short": "Fine abrasive machining process achieving smooth surfaces and precise hole diameters.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Horizontal satin",
+    "short": "Parallel horizontal lines creating soft, satin-like surface texture",
+    "category": "Finishing"
+  },
+  {
+    "term": "Horological",
+    "short": "Relating to the science, study, and art of timekeeping and watch design",
+    "category": "History"
+  },
+  {
+    "term": "Horologist",
+    "short": "Master craftsperson specializing in the design, construction, and repair of clocks and watches",
+    "category": "History"
+  },
+  {
+    "term": "Horween Shell Cordovan",
+    "short": "Premium shell leather from Horween tannery, develops deep patina, extremely durable",
+    "category": "Strap"
+  },
+  {
+    "term": "Hour Markers",
+    "short": "Indices positioned at hour positions indicating time divisions on dial.",
+    "category": "Dial"
+  },
+  {
+    "term": "Hour Wheel",
+    "short": "Wheel rotating once per 12 hours, driven by minute wheel via motion works",
+    "category": "Movement"
+  },
+  {
+    "term": "Hulk Submariner",
+    "short": "Green Submariner Date reference 116610LV, named for its vibrant hulking green color.",
+    "category": "History"
+  },
+  {
+    "term": "Humidity Testing",
+    "short": "Exposure of sealed watch to controlled moisture levels to check seal integrity",
+    "category": "Testing"
+  },
+  {
+    "term": "Hunter Case",
+    "short": "Pocket watch with hinged metal cover protecting the crystal, favored by hunters and travelers.",
+    "category": "Watch Types"
+  },
+  {
+    "term": "Impulse Jewel",
+    "short": "Jewel on balance wheel that receives impulses from pallet fork escape wheel",
+    "category": "Movement"
+  },
+  {
+    "term": "In-House Manufacture",
+    "short": "Calibers designed and produced by watch brand, Omega 9300, Seiko 9R65, AP 3120 examples",
+    "category": "Movement"
+  },
+  {
+    "term": "In-house movement",
+    "short": "Watch movement entirely developed and manufactured by the brand itself",
+    "category": "Technical"
+  },
+  {
+    "term": "Incabloc",
+    "short": "Shock-absorption system using jeweled bearings to protect delicate balance staff from impacts.",
+    "category": "Movement"
+  },
+  {
+    "term": "Independent Seconds",
+    "short": "Seconds mechanism independent from main movement allowing separate regulation and reset function.",
+    "category": "Complications"
+  },
+  {
+    "term": "Independent watchmaker",
+    "short": "Individual horologist or small atelier creating watches outside major manufacture houses",
+    "category": "Business"
+  },
+  {
+    "term": "Index Markers",
+    "short": "Minimalist hour markers using simple lines or shapes",
+    "category": "Dial"
+  },
+  {
+    "term": "Inertial Measurement Unit (IMU)",
+    "short": "Integrated multi-axis gyroscope and accelerometer for motion tracking applications",
+    "category": "Complications"
+  },
+  {
+    "term": "Ingot bracelet",
+    "short": "Patek Philippe's integrated bracelet design solid with rounded links",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Insert Condition",
+    "short": "State of bezel insert markings, fading dramatically affects sports watch desirability and value",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Integrated bracelet",
+    "short": "Bracelet design where the end links flow seamlessly from the lugs without separate attachment.",
+    "category": "Case"
+  },
+  {
+    "term": "Integrated Chronograph",
+    "short": "Chronograph components built into base movement, Zenith El Primero and Omega 9300 examples",
+    "category": "Movement"
+  },
+  {
+    "term": "Intermediate Wheel",
+    "short": "Gear wheel engaged by setting lever to allow independent time adjustment",
+    "category": "Movement"
+  },
+  {
+    "term": "ISO 6425",
+    "short": "International standard for diver's watches quality, water resistance, and safety requirements",
+    "category": "Certification"
+  },
+  {
+    "term": "Isochronism",
+    "short": "Property where oscillation period remains constant regardless of amplitude or driving force variation",
+    "category": "History"
+  },
+  {
+    "term": "Isofrane strap",
+    "short": "Vulcanized rubber strap with curved lugs, comfort-focused diving watch design",
+    "category": "Strap"
+  },
+  {
+    "term": "Jaeger-LeCoultre Caliber 899",
+    "short": "In-house automatic, 70-hour reserve, chronometer certified, used in Atmos clocks",
+    "category": "Movement"
+  },
+  {
+    "term": "Jewel",
+    "short": "Synthetic ruby or sapphire bearing reducing friction at watch movement pivot points",
+    "category": "Movement"
+  },
+  {
+    "term": "Jewel Count",
+    "short": "Total number of synthetic ruby jewel bearings in a movement; more jewels typically reduce friction.",
+    "category": "Movement"
+  },
+  {
+    "term": "Jewel Replacement",
+    "short": "Replacement of synthetic or natural jewel bearings in watch movement",
+    "category": "Parts"
+  },
+  {
+    "term": "Jewel Setting",
+    "short": "Metal-lined bearing holes that hold synthetic ruby jewels to reduce friction on pivots.",
+    "category": "Movement"
+  },
+  {
+    "term": "Jeweled bearings",
+    "short": "Synthetic ruby or sapphire holes that reduce friction in watch movements through low-friction surfaces",
+    "category": "History"
+  },
+  {
+    "term": "Jeweling",
+    "short": "Functional decorative elements on watch movements; historically functional for friction reduction",
+    "category": "Technical"
+  },
+  {
+    "term": "Jewels",
+    "short": "Synthetic rubies used as low-friction bearings for watch pivots and components.",
+    "category": "Movement"
+  },
+  {
+    "term": "John Harrison",
+    "short": "English clockmaker who solved the longitude problem with his marine chronometers H1-H5",
+    "category": "History"
+  },
+  {
+    "term": "Jubilee Bracelet",
+    "short": "Five-piece link bracelet with a distinctive curved center link pattern.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Jump Hour Mechanism",
+    "short": "Hour numeral or hand advancing discretely at hour transitions rather than continuously.",
+    "category": "Complications"
+  },
+  {
+    "term": "Jumping Hour",
+    "short": "Hour numeral jumps to the next hour at midnight rather than rotating smoothly, often used with retrograde minutes.",
+    "category": "Complications"
+  },
+  {
+    "term": "Kangaroo Leather",
+    "short": "Lightweight, durable leather with natural elasticity and unique grain pattern",
+    "category": "Strap"
+  },
+  {
+    "term": "Karrusel",
+    "short": "Rotating cage carrying escapement and balance wheel, precursor to tourbillon design.",
+    "category": "Complications"
+  },
+  {
+    "term": "Keeper",
+    "short": "Small loop on a strap that holds the excess strap length in place.",
+    "category": "Strap"
+  },
+  {
+    "term": "Kermit bezel",
+    "short": "Rolex GMT-Master II with green aluminum bezel released in 2005",
+    "category": "Variant"
+  },
+  {
+    "term": "Kermit Submariner",
+    "short": "Green Submariner with green bezel, nicknamed after Kermit the Frog character.",
+    "category": "History"
+  },
+  {
+    "term": "Kevlar Strap",
+    "short": "High-strength synthetic fiber strap, lightweight and heat-resistant material",
+    "category": "Strap"
+  },
+  {
+    "term": "Keyless Works",
+    "short": "Mechanical system allowing crown to wind mainspring and set time without key",
+    "category": "Movement"
+  },
+  {
+    "term": "Kif",
+    "short": "Swiss-made shock absorption system protecting pivots from mechanical damage and vibration.",
+    "category": "Movement"
+  },
+  {
+    "term": "Kinetic",
+    "short": "Seiko's electromechanical movement converting automatic winding energy into electrical power.",
+    "category": "Movement"
+  },
+  {
+    "term": "King Gold",
+    "short": "Rolex's specialized 5N rose gold alloy offering superior hardness and color retention properties.",
+    "category": "Materials"
+  },
+  {
+    "term": "Kit watch",
+    "short": "Watch requiring buyer assembly from pre-made components; common in microbrands",
+    "category": "Business"
+  },
+  {
+    "term": "Knurling",
+    "short": "Creating textured ridged patterns on metal surfaces for improved grip on watch components.",
+    "category": "Decoration"
+  },
+  {
+    "term": "Lacquer Dial",
+    "short": "Thin protective coating providing glossy finish and enhanced durability."
+  },
+  {
+    "term": "Lacquered Dial",
+    "short": "High-gloss protective coating applied to dial surface creating deep, reflective finish",
+    "category": "Dial"
+  },
+  {
+    "term": "Ladder bracelet",
+    "short": "Parallel link design resembling a ladder, lightweight and comfortable fit",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Lapping",
+    "short": "Precision grinding process using abrasive compounds to achieve exact dimensional tolerances.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Laser Welding",
+    "short": "Precision welding technique using lasers for delicate watch case and component repairs",
+    "category": "Tools"
+  },
+  {
+    "term": "Lateral Clutch",
+    "short": "Chronograph clutch mechanism engaging laterally to connect or disconnect the seconds wheel.",
+    "category": "Complications"
+  },
+  {
+    "term": "Lathe Bed Precision",
+    "short": "Measurement of geometric accuracy and flatness of a watchmaking lathe's supporting bed structure.",
+    "category": "Tools"
+  },
+  {
+    "term": "Lathe Chuck Jaw",
+    "short": "Replaceable gripping element in watch lathe chucks that holds components during turning operations.",
+    "category": "Tools"
+  },
+  {
+    "term": "Lathe Steady Rest Guide",
+    "short": "Support bearing assembly on watchmaking lathes preventing component deflection during precision turning.",
+    "category": "Tools"
+  },
+  {
+    "term": "Lathe Threading Dial",
+    "short": "Graduated reference wheel on watchmaking lathes for precise pitch control during screw cutting operations.",
+    "category": "Tools"
+  },
+  {
+    "term": "Leather Buckle Strap",
+    "short": "Leather strap with traditional buckle closure, classic formal appearance",
+    "category": "Strap"
+  },
+  {
+    "term": "Leather NATO",
+    "short": "Leather variant of NATO strap, combines durability with refined appearance",
+    "category": "Strap"
+  },
+  {
+    "term": "Leather Strap",
+    "short": "Natural or synthetic material used for classic dress watch bracelets",
+    "category": "Materials"
+  },
+  {
+    "term": "Leather-Backed Rubber",
+    "short": "Hybrid strap with rubber exterior and leather backing, combines durability and style",
+    "category": "Strap"
+  },
+  {
+    "term": "Left-handed crown",
+    "short": "Crown positioned at 9 o'clock instead of standard 3 o'clock for left-handed watch operation.",
+    "category": "Case"
+  },
+  {
+    "term": "Lemania Caliber 5100",
+    "short": "Chronograph movement, hand-wound, 50-hour reserve, Swiss precision for military watches",
+    "category": "Movement"
+  },
+  {
+    "term": "Lever",
+    "short": "Component in the escapement mechanism that controls the release of energy to the balance.",
+    "category": "Movement"
+  },
+  {
+    "term": "Lever Escapement",
+    "short": "Type of escapement using pallet fork and lever to regulate energy release to balance",
+    "category": "Movement"
+  },
+  {
+    "term": "Lift Angle",
+    "short": "Degree of engagement between escapement and balance wheel at impulse.",
+    "category": "Timekeeping"
+  },
+  {
+    "term": "Limited Edition",
+    "short": "Watch produced in restricted quantities, often numbered and highly sought by collectors.",
+    "category": "Collecting"
+  },
+  {
+    "term": "Linen finish",
+    "short": "Fine linear pattern resembling fabric linen texture",
+    "category": "Finishing"
+  },
+  {
+    "term": "Link",
+    "short": "Individual connected segment forming a bracelet, connected by pins or rivets.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Link removal tool",
+    "short": "Specialized tool for removing pins or springs to adjust bracelet length",
+    "category": "Accessory"
+  },
+  {
+    "term": "Liquidmetal",
+    "short": "Amorphous metal alloy used for watch bezels and components, offering extreme hardness and durability.",
+    "category": "Materials"
+  },
+  {
+    "term": "Lizard Strap",
+    "short": "Exotic reptile skin strap, lightweight with unique textured appearance",
+    "category": "Strap"
+  },
+  {
+    "term": "Logarithmic Scale",
+    "short": "Non-linear mathematical scale for multiplication and division calculations",
+    "category": "Dial"
+  },
+  {
+    "term": "Lollipop dial",
+    "short": "Oversized Mercedes hour hand resembling lollipop, found on military Submariner models.",
+    "category": "Aesthetics"
+  },
+  {
+    "term": "Longitude Prize",
+    "short": "British competition offering substantial reward for solving maritime longitude determination problem",
+    "category": "History"
+  },
+  {
+    "term": "Longitude problem",
+    "short": "Challenge of determining a ship's east-west position at sea, solved through precise timekeeping",
+    "category": "History"
+  },
+  {
+    "term": "Losing Rate",
+    "short": "Number of seconds per day a watch runs behind correct time.",
+    "category": "Timekeeping"
+  },
+  {
+    "term": "Lubrication",
+    "short": "Adding appropriate lubricants to watch components for smooth mechanical operation",
+    "category": "Maintenance"
+  },
+  {
+    "term": "Lug",
+    "short": "Protruding attachment points on the watch case where bracelets or straps connect.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Lug Width",
+    "short": "Space between the lugs where the strap or bracelet attaches.",
+    "category": "Case"
+  },
+  {
+    "term": "Lug-to-lug",
+    "short": "Measurement between watch case attachment points determining wrist fit compatibility",
+    "category": "Technical"
+  },
+  {
+    "term": "Lug-to-lug distance",
+    "short": "Measurement between the inner edges of the lugs, determining strap and bracelet fit on the wrist.",
+    "category": "Case"
+  },
+  {
+    "term": "Lugs",
+    "short": "Projections on the case that hold the strap or bracelet.",
+    "category": "Case"
+  },
+  {
+    "term": "Lume",
+    "short": "Abbreviation for luminous material applied to hands and markers.",
+    "category": "Dial"
+  },
+  {
+    "term": "Lume (Luminous Material)",
+    "short": "Radioactive or photoluminescent coating on hands and indices for night visibility",
+    "category": "Materials"
+  },
+  {
+    "term": "Lume application",
+    "short": "Process of applying luminous material to watch dials, hands, and hour markers",
+    "category": "Materials"
+  },
+  {
+    "term": "Lume brightness",
+    "short": "Initial intensity of luminescence immediately after light exposure before degradation occurs",
+    "category": "Display"
+  },
+  {
+    "term": "Lume Color",
+    "short": "Luminous fill color; typically green, blue, or white for underwater visibility.",
+    "category": "Dial"
+  },
+  {
+    "term": "Lume compatibility",
+    "short": "Quality of luminous material to adhere properly to dial surface without peeling or degrading",
+    "category": "Materials"
+  },
+  {
+    "term": "Lume contrast",
+    "short": "Visual difference between luminous and non-luminous dial areas visible in darkness",
+    "category": "Display"
+  },
+  {
+    "term": "Lume coverage",
+    "short": "Percentage and area of watch dial, hands, and indices coated with luminous material",
+    "category": "Materials"
+  },
+  {
+    "term": "Lume degradation",
+    "short": "Gradual loss of luminescence brightness and duration in watch hands and dials over extended time",
+    "category": "Display"
+  },
+  {
+    "term": "Lume Dial",
+    "short": "Dial coated with luminous material for low-light visibility",
+    "category": "Dial"
+  },
+  {
+    "term": "Lume fill",
+    "short": "Process of filling dial cutouts with luminous material for enhanced visibility and aesthetics",
+    "category": "Materials"
+  },
+  {
+    "term": "Lume longevity",
+    "short": "Duration and persistence of a watch's luminous glow, measured in hours of visibility in darkness",
+    "category": "Display"
+  },
+  {
+    "term": "Lume matching",
+    "short": "Consistency between luminous brightness levels on dial, hands, and markers in darkness",
+    "category": "Display"
+  },
+  {
+    "term": "Lume patina",
+    "short": "Aged appearance of vintage luminous material showing discoloration, yellowing, or browning over time",
+    "category": "Display"
+  },
+  {
+    "term": "Lume permanence",
+    "short": "Resistance of luminous coatings to fading, degradation, and environmental exposure over time",
+    "category": "Materials"
+  },
+  {
+    "term": "Lume Plot",
+    "short": "Area of luminescent material applied to hands for extended visibility in darkness",
+    "category": "Hands"
+  },
+  {
+    "term": "Lume Plots",
+    "short": "Applied luminous hour markers on dial, typically rectangular shapes on vintage sports watches",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Lume shot",
+    "short": "Photograph of a watch taken in darkness showing the glow of luminous materials on dial and hands",
+    "category": "Display"
+  },
+  {
+    "term": "Lume thickness",
+    "short": "Amount of luminous material applied to watch components affecting brightness and durability",
+    "category": "Materials"
+  },
+  {
+    "term": "Lume uniformity",
+    "short": "Consistent application of luminous coating across dial ensuring even brightness throughout",
+    "category": "Display"
+  },
+  {
+    "term": "Lume X1",
+    "short": "Advanced luminous material providing superior glow intensity and longer phosphorescence duration.",
+    "category": "Dial"
+  },
+  {
+    "term": "Lume-Filled Indices",
+    "short": "Hour markers filled with luminescent material enabling nighttime visibility",
+    "category": "Dial"
+  },
+  {
+    "term": "Lumibrite",
+    "short": "Seiko's luminous coating providing bright glow and long-lasting luminescence on watch dials",
+    "category": "Materials"
+  },
+  {
+    "term": "Luminosity",
+    "short": "Measure of how brightly and for how long a watch's luminous material glows in darkness",
+    "category": "Display"
+  },
+  {
+    "term": "Luminous Markers",
+    "short": "Glow-in-the-dark hour markers and hands enabling underwater visibility in darkness.",
+    "category": "Dial"
+  },
+  {
+    "term": "Luminous Material",
+    "short": "Phosphorescent coating on hands and indices enabling visibility in darkness.",
+    "category": "Dial"
+  },
+  {
+    "term": "Luminous Paint",
+    "short": "Radium-free glowing paint applied to watch hands and markers for low-light readability enhancement.",
+    "category": "Treatments"
+  },
+  {
+    "term": "Lunation Display",
+    "short": "Indicator showing lunar month cycles, typically 29.5 days, advancing with gearing system.",
+    "category": "Complications"
+  },
+  {
+    "term": "Magic Gold",
+    "short": "Omega's proprietary gold alloy designed to resist scratches and maintain its luster indefinitely.",
+    "category": "Materials"
+  },
+  {
+    "term": "Magnetic Field Sensor Array",
+    "short": "Multi-axis magnetometer detecting geomagnetic orientation for compass functionality",
+    "category": "Complications"
+  },
+  {
+    "term": "Magnetism",
+    "short": "Unwanted magnetic fields that can disrupt watch timekeeping accuracy.",
+    "category": "Environmental"
+  },
+  {
+    "term": "Magnification",
+    "short": "Optical enlargement of dial elements, typically date windows, using sapphire or acrylic lenses",
+    "category": "Crystal"
+  },
+  {
+    "term": "Mainspring",
+    "short": "Coiled metal ribbon that stores energy to power the entire watch movement.",
+    "category": "Movement"
+  },
+  {
+    "term": "Mainspring barrel",
+    "short": "Container holding the mainspring that stores and releases energy to power the watch",
+    "category": "History"
+  },
+  {
+    "term": "Mainspring Replacement",
+    "short": "Replacement of power source spring that drives watch movement",
+    "category": "Parts"
+  },
+  {
+    "term": "Maison",
+    "short": "French for house; prestigious watchmaking company with heritage and identity",
+    "category": "History"
+  },
+  {
+    "term": "Manual Movement",
+    "short": "Mechanical movement requiring manual winding via the crown to store energy in mainspring.",
+    "category": "Movement"
+  },
+  {
+    "term": "Manufacture",
+    "short": "Integrated watchmaking company producing movements in-house from components to assembly",
+    "category": "Industry"
+  },
+  {
+    "term": "Manufacture movement",
+    "short": "Watch movement entirely designed and produced in-house by a single manufacture",
+    "category": "Technical"
+  },
+  {
+    "term": "Marine Chronometer",
+    "short": "Highly accurate navigation instrument used aboard ships to determine longitude at sea.",
+    "category": "History"
+  },
+  {
+    "term": "Marker lume",
+    "short": "Luminous coating on hour markers and indices for improved nighttime readability",
+    "category": "Materials"
+  },
+  {
+    "term": "Master Chronometer",
+    "short": "METAS certification for watches exceeding traditional chronometer standards",
+    "category": "Certification"
+  },
+  {
+    "term": "Matte black",
+    "short": "Non-reflective black surface coating offering stealth appearance",
+    "category": "Finishing"
+  },
+  {
+    "term": "Matte Black DLC",
+    "short": "Diamond-like carbon coating in matte black finish, combining hardness with non-reflective aesthetics.",
+    "category": "Treatments"
+  },
+  {
+    "term": "Matte Dial",
+    "short": "Non-reflective dial finish, typical of vintage sports watches and highly desirable to collectors",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Matte finish",
+    "short": "Non-reflective surface with minimal shine, absorbs light evenly",
+    "category": "Finishing"
+  },
+  {
+    "term": "Maxi dial",
+    "short": "Rolex's larger hour markers and hands introduced for improved readability",
+    "category": "Dial"
+  },
+  {
+    "term": "Mean Daily Rate",
+    "short": "Average of gaining and losing rates across multiple positions.",
+    "category": "Timekeeping"
+  },
+  {
+    "term": "Mean time",
+    "short": "Average solar day length used as standard for watch regulation before atomic time",
+    "category": "History"
+  },
+  {
+    "term": "Meca-Quartz",
+    "short": "Seiko's hybrid movement combining quartz accuracy with mechanical automatic winding.",
+    "category": "Movement"
+  },
+  {
+    "term": "Mechanical Precision",
+    "short": "Exactness of manufacturing tolerances affecting timekeeping performance.",
+    "category": "Precision"
+  },
+  {
+    "term": "Mechanical-Digital Hybrid Interface",
+    "short": "Design architecture integrating traditional watch complications with electronic displays",
+    "category": "Case"
+  },
+  {
+    "term": "Mercedes Hand",
+    "short": "Distinctive hour hand with circular, triangular, and rectangular sections.",
+    "category": "Dial"
+  },
+  {
+    "term": "Mercedes Hands",
+    "short": "Distinctive hand shape with Mercedes-logo design for hour hand",
+    "category": "Dial"
+  },
+  {
+    "term": "Mercedes hour hand",
+    "short": "Hour hand with distinctive three-lobe shape resembling Mercedes-Benz logo.",
+    "category": "Design"
+  },
+  {
+    "term": "Mercedes logo",
+    "short": "Rolex's three-pointed crown emblem used on all official watches",
+    "category": "Branding"
+  },
+  {
+    "term": "Mesh Bracelet",
+    "short": "Woven metal mesh construction providing flexibility and a refined appearance.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Meshing",
+    "short": "Engagement of teeth between two gears; critical for smooth power transmission",
+    "category": "Movement"
+  },
+  {
+    "term": "Metal Bracelet",
+    "short": "Linked chain or bracelet made from steel, gold, or other metals.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "METAS",
+    "short": "Swiss federal metrology institute certifying ultra-precision chronometer watches",
+    "category": "Certification"
+  },
+  {
+    "term": "Meteorite Dial",
+    "short": "Natural meteorite material sliced and polished to create unique watch dial patterns",
+    "category": "Materials"
+  },
+  {
+    "term": "Meters First",
+    "short": "Submariner depth rating printed as meters before feet, rare vintage dial variant.",
+    "category": "History"
+  },
+  {
+    "term": "Micro-adjustment",
+    "short": "Fine-tuning clasp holes for precise wrist fit without removing links",
+    "category": "Clasp"
+  },
+  {
+    "term": "Microband",
+    "short": "Small, independent watch brand producing limited quantities with unconventional models",
+    "category": "Business"
+  },
+  {
+    "term": "Microphone Amplifier Module",
+    "short": "Electronic component in timing machines that amplifies acoustic signals from watch escapement contact.",
+    "category": "Tools"
+  },
+  {
+    "term": "Middle temperature error",
+    "short": "Rate variation at intermediate temperatures despite compensation mechanisms",
+    "category": "History"
+  },
+  {
+    "term": "Milanese mesh",
+    "short": "Fine interlocked metal mesh bracelet, smooth comfort and elegant vintage appeal",
+    "category": "Bracelet"
+  },
+  {
+    "term": "MilSub",
+    "short": "Military Submariner issued to armed forces, featuring lollipop dial and dial printing variations.",
+    "category": "History"
+  },
+  {
+    "term": "Mint Condition",
+    "short": "Watch showing no signs of wear, original finish intact, functionally perfect",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Minute Repeater",
+    "short": "Mechanism that chimes the time in hours, quarter hours, and minutes when a slide or pusher is activated.",
+    "category": "Complications"
+  },
+  {
+    "term": "Minute Track",
+    "short": "Outer dial ring with minute markers or railway design for precise time reading.",
+    "category": "Dial"
+  },
+  {
+    "term": "Minute Wheel",
+    "short": "Wheel rotating once per hour on cannon pinion, drives hour wheel in motion works",
+    "category": "Movement"
+  },
+  {
+    "term": "Mirror finish",
+    "short": "Highly reflective polished surface resembling mirror quality",
+    "category": "Finishing"
+  },
+  {
+    "term": "Mirror Polishing",
+    "short": "Achieving a highly reflective, glass-like finish on watch surfaces through precision polishing.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Miyota 9015",
+    "short": "Meca-quartz hybrid, mechanical chronograph with quartz timekeeping, battery powered operation",
+    "category": "Movement"
+  },
+  {
+    "term": "Modern lume standards",
+    "short": "Contemporary luminous material specifications balancing safety, brightness, and longevity",
+    "category": "Materials"
+  },
+  {
+    "term": "Modular Chronograph",
+    "short": "Chronograph mounted on base movement, 7750 on 2824 base, allows customization",
+    "category": "Movement"
+  },
+  {
+    "term": "Momentum",
+    "short": "Physical property of balance wheel oscillation that enables continuous operation without external intervention",
+    "category": "History"
+  },
+  {
+    "term": "Monaco",
+    "short": "TAG Heuer's iconic square-cased chronograph from 1969",
+    "category": "Model"
+  },
+  {
+    "term": "Monocoque case",
+    "short": "Single-piece case construction where the entire case is machined from one solid block of material.",
+    "category": "Case"
+  },
+  {
+    "term": "Monopusher Chronograph",
+    "short": "Chronograph operated by single pusher button for start, stop, and reset functions.",
+    "category": "Complications"
+  },
+  {
+    "term": "Moon Phase Complication",
+    "short": "Mechanical display showing lunar phases through rotating disk behind aperture on dial.",
+    "category": "Complications"
+  },
+  {
+    "term": "Moon Phase Display",
+    "short": "Aperture showing the current lunar phase, cycling every 29.5 days with rotating disc mechanism.",
+    "category": "Complications"
+  },
+  {
+    "term": "Moonphase",
+    "short": "Complication displaying lunar phases with rotating disc showing moon's illumination cycle.",
+    "category": "Complications"
+  },
+  {
+    "term": "Moonwatch",
+    "short": "Omega Speedmaster Professional, official NASA moon landing chronograph from Apollo missions.",
+    "category": "History"
+  },
+  {
+    "term": "Mother of Pearl",
+    "short": "Iridescent nacre from mollusk shells used decoratively on watch dials",
+    "category": "Materials"
+  },
+  {
+    "term": "Motion Works",
+    "short": "Gear assembly converting center wheel rotation to hour wheel and minute wheel motion",
+    "category": "Movement"
+  },
+  {
+    "term": "Movement caliber",
+    "short": "Official designation identifying specific watch movement design and manufacturing source",
+    "category": "Technical"
+  },
+  {
+    "term": "Movement Certification",
+    "short": "Official verification that watch movement meets specific Swiss quality and precision standards",
+    "category": "Certification"
+  },
+  {
+    "term": "Movement finishing",
+    "short": "Decorative treatment of watch movement including Côtes de Genève and polishing",
+    "category": "Technical"
+  },
+  {
+    "term": "Movement Holder",
+    "short": "Specialized tool for securely holding watch movement during service and repair",
+    "category": "Tools"
+  },
+  {
+    "term": "Movement Holder Articulating Arm",
+    "short": "Flexible jointed support structure in movement holders enabling 360-degree rotational access to calibers.",
+    "category": "Tools"
+  },
+  {
+    "term": "Movement Holder Clamping Collar",
+    "short": "Threaded collar mechanism in movement holders that securely grips movements by case lugs or bridges.",
+    "category": "Tools"
+  },
+  {
+    "term": "Movement Holder Cushioning Insert",
+    "short": "Soft elastomer or leather-lined component in movement holders that prevents damage to fragile watch parts.",
+    "category": "Tools"
+  },
+  {
+    "term": "Movement Holder Height Adjustment",
+    "short": "Vertical positioning system on movement holders that positions calibers at ergonomic working heights.",
+    "category": "Tools"
+  },
+  {
+    "term": "Movement Holder Magnetic Base",
+    "short": "Ferrous metal foundation on movement holders allowing positioning on workshop ferrous work surfaces.",
+    "category": "Tools"
+  },
+  {
+    "term": "Movement Holder Rotation Mechanism",
+    "short": "Bearing-mounted swivel on movement holders enabling 360-degree horizontal rotation without component stress.",
+    "category": "Tools"
+  },
+  {
+    "term": "Movement Inspection",
+    "short": "Thorough visual examination of all movement components for damage or wear",
+    "category": "Inspection"
+  },
+  {
+    "term": "Movement Testing",
+    "short": "Comprehensive evaluation of mechanical movement performance parameters.",
+    "category": "Testing"
+  },
+  {
+    "term": "Multi-Level Dial",
+    "short": "Dial with multiple depth levels creating three-dimensional appearance",
+    "category": "Dial"
+  },
+  {
+    "term": "Nacre",
+    "short": "Iridescent substance from oyster and abalone shells used on premium watch dials",
+    "category": "Materials"
+  },
+  {
+    "term": "NATO Strap",
+    "short": "Nylon fabric strap with metal hardware, durable alternative to traditional bracelets",
+    "category": "Materials"
+  },
+  {
+    "term": "Nautilus",
+    "short": "Patek Philippe's prestigious integrated bracelet sports watch since 1976",
+    "category": "Model"
+  },
+  {
+    "term": "Navitimer",
+    "short": "Breitling's pilot chronograph with slide rule bezel since 1952",
+    "category": "Model"
+  },
+  {
+    "term": "NFC Chipset",
+    "short": "Near-field communication chip enabling contactless payments and data exchange",
+    "category": "Complications"
+  },
+  {
+    "term": "Nickel Plating",
+    "short": "Electroplating nickel onto watch components for corrosion protection and silver-like finish.",
+    "category": "Surface Coating"
+  },
+  {
+    "term": "Nitrogen Narcosis",
+    "short": "Intoxicating effect of nitrogen at depth; diver watches help track time/depth.",
+    "category": "Diving"
+  },
+  {
+    "term": "Nivachoc",
+    "short": "Rolex's modern shock absorber protecting the balance wheel from impacts and vibrations.",
+    "category": "Movement"
+  },
+  {
+    "term": "No-decompression Limit",
+    "short": "Maximum time underwater at specific depth without mandatory decompression stop.",
+    "category": "Diving"
+  },
+  {
+    "term": "Non-radioactive lume",
+    "short": "Modern luminous compounds like Super-LumiNova that glow without radioactive elements",
+    "category": "Materials"
+  },
+  {
+    "term": "NOS",
+    "short": "New Old Stock - unworn vintage watch still in original packaging from factory",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Nubuck Leather",
+    "short": "Velvet-like leather surface, refined appearance, more durable than suede",
+    "category": "Strap"
+  },
+  {
+    "term": "Numbered Edition",
+    "short": "Limited edition watch with individual sequential number engraved, indicates exact production count",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Nurse Watch",
+    "short": "Pinned watch worn on medical uniforms, typically featuring large numerals and clean dial design.",
+    "category": "Watch Types"
+  },
+  {
+    "term": "Nylon Strap",
+    "short": "Synthetic fabric strap, affordable, water-resistant, available in many colors",
+    "category": "Strap"
+  },
+  {
+    "term": "Octagonal case",
+    "short": "Eight-sided case shape providing a geometric, distinctive appearance with flat edges and corners.",
+    "category": "Case"
+  },
+  {
+    "term": "Oiling",
+    "short": "Application of specialized lubricating oils to watch movement friction points",
+    "category": "Maintenance"
+  },
+  {
+    "term": "Omega Caliber 321",
+    "short": "Historic movement used in Speedmaster Professional, column wheel chronograph, hand-wound",
+    "category": "Movement"
+  },
+  {
+    "term": "Omega Caliber 9300",
+    "short": "In-house movement, dual barrels, 60-hour reserve, integrated chronograph mechanism",
+    "category": "Movement"
+  },
+  {
+    "term": "Omega Co-Axial 8900",
+    "short": "Master Chronometer certified, antimagnetic, 60-hour power reserve, chronograph capability",
+    "category": "Movement"
+  },
+  {
+    "term": "One-piece strap",
+    "short": "Single continuous strap under entire watch case, minimalist construction",
+    "category": "Strap"
+  },
+  {
+    "term": "One-watch collection",
+    "short": "Strategy of owning a single versatile watch to meet all wearing needs",
+    "category": "Collecting"
+  },
+  {
+    "term": "Opaline Dial",
+    "short": "Semi-transparent opalescent dial finish creating soft, milky color-shifting light reflection effects.",
+    "category": "Treatments"
+  },
+  {
+    "term": "Opaline Finish",
+    "short": "Soft, milky dial finish with subtle sheen and minimal reflectivity.",
+    "category": "Dial"
+  },
+  {
+    "term": "Original Bezel",
+    "short": "Factory-original rotating bezel insert, replacements are common on vintage sports watches",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Original Dial",
+    "short": "Factory-original dial versus replacement, significantly impacts authenticity and value",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Original Hands",
+    "short": "Factory-original hour and minute hands, replacements diminish collectibility and value",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Original Strap",
+    "short": "Factory-original bracelet or strap accompanying the watch, adds substantial value to vintage pieces",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Oscillating Pinion",
+    "short": "Pivoting pinion in chronograph that engages and disengages the motion work smoothly.",
+    "category": "Complications"
+  },
+  {
+    "term": "Oscillator",
+    "short": "The balance wheel and hairspring assembly that regulates the watch's timekeeping rate.",
+    "category": "Movement"
+  },
+  {
+    "term": "Ostrich Leather",
+    "short": "Exotic ostrich skin with distinctive quill marks, luxurious and durable",
+    "category": "Strap"
+  },
+  {
+    "term": "Ostrich strap",
+    "short": "Exotic leather with bumpy quill texture, rare and luxurious appearance",
+    "category": "Strap"
+  },
+  {
+    "term": "Overbanking",
+    "short": "Excessive amplitude causing balance wheel to swing past optimal range.",
+    "category": "Precision"
+  },
+  {
+    "term": "Overcoil",
+    "short": "Additional outer coil on hairspring that improves isochronism and temperature stability",
+    "category": "History"
+  },
+  {
+    "term": "Oyster Bracelet",
+    "short": "Three-piece solid links forming a robust, professional bracelet design.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Oyster case",
+    "short": "Rolex's pioneering waterproof watch case design introduced in 1926",
+    "category": "Case Design"
+  },
+  {
+    "term": "Oystersteel",
+    "short": "Rolex's proprietary stainless steel alloy, corrosion-resistant and highly durable for professional watches.",
+    "category": "Materials"
+  },
+  {
+    "term": "Palladium",
+    "short": "Silvery precious metal used in white gold alloys and luxury watch cases",
+    "category": "Materials"
+  },
+  {
+    "term": "Pallet Fork",
+    "short": "Component that engages escape wheel teeth to control gear train release",
+    "category": "Movement"
+  },
+  {
+    "term": "Pallet Stone",
+    "short": "Jewel on pallet fork engaging escape wheel teeth for impulse transmission",
+    "category": "Movement"
+  },
+  {
+    "term": "Pallets",
+    "short": "Components of escapement that engage and release the escapement wheel in precise intervals",
+    "category": "History"
+  },
+  {
+    "term": "Panda dial",
+    "short": "Watch dial with white background and black subdials, resembling a giant panda.",
+    "category": "Aesthetics"
+  },
+  {
+    "term": "Parachrom",
+    "short": "Rolex's blue alloy hairspring resisting temperature changes and magnetic fields effectively.",
+    "category": "Movement"
+  },
+  {
+    "term": "Parachrom Hairspring",
+    "short": "Rolex innovation, paramagnetic alloy, temperature resistant, used in 3135 and 3235",
+    "category": "Movement"
+  },
+  {
+    "term": "Paracord Strap",
+    "short": "Military-spec parachute cord strap, emergency-use functionality, tactical look",
+    "category": "Strap"
+  },
+  {
+    "term": "Paramagnetic Materials",
+    "short": "Alloys resistant to magnetism, Parachrom hairspring in Rolex, alloy balance wheels",
+    "category": "Movement"
+  },
+  {
+    "term": "Partial Service",
+    "short": "Limited servicing of specific watch components without full movement disassembly",
+    "category": "Service"
+  },
+  {
+    "term": "Patek Philippe Caliber 240",
+    "short": "Golden Ellipse exclusive, hand-wound, ultra-thin, 48-hour reserve, haute horlogerie standard",
+    "category": "Movement"
+  },
+  {
+    "term": "Patina",
+    "short": "Natural aging and surface changes on watch components over time, highly sought by collectors",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Patina Development",
+    "short": "Natural or controlled oxidation of metals creating aged, distinctive colored surface appearance.",
+    "category": "Surface Treatment"
+  },
+  {
+    "term": "Paul Newman Daytona",
+    "short": "Iconic Rolex Daytona worn by actor Paul Newman, named after the exotic dial variant he preferred.",
+    "category": "History"
+  },
+  {
+    "term": "Pepsi GMT",
+    "short": "GMT-Master II with red and blue bezel insert, nicknamed for Pepsi-like color scheme.",
+    "category": "History"
+  },
+  {
+    "term": "Performance Specification",
+    "short": "Manufacturer's declared acceptable rate range and accuracy tolerance.",
+    "category": "Certification"
+  },
+  {
+    "term": "Perlage",
+    "short": "Pearl-like circular finishing pattern applied to watch movement plates and bridges",
+    "category": "Manufacture"
+  },
+  {
+    "term": "Perlon strap",
+    "short": "Woven nylon material strap, lightweight, breathable, and military-inspired style",
+    "category": "Strap"
+  },
+  {
+    "term": "Perpetual Calendar",
+    "short": "Mechanism that automatically adjusts for months with different numbers of days without manual correction until year 2100.",
+    "category": "Complications"
+  },
+  {
+    "term": "Perpetual rotor",
+    "short": "Rolex's automatic winding mechanism using a free-spinning rotor",
+    "category": "Movement"
+  },
+  {
+    "term": "Petite Sonnerie",
+    "short": "Simplified striking complication that chimes hours and quarters but only on demand.",
+    "category": "Complications"
+  },
+  {
+    "term": "Photoluminescent",
+    "short": "Property of materials that absorb light and re-emit it, used in all non-radioactive watch lume",
+    "category": "Materials"
+  },
+  {
+    "term": "Pie-Pan Dial",
+    "short": "Sunken dial design resembling pie with raised outer edge, creating dimensional depth effect",
+    "category": "Dial"
+  },
+  {
+    "term": "Pillar Dial",
+    "short": "Dial design using pillars or columns as hour markers",
+    "category": "Dial"
+  },
+  {
+    "term": "Pilot Watch",
+    "short": "Aviation-focused watch with large readable dial, often featuring chronograph and specialized functions.",
+    "category": "Watch Types"
+  },
+  {
+    "term": "Pin buckle",
+    "short": "Simple strap buckle with pin through holes, classic and adjustable design",
+    "category": "Clasp"
+  },
+  {
+    "term": "Pinion",
+    "short": "Small gear with fewer teeth, typically fixed to wheel shaft for gear meshing",
+    "category": "Movement"
+  },
+  {
+    "term": "Pivot",
+    "short": "Thin shaft extending from watch gears that rotates in jeweled bearings to reduce friction.",
+    "category": "Movement"
+  },
+  {
+    "term": "Pivot Polishing",
+    "short": "Precision polishing of watch movement pivot points to reduce friction",
+    "category": "Maintenance"
+  },
+  {
+    "term": "Pivots",
+    "short": "Small rounded points on watch components that allow smooth rotation in jeweled bearings",
+    "category": "History"
+  },
+  {
+    "term": "Planisphere",
+    "short": "Rotatable star chart on watch dial showing constellations visible from any date and time.",
+    "category": "Complications"
+  },
+  {
+    "term": "Plate",
+    "short": "Base structural component of the movement holding bridges, jewels, and gear pivots in place.",
+    "category": "Movement"
+  },
+  {
+    "term": "Platinum",
+    "short": "Dense, precious metal prized for luxury watches; highly resistant to corrosion and wear",
+    "category": "Materials"
+  },
+  {
+    "term": "Pocket Watch",
+    "short": "Portable timepiece carried in pocket, popular from 17th century until wristwatch era.",
+    "category": "History"
+  },
+  {
+    "term": "Poinçon de Genève",
+    "short": "French name for Geneva Seal, Swiss quality and craftsmanship hallmark certification",
+    "category": "Certification"
+  },
+  {
+    "term": "Polish and Refinish",
+    "short": "Professional polishing of watch case and bracelet to remove scratches and restore shine",
+    "category": "Refinishing"
+  },
+  {
+    "term": "Polished bezel",
+    "short": "Mirror-polished outer ring component with high reflective shine",
+    "category": "Finishing"
+  },
+  {
+    "term": "Polished case",
+    "short": "Case finish with a mirror-like reflective surface achieved through grinding and buffing.",
+    "category": "Case"
+  },
+  {
+    "term": "Polished Finish",
+    "short": "High-gloss surface treatment creating mirror-like reflective appearance on watch cases and components.",
+    "category": "Treatments"
+  },
+  {
+    "term": "Polished rhodium",
+    "short": "High-gloss white precious metal finish with brilliant reflectivity",
+    "category": "Plating"
+  },
+  {
+    "term": "Polished steel",
+    "short": "Reflective smooth surface with high gloss achieved through polishing",
+    "category": "Finishing"
+  },
+  {
+    "term": "Polishing",
+    "short": "Smoothing watch surfaces to a high shine using progressively finer abrasive compounds.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Porcelain Dial",
+    "short": "Ceramic dial surface offering durability and distinctive matte aesthetic with enamel-like finish",
+    "category": "Dial"
+  },
+  {
+    "term": "Portugieser",
+    "short": "IWC's large precision pocket watch conversion collection from 1939",
+    "category": "Model"
+  },
+  {
+    "term": "Positional Adjustment",
+    "short": "Fine-tuning of movement rate to account for accuracy differences in various wearing positions.",
+    "category": "Movement"
+  },
+  {
+    "term": "Positional error",
+    "short": "Timekeeping variation depending on the position or orientation of the watch mechanism",
+    "category": "History"
+  },
+  {
+    "term": "Power Reserve",
+    "short": "Duration the watch continues running after being fully wound without additional energy input.",
+    "category": "Movement"
+  },
+  {
+    "term": "Power Reserve Indicator",
+    "short": "Display showing remaining energy stored in the mainspring, indicating when rewinding is necessary.",
+    "category": "Complications"
+  },
+  {
+    "term": "Pre-owned watch",
+    "short": "Second-hand timepiece sold by previous owner; may include warranty or guarantee",
+    "category": "Collecting"
+  },
+  {
+    "term": "Precision Adjustment",
+    "short": "Fine-tuning of hairspring length to achieve desired rate.",
+    "category": "Adjustment"
+  },
+  {
+    "term": "President bracelet",
+    "short": "Iconic three-piece link design with solid center links, classic luxury appearance",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Pressing Platen",
+    "short": "Hardened steel plate in case presses that distributes uniform pressure across watch case components.",
+    "category": "Tools"
+  },
+  {
+    "term": "Pressure Test",
+    "short": "Testing watch case integrity under controlled water pressure conditions",
+    "category": "Testing"
+  },
+  {
+    "term": "Pressure Testing",
+    "short": "Manufacturing process verifying watch integrity at rated depth specifications.",
+    "category": "Testing"
+  },
+  {
+    "term": "Printed Indices",
+    "short": "Hour markers screen-printed or applied to dial surface in single plane dimension",
+    "category": "Dial"
+  },
+  {
+    "term": "Production Year",
+    "short": "Year watch was manufactured, determined from serial number or case back markings",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Promethium",
+    "short": "Radioactive element formerly used in watch lume, less hazardous than radium but still radioactive",
+    "category": "Materials"
+  },
+  {
+    "term": "Provenance",
+    "short": "Documented history of watch ownership and service, increases value and authenticity",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Pulsmeter Bezel",
+    "short": "Bezel with graduated scale for measuring heart rate by counting pulses over time interval",
+    "category": "Bezel"
+  },
+  {
+    "term": "Pulsometer",
+    "short": "Scale for measuring heart rate by counting pulse beats",
+    "category": "Dial"
+  },
+  {
+    "term": "Pulsometer Scale",
+    "short": "Scale used with chronograph to measure heart rate from pulse beats.",
+    "category": "Dial"
+  },
+  {
+    "term": "Push Notification Framework",
+    "short": "Smartwatch operating system architecture managing app alerts and message delivery",
+    "category": "Movement"
+  },
+  {
+    "term": "Pushers",
+    "short": "Buttons on the case side used to operate chronographs and other functions.",
+    "category": "Case"
+  },
+  {
+    "term": "Pushers Gasket",
+    "short": "Seals around chronograph pushers to maintain water resistance.",
+    "category": "Case"
+  },
+  {
+    "term": "PVD Coating",
+    "short": "Physical Vapor Deposition; durable coating applied to steel for black or colored finish",
+    "category": "Materials"
+  },
+  {
+    "term": "Python Leather",
+    "short": "Exotic snake leather with distinctive scale pattern, lightweight and supple",
+    "category": "Strap"
+  },
+  {
+    "term": "Quantième Perpétuel",
+    "short": "French term for perpetual calendar requiring no adjustment until the year 2100.",
+    "category": "Complications"
+  },
+  {
+    "term": "Quartz Movement",
+    "short": "Electronic movement using vibrating quartz crystal regulated by a battery for timekeeping.",
+    "category": "Movement"
+  },
+  {
+    "term": "Quick Release Spring Bar",
+    "short": "Spring mechanism allowing fast removal and replacement of straps or bracelets.",
+    "category": "Clasp"
+  },
+  {
+    "term": "Quickset Date",
+    "short": "Mechanism allowing rapid date adjustment without advancing hour hand to set accurately",
+    "category": "Dial"
+  },
+  {
+    "term": "Racing Watch",
+    "short": "Chronograph designed for motorsports with tachymeter scale and precise timing capabilities.",
+    "category": "Watch Types"
+  },
+  {
+    "term": "Radial brushing",
+    "short": "Brushing pattern radiating outward from center point like spokes",
+    "category": "Finishing"
+  },
+  {
+    "term": "Radioactive lume",
+    "short": "Vintage luminous materials containing radioactive elements like radium or tritium for continuous glow",
+    "category": "Materials"
+  },
+  {
+    "term": "Radium",
+    "short": "Radioactive luminous material used in watch dials pre-1960s, now considered hazardous",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Radium dial",
+    "short": "Vintage dial with radioactive radium-based lume, highly collectible and dangerous.",
+    "category": "History"
+  },
+  {
+    "term": "Railway Dial",
+    "short": "Vintage dial style with distinct numerals used for railway timekeeping",
+    "category": "Dial"
+  },
+  {
+    "term": "Ratchet Wheel",
+    "short": "Toothed wheel in the winding mechanism that prevents mainspring from unwinding during manual winding.",
+    "category": "Movement"
+  },
+  {
+    "term": "Ratcheting clasp",
+    "short": "Clasp with teeth that engage incrementally for precise tension control",
+    "category": "Clasp"
+  },
+  {
+    "term": "Rate",
+    "short": "The measure of how many seconds per day a watch gains or loses.",
+    "category": "Timekeeping"
+  },
+  {
+    "term": "Rate Stability",
+    "short": "Consistency of watch rate over time without external adjustment.",
+    "category": "Precision"
+  },
+  {
+    "term": "Rate Variation",
+    "short": "Difference in watch rate between various positions and conditions.",
+    "category": "Precision"
+  },
+  {
+    "term": "Rattrapante",
+    "short": "Split-seconds chronograph with two independent stopwatch hands that can be separated and recombined.",
+    "category": "Complications"
+  },
+  {
+    "term": "Rattrapante Chronograph",
+    "short": "Split-seconds chronograph where the second hand can be stopped independently to measure intermediate times.",
+    "category": "Complications"
+  },
+  {
+    "term": "Rectangular case",
+    "short": "Four-sided case with right angles and straight edges, elongated horizontally or vertically.",
+    "category": "Case"
+  },
+  {
+    "term": "Red Submariner",
+    "short": "Vintage Submariner with red text dial printing, collectible early reference variant.",
+    "category": "History"
+  },
+  {
+    "term": "Reduction Ratio",
+    "short": "Proportion of gear teeth determining speed reduction between successive gear stages",
+    "category": "Movement"
+  },
+  {
+    "term": "Reference Number",
+    "short": "Model designation assigned by manufacturer identifying specific watch variant and specifications",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Regatta Timer",
+    "short": "Chronograph with countdown mechanism and acoustic signal for yacht race starting procedures.",
+    "category": "Complications"
+  },
+  {
+    "term": "Regulating",
+    "short": "Adjusting watch movement accuracy to achieve correct timekeeping performance",
+    "category": "Service"
+  },
+  {
+    "term": "Regulation",
+    "short": "Adjustment of hairspring or balance wheel to modify watch rate.",
+    "category": "Adjustment"
+  },
+  {
+    "term": "Regulator",
+    "short": "Watch with separate subdials for hours, minutes, and seconds for precise timekeeping.",
+    "category": "Watch Types"
+  },
+  {
+    "term": "Regulator index",
+    "short": "Adjustable pointer that alters effective length of balance spring to regulate rate",
+    "category": "History"
+  },
+  {
+    "term": "Rehaut",
+    "short": "Circular engraved area between dial edge and case inner bezel.",
+    "category": "Dial"
+  },
+  {
+    "term": "Rehaut lume",
+    "short": "Luminous coating sometimes applied to the watch rehaut ring near the dial edge",
+    "category": "Materials"
+  },
+  {
+    "term": "Relume service",
+    "short": "Professional restoration service applying new luminous material to vintage watch dials and hands",
+    "category": "Materials"
+  },
+  {
+    "term": "Remontoir",
+    "short": "Intermediate wheel system providing constant force and regulating energy from the mainspring.",
+    "category": "Movement"
+  },
+  {
+    "term": "Repeater",
+    "short": "Complicated watch striking hours, quarters, or minutes audibly when activated by pusher.",
+    "category": "Complications"
+  },
+  {
+    "term": "Replacement Parts",
+    "short": "Non-original components installed during service or repair, noted by collectors for authenticity",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Reservoir Dial Animation",
+    "short": "Dynamic e-ink dial elements that update synchronously with hybrid watch mechanics",
+    "category": "Dial"
+  },
+  {
+    "term": "Resonance Complication",
+    "short": "Two balance wheels oscillating together to improve stability and accuracy through mutual synchronization.",
+    "category": "Complications"
+  },
+  {
+    "term": "Resonance Spring",
+    "short": "Paired balance wheels vibrating in resonance to improve chronometric stability and precision.",
+    "category": "Complications"
+  },
+  {
+    "term": "Retrograde",
+    "short": "Complication with hand sweeping across arc then jumping back to start, indicating time passage.",
+    "category": "Complications"
+  },
+  {
+    "term": "Retrograde Display",
+    "short": "Hand jumps back to start position instead of rotating continuously, creating dramatic visual effect.",
+    "category": "Complications"
+  },
+  {
+    "term": "Reverse Panda",
+    "short": "Watch dial with black background and white subdials, opposite of traditional panda.",
+    "category": "Aesthetics"
+  },
+  {
+    "term": "Reverso",
+    "short": "Jaeger-LeCoultre's art deco rectangular flipping case watch from 1931",
+    "category": "Model"
+  },
+  {
+    "term": "Rhodium Plating",
+    "short": "Applying thin rhodium coating for bright, reflective finish and improved corrosion resistance.",
+    "category": "Surface Coating"
+  },
+  {
+    "term": "Ringlock System",
+    "short": "Case design sealing crystal, case, and back for exceptional water resistance.",
+    "category": "Case"
+  },
+  {
+    "term": "Rivet",
+    "short": "Metal pin permanently securing links together in a bracelet.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Rolex Caliber 3135",
+    "short": "Perpetual rotor, Parachrom hairspring, 48-hour power reserve, widely used in sports watches",
+    "category": "Movement"
+  },
+  {
+    "term": "Rolex Caliber 3235",
+    "short": "Evolved 3135 with Chronergy escapement, 70-hour power reserve, improved efficiency",
+    "category": "Movement"
+  },
+  {
+    "term": "Rolex Caliber 3285",
+    "short": "GMT-Master II exclusive, dual time module, 70-hour reserve, Chronergy escapement",
+    "category": "Movement"
+  },
+  {
+    "term": "Roman Numerals",
+    "short": "Classical Roman numeral hour markers for elegant formal appearance",
+    "category": "Dial"
+  },
+  {
+    "term": "Root Beer GMT",
+    "short": "GMT-Master II with brown and black bezel insert, resembling root beer coloring.",
+    "category": "History"
+  },
+  {
+    "term": "Rotating Bezel",
+    "short": "Bezel that rotates in one or both directions for timing purposes.",
+    "category": "Case"
+  },
+  {
+    "term": "Rotating Timing Bezel",
+    "short": "Bidirectional bezel allowing divers to track bottom time and decompression stops.",
+    "category": "Bezel"
+  },
+  {
+    "term": "Rotor",
+    "short": "Weighted oscillating component in automatic watches that winds the mainspring via wrist motion.",
+    "category": "Movement"
+  },
+  {
+    "term": "Roulette Date",
+    "short": "Date wheel with alternating Arabic numerals and dashes creating a segmented appearance",
+    "category": "Dial"
+  },
+  {
+    "term": "Royal Oak",
+    "short": "Audemars Piguet's iconic octagonal sports watch introduced in 1972",
+    "category": "Model"
+  },
+  {
+    "term": "Rubber Bracelet",
+    "short": "Sporty bracelet made from synthetic rubber, water-resistant and flexible",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Rubber FKM",
+    "short": "FKM fluorocarbon rubber strap, chemical-resistant, durable, sporty aesthetic",
+    "category": "Strap"
+  },
+  {
+    "term": "Rubber Steel Hybrid",
+    "short": "Bracelet combining rubber inserts with steel links for comfort and durability",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Rubber Strap",
+    "short": "Durable elastomer material for watch bracelets, popular in diving and sport watches",
+    "category": "Materials"
+  },
+  {
+    "term": "Rust Prevention",
+    "short": "Application of protective coatings and maintenance to prevent oxidation of components",
+    "category": "Maintenance"
+  },
+  {
+    "term": "Ruthenium",
+    "short": "Dark grey precious metal plating offering distinct color and hardness",
+    "category": "Plating"
+  },
+  {
+    "term": "Ruthenium Plating",
+    "short": "Dark metallic coating providing contrast and protection to white metal watch components.",
+    "category": "Treatments"
+  },
+  {
+    "term": "Safety Stop",
+    "short": "Brief decompression hold near surface; allows final off-gassing before surfacing.",
+    "category": "Diving"
+  },
+  {
+    "term": "Saffiano Leather",
+    "short": "Cross-hatched textured leather, scratch-resistant, popularized by Prada luxury goods",
+    "category": "Strap"
+  },
+  {
+    "term": "Sailcloth Strap",
+    "short": "Woven fabric strap traditionally used in sailing, water-resistant and durable",
+    "category": "Strap"
+  },
+  {
+    "term": "Sailor's Chronograph",
+    "short": "Chronograph optimized for maritime use with specific timing functions for nautical operations.",
+    "category": "Complications"
+  },
+  {
+    "term": "Salmon dial",
+    "short": "Peachy-orange colored dial found on vintage Rolex models, prized by collectors.",
+    "category": "Aesthetics"
+  },
+  {
+    "term": "Sandblasted Bezel",
+    "short": "Bezel with fine matte texture created through sandblasting process for sophisticated appearance",
+    "category": "Bezel"
+  },
+  {
+    "term": "Sandblasted Finish",
+    "short": "Rough textured surface created by abrasive blasting, offering anti-reflective and aesthetic qualities.",
+    "category": "Treatments"
+  },
+  {
+    "term": "Sandblasting",
+    "short": "Abrasive blasting process using sand particles to create textured matte finishes on watches.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Sandwich case",
+    "short": "Case design with applied dial elements creating a layered appearance, often seen in military watches.",
+    "category": "Case"
+  },
+  {
+    "term": "Sandwich dial",
+    "short": "Dial construction with luminous layer between transparent sapphire and dial base for enhanced lume",
+    "category": "Materials"
+  },
+  {
+    "term": "Sans-serif dial",
+    "short": "Modern watch dial using sans-serif font for cleaner, contemporary appearance.",
+    "category": "Aesthetics"
+  },
+  {
+    "term": "Santos",
+    "short": "Cartier's first wristwatch designed for aviator Santos-Dumont in 1904",
+    "category": "Model"
+  },
+  {
+    "term": "Sapphire Case",
+    "short": "Transparent synthetic sapphire crystal used for case construction, offering exceptional clarity and hardness.",
+    "category": "Materials"
+  },
+  {
+    "term": "Sapphire Crystal",
+    "short": "Synthetic sapphire used for watch crystals; extremely hard and scratch-resistant",
+    "category": "Materials"
+  },
+  {
+    "term": "Satin finish",
+    "short": "Soft sheen between matte and polish with subtle reflectivity",
+    "category": "Finishing"
+  },
+  {
+    "term": "Satin Finishing",
+    "short": "Creating a soft, non-reflective matte finish on watch components using fine brushing techniques.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Saturation Diving",
+    "short": "Prolonged underwater work where diver's tissues absorb helium at depth.",
+    "category": "Diving"
+  },
+  {
+    "term": "Screw Cleaning",
+    "short": "Specialized cleaning of small watch screws to remove corrosion and debris",
+    "category": "Cleaning"
+  },
+  {
+    "term": "Screw-down caseback",
+    "short": "Caseback sealed with threads that screw onto the case middle, improving water resistance.",
+    "category": "Case"
+  },
+  {
+    "term": "Screw-Down Crown",
+    "short": "Crown that screws onto the case threads for enhanced water resistance.",
+    "category": "Case"
+  },
+  {
+    "term": "Screw-Down Pusher",
+    "short": "Chronograph button secured with a screw for enhanced durability.",
+    "category": "Case"
+  },
+  {
+    "term": "Seamaster",
+    "short": "Omega's professional diving watch line introduced in 1948",
+    "category": "Model"
+  },
+  {
+    "term": "Seconde Morte",
+    "short": "French term for dead beat or jumping seconds hand mechanism with stepped advancement.",
+    "category": "Complications"
+  },
+  {
+    "term": "Sector Dial",
+    "short": "Dial with time markings concentrated in sectors rather than full circle.",
+    "category": "Dial"
+  },
+  {
+    "term": "Secular rate",
+    "short": "Long-term changes in watch accuracy caused by wear, aging, and environmental factors",
+    "category": "History"
+  },
+  {
+    "term": "Sedna Gold",
+    "short": "Rolex's exclusive rose gold alloy with improved resistance to color fading and corrosion over time.",
+    "category": "Materials"
+  },
+  {
+    "term": "Seiko Caliber 4R36",
+    "short": "Hand-wound movement, 40-hour power reserve, robust construction for field watches",
+    "category": "Movement"
+  },
+  {
+    "term": "Seiko Caliber 6R35",
+    "short": "Hand-wound, 50-hour reserve, reliable workhorse for Prospex line, accurate regulation",
+    "category": "Movement"
+  },
+  {
+    "term": "Seiko Caliber 7S26",
+    "short": "Simple automatic, 41-hour reserve, iconic in Submariner homage watches, proven durability",
+    "category": "Movement"
+  },
+  {
+    "term": "Seiko Caliber 9R65",
+    "short": "Grand Seiko in-house movement, 72-hour reserve, high accuracy, hand-wound precision",
+    "category": "Movement"
+  },
+  {
+    "term": "Seiko Caliber NH35",
+    "short": "Automatic, 40-hour reserve, hacking seconds, day-date complications, affordable reliability",
+    "category": "Movement"
+  },
+  {
+    "term": "Sellita SW200",
+    "short": "ETA 2824 alternative, 42-hour reserve, Swiss-made, compatible chronograph calibers available",
+    "category": "Movement"
+  },
+  {
+    "term": "Sellita SW500",
+    "short": "Chronograph movement based on 7750, 42-hour reserve, Swiss manufacture, column wheel",
+    "category": "Movement"
+  },
+  {
+    "term": "Serial Number",
+    "short": "Unique identifier engraved on watch case to establish production date and individual identification",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Serif dial",
+    "short": "Watch dial with serif font for hour markers and printing, vintage aesthetic variant.",
+    "category": "Aesthetics"
+  },
+  {
+    "term": "Service Cost Estimate",
+    "short": "Quoted price for watch repair and maintenance work before authorization",
+    "category": "Administration"
+  },
+  {
+    "term": "Service dial",
+    "short": "Replacement dial installed during Rolex service, potentially reducing watch value.",
+    "category": "Condition"
+  },
+  {
+    "term": "Service Documentation",
+    "short": "Record keeping of all service performed with dates and parts replaced",
+    "category": "Administration"
+  },
+  {
+    "term": "Service History",
+    "short": "Records of professional maintenance and repairs performed on the watch over its lifetime",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Service interval",
+    "short": "Manufacturer-recommended timeframe for professional maintenance and movement inspection",
+    "category": "Maintenance"
+  },
+  {
+    "term": "Setting Lever",
+    "short": "Component that engages intermediate wheel to enable time-setting mode in keyless works",
+    "category": "Movement"
+  },
+  {
+    "term": "Shagreen Leather",
+    "short": "Stingray leather with unique bumpy texture, water-resistant, premium material",
+    "category": "Strap"
+  },
+  {
+    "term": "Shark mesh",
+    "short": "Solid metal mesh band with interlocking design, secure and modern aesthetic",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Shell cordovan",
+    "short": "Premium horsehide leather from shell area, develops rich patina over time",
+    "category": "Strap"
+  },
+  {
+    "term": "Shock Resistance Test",
+    "short": "Verification of watch ability to withstand impact and vibration damage",
+    "category": "Testing"
+  },
+  {
+    "term": "Shot peening",
+    "short": "Bombarding surface with small spheres to increase strength and texture",
+    "category": "Finishing"
+  },
+  {
+    "term": "Sidereal Time",
+    "short": "Time measured by the Earth's rotation relative to stars rather than the sun.",
+    "category": "Complications"
+  },
+  {
+    "term": "SIHH",
+    "short": "Salon International de la Haute Horlogerie; Geneva luxury watch exhibition held annually",
+    "category": "Events"
+  },
+  {
+    "term": "Silicon Hairspring",
+    "short": "Hairspring made from silicon, offering improved precision and resistance to temperature variations.",
+    "category": "Movement"
+  },
+  {
+    "term": "Silicone Strap",
+    "short": "Soft, flexible rubber strap, hypoallergenic, easy to clean, casual wear",
+    "category": "Strap"
+  },
+  {
+    "term": "Skeleton Dial",
+    "short": "Transparent dial exposing internal movement and bridges for aesthetic display.",
+    "category": "Dial"
+  },
+  {
+    "term": "Skeleton Watch",
+    "short": "Transparent or open-back watch displaying internal mechanisms and movement components visibly.",
+    "category": "Watch Types"
+  },
+  {
+    "term": "Sleep Stage Tracking Sensor",
+    "short": "Advanced accelerometer differentiating REM, light, and deep sleep phases",
+    "category": "Complications"
+  },
+  {
+    "term": "Slide Rule Bezel",
+    "short": "Rotating bezel with logarithmic scale for mathematical calculations",
+    "category": "Dial"
+  },
+  {
+    "term": "Smartwatch",
+    "short": "Electronic wristwatch integrating digital features, notifications, and smartphone connectivity.",
+    "category": "Modern"
+  },
+  {
+    "term": "Smooth Bezel",
+    "short": "Polished bezel without texture or ridges for sleek appearance",
+    "category": "Dial"
+  },
+  {
+    "term": "Snail mail finish",
+    "short": "Spiral swirl pattern resembling snail shell appearance",
+    "category": "Finishing"
+  },
+  {
+    "term": "Snailing",
+    "short": "Concentric circular pattern created on watch components resembling snail shells.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Snowflake dial",
+    "short": "Distinctive snowflake-shaped hour markers found on Sea-Dweller models.",
+    "category": "Aesthetics"
+  },
+  {
+    "term": "Solar",
+    "short": "Watch movement powered directly by solar panels, requiring no battery replacement.",
+    "category": "Movement"
+  },
+  {
+    "term": "Solid case",
+    "short": "Case construction where the caseband is machined entirely from solid metal, no hollow sections.",
+    "category": "Case"
+  },
+  {
+    "term": "Solid end links",
+    "short": "Solid metal links connecting band to case, versus hollow bracelet end links.",
+    "category": "Materials"
+  },
+  {
+    "term": "Solid Link",
+    "short": "Bracelet link constructed from a single solid piece of metal.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Solid links",
+    "short": "Bracelet links that are completely filled, heavier and more durable than hollow",
+    "category": "Link Type"
+  },
+  {
+    "term": "Sonnerie",
+    "short": "Chiming mechanism that strikes the hours and sometimes quarters automatically at set times.",
+    "category": "Complications"
+  },
+  {
+    "term": "Speedmaster",
+    "short": "Omega's legendary chronograph, the first watch worn on the Moon in 1969",
+    "category": "Model"
+  },
+  {
+    "term": "Spider Dial",
+    "short": "Dial with radial cracks emanating from center, resembling spider web pattern",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Spindle Run-Out",
+    "short": "Axial and radial deviation of lathe spindle rotation affecting precision of turned watch components.",
+    "category": "Tools"
+  },
+  {
+    "term": "Spiromax",
+    "short": "Rolex's silicon hairspring and balance wheel assembly for enhanced chronometric performance.",
+    "category": "Movement"
+  },
+  {
+    "term": "Split-Seconds Chronograph",
+    "short": "Chronograph with two independent hands allowing measurement of two simultaneous time intervals.",
+    "category": "Complications"
+  },
+  {
+    "term": "Sports Watch",
+    "short": "Durable watch designed for athletic activities with enhanced water resistance and readability.",
+    "category": "Watch Types"
+  },
+  {
+    "term": "Spring Bar Tool",
+    "short": "Specialized tool for removing and installing spring bars that attach watch straps",
+    "category": "Tools"
+  },
+  {
+    "term": "Spring Drive",
+    "short": "Seiko's unique technology combining mechanical precision with quartz accuracy using a mainspring.",
+    "category": "Movement"
+  },
+  {
+    "term": "Spring steel",
+    "short": "Specialized steel alloy used in hairsprings and mainsprings for its elasticity and durability",
+    "category": "History"
+  },
+  {
+    "term": "Stainless Steel",
+    "short": "Corrosion-resistant iron alloy containing chromium and nickel, standard watchcase material",
+    "category": "Materials"
+  },
+  {
+    "term": "Stainless Steel 904L",
+    "short": "High-grade corrosion-resistant steel alloy with superior polishing and durability characteristics.",
+    "category": "Materials"
+  },
+  {
+    "term": "Stainless Steel Bracelet",
+    "short": "Durable metal bracelet, corrosion-resistant, polished or brushed finish",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Stake Punch Set",
+    "short": "Precision punches used with staking tools to form, shape, or set components onto watch movements.",
+    "category": "Tools"
+  },
+  {
+    "term": "Stake Support Block",
+    "short": "Rigid base platform in staking sets that prevents component deformation during pressing operations.",
+    "category": "Tools"
+  },
+  {
+    "term": "Staking Arbor",
+    "short": "Central rotating shaft in a staking set that holds and guides various dies during component assembly.",
+    "category": "Tools"
+  },
+  {
+    "term": "Staking Die",
+    "short": "Interchangeable hardened steel die that fits into a staking tool to perform specific component operations.",
+    "category": "Tools"
+  },
+  {
+    "term": "Staking Set Graduated Bed",
+    "short": "Marked measuring surface on staking sets indicating height relationships for different die combinations.",
+    "category": "Tools"
+  },
+  {
+    "term": "Staking Set Leverage Arm",
+    "short": "Mechanical advantage system on staking sets providing controlled, consistent pressure application force.",
+    "category": "Tools"
+  },
+  {
+    "term": "Standalone App Architecture",
+    "short": "Software design allowing smartwatch apps to function independently without tethered smartphone",
+    "category": "Movement"
+  },
+  {
+    "term": "Star Chart",
+    "short": "Watch dial depicting the night sky map with stars and constellations for a specific latitude.",
+    "category": "Complications"
+  },
+  {
+    "term": "Steel Grade 316L",
+    "short": "Medical-grade stainless steel with low carbon content, highly corrosion-resistant",
+    "category": "Materials"
+  },
+  {
+    "term": "Stella dial",
+    "short": "Exotic dial style with distinctive crosshair pattern, highly sought vintage collectible.",
+    "category": "Aesthetics"
+  },
+  {
+    "term": "Stem Replacement",
+    "short": "Installation of new watch stem when cracked or stripped internally",
+    "category": "Parts"
+  },
+  {
+    "term": "Stepped case",
+    "short": "Case design featuring distinct stepped or tiered levels on the sides, creating dimensional appearance.",
+    "category": "Case"
+  },
+  {
+    "term": "Stone Dial",
+    "short": "Dial inlaid with natural stone materials like marble, granite, or slate for unique patterns",
+    "category": "Dial"
+  },
+  {
+    "term": "Stress Level Indicator",
+    "short": "Biometric algorithm analyzing heart rate variability to assess psychological tension",
+    "category": "Complications"
+  },
+  {
+    "term": "Striking Mechanism",
+    "short": "Complication using hammers and gongs to audibly announce time or trigger alarms at predetermined intervals.",
+    "category": "Complications"
+  },
+  {
+    "term": "Sub-Dial",
+    "short": "Smaller dial face within main dial for chronograph or GMT functions",
+    "category": "Dial"
+  },
+  {
+    "term": "Subdial",
+    "short": "Smaller auxiliary dial displaying seconds, chronograph functions, or date complications.",
+    "category": "Dial"
+  },
+  {
+    "term": "Subdials",
+    "short": "Smaller dials within the main dial displaying specific functions like chronograph elapsed time or subdued seconds.",
+    "category": "Complications"
+  },
+  {
+    "term": "Submariner",
+    "short": "Iconic Rolex dive watch with rotating bezel and exceptional water resistance for diving.",
+    "category": "Icons"
+  },
+  {
+    "term": "Suede NATO",
+    "short": "NATO strap variant in soft suede material, luxurious casual appearance",
+    "category": "Strap"
+  },
+  {
+    "term": "Suede Strap",
+    "short": "Soft napped leather, luxurious feel, requires careful maintenance",
+    "category": "Strap"
+  },
+  {
+    "term": "Sunburst Brushing",
+    "short": "Combined technique using radial brushing patterns to create dynamic light-catching dial effects.",
+    "category": "Treatments"
+  },
+  {
+    "term": "Sunburst Dial",
+    "short": "Dial with radial brushed finish creating light-reflecting pattern",
+    "category": "Dial"
+  },
+  {
+    "term": "Sunburst Finish",
+    "short": "Radial brushing pattern emanating from center, creating light-reflecting striations.",
+    "category": "Dial"
+  },
+  {
+    "term": "Sunburst Finishing",
+    "short": "Radial brushing pattern emanating from center point, creating a sunburst visual effect.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Sunray finish",
+    "short": "Radial brushing pattern creating rays of light emanating from center",
+    "category": "Finishing"
+  },
+  {
+    "term": "Sunrise and Sunset Indication",
+    "short": "Complication displaying the times of sunrise and sunset for the wearer's location or selected city.",
+    "category": "Complications"
+  },
+  {
+    "term": "Sunrise Sunset Indicator",
+    "short": "Mechanical display showing the times of sunrise and sunset for a specific geographic location.",
+    "category": "Complications"
+  },
+  {
+    "term": "Sunrise/Sunset Indicator",
+    "short": "Complication displaying precise times of solar rise and set for specific geographic location.",
+    "category": "Complications"
+  },
+  {
+    "term": "Super-LumiNova",
+    "short": "High-performance luminous paint offering exceptional brightness and extended glow time.",
+    "category": "Dial"
+  },
+  {
+    "term": "Superluminova",
+    "short": "Advanced photoluminescent material applied to hands and indices for enhanced nighttime visibility.",
+    "category": "Treatments"
+  },
+  {
+    "term": "Swan neck regulator",
+    "short": "Elegant S-shaped bracket used to adjust the hairspring length for fine timekeeping adjustments",
+    "category": "History"
+  },
+  {
+    "term": "Swiss Made",
+    "short": "Official certification requiring 60% Swiss value added and assembly in Switzerland",
+    "category": "Industry"
+  },
+  {
+    "term": "Swiss Made Certification",
+    "short": "Movement minimum 60% Swiss-manufactured content, Sellita SW200/500, ETA movements qualify",
+    "category": "Movement"
+  },
+  {
+    "term": "Syloxi",
+    "short": "Omega's proprietary silicon hairspring providing superior stability and anti-magnetic properties.",
+    "category": "Movement"
+  },
+  {
+    "term": "Tachymeter",
+    "short": "Dial scale measuring speed based on distance traveled, primarily used on racing chronographs.",
+    "category": "Features"
+  },
+  {
+    "term": "Tachymeter Bezel",
+    "short": "Scale on bezel used to measure speed based on distance traveled.",
+    "category": "Case"
+  },
+  {
+    "term": "Tachymeter Scale",
+    "short": "Graduated scale measuring speed based on distance and time elapsed.",
+    "category": "Dial"
+  },
+  {
+    "term": "Tang Buckle",
+    "short": "Simple pin-style buckle that fastens through a leather or fabric strap.",
+    "category": "Clasp"
+  },
+  {
+    "term": "Tank",
+    "short": "Cartier's rectangular dress watch inspired by military tanks, since 1917",
+    "category": "Model"
+  },
+  {
+    "term": "Tank case",
+    "short": "Rectangular case design inspired by military tanks, featuring distinctive curved sides and lugs.",
+    "category": "Case"
+  },
+  {
+    "term": "Telemeter",
+    "short": "Scale calculating distance based on time delay between light and sound",
+    "category": "Dial"
+  },
+  {
+    "term": "Telemeter Bezel",
+    "short": "Bezel with telemeter scale measuring distance based on sound and light propagation differences",
+    "category": "Bezel"
+  },
+  {
+    "term": "Telemeter Scale",
+    "short": "Scale calculating distance based on sound propagation and light timing.",
+    "category": "Dial"
+  },
+  {
+    "term": "Temperature compensation",
+    "short": "Mechanism to counteract effects of temperature changes on timekeeping accuracy",
+    "category": "History"
+  },
+  {
+    "term": "Tempering",
+    "short": "Controlled heating and cooling of steel to achieve desired hardness and resilience properties.",
+    "category": "Heat Treatment"
+  },
+  {
+    "term": "Tension Adjustment",
+    "short": "Fine-tuning of mechanical tensions in watch movement for optimal performance",
+    "category": "Service"
+  },
+  {
+    "term": "Testing Protocol",
+    "short": "Standardized procedures by COSC for evaluating chronometer precision and reliability",
+    "category": "Certification"
+  },
+  {
+    "term": "Thermal Compensation Circuit",
+    "short": "Electronic adjustment system maintaining quartz accuracy across temperature variations",
+    "category": "Movement"
+  },
+  {
+    "term": "Thermo-Compensated Quartz",
+    "short": "Advanced quartz movement with temperature compensation for superior chronometric stability.",
+    "category": "Movement"
+  },
+  {
+    "term": "Thermometer Complication",
+    "short": "Integrated scale displaying ambient temperature, typically placed on the dial edge or subsidiary dial.",
+    "category": "Complications"
+  },
+  {
+    "term": "Third Wheel",
+    "short": "Intermediate wheel in gear train that transfers power between barrel and center wheel",
+    "category": "Movement"
+  },
+  {
+    "term": "Three-piece case",
+    "short": "Case construction with separate middle, caseback, and crystal components assembled together.",
+    "category": "Case"
+  },
+  {
+    "term": "Three-Question Repeater",
+    "short": "Minute repeater chiming hours, quarter hours, and minutes when respective pushers are activated individually.",
+    "category": "Complications"
+  },
+  {
+    "term": "Tide Complication",
+    "short": "Displays tidal information based on lunar cycles, useful for maritime and sailing activities.",
+    "category": "Complications"
+  },
+  {
+    "term": "Tiffany dial",
+    "short": "Dial with distinctive turquoise/Tiffany blue color, iconic Rolex collectible variant.",
+    "category": "Aesthetics"
+  },
+  {
+    "term": "Timegrapher",
+    "short": "Tool that analyzes watch beat, amplitude, and rate in real-time.",
+    "category": "Testing"
+  },
+  {
+    "term": "Timekeeping Tolerance",
+    "short": "Maximum allowed variation in seconds per day certified by COSC standards",
+    "category": "Certification"
+  },
+  {
+    "term": "Timestamp Bezel",
+    "short": "Fixed outer bezel marking specific time intervals for dive planning.",
+    "category": "Bezel"
+  },
+  {
+    "term": "Timing Machine",
+    "short": "Electronic device that measures watch rate and performance parameters.",
+    "category": "Testing"
+  },
+  {
+    "term": "Timing Machine Calibration Block",
+    "short": "Reference standard component used to verify accuracy and sensitivity of timing machine sensors.",
+    "category": "Tools"
+  },
+  {
+    "term": "Timing Machine Frequency Counter",
+    "short": "Digital circuit in timing machines measuring escapement frequency in oscillations per hour with precision.",
+    "category": "Tools"
+  },
+  {
+    "term": "Timing Machine Sensor Array",
+    "short": "Multiple electromagnetic or optical sensors in timing machines that detect and measure balance wheel vibrations.",
+    "category": "Tools"
+  },
+  {
+    "term": "Titanium",
+    "short": "Lightweight, hypoallergenic metal alloy offering excellent strength and corrosion resistance",
+    "category": "Materials"
+  },
+  {
+    "term": "Titanium Bracelet",
+    "short": "Lightweight metal bracelet, superior strength-to-weight ratio, hypoallergenic",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Titanium Grade 5",
+    "short": "Medical-grade titanium alloy offering superior strength-to-weight ratio and hypoallergenic properties.",
+    "category": "Materials"
+  },
+  {
+    "term": "Tonneau case",
+    "short": "Barrel-shaped case wider at the center and tapered at the lugs, resembling a wine barrel.",
+    "category": "Case"
+  },
+  {
+    "term": "Tool watch",
+    "short": "Robust, functional watch designed for professional or demanding work conditions",
+    "category": "Lifestyle"
+  },
+  {
+    "term": "Tooth Profile",
+    "short": "Shape of gear teeth affecting smoothness and efficiency of power transmission",
+    "category": "Movement"
+  },
+  {
+    "term": "Top-Grain Leather",
+    "short": "Buffed leather layer below full-grain, smooth finish, moderate durability",
+    "category": "Strap"
+  },
+  {
+    "term": "Tourbillon",
+    "short": "Mechanism encasing the balance wheel assembly in rotating cage to counteract gravity effects.",
+    "category": "Movement"
+  },
+  {
+    "term": "Transitional dial",
+    "short": "Dial design between major production eras, combining features of both generations.",
+    "category": "History"
+  },
+  {
+    "term": "Triple Seal",
+    "short": "Three gasket seals providing maximum water protection on diver's watches.",
+    "category": "Case"
+  },
+  {
+    "term": "Triplock crown",
+    "short": "Rolex's triple waterproofing crown system for deep diving watches",
+    "category": "Case Feature"
+  },
+  {
+    "term": "Tritium",
+    "short": "Radioactive luminous material used in watch dials from 1960s-1990s, safer than radium",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Tritium decay",
+    "short": "Gradual reduction in luminescence brightness of tritium-based watch dials at approximately 5.5% per year",
+    "category": "Display"
+  },
+  {
+    "term": "Tritium dial",
+    "short": "Dial coated with tritium, a radioactive hydrogen isotope providing continuous glow without light exposure",
+    "category": "Materials"
+  },
+  {
+    "term": "Tritium lume",
+    "short": "Radioactive luminous material used in vintage watches, glows without recharging.",
+    "category": "Materials"
+  },
+  {
+    "term": "Tritium tube",
+    "short": "Sealed glass or metal tube filled with tritium gas used for constant watch dial luminescence",
+    "category": "Materials"
+  },
+  {
+    "term": "Tropic strap",
+    "short": "Rubber strap with drainage holes, ideal for water sports and humid conditions",
+    "category": "Strap"
+  },
+  {
+    "term": "Tropical Dial",
+    "short": "Vintage dial with distinctive brown patina from age and UV exposure",
+    "category": "Dial"
+  },
+  {
+    "term": "Tropical Lume",
+    "short": "Luminous material that faded from original bright white or cream to warm brownish tones",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "True Seconds",
+    "short": "Seconds hand that advances in one-second jumps at specific intervals, also called dead beat.",
+    "category": "Complications"
+  },
+  {
+    "term": "Tumbling",
+    "short": "Barrel polishing process tumbling watch parts with abrasive media for uniform finishing.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Twinlock crown",
+    "short": "Rolex's double waterproofing system for the crown protecting the watch",
+    "category": "Case Feature"
+  },
+  {
+    "term": "Two-piece case",
+    "short": "Case design consisting of a case middle and caseback, with the crystal fitted into the middle.",
+    "category": "Case"
+  },
+  {
+    "term": "Two-piece strap",
+    "short": "Separate sections for each side of watch, allows easy change and cleaning",
+    "category": "Strap"
+  },
+  {
+    "term": "Two-Tone Bracelet",
+    "short": "Mixed metal bracelet combining gold and stainless steel for hybrid aesthetic",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Two-watch collection",
+    "short": "Minimalist collecting approach; typically one dress and one sports watch",
+    "category": "Collecting"
+  },
+  {
+    "term": "Ultra-Wideband (UWB) Chipset",
+    "short": "High-precision positioning technology enabling spatial awareness and proximity detection",
+    "category": "Complications"
+  },
+  {
+    "term": "Ultrasonic Cleaning",
+    "short": "High-frequency sound waves used to remove dirt and debris from watch components",
+    "category": "Cleaning"
+  },
+  {
+    "term": "Uni-directional Bezel",
+    "short": "Bezel rotating only counterclockwise to prevent accidental advancement.",
+    "category": "Case"
+  },
+  {
+    "term": "Unidirectional Bezel",
+    "short": "Rotating bezel designed to rotate only counterclockwise for safety",
+    "category": "Dial"
+  },
+  {
+    "term": "Unpolished Case",
+    "short": "Watch case retaining original brushed finish without refinishing, highly valued on vintage watches",
+    "category": "Collecting and Market"
+  },
+  {
+    "term": "Valjoux Caliber 7750",
+    "short": "Swiss chronograph movement, column wheel, 42-hour reserve, basis for many luxury chronographs",
+    "category": "Movement"
+  },
+  {
+    "term": "Velcro Strap",
+    "short": "Hook-and-loop fastening system, quick adjustment, sporty design",
+    "category": "Strap"
+  },
+  {
+    "term": "Verge escapement",
+    "short": "Early escapement mechanism using a rotating verge to regulate energy release from mainspring",
+    "category": "History"
+  },
+  {
+    "term": "Vertical brushing",
+    "short": "Fine linear scratches applied in vertical direction for matte appearance",
+    "category": "Finishing"
+  },
+  {
+    "term": "Vertical Clutch",
+    "short": "Chronograph clutch mechanism engaging vertically, also called cam-follower or friction clutch.",
+    "category": "Complications"
+  },
+  {
+    "term": "Vibratory Finishing",
+    "short": "Mechanical finishing using vibrating equipment with abrasive media for deburring and polishing.",
+    "category": "Surface Finishing"
+  },
+  {
+    "term": "Vintage Leather",
+    "short": "Aged leather developed patina and character through intentional or natural weathering",
+    "category": "Strap"
+  },
+  {
+    "term": "Vintage lume",
+    "short": "Original luminous coatings from older watch era, often radioactive and subject to patination",
+    "category": "Materials"
+  },
+  {
+    "term": "Vintage patination",
+    "short": "Natural aging process causing color changes and degradation in old radioactive watch lume over decades",
+    "category": "Display"
+  },
+  {
+    "term": "Vintage Watch",
+    "short": "Collectible timepiece typically over 20 years old, valued for historical significance and rarity.",
+    "category": "Collecting"
+  },
+  {
+    "term": "Voice Recognition Engine",
+    "short": "On-device audio processing enabling voice commands without cloud transmission",
+    "category": "Movement"
+  },
+  {
+    "term": "Vulcanized rubber",
+    "short": "Heat-bonded rubber material creating durable, flexible, and water-resistant straps",
+    "category": "Strap"
+  },
+  {
+    "term": "Waffle Dial",
+    "short": "Grid-pattern embossed dial surface resembling waffle texture for enhanced visual interest",
+    "category": "Dial"
+  },
+  {
+    "term": "Wandering Hour",
+    "short": "Moving hour numeral circling dial rather than traditional rotating hand mechanism.",
+    "category": "Complications"
+  },
+  {
+    "term": "Wandering Hours",
+    "short": "Complication where hours appear in a rotating disc window, moving horizontally across the dial.",
+    "category": "Complications"
+  },
+  {
+    "term": "Warranty card",
+    "short": "Documentation proving authenticity and purchase date; essential for manufacturer coverage",
+    "category": "Business"
+  },
+  {
+    "term": "Warranty Coverage",
+    "short": "Guarantee period provided on watch repairs and service work performed",
+    "category": "Administration"
+  },
+  {
+    "term": "Watches and Wonders",
+    "short": "Major international watch exhibition in Geneva; successor to SIHH and Baselworld",
+    "category": "Events"
+  },
+  {
+    "term": "Watchface Customization API",
+    "short": "Software interface allowing third-party developers to design proprietary watch displays",
+    "category": "Movement"
+  },
+  {
+    "term": "Water Resistance",
+    "short": "Case's ability to withstand water exposure, measured in meters or ATM.",
+    "category": "Case"
+  },
+  {
+    "term": "Water Resistance Rating",
+    "short": "ISO standard measurement of watch's ability to resist water penetration at depth",
+    "category": "Certification"
+  },
+  {
+    "term": "Water Resistance Test",
+    "short": "Verification of watch waterproof rating using specialized pressure testing equipment",
+    "category": "Testing"
+  },
+  {
+    "term": "Wave finish",
+    "short": "Undulating linear pattern creating flowing wave-like appearance",
+    "category": "Finishing"
+  },
+  {
+    "term": "Wet Suit Extension",
+    "short": "Extended crown or controls designed to operate over thick diving suit gloves.",
+    "category": "Crown"
+  },
+  {
+    "term": "Wetsuit extension",
+    "short": "Additional strap segment for wearing watch over thicker diving suit materials",
+    "category": "Extension"
+  },
+  {
+    "term": "Wheel Blank",
+    "short": "Basic disc of metal before teeth are cut to create functional gear wheel",
+    "category": "Movement"
+  },
+  {
+    "term": "White Ceramic",
+    "short": "Pure ceramic material used for watch cases and components, offering extreme scratch and heat resistance.",
+    "category": "Materials"
+  },
+  {
+    "term": "White lume",
+    "short": "Neutral luminous material that glows white or pale, used in some contemporary watch designs",
+    "category": "Materials"
+  },
+  {
+    "term": "Wide Boy",
+    "short": "Early Submariner with disproportionately wide case, reference 5508 and 5510.",
+    "category": "History"
+  },
+  {
+    "term": "Winding Pinion",
+    "short": "Gear on the crown shaft that engages the ratchet wheel during manual mainspring winding.",
+    "category": "Movement"
+  },
+  {
+    "term": "Winding Stem",
+    "short": "Shaft that connects crown to keyless works for manual winding and time setting functions",
+    "category": "Movement"
+  },
+  {
+    "term": "Wood Dial",
+    "short": "Natural wood veneer dial providing warm organic appearance with natural grain variations",
+    "category": "Dial"
+  },
+  {
+    "term": "World Time",
+    "short": "Displays 24 or more time zones simultaneously, often with city names on the dial or bezel.",
+    "category": "Complications"
+  },
+  {
+    "term": "World Timer",
+    "short": "Complex watch displaying multiple time zones, typically showing 24 hours and several cities.",
+    "category": "Watch Types"
+  },
+  {
+    "term": "Woven Fabric Strap",
+    "short": "Textile strap from various fabrics, breathable and comfortable casual wear",
+    "category": "Strap"
+  },
+  {
+    "term": "X1",
+    "short": "Super-LumiNova formulation known for bright green glow and reliable luminescence performance",
+    "category": "Materials"
+  },
+  {
+    "term": "Yoke",
+    "short": "Fork-shaped component that actuates setting lever when pulling crown outward",
+    "category": "Movement"
+  },
+  {
+    "term": "Zaratsu polishing",
+    "short": "Japanese technique creating perfect mirror finish without visible scratches",
+    "category": "Finishing"
+  },
+  {
+    "term": "Zenith El Primero",
+    "short": "Legendary integrated chronograph, 36,000 bph, 50-hour reserve, haute horlogerie standard",
+    "category": "Movement"
+  },
+  {
+    "term": "Zodiac Calendar",
+    "short": "Annual calendar display indicating astrological zodiac signs rather than traditional month names.",
+    "category": "Complications"
+  },
+  {
+    "term": "Zodiac Display",
+    "short": "Dial complication showing the current zodiacal sign based on the calendar date.",
+    "category": "Complications"
+  },
+  {
+    "term": "Zodiac Indicator",
+    "short": "Rotating dial or hand showing current zodiacal position based on calendar date.",
+    "category": "Complications"
+  }
+]

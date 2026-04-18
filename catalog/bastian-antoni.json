@@ -1,0 +1,37 @@
+{
+  "brand_slug": "bastian-antoni",
+  "collections": [
+    {
+      "name": "Turbulent watches5",
+      "slug": "turbulent",
+      "references": [
+        {
+          "slug": "ba01-steel-brown-8719326505893",
+          "text": "BA01.STEEL/BROWN.8719326505893 Turbulent - Steel / Brown",
+          "url": "/bastian-antoni/turbulent/ba01-steel-brown-8719326505893"
+        },
+        {
+          "slug": "ba01-steel-black-8719326505886",
+          "text": "BA01.STEEL/BLACK.8719326505886 Turbulent - Steel / Black",
+          "url": "/bastian-antoni/turbulent/ba01-steel-black-8719326505886"
+        },
+        {
+          "slug": "ba01-black-hour-8719326505879",
+          "text": "BA01.BLACK HOUR.8719326505879 Turbulent - Black Hour",
+          "url": "/bastian-antoni/turbulent/ba01-black-hour-8719326505879"
+        },
+        {
+          "slug": "ba01-rose-brown-8719326505862",
+          "text": "BA01.ROSE/BROWN.8719326505862 Turbulent - Rose / Brown",
+          "url": "/bastian-antoni/turbulent/ba01-rose-brown-8719326505862"
+        },
+        {
+          "slug": "ba01-rose-black-8719326505855",
+          "text": "BA01.ROSE/BLACK.8719326505855 Turbulent - Rose / Black",
+          "url": "/bastian-antoni/turbulent/ba01-rose-black-8719326505855"
+        }
+      ]
+    }
+  ],
+  "total_references": 5
+}

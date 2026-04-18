@@ -1,0 +1,38 @@
+{
+  "brand_slug": "kikuchi-nakagawa",
+  "collections": [
+    {
+      "name": "Ichimonji watches2",
+      "slug": "ichimonji",
+      "references": [
+        {
+          "slug": "ich-001",
+          "text": "ICH-001 Ichimonji Stainless Steel / Black",
+          "url": "/kikuchi-nakagawa/ichimonji/ich-001"
+        },
+        {
+          "slug": "ich-002",
+          "text": "ICH-002 Ichimonji Stainless Steel / White",
+          "url": "/kikuchi-nakagawa/ichimonji/ich-002"
+        }
+      ]
+    },
+    {
+      "name": "Murakumo watches2",
+      "slug": "murakumo",
+      "references": [
+        {
+          "slug": "mur-002",
+          "text": "MUR-002 Murakumo Stainless Steel / White",
+          "url": "/kikuchi-nakagawa/murakumo/mur-002"
+        },
+        {
+          "slug": "mur-001",
+          "text": "MUR-001 Murakumo Stainless Steel / Black",
+          "url": "/kikuchi-nakagawa/murakumo/mur-001"
+        }
+      ]
+    }
+  ],
+  "total_references": 4
+}

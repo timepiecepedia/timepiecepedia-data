@@ -1,0 +1,77 @@
+{
+  "brand_slug": "gerald-charles",
+  "collections": [
+    {
+      "name": "Maestro watches13",
+      "slug": "maestro",
+      "references": [
+        {
+          "slug": "gc19-00zz",
+          "text": "GC19-00ZZ Maestro Anniversary Full-Pavé",
+          "url": "/gerald-charles/maestro/gc19-00zz"
+        },
+        {
+          "slug": "gc2-0-a-02",
+          "text": "GC2.0-A-02 Maestro 2.0 Ultra Thin Stainless Steel / Green",
+          "url": "/gerald-charles/maestro/gc2-0-a-02"
+        },
+        {
+          "slug": "gc2-0-rg-02",
+          "text": "GC2.0-RG-02 Maestro 2.0 Premier 2021",
+          "url": "/gerald-charles/maestro/gc2-0-rg-02"
+        },
+        {
+          "slug": "gc2-0-a-00",
+          "text": "GC2.0-A-00 Maestro 2.0 Ultra Thin Stainless Steel / Green",
+          "url": "/gerald-charles/maestro/gc2-0-a-00"
+        },
+        {
+          "slug": "gc2-0-rg-01",
+          "text": "GC2.0-RG-01 Maestro 2.0 Ultra Thin Rose Gold / Blue",
+          "url": "/gerald-charles/maestro/gc2-0-rg-01"
+        },
+        {
+          "slug": "gc3-0-rg-02",
+          "text": "GC3.0-RG-02 Maestro 3.0 Premier 2021",
+          "url": "/gerald-charles/maestro/gc3-0-rg-02"
+        },
+        {
+          "slug": "gc20-a-01",
+          "text": "GC20-A-01 Maestro Original Time Stainless Steel / Blue",
+          "url": "/gerald-charles/maestro/gc20-a-01"
+        },
+        {
+          "slug": "gc20-a-00",
+          "text": "GC20-A-00 Maestro Original Time Stainless Steel / Black",
+          "url": "/gerald-charles/maestro/gc20-a-00"
+        },
+        {
+          "slug": "gc20-dlc-00",
+          "text": "GC20-DLC-00 Maestro Original Time DLC / Black",
+          "url": "/gerald-charles/maestro/gc20-dlc-00"
+        },
+        {
+          "slug": "gc20-dlc-01",
+          "text": "GC20-DLC-01 Maestro Original Time DLC / Blue",
+          "url": "/gerald-charles/maestro/gc20-dlc-01"
+        },
+        {
+          "slug": "gc2-0-tn-qtr",
+          "text": "GC2.0-TN-QTR Maestro 2.0 Ultra Thin Qatar Edition",
+          "url": "/gerald-charles/maestro/gc2-0-tn-qtr"
+        },
+        {
+          "slug": "gc19-00a",
+          "text": "GC19-00A Maestro Anniversary",
+          "url": "/gerald-charles/maestro/gc19-00a"
+        },
+        {
+          "slug": "gc19-00z",
+          "text": "GC19-00Z Maestro Anniversary Demí-Pavé",
+          "url": "/gerald-charles/maestro/gc19-00z"
+        }
+      ]
+    }
+  ],
+  "total_references": 13
+}

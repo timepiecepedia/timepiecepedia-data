@@ -1,0 +1,27 @@
+{
+  "brand_slug": "porsche-design",
+  "collections": [
+    {
+      "name": "Monobloc Actuator watches3",
+      "slug": "monobloc-actuator",
+      "references": [
+        {
+          "slug": "4046901818685",
+          "text": "4046901818685 Monobloc Actuator 24H - Chronotimer All Black",
+          "url": "/porsche-design/monobloc-actuator/4046901818685"
+        },
+        {
+          "slug": "4046901568047",
+          "text": "4046901568047 Monobloc Actuator 24H - Chronotimer Black & Rubber",
+          "url": "/porsche-design/monobloc-actuator/4046901568047"
+        },
+        {
+          "slug": "4046901564148",
+          "text": "4046901564148 Monobloc Actuator 24H - Chronotimer Limited Edition",
+          "url": "/porsche-design/monobloc-actuator/4046901564148"
+        }
+      ]
+    }
+  ],
+  "total_references": 3
+}

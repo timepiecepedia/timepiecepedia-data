@@ -1,0 +1,940 @@
+{
+  "brand_slug": "mb-f",
+  "collections": [
+    {
+      "name": "Horological Machines watches90",
+      "slug": "horological-machines",
+      "references": [
+        {
+          "slug": "40-rsl-r",
+          "text": "40.RSL.R Horological Machine N°4 HM4 Thunderbolt Red Gold",
+          "url": "/mb-f/horological-machines/40-rsl-r"
+        },
+        {
+          "slug": "20-dcttl-b",
+          "text": "20.DCTTL.B Horological Machine N°2 HM2 Ceramic & Titanium",
+          "url": "/mb-f/horological-machines/20-dcttl-b"
+        },
+        {
+          "slug": "34-tl-b",
+          "text": "34.TL.B Horological Machine N°3 HM3 Moonmachine Titanium",
+          "url": "/mb-f/horological-machines/34-tl-b"
+        },
+        {
+          "slug": "82-tl-g",
+          "text": "82.TL.G Horological Machine N°8 HM8 Mark 2 Titanium / Green",
+          "url": "/mb-f/horological-machines/82-tl-g"
+        },
+        {
+          "slug": "90-rl-ab",
+          "text": "90.RL.AB Horological Machine N°9 HM9 Flow Air Edition Red Gold",
+          "url": "/mb-f/horological-machines/90-rl-ab"
+        },
+        {
+          "slug": "31-tl-tp",
+          "text": "31.TL.TP Horological Machine N°3 HM3 Chocolate Frog",
+          "url": "/mb-f/horological-machines/31-tl-tp"
+        },
+        {
+          "slug": "33-rqtl-b",
+          "text": "33.RQTL.B Horological Machine N°3 JWLRYMACHINE Pink",
+          "url": "/mb-f/horological-machines/33-rqtl-b"
+        },
+        {
+          "slug": "33-watl-b",
+          "text": "33.WATL.B Horological Machine N°3 JWLRYMACHINE Purple",
+          "url": "/mb-f/horological-machines/33-watl-b"
+        },
+        {
+          "slug": "42-btsl-b",
+          "text": "42.BTSL.B Horological Machine N°4 HM4 Final Edition",
+          "url": "/mb-f/horological-machines/42-btsl-b"
+        },
+        {
+          "slug": "36-svl-pu",
+          "text": "36.SVL.PU Horological Machine N°3 HM3 Frog X Purple",
+          "url": "/mb-f/horological-machines/36-svl-pu"
+        },
+        {
+          "slug": "20-dcrtl-b",
+          "text": "20.DCRTL.B Horological Machine N°2 HM2 Ceramic & Red Gold",
+          "url": "/mb-f/horological-machines/20-dcrtl-b"
+        },
+        {
+          "slug": "60-srl-b",
+          "text": "60.SRL.B Horological Machine N°6 Space Pirate HM6-SV Red Gold",
+          "url": "/mb-f/horological-machines/60-srl-b"
+        },
+        {
+          "slug": "20-drrtl-r",
+          "text": "20.DRRTL.R Horological Machine N°2 HM2  Red Gold & Titanium",
+          "url": "/mb-f/horological-machines/20-drrtl-r"
+        },
+        {
+          "slug": "55-cmt-b",
+          "text": "55.CMT.B Horological Machine N°5 HM5 CarbonMacrolon",
+          "url": "/mb-f/horological-machines/55-cmt-b"
+        },
+        {
+          "slug": "11-tl-bl-c",
+          "text": "11.TL.BL-C Horological Machine N°11 HM11 Architect Titanium / Blue",
+          "url": "/mb-f/horological-machines/11-tl-bl-c"
+        },
+        {
+          "slug": "56-strl-b",
+          "text": "56.STRL.B Horological Machine 10th Anniversary HMX Red",
+          "url": "/mb-f/horological-machines/56-strl-b"
+        },
+        {
+          "slug": "36-svl-gr",
+          "text": "36.SVL.GR Horological Machine N°3 HM3 Frog X Turquoise",
+          "url": "/mb-f/horological-machines/36-svl-gr"
+        },
+        {
+          "slug": "32-zr",
+          "text": "32.ZR Horological Machine N°3 HM3 Frog ZR",
+          "url": "/mb-f/horological-machines/32-zr"
+        },
+        {
+          "slug": "90-rl-rb",
+          "text": "90.RL.RB Horological Machine N°9 HM9 Flow Road Edition Red Gold",
+          "url": "/mb-f/horological-machines/90-rl-rb"
+        },
+        {
+          "slug": "70-tgl-b",
+          "text": "70.TGL.B Horological Machine N°7 Aquapod Titanium / Green",
+          "url": "/mb-f/horological-machines/70-tgl-b"
+        },
+        {
+          "slug": "100-al-b",
+          "text": "100.AL.B Horological Machine N°10 HM10 Dark Bulldog Blue",
+          "url": "/mb-f/horological-machines/100-al-b"
+        },
+        {
+          "slug": "30-rtl-b",
+          "text": "30.RTL.B Horological Machine N°3 HM3 Starcruiser Red Gold",
+          "url": "/mb-f/horological-machines/30-rtl-b"
+        },
+        {
+          "slug": "60-tl-b",
+          "text": "60.TL.B Horological Machine N°6 Space Pirate HM6 TI",
+          "url": "/mb-f/horological-machines/60-tl-b"
+        },
+        {
+          "slug": "10-t41rl-r",
+          "text": "10.T41RL.R Horological Machine N°1 HM1  Red Gold",
+          "url": "/mb-f/horological-machines/10-t41rl-r"
+        },
+        {
+          "slug": "91-swl-rg",
+          "text": "91.SWL.RG Horological Machine N°9 HM9 Sapphire Vision White Gold / Red Gold",
+          "url": "/mb-f/horological-machines/91-swl-rg"
+        },
+        {
+          "slug": "82-tl-bu",
+          "text": "82.TL.BU Horological Machine N°8 HM8 Mark 2 Titanium / Blue",
+          "url": "/mb-f/horological-machines/82-tl-bu"
+        },
+        {
+          "slug": "40-tsyl",
+          "text": "40.TSYL Horological Machine N°4 HM4 Thunderbolt Yellow Gold",
+          "url": "/mb-f/horological-machines/40-tsyl"
+        },
+        {
+          "slug": "31-re-bel",
+          "text": "31.Re.Bel Horological Machine N°3 HM3 Sidewinder ReBel Chronopassion",
+          "url": "/mb-f/horological-machines/31-re-bel"
+        },
+        {
+          "slug": "100-al-bl",
+          "text": "100.AL.BL Horological Machine N°10 HM10 Dark Bulldog Black",
+          "url": "/mb-f/horological-machines/100-al-bl"
+        },
+        {
+          "slug": "57-stbl-b",
+          "text": "57.STBL.B Horological Machine  HMX Black Badger Phantom Blue",
+          "url": "/mb-f/horological-machines/57-stbl-b"
+        },
+        {
+          "slug": "60-stgl-b",
+          "text": "60.STGL.B Horological Machine N°6 Alien Nation HM6 Green",
+          "url": "/mb-f/horological-machines/60-stgl-b"
+        },
+        {
+          "slug": "60-stbl-b",
+          "text": "60.STBL.B Horological Machine N°6 Alien Nation HM6 Blue",
+          "url": "/mb-f/horological-machines/60-stbl-b"
+        },
+        {
+          "slug": "60-sl-b",
+          "text": "60.SL.B Horological Machine N°6 Space Pirate HM6 Final Edition",
+          "url": "/mb-f/horological-machines/60-sl-b"
+        },
+        {
+          "slug": "91-srl-bu",
+          "text": "91.SRL.BU Horological Machine N°9 HM9 Sapphire Vision Red Gold / Blue",
+          "url": "/mb-f/horological-machines/91-srl-bu"
+        },
+        {
+          "slug": "100-rl-b",
+          "text": "100.RL.B Horological Machine N°10 HM10 Bulldog Red Gold / Titanium",
+          "url": "/mb-f/horological-machines/100-rl-b"
+        },
+        {
+          "slug": "22-bb",
+          "text": "22.BB Horological Machine N°2.2 HM2.2 Black Box",
+          "url": "/mb-f/horological-machines/22-bb"
+        },
+        {
+          "slug": "35-rtl-b",
+          "text": "35.RTL.B Horological Machine N°3 HM3 Megawind Red Gold",
+          "url": "/mb-f/horological-machines/35-rtl-b"
+        },
+        {
+          "slug": "20-dsrl-b",
+          "text": "20.DSRL.B Horological Machine N°2 HM2 Sapphire & Red Gold",
+          "url": "/mb-f/horological-machines/20-dsrl-b"
+        },
+        {
+          "slug": "55-rl-b",
+          "text": "55.RL.B Horological Machine N°5 HM5 Red Gold",
+          "url": "/mb-f/horological-machines/55-rl-b"
+        },
+        {
+          "slug": "20-dstbl-b",
+          "text": "20.DSTBL.B Horological Machine N°2 HM2 Sapphire & Titanium",
+          "url": "/mb-f/horological-machines/20-dstbl-b"
+        },
+        {
+          "slug": "40-tsl-b",
+          "text": "40.TSL.B Horological Machine N°4 HM4 Thunderbolt",
+          "url": "/mb-f/horological-machines/40-tsl-b"
+        },
+        {
+          "slug": "31-wtl-b",
+          "text": "31.WTL.B Horological Machine N°3 HM3 Sidewinder White Gold",
+          "url": "/mb-f/horological-machines/31-wtl-b"
+        },
+        {
+          "slug": "20-dwwtl-ow",
+          "text": "20.DWWTL.OW Horological Machine N°2 HM2 Only Watch 2009",
+          "url": "/mb-f/horological-machines/20-dwwtl-ow"
+        },
+        {
+          "slug": "70-pbl-b",
+          "text": "70.PBL.B Horological Machine N°7 Aquapod Platinum / Red",
+          "url": "/mb-f/horological-machines/70-pbl-b"
+        },
+        {
+          "slug": "81-btl-b",
+          "text": "81.BTL.B Horological Machine N°8 HM8 Moonmachine 2 Black Titanium",
+          "url": "/mb-f/horological-machines/81-btl-b"
+        },
+        {
+          "slug": "60-stpt-b",
+          "text": "60.STPT.B Horological Machine N°6 Alien Nation HM6 Turquoise",
+          "url": "/mb-f/horological-machines/60-stpt-b"
+        },
+        {
+          "slug": "90-tl-rb",
+          "text": "90.TL.RB Horological Machine N°9 HM9 Flow Road Edition",
+          "url": "/mb-f/horological-machines/90-tl-rb"
+        },
+        {
+          "slug": "90-tl-ab",
+          "text": "90.TL.AB Horological Machine N°9 HM9 Flow Air Edition",
+          "url": "/mb-f/horological-machines/90-tl-ab"
+        },
+        {
+          "slug": "91-srl-bl",
+          "text": "91.SRL.BL Horological Machine N°9 HM9 Sapphire Vision Red Gold / Black",
+          "url": "/mb-f/horological-machines/91-srl-bl"
+        },
+        {
+          "slug": "100-tl-bl",
+          "text": "100.TL.BL Horological Machine N°10 HM10 Bulldog Titanium",
+          "url": "/mb-f/horological-machines/100-tl-bl"
+        },
+        {
+          "slug": "80-wtl-b",
+          "text": "80.WTL.B Horological Machine N°8 HM8 Can-Am White Gold",
+          "url": "/mb-f/horological-machines/80-wtl-b"
+        },
+        {
+          "slug": "10-t41wl-s",
+          "text": "10.T41WL.S Horological Machine N°1 HM1  White Gold",
+          "url": "/mb-f/horological-machines/10-t41wl-s"
+        },
+        {
+          "slug": "41-tsl-ow",
+          "text": "41.TSL.OW Horological Machine N°4 HM4 Only Watch",
+          "url": "/mb-f/horological-machines/41-tsl-ow"
+        },
+        {
+          "slug": "57-stpl-b",
+          "text": "57.STPL.B Horological Machine  HMX Black Badger Purple",
+          "url": "/mb-f/horological-machines/57-stpl-b"
+        },
+        {
+          "slug": "32-tl-b",
+          "text": "32.TL.B Horological Machine N°3 HM3 Ti Frog",
+          "url": "/mb-f/horological-machines/32-tl-b"
+        },
+        {
+          "slug": "82-tl-w",
+          "text": "82.TL.W Horological Machine N°8 HM8 Mark 2 Titanium / White",
+          "url": "/mb-f/horological-machines/82-tl-w"
+        },
+        {
+          "slug": "34-rl-b",
+          "text": "34.RL.B Horological Machine N°3 HM3 Moonmachine Red Gold",
+          "url": "/mb-f/horological-machines/34-rl-b"
+        },
+        {
+          "slug": "36-svl-bu",
+          "text": "36.SVL.BU Horological Machine N°3 HM3 Frog X Blue",
+          "url": "/mb-f/horological-machines/36-svl-bu"
+        },
+        {
+          "slug": "56-stdl-b",
+          "text": "56.STDL.B Horological Machine 10th Anniversary HMX Black",
+          "url": "/mb-f/horological-machines/56-stdl-b"
+        },
+        {
+          "slug": "11-tl-rg-c",
+          "text": "11.TL.RG-C Horological Machine N°11 HM11 Architect Titanium / Red Gold",
+          "url": "/mb-f/horological-machines/11-tl-rg-c"
+        },
+        {
+          "slug": "60-rl-b",
+          "text": "60.RL.B Horological Machine N°6 Space Pirate HM6 RT",
+          "url": "/mb-f/horological-machines/60-rl-b"
+        },
+        {
+          "slug": "91-syl-gr",
+          "text": "91.SYL.GR Horological Machine N°9 HM9 Sapphire Vision Yellow Gold / Green",
+          "url": "/mb-f/horological-machines/91-syl-gr"
+        },
+        {
+          "slug": "91-swl-bu",
+          "text": "91.SWL.BU Horological Machine N°9 HM9 Sapphire Vision White Gold / Blue",
+          "url": "/mb-f/horological-machines/91-swl-bu"
+        },
+        {
+          "slug": "20-dwwtl-r",
+          "text": "20.DWWTL.R Horological Machine N°2 HM2  White Gold & Titanium",
+          "url": "/mb-f/horological-machines/20-dwwtl-r"
+        },
+        {
+          "slug": "81-rtl-b",
+          "text": "81.RTL.B Horological Machine N°8 HM8 Moonmachine 2 Red Gold",
+          "url": "/mb-f/horological-machines/81-rtl-b"
+        },
+        {
+          "slug": "100-al-r",
+          "text": "100.AL.R Horological Machine N°10 HM10 Dark Bulldog Red",
+          "url": "/mb-f/horological-machines/100-al-r"
+        },
+        {
+          "slug": "10-t41rl-o",
+          "text": "10.T41RL.O Horological Machine N°1 HM1 RS Red Gold",
+          "url": "/mb-f/horological-machines/10-t41rl-o"
+        },
+        {
+          "slug": "hm10-ow",
+          "text": "HM10-OW Horological Machine N°10 Panda Only Watch",
+          "url": "/mb-f/horological-machines/hm10-ow"
+        },
+        {
+          "slug": "91-swl-pu",
+          "text": "91.SWL.PU Horological Machine N°9 HM9 Sapphire Vision White Gold / Purple",
+          "url": "/mb-f/horological-machines/91-swl-pu"
+        },
+        {
+          "slug": "10-t41wbl-o",
+          "text": "10.T41WBL.O Horological Machine N°1 HM1 Black",
+          "url": "/mb-f/horological-machines/10-t41wbl-o"
+        },
+        {
+          "slug": "60-spl-b",
+          "text": "60.SPL.B Horological Machine N°6 Space Pirate HM6-SV Platinum",
+          "url": "/mb-f/horological-machines/60-spl-b"
+        },
+        {
+          "slug": "55-zl-b",
+          "text": "55.ZL.B Horological Machine N°5 HM5 Zirconium",
+          "url": "/mb-f/horological-machines/55-zl-b"
+        },
+        {
+          "slug": "56-stbl-b",
+          "text": "56.STBL.B Horological Machine 10th Anniversary HMX Blue",
+          "url": "/mb-f/horological-machines/56-stbl-b"
+        },
+        {
+          "slug": "34-btl-b",
+          "text": "34.BTL.B Horological Machine N°3 HM3 Moonmachine Black",
+          "url": "/mb-f/horological-machines/34-btl-b"
+        },
+        {
+          "slug": "41-tsl-brd",
+          "text": "41.TSL.BRD Horological Machine N°4 HM4 Razzle Dazzle",
+          "url": "/mb-f/horological-machines/41-tsl-brd"
+        },
+        {
+          "slug": "41-tsl-bdt",
+          "text": "41.TSL.BDT Horological Machine N°4 HM4 Double Trouble",
+          "url": "/mb-f/horological-machines/41-tsl-bdt"
+        },
+        {
+          "slug": "32-zrbrl-b",
+          "text": "32.ZRBRL.B Horological Machine N°3 HM3 Poison Dart Frog",
+          "url": "/mb-f/horological-machines/32-zrbrl-b"
+        },
+        {
+          "slug": "57-stgl-b",
+          "text": "57.STGL.B Horological Machine  HMX Black Badger Radar Green",
+          "url": "/mb-f/horological-machines/57-stgl-b"
+        },
+        {
+          "slug": "32-rl-b",
+          "text": "32.RL.B Horological Machine N°3 HM3 Fire Frog",
+          "url": "/mb-f/horological-machines/32-rl-b"
+        },
+        {
+          "slug": "35-wbtl-b",
+          "text": "35.WBTL.B Horological Machine N°3 HM3 Final Edition",
+          "url": "/mb-f/horological-machines/35-wbtl-b"
+        },
+        {
+          "slug": "30-wtl-b",
+          "text": "30.WTL.B Horological Machine N°3 HM3 Starcruiser White Gold",
+          "url": "/mb-f/horological-machines/30-wtl-b"
+        },
+        {
+          "slug": "80-rtl-b",
+          "text": "80.RTL.B Horological Machine N°8 HM8 Can-Am Red Gold",
+          "url": "/mb-f/horological-machines/80-rtl-b"
+        },
+        {
+          "slug": "70-tsl-b",
+          "text": "70.TSL.B Horological Machine N°7 Aquapod Titanium / Blue",
+          "url": "/mb-f/horological-machines/70-tsl-b"
+        },
+        {
+          "slug": "70-rlb-b",
+          "text": "70.RLB.B Horological Machine N°7 Aquapod Red Gold / Black",
+          "url": "/mb-f/horological-machines/70-rlb-b"
+        },
+        {
+          "slug": "80-w-888",
+          "text": "80.W.888 Horological Machine N°8 HM8 Can-Am Only Watch 2017",
+          "url": "/mb-f/horological-machines/80-w-888"
+        },
+        {
+          "slug": "35-wtl-b",
+          "text": "35.WTL.B Horological Machine N°3 HM3 Megawind White Gold",
+          "url": "/mb-f/horological-machines/35-wtl-b"
+        },
+        {
+          "slug": "60-stpl-b",
+          "text": "60.STPL.B Horological Machine N°6 Alien Nation HM6 Purple",
+          "url": "/mb-f/horological-machines/60-stpl-b"
+        },
+        {
+          "slug": "81-tl-b",
+          "text": "81.TL.B Horological Machine N°8 HM8 Moonmachine 2 Titanium",
+          "url": "/mb-f/horological-machines/81-tl-b"
+        },
+        {
+          "slug": "56-stgl-b",
+          "text": "56.STGL.B Horological Machine 10th Anniversary HMX Green",
+          "url": "/mb-f/horological-machines/56-stgl-b"
+        },
+        {
+          "slug": "31-rtl-b",
+          "text": "31.RTL.B Horological Machine N°3 HM3 Sidewinder Red Gold",
+          "url": "/mb-f/horological-machines/31-rtl-b"
+        }
+      ]
+    },
+    {
+      "name": "Legacy Machines watches87",
+      "slug": "legacy-machines",
+      "references": [
+        {
+          "slug": "51-sl-ms",
+          "text": "51.SL.MS Legacy Machine LM101 Moser Aqua Blue",
+          "url": "/mb-f/legacy-machines/51-sl-ms"
+        },
+        {
+          "slug": "53-btl-b",
+          "text": "53.BTL.B Legacy Machine N°1  LM1 Alain Silberstein Black Titanium",
+          "url": "/mb-f/legacy-machines/53-btl-b"
+        },
+        {
+          "slug": "51-pld-b",
+          "text": "51.PLD.B Legacy Machine LM101 Palladium",
+          "url": "/mb-f/legacy-machines/51-pld-b"
+        },
+        {
+          "slug": "52-rl-bl",
+          "text": "52.RL.BL Legacy Machine  LM101 Red Gold / Blue",
+          "url": "/mb-f/legacy-machines/52-rl-bl"
+        },
+        {
+          "slug": "08-rl-b",
+          "text": "08.RL.B Legacy Machine LMX Red Gold / Black",
+          "url": "/mb-f/legacy-machines/08-rl-b"
+        },
+        {
+          "slug": "52-wl-p",
+          "text": "52.WL.P Legacy Machine  LM101 White Gold / Purple",
+          "url": "/mb-f/legacy-machines/52-wl-p"
+        },
+        {
+          "slug": "03-wl-p",
+          "text": "03.WL.P Legacy Machine Perpetual White Gold / Purple",
+          "url": "/mb-f/legacy-machines/03-wl-p"
+        },
+        {
+          "slug": "51-sl-mg",
+          "text": "51.SL.MG Legacy Machine LM101 Moser Cosmic Green",
+          "url": "/mb-f/legacy-machines/51-sl-mg"
+        },
+        {
+          "slug": "05-wsl-tb",
+          "text": "05.WSL.TB Legacy Machine FlyingT Emmanuel Tarpin Blizzard",
+          "url": "/mb-f/legacy-machines/05-wsl-tb"
+        },
+        {
+          "slug": "07-zr-bu",
+          "text": "07.ZR.BU Legacy Machine Perpetual Evo Blue",
+          "url": "/mb-f/legacy-machines/07-zr-bu"
+        },
+        {
+          "slug": "05-wsl-s2",
+          "text": "05.WSL.S2 Legacy Machine FlyingT Black Lacquer Pavée",
+          "url": "/mb-f/legacy-machines/05-wsl-s2"
+        },
+        {
+          "slug": "07-t-gu",
+          "text": "07.T.GU Legacy Machine Perpetual Evo Green",
+          "url": "/mb-f/legacy-machines/07-t-gu"
+        },
+        {
+          "slug": "03-sl-s",
+          "text": "03.SL.S Legacy Machine Perpetual Stainless Steel / Salmon",
+          "url": "/mb-f/legacy-machines/03-sl-s"
+        },
+        {
+          "slug": "07-tr-bu",
+          "text": "07.TR.BU Legacy Machine Perpetual Evo Ice Blue",
+          "url": "/mb-f/legacy-machines/07-tr-bu"
+        },
+        {
+          "slug": "07-zr-or",
+          "text": "07.ZR.OR Legacy Machine Perpetual Evo Orange",
+          "url": "/mb-f/legacy-machines/07-zr-or"
+        },
+        {
+          "slug": "03-tl-g",
+          "text": "03.TL.G Legacy Machine Perpetual Titanium / Green",
+          "url": "/mb-f/legacy-machines/03-tl-g"
+        },
+        {
+          "slug": "01-sl-c",
+          "text": "01.SL.C Legacy Machine N°1  LM1 Final Edition",
+          "url": "/mb-f/legacy-machines/01-sl-c"
+        },
+        {
+          "slug": "06-tal-bla",
+          "text": "06.TAL.BLA Legacy Machine Thunderdome The Hour Glass Tantalum / Aventurine",
+          "url": "/mb-f/legacy-machines/06-tal-bla"
+        },
+        {
+          "slug": "05-pl-blg",
+          "text": "05.PL.BLG Legacy Machine FlyingT Platinum",
+          "url": "/mb-f/legacy-machines/05-pl-blg"
+        },
+        {
+          "slug": "08-tl-g",
+          "text": "08.TL.G Legacy Machine LMX Titanium / Green",
+          "url": "/mb-f/legacy-machines/08-tl-g"
+        },
+        {
+          "slug": "06-tal-blg",
+          "text": "06.TAL.BLG Legacy Machine Thunderdome The Hour Glass Tantalum / Blue",
+          "url": "/mb-f/legacy-machines/06-tal-blg"
+        },
+        {
+          "slug": "04-rl-w8",
+          "text": "04.RL.W8 x Eddy Jaquet Legacy Machine Split Escapement Robur The Conqueror",
+          "url": "/mb-f/legacy-machines/04-rl-w8"
+        },
+        {
+          "slug": "08-sl-b",
+          "text": "08.SL.B Legacy Machine LMX Steel / Brass",
+          "url": "/mb-f/legacy-machines/08-sl-b"
+        },
+        {
+          "slug": "51-rl-fw",
+          "text": "51.RL.FW Legacy Machine  LM101 Frost Red Gold",
+          "url": "/mb-f/legacy-machines/51-rl-fw"
+        },
+        {
+          "slug": "51-pl-w",
+          "text": "51.PL.W Legacy Machine LM101 Platinum",
+          "url": "/mb-f/legacy-machines/51-pl-w"
+        },
+        {
+          "slug": "01-rl-w",
+          "text": "01.RL.W Legacy Machine N°1  LM1 Red Gold",
+          "url": "/mb-f/legacy-machines/01-rl-w"
+        },
+        {
+          "slug": "07-zr-bl",
+          "text": "07.ZR.BL Legacy Machine Perpetual Evo Black",
+          "url": "/mb-f/legacy-machines/07-zr-bl"
+        },
+        {
+          "slug": "04-rl-w4",
+          "text": "04.RL.W4 x Eddy Jaquet Legacy Machine Split Escapement Five Weeks In A Balloon",
+          "url": "/mb-f/legacy-machines/04-rl-w4"
+        },
+        {
+          "slug": "05-wsl-wlp",
+          "text": "05.WSL.WLP Legacy Machine FlyingT Lapis Lazulli",
+          "url": "/mb-f/legacy-machines/05-wsl-wlp"
+        },
+        {
+          "slug": "52-wl-w",
+          "text": "52.WL.W Legacy Machine N°1  LM1 Xia Hang White Gold",
+          "url": "/mb-f/legacy-machines/52-wl-w"
+        },
+        {
+          "slug": "52-sl-bl",
+          "text": "52.SL.BL Legacy Machine  LM101 Steel / Blue",
+          "url": "/mb-f/legacy-machines/52-sl-bl"
+        },
+        {
+          "slug": "04-tr-blg",
+          "text": "04.TR.BLG Legacy Machine Split Escapement Evo Taipei",
+          "url": "/mb-f/legacy-machines/04-tr-blg"
+        },
+        {
+          "slug": "51-sl-mb",
+          "text": "51.SL.MB Legacy Machine LM101 Moser Funky Blue",
+          "url": "/mb-f/legacy-machines/51-sl-mb"
+        },
+        {
+          "slug": "05-wsl-wcr",
+          "text": "05.WSL.WCR Legacy Machine FlyingT Coeur de Rubis",
+          "url": "/mb-f/legacy-machines/05-wsl-wcr"
+        },
+        {
+          "slug": "51-wl-w",
+          "text": "51.WL.W Legacy Machine  LM101 White Gold",
+          "url": "/mb-f/legacy-machines/51-wl-w"
+        },
+        {
+          "slug": "51-st-w",
+          "text": "51.ST.W Legacy Machine  LM101 Hodinkee",
+          "url": "/mb-f/legacy-machines/51-st-w"
+        },
+        {
+          "slug": "09-zr-bl",
+          "text": "09.ZR.BL Legacy Machine Sequential Evo Black",
+          "url": "/mb-f/legacy-machines/09-zr-bl"
+        },
+        {
+          "slug": "01-lh",
+          "text": "01.LH Legacy Machine N°1 LM1 Longhorn",
+          "url": "/mb-f/legacy-machines/01-lh"
+        },
+        {
+          "slug": "53-rl-fs",
+          "text": "53.RL.FS Legacy Machine N°1  LM1 Alain Silberstein Red Gold",
+          "url": "/mb-f/legacy-machines/53-rl-fs"
+        },
+        {
+          "slug": "05-rsl-sb",
+          "text": "05.RSL.SB Bvlgari Legacy Machine FlyingT Allegra Pink Gold",
+          "url": "/mb-f/legacy-machines/05-rsl-sb"
+        },
+        {
+          "slug": "06-pl-bl",
+          "text": "06.PL-BL Legacy Machine Thunderdome Platinum / Blue",
+          "url": "/mb-f/legacy-machines/06-pl-bl"
+        },
+        {
+          "slug": "04-tl-s",
+          "text": "04.TL.S Legacy Machine Split Escapement UAE Golden Jubilee",
+          "url": "/mb-f/legacy-machines/04-tl-s"
+        },
+        {
+          "slug": "05-ysl-te",
+          "text": "05.YSL.TE Legacy Machine FlyingT Tiger's Eye",
+          "url": "/mb-f/legacy-machines/05-ysl-te"
+        },
+        {
+          "slug": "10-pl-bu",
+          "text": "10.PL.BU Legacy Machine Sequential Flyback Platinum",
+          "url": "/mb-f/legacy-machines/10-pl-bu"
+        },
+        {
+          "slug": "09-zr-or",
+          "text": "09.ZR.OR Legacy Machine Sequential Evo Orange",
+          "url": "/mb-f/legacy-machines/09-zr-or"
+        },
+        {
+          "slug": "07-rr-bu",
+          "text": "07.RR.BU Legacy Machine Perpetual Evo Silicon Valley",
+          "url": "/mb-f/legacy-machines/07-rr-bu"
+        },
+        {
+          "slug": "04-tr-blb",
+          "text": "04.TR.BLB Legacy Machine Split Escapement Evo Beverly Hills",
+          "url": "/mb-f/legacy-machines/04-tr-blb"
+        },
+        {
+          "slug": "05-yl-on",
+          "text": "05.YL.ON Legacy Machine FlyingT Yellow Gold / Onyx",
+          "url": "/mb-f/legacy-machines/05-yl-on"
+        },
+        {
+          "slug": "04-tr-gsa",
+          "text": "04.TR.GSA Legacy Machine Split Escapement Evo UAE Golden Jubilee",
+          "url": "/mb-f/legacy-machines/04-tr-gsa"
+        },
+        {
+          "slug": "05-wsl-ti",
+          "text": "05.WSL.TI Legacy Machine FlyingT Emmanuel Tarpin Ice",
+          "url": "/mb-f/legacy-machines/05-wsl-ti"
+        },
+        {
+          "slug": "08-wl-pu",
+          "text": "08.WL.PU Legacy Machine LMX Paris Edition",
+          "url": "/mb-f/legacy-machines/08-wl-pu"
+        },
+        {
+          "slug": "05-wsl-wma",
+          "text": "05.WSL.WMA Legacy Machine FlyingT Malachite",
+          "url": "/mb-f/legacy-machines/05-wsl-wma"
+        },
+        {
+          "slug": "04-tr-lb",
+          "text": "04.TR.LB Legacy Machine Split Escapement Evo",
+          "url": "/mb-f/legacy-machines/04-tr-lb"
+        },
+        {
+          "slug": "02-pdl-bp",
+          "text": "02.PDL.BP Legacy Machine N°2 LM2 Palladium",
+          "url": "/mb-f/legacy-machines/02-pdl-bp"
+        },
+        {
+          "slug": "04-rl-w6",
+          "text": "04.RL.W6 x Eddy Jaquet Legacy Machine Split Escapement Journey To The Centre Of The Earth",
+          "url": "/mb-f/legacy-machines/04-rl-w6"
+        },
+        {
+          "slug": "53-tl-s",
+          "text": "53.TL.S Legacy Machine N°1  LM1 Alain Silberstein Titanium",
+          "url": "/mb-f/legacy-machines/53-tl-s"
+        },
+        {
+          "slug": "02-tl-g",
+          "text": "02.TL.G Legacy Machine N°2 LM2 Titanium",
+          "url": "/mb-f/legacy-machines/02-tl-g"
+        },
+        {
+          "slug": "51-rl-w",
+          "text": "51.RL.W Legacy Machine  LM101 Red Gold",
+          "url": "/mb-f/legacy-machines/51-rl-w"
+        },
+        {
+          "slug": "51-yl-fw",
+          "text": "51.YL.FW Legacy Machine  LM101 Frost Yellow Gold",
+          "url": "/mb-f/legacy-machines/51-yl-fw"
+        },
+        {
+          "slug": "02-pl-w",
+          "text": "02.PL.W Legacy Machine N°2 LM2 Platinum",
+          "url": "/mb-f/legacy-machines/02-pl-w"
+        },
+        {
+          "slug": "02-wl-p",
+          "text": "02.WL.P Legacy Machine N°2 LM2 White Gold / Purple",
+          "url": "/mb-f/legacy-machines/02-wl-p"
+        },
+        {
+          "slug": "05-wsl-b",
+          "text": "05.WSL.B Legacy Machine FlyingT Black Lacquer",
+          "url": "/mb-f/legacy-machines/05-wsl-b"
+        },
+        {
+          "slug": "04-rl-w7",
+          "text": "04.RL.W7 x Eddy Jaquet Legacy Machine Split Escapement Michael Strogoff",
+          "url": "/mb-f/legacy-machines/04-rl-w7"
+        },
+        {
+          "slug": "51-sl-mr",
+          "text": "51.SL.MR Legacy Machine LM101 Moser Red",
+          "url": "/mb-f/legacy-machines/51-sl-mr"
+        },
+        {
+          "slug": "04-rl-w1",
+          "text": "04.RL.W1 x Eddy Jaquet Legacy Machine Split Escapement Twenty Thousand Leagues Under the Sea",
+          "url": "/mb-f/legacy-machines/04-rl-w1"
+        },
+        {
+          "slug": "04-rl-w2",
+          "text": "04.RL.W2 x Eddy Jaquet Legacy Machine Split Escapement From The Earth To The Moon",
+          "url": "/mb-f/legacy-machines/04-rl-w2"
+        },
+        {
+          "slug": "04-rl-w3",
+          "text": "04.RL.W3 x Eddy Jaquet Legacy Machine Split Escapement Around The World In Eighty Day",
+          "url": "/mb-f/legacy-machines/04-rl-w3"
+        },
+        {
+          "slug": "04-rl-w5",
+          "text": "04.RL.W5 x Eddy Jaquet Legacy Machine Split Escapement The Adventures Of Captain Hatteras",
+          "url": "/mb-f/legacy-machines/04-rl-w5"
+        },
+        {
+          "slug": "02-rl-w",
+          "text": "02.RL.W Legacy Machine N°2 LM2 Red Gold",
+          "url": "/mb-f/legacy-machines/02-rl-w"
+        },
+        {
+          "slug": "01-wl-w",
+          "text": "01.WL.W Legacy Machine N°1  LM1 White Gold",
+          "url": "/mb-f/legacy-machines/01-wl-w"
+        },
+        {
+          "slug": "01-pl-w",
+          "text": "01.PL.W Legacy Machine N°1  LM1 Platinum",
+          "url": "/mb-f/legacy-machines/01-pl-w"
+        },
+        {
+          "slug": "52-rl-w",
+          "text": "52.RL.W Legacy Machine N°1  LM1 Xia Hang Red Gold",
+          "url": "/mb-f/legacy-machines/52-rl-w"
+        },
+        {
+          "slug": "02-wl-w",
+          "text": "02.WL.W Legacy Machine N°2 LM2 White Gold",
+          "url": "/mb-f/legacy-machines/02-wl-w"
+        },
+        {
+          "slug": "03-pl-w",
+          "text": "03.PL.W Legacy Machine Perpetual Platinum",
+          "url": "/mb-f/legacy-machines/03-pl-w"
+        },
+        {
+          "slug": "03-rl-w",
+          "text": "03.RL.W Legacy Machine Perpetual Red Gold",
+          "url": "/mb-f/legacy-machines/03-rl-w"
+        },
+        {
+          "slug": "01-tl-w",
+          "text": "01.TL.W Legacy Machine N°1  LM1 M.A.D. Dubai",
+          "url": "/mb-f/legacy-machines/01-tl-w"
+        },
+        {
+          "slug": "03-wl-b",
+          "text": "03.WL.B Legacy Machine Perpetual White Gold",
+          "url": "/mb-f/legacy-machines/03-wl-b"
+        },
+        {
+          "slug": "03-wl-fbl",
+          "text": "03.WL.FBL Legacy Machine Split Escapement Launch Edition Blue",
+          "url": "/mb-f/legacy-machines/03-wl-fbl"
+        },
+        {
+          "slug": "03-wl-fr",
+          "text": "03.WL.FR Legacy Machine Split Escapement Launch Edition Red",
+          "url": "/mb-f/legacy-machines/03-wl-fr"
+        },
+        {
+          "slug": "03-wl-fb",
+          "text": "03.WL.FB Legacy Machine Split Escapement Launch Edition Grey",
+          "url": "/mb-f/legacy-machines/03-wl-fb"
+        },
+        {
+          "slug": "03-wl-fy",
+          "text": "03.WL.FY Legacy Machine Split Escapement Launch Edition Yellow",
+          "url": "/mb-f/legacy-machines/03-wl-fy"
+        },
+        {
+          "slug": "05-wsl-sb",
+          "text": "05.WSL.SB Bvlgari Legacy Machine FlyingT Allegra White Gold",
+          "url": "/mb-f/legacy-machines/05-wsl-sb"
+        },
+        {
+          "slug": "05-wsl-b1",
+          "text": "05.WSL.B1 Legacy Machine FlyingT Baguette",
+          "url": "/mb-f/legacy-machines/05-wsl-b1"
+        },
+        {
+          "slug": "04-tl-g",
+          "text": "04.TL.G Legacy Machine Split Escapement Titanium / Green",
+          "url": "/mb-f/legacy-machines/04-tl-g"
+        },
+        {
+          "slug": "02-rl-b",
+          "text": "02.RL.B Legacy Machine N°2 LM2 Red Gold / Blue",
+          "url": "/mb-f/legacy-machines/02-rl-b"
+        },
+        {
+          "slug": "03-yl-bl",
+          "text": "03.YL.BL Legacy Machine Perpetual Yellow Gold",
+          "url": "/mb-f/legacy-machines/03-yl-bl"
+        },
+        {
+          "slug": "05-rl-bg",
+          "text": "05.RL.BG Legacy Machine FlyingT Red Gold",
+          "url": "/mb-f/legacy-machines/05-rl-bg"
+        }
+      ]
+    },
+    {
+      "name": "M.A.D. Editions watches3",
+      "slug": "m-a-d-editions",
+      "references": [
+        {
+          "slug": "m-a-d-1-gmt",
+          "text": "M.A.D. 1 GMT M.A.D. 1 GMT Milano",
+          "url": "/mb-f/m-a-d-editions/m-a-d-1-gmt"
+        },
+        {
+          "slug": "m-a-d-1-red",
+          "text": "M.A.D.1 RED M.A.D. 1 RED",
+          "url": "/mb-f/m-a-d-editions/m-a-d-1-red"
+        },
+        {
+          "slug": "m-a-d-1-blue",
+          "text": "M.A.D. 1 BLUE M.A.D. 1 BLUE",
+          "url": "/mb-f/m-a-d-editions/m-a-d-1-blue"
+        }
+      ]
+    },
+    {
+      "name": "Special Projects watches2",
+      "slug": "special-projects",
+      "references": [
+        {
+          "slug": "sp1-rl-b",
+          "text": "SP1.RL.B SP One Red Gold",
+          "url": "/mb-f/special-projects/sp1-rl-b"
+        },
+        {
+          "slug": "sp1-pl-b",
+          "text": "SP1.PL.B SP One Platinum",
+          "url": "/mb-f/special-projects/sp1-pl-b"
+        }
+      ]
+    }
+  ],
+  "total_references": 182
+}

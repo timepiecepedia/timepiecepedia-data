@@ -1,0 +1,852 @@
+{
+  "brand_slug": "laco",
+  "collections": [
+    {
+      "name": "Pilot Watches watches76",
+      "slug": "pilot-watches",
+      "references": [
+        {
+          "slug": "861909",
+          "text": "861909 Pilot Watch Special Models Spirit Of St.Louis / Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861909"
+        },
+        {
+          "slug": "862088",
+          "text": "862088 Pilot Watch Original Dortmund Bronze  / Black",
+          "url": "/laco/pilot-watches/862088"
+        },
+        {
+          "slug": "861716",
+          "text": "861716 Editions Watch Original Kiel Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861716"
+        },
+        {
+          "slug": "862098",
+          "text": "862098 Pilot Watch Original Heidelberg Erbstück Stainless Steel / Black",
+          "url": "/laco/pilot-watches/862098"
+        },
+        {
+          "slug": "861946",
+          "text": "861946 Pilot Watch Original Graz Erbstück Stainless Steel / Superluminova",
+          "url": "/laco/pilot-watches/861946"
+        },
+        {
+          "slug": "862092",
+          "text": "862092 Pilot Watch Original Mülheim an der Ruhr Stainless Steel / Black",
+          "url": "/laco/pilot-watches/862092"
+        },
+        {
+          "slug": "861929",
+          "text": "861929 Pilot Watch Original Replica 55 Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861929"
+        },
+        {
+          "slug": "862093",
+          "text": "862093 Pilot Watch Original Kempten Stainless Steel / Black",
+          "url": "/laco/pilot-watches/862093"
+        },
+        {
+          "slug": "861936",
+          "text": "861936 Pilot Watch Original Leipzig Erbstück Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861936"
+        },
+        {
+          "slug": "861972",
+          "text": "861972 Pilot Watch Special Models Model Luzern / Stainless steel / Black",
+          "url": "/laco/pilot-watches/861972"
+        },
+        {
+          "slug": "861747",
+          "text": "861747 Pilot Watch Original Leipzig Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861747"
+        },
+        {
+          "slug": "861933",
+          "text": "861933 Pilot Watch Original Saarbrücken Erbstück Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861933"
+        },
+        {
+          "slug": "861940",
+          "text": "861940 Pilot Watch Original Replika 55 Erbstück Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861940"
+        },
+        {
+          "slug": "861806",
+          "text": "861806 Pilot Watch Basic Zürich Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861806"
+        },
+        {
+          "slug": "861975",
+          "text": "861975 Pilot Watch Special Models Model Lausanne / Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861975"
+        },
+        {
+          "slug": "861991",
+          "text": "861991 Pilot Watch Basic Altenburg Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861991"
+        },
+        {
+          "slug": "861990",
+          "text": "861990 Pilot Watch Basic Aachen Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861990"
+        },
+        {
+          "slug": "861610-2",
+          "text": "861610.2 Pilot Watch Special Models Black Automatic / Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861610-2"
+        },
+        {
+          "slug": "861938",
+          "text": "861938 Pilot Watch Original Dortmund Erbstück Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861938"
+        },
+        {
+          "slug": "862143",
+          "text": "862143 Pilot Watch Model Rad-Aux LTD",
+          "url": "/laco/pilot-watches/862143"
+        },
+        {
+          "slug": "861888",
+          "text": "861888 Pilot Watch Basic Stockholm Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861888"
+        },
+        {
+          "slug": "862083",
+          "text": "862083 Pilot Watch Original Münster Blaue Stunde Stainless Steel / Blue",
+          "url": "/laco/pilot-watches/862083"
+        },
+        {
+          "slug": "862087",
+          "text": "862087 Pilot Watch Original Westerland Bronze / Black",
+          "url": "/laco/pilot-watches/862087"
+        },
+        {
+          "slug": "861688-2",
+          "text": "861688.2 Pilot Watch Basic Augsburg Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861688-2"
+        },
+        {
+          "slug": "861760-2",
+          "text": "861760.2 Pilot Watch Basic Bielefeld Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861760-2"
+        },
+        {
+          "slug": "861807",
+          "text": "861807 Pilot Watch Basic Genf Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861807"
+        },
+        {
+          "slug": "862082",
+          "text": "862082 Pilot Watch Original Paderborn Blaue Stunde Stainless Steel / Blue",
+          "url": "/laco/pilot-watches/862082"
+        },
+        {
+          "slug": "861988",
+          "text": "861988 Pilot Watch Basic Augsburg Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861988"
+        },
+        {
+          "slug": "861759-2",
+          "text": "861759.2 Pilot Watch Basic Altenburg Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861759-2"
+        },
+        {
+          "slug": "861965",
+          "text": "861965 Pilot Watch Basic Neapel Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861965"
+        },
+        {
+          "slug": "862099",
+          "text": "862099 Pilot Watch Original Speyer Erbstück Stainless Steel / Black",
+          "url": "/laco/pilot-watches/862099"
+        },
+        {
+          "slug": "861971",
+          "text": "861971 Pilot Watch Special Models Basel / Stainless Steel / White",
+          "url": "/laco/pilot-watches/861971"
+        },
+        {
+          "slug": "861894",
+          "text": "861894 Pilot Watch Original Venedig Stainless Steel / Superluminova",
+          "url": "/laco/pilot-watches/861894"
+        },
+        {
+          "slug": "862097",
+          "text": "862097 Pilot Watch Original Kempten Erbstück Stainless Steel / Black",
+          "url": "/laco/pilot-watches/862097"
+        },
+        {
+          "slug": "861751",
+          "text": "861751 Pilot Watch Original Dortmund Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861751"
+        },
+        {
+          "slug": "861908",
+          "text": "861908 Pilot Watch Special Models JU / Stainless steel / Black",
+          "url": "/laco/pilot-watches/861908"
+        },
+        {
+          "slug": "861776-2",
+          "text": "861776.2 Navy Watch Casablanca / Stainless Steel / Superluminova",
+          "url": "/laco/pilot-watches/861776-2"
+        },
+        {
+          "slug": "861907",
+          "text": "861907 Pilot Watch Special Models Model Bell X-1 / Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861907"
+        },
+        {
+          "slug": "861901",
+          "text": "861901 Pilot Watch Special Models DC-3 / Stainless steel / Black",
+          "url": "/laco/pilot-watches/861901"
+        },
+        {
+          "slug": "861974",
+          "text": "861974 Pilot Watch Special Models Bern / Stainless Steel / White",
+          "url": "/laco/pilot-watches/861974"
+        },
+        {
+          "slug": "862094",
+          "text": "862094 Pilot Watch Original Heidelberg Erbstück Stainless Steel / Black",
+          "url": "/laco/pilot-watches/862094"
+        },
+        {
+          "slug": "861934",
+          "text": "861934 Pilot Watch Original Friedrichshafen Erbstück Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861934"
+        },
+        {
+          "slug": "861941",
+          "text": "861941 Pilot Watch Original Replika 55 Erbstück Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861941"
+        },
+        {
+          "slug": "861973",
+          "text": "861973 Pilot Watch Special Models St. Gallen / Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861973"
+        },
+        {
+          "slug": "861801",
+          "text": "861801 Pilot Watch Basic Birmingham Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861801"
+        },
+        {
+          "slug": "861992",
+          "text": "861992 Pilot Watch Basic Bielefeld Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861992"
+        },
+        {
+          "slug": "862085",
+          "text": "862085 Pilot Watch Original Saarbrücken Bronze / Black",
+          "url": "/laco/pilot-watches/862085"
+        },
+        {
+          "slug": "861966",
+          "text": "861966 Pilot Watch Basic Palermo Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861966"
+        },
+        {
+          "slug": "861804",
+          "text": "861804 Navy Watch Monaco / Stainless Steel / Superluminova",
+          "url": "/laco/pilot-watches/861804"
+        },
+        {
+          "slug": "861943",
+          "text": "861943 Pilot Watch Original Venedig Erbstück Stainless Steel / Superluminova",
+          "url": "/laco/pilot-watches/861943"
+        },
+        {
+          "slug": "861749",
+          "text": "861749 Pilot Watch Original Paderborn Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861749"
+        },
+        {
+          "slug": "62095",
+          "text": "62095 Pilot Watch Original Speyer Stainless Steel / Black",
+          "url": "/laco/pilot-watches/62095"
+        },
+        {
+          "slug": "861951",
+          "text": "861951 Pilot Watch Original Replica 45 Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861951"
+        },
+        {
+          "slug": "861937",
+          "text": "861937 Pilot Watch Original Westerland Erbstück Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861937"
+        },
+        {
+          "slug": "861931",
+          "text": "861931 Pilot Watch Original Münster Erbstück Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861931"
+        },
+        {
+          "slug": "861935",
+          "text": "861935 Pilot Watch Original Münster Erbstück Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861935"
+        },
+        {
+          "slug": "862096",
+          "text": "862096 Pilot Watch Original Mülheim An Der Ruhr Erbstück Stainless Steel / Black",
+          "url": "/laco/pilot-watches/862096"
+        },
+        {
+          "slug": "861893",
+          "text": "861893 Pilot Watch Original Wien Stainless Steel / Superluminova",
+          "url": "/laco/pilot-watches/861893"
+        },
+        {
+          "slug": "862103",
+          "text": "862103 Pilot Watch Original Aachen Blaue Stunde Stainless Steel / Blue",
+          "url": "/laco/pilot-watches/862103"
+        },
+        {
+          "slug": "861746",
+          "text": "861746 Pilot Watch Original Memmingen Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861746"
+        },
+        {
+          "slug": "861945",
+          "text": "861945 Pilot Watch Original Venedig Erbstück Stainless Steel / Superluminova",
+          "url": "/laco/pilot-watches/861945"
+        },
+        {
+          "slug": "861944",
+          "text": "861944 Pilot Watch Original Wien Erbstück Stainless Steel / Superluminova",
+          "url": "/laco/pilot-watches/861944"
+        },
+        {
+          "slug": "862081",
+          "text": "862081 Pilot Watch Original Münster Blaue Stunde Stainless Steel / Blue",
+          "url": "/laco/pilot-watches/862081"
+        },
+        {
+          "slug": "862084",
+          "text": "862084 Pilot Watch Original Leipzig Blaue Stunde Stainless Steel / Blue",
+          "url": "/laco/pilot-watches/862084"
+        },
+        {
+          "slug": "862086",
+          "text": "862086 Pilot Watch Original Friedrichshafen Bronze / Black",
+          "url": "/laco/pilot-watches/862086"
+        },
+        {
+          "slug": "861748",
+          "text": "861748 Pilot Watch Original Münster Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861748"
+        },
+        {
+          "slug": "861753",
+          "text": "861753 Pilot Watch Original Friedrichshafen Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861753"
+        },
+        {
+          "slug": "861750",
+          "text": "861750 Pilot Watch Original Westerland Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861750"
+        },
+        {
+          "slug": "862100",
+          "text": "862100 Pilot Watch Original Augsburg Blaue Stunde Stainless Steel / Blue",
+          "url": "/laco/pilot-watches/862100"
+        },
+        {
+          "slug": "861752",
+          "text": "861752 Pilot Watch Original Saarbrücken Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861752"
+        },
+        {
+          "slug": "861890",
+          "text": "861890 Pilot Watch Basic Sydney Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861890"
+        },
+        {
+          "slug": "861900",
+          "text": "861900 Pilot Watch Basic Visby Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861900"
+        },
+        {
+          "slug": "861690-2",
+          "text": "861690.2 Pilot Watch Basic Aachen Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861690-2"
+        },
+        {
+          "slug": "862102",
+          "text": "862102 Pilot Watch Original Augsburg Blaue Stunde Stainless Steel / Blue",
+          "url": "/laco/pilot-watches/862102"
+        },
+        {
+          "slug": "861800",
+          "text": "861800 Pilot Watch Basic London Stainless Steel / Black",
+          "url": "/laco/pilot-watches/861800"
+        },
+        {
+          "slug": "862101",
+          "text": "862101 Pilot Watch Original Aachen Blaue Stunde Stainless Steel / Blue",
+          "url": "/laco/pilot-watches/862101"
+        }
+      ]
+    },
+    {
+      "name": "Classics watches20",
+      "slug": "classics",
+      "references": [
+        {
+          "slug": "862076",
+          "text": "862076 Classics Petrol / Stainless Steel / Green",
+          "url": "/laco/classics/862076"
+        },
+        {
+          "slug": "862075",
+          "text": "862075 Classics Azur / Stainless Steel / Blue",
+          "url": "/laco/classics/862075"
+        },
+        {
+          "slug": "861861",
+          "text": "861861 Classics Berlin / Stainless Steel / White",
+          "url": "/laco/classics/861861"
+        },
+        {
+          "slug": "861862",
+          "text": "861862 Classics Wittenberg / Stainless Steel / White",
+          "url": "/laco/classics/861862"
+        },
+        {
+          "slug": "862073",
+          "text": "862073 Classics Dresden / Stainless Steel / Silver",
+          "url": "/laco/classics/862073"
+        },
+        {
+          "slug": "862069",
+          "text": "862069 Classics Weimar / Stainless Steel / Black",
+          "url": "/laco/classics/862069"
+        },
+        {
+          "slug": "861859",
+          "text": "861859 Classics Brandenburg / Stainless Steel / White",
+          "url": "/laco/classics/861859"
+        },
+        {
+          "slug": "862078",
+          "text": "862078 Classics Stone / Stainless Steel / Grey",
+          "url": "/laco/classics/862078"
+        },
+        {
+          "slug": "862070",
+          "text": "862070 Classics Weimar / Stainless Steel / Black",
+          "url": "/laco/classics/862070"
+        },
+        {
+          "slug": "862072",
+          "text": "862072 Classics Halle / Stainless Steel / Silver",
+          "url": "/laco/classics/862072"
+        },
+        {
+          "slug": "862067",
+          "text": "862067 Classics Jena / Stainless Steel / Grey",
+          "url": "/laco/classics/862067"
+        },
+        {
+          "slug": "862064",
+          "text": "862064 Classics Cottbus / Stainless Steel / Cream",
+          "url": "/laco/classics/862064"
+        },
+        {
+          "slug": "862068",
+          "text": "862068 Classics Jena / Stainless Steel / Grey",
+          "url": "/laco/classics/862068"
+        },
+        {
+          "slug": "862066",
+          "text": "862066 Classics Chemnitz / Stainless Steel / Grey",
+          "url": "/laco/classics/862066"
+        },
+        {
+          "slug": "862065",
+          "text": "862065 Classics Chemnitz / Stainless Steel / Grey",
+          "url": "/laco/classics/862065"
+        },
+        {
+          "slug": "862074",
+          "text": "862074 Classics Dresden / Stainless Steel / Silver",
+          "url": "/laco/classics/862074"
+        },
+        {
+          "slug": "862063",
+          "text": "862063 Classics Cottbus / Stainless Steel / Cream",
+          "url": "/laco/classics/862063"
+        },
+        {
+          "slug": "862077",
+          "text": "862077 Classics Mocca / Stainless Steel / Brown",
+          "url": "/laco/classics/862077"
+        },
+        {
+          "slug": "862071",
+          "text": "862071 Classics Halle / Stainless Steel / Silver",
+          "url": "/laco/classics/862071"
+        },
+        {
+          "slug": "861860",
+          "text": "861860 Classics Plauen / Stainless Steel / White",
+          "url": "/laco/classics/861860"
+        }
+      ]
+    },
+    {
+      "name": "Chronographs watches17",
+      "slug": "chronographs",
+      "references": [
+        {
+          "slug": "861915",
+          "text": "861915 Chronographs Trier  / Stainless Steel / Black",
+          "url": "/laco/chronographs/861915"
+        },
+        {
+          "slug": "862089",
+          "text": "862089 Chronographs Hockenheim / Stainless Steel / Black",
+          "url": "/laco/chronographs/862089"
+        },
+        {
+          "slug": "861892",
+          "text": "861892 Chronographs Havanna  / Stainless Steel / Superluminova",
+          "url": "/laco/chronographs/861892"
+        },
+        {
+          "slug": "861989",
+          "text": "861989 Chronographs Helgoland / Stainless Steel / White",
+          "url": "/laco/chronographs/861989"
+        },
+        {
+          "slug": "861917",
+          "text": "861917 Chronographs Detroit / Stainless Steel / Black",
+          "url": "/laco/chronographs/861917"
+        },
+        {
+          "slug": "861587",
+          "text": "861587 Chronographs Las Vegas / Stainless Steel / Black",
+          "url": "/laco/chronographs/861587"
+        },
+        {
+          "slug": "861918",
+          "text": "861918 Chronographs Seattle / Stainless Steel / Silver",
+          "url": "/laco/chronographs/861918"
+        },
+        {
+          "slug": "861585",
+          "text": "861585 Chronographs San Fransisco / Stainless Steel / Creme",
+          "url": "/laco/chronographs/861585"
+        },
+        {
+          "slug": "861919",
+          "text": "861919 Chronographs Atlanta / Stainless Steel / Blue",
+          "url": "/laco/chronographs/861919"
+        },
+        {
+          "slug": "861870",
+          "text": "861870 Chronographs Paris / Stainless Steel / Black",
+          "url": "/laco/chronographs/861870"
+        },
+        {
+          "slug": "861789",
+          "text": "861789 Chronographs Sylt / Stainless Steel / White",
+          "url": "/laco/chronographs/861789"
+        },
+        {
+          "slug": "861920",
+          "text": "861920 Chronographs Montreal / Stainless Steel / Silver",
+          "url": "/laco/chronographs/861920"
+        },
+        {
+          "slug": "861878",
+          "text": "861878 Editions Mission Manx / Stainless Steel / Black",
+          "url": "/laco/chronographs/861878"
+        },
+        {
+          "slug": "861586",
+          "text": "861586 Chronographs New York / Stainless Steel / Silver",
+          "url": "/laco/chronographs/861586"
+        },
+        {
+          "slug": "861584",
+          "text": "861584 Chronographs Chicago / Stainless Steel / White",
+          "url": "/laco/chronographs/861584"
+        },
+        {
+          "slug": "861916",
+          "text": "861916 Chronographs Phoenix / Stainless Steel / Blue",
+          "url": "/laco/chronographs/861916"
+        },
+        {
+          "slug": "861815",
+          "text": "861815 Chronographs Monte Carlo / Stainless Steel / Black",
+          "url": "/laco/chronographs/861815"
+        }
+      ]
+    },
+    {
+      "name": "Vintage watches23",
+      "slug": "vintage",
+      "references": [
+        {
+          "slug": "880104",
+          "text": "880104 Vintage Absolute / Stainless Steel / Black",
+          "url": "/laco/vintage/880104"
+        },
+        {
+          "slug": "880106",
+          "text": "880106 Vintage Absolute / Stainless Steel / Black",
+          "url": "/laco/vintage/880106"
+        },
+        {
+          "slug": "880205",
+          "text": "880205 Vintage Absolute / Stainless Steel / Black",
+          "url": "/laco/vintage/880205"
+        },
+        {
+          "slug": "880204",
+          "text": "880204 Vintage Absolute / Stainless Steel / Black",
+          "url": "/laco/vintage/880204"
+        },
+        {
+          "slug": "880202",
+          "text": "880202 Vintage Absolute / Stainless Steel / White",
+          "url": "/laco/vintage/880202"
+        },
+        {
+          "slug": "861783",
+          "text": "861783 Vintage Used Look / Stainless Steel / Black",
+          "url": "/laco/vintage/861783"
+        },
+        {
+          "slug": "861841",
+          "text": "861841 Vintage 34.0 / Stainless Steel / White",
+          "url": "/laco/vintage/861841"
+        },
+        {
+          "slug": "861842",
+          "text": "861842 Vintage 34.0 / Stainless Steel / Black",
+          "url": "/laco/vintage/861842"
+        },
+        {
+          "slug": "861846",
+          "text": "861846 Vintage 34.0 / Stainless Steel / Black",
+          "url": "/laco/vintage/861846"
+        },
+        {
+          "slug": "880101",
+          "text": "880101 Vintage Absolute / Stainless Steel / White",
+          "url": "/laco/vintage/880101"
+        },
+        {
+          "slug": "880201",
+          "text": "880201 Vintage Absolute / Stainless Steel / White",
+          "url": "/laco/vintage/880201"
+        },
+        {
+          "slug": "880206",
+          "text": "880206 Vintage Absolute / Stainless Steel / White",
+          "url": "/laco/vintage/880206"
+        },
+        {
+          "slug": "880103",
+          "text": "880103 Vintage Absolute / Stainless Steel / White",
+          "url": "/laco/vintage/880103"
+        },
+        {
+          "slug": "880105",
+          "text": "880105 Vintage Absolute / Stainless Steel / Black",
+          "url": "/laco/vintage/880105"
+        },
+        {
+          "slug": "880102",
+          "text": "880102 Vintage Absolute / Stainless Steel / White",
+          "url": "/laco/vintage/880102"
+        },
+        {
+          "slug": "880203",
+          "text": "880203 Vintage Absolute / Stainless Steel / White",
+          "url": "/laco/vintage/880203"
+        },
+        {
+          "slug": "861843",
+          "text": "861843 Vintage 34.0 / Stainless Steel / White",
+          "url": "/laco/vintage/861843"
+        },
+        {
+          "slug": "861839",
+          "text": "861839 Vintage 34.0 / Stainless Steel / White",
+          "url": "/laco/vintage/861839"
+        },
+        {
+          "slug": "861845",
+          "text": "861845 Vintage 34.0 / Stainless Steel / White",
+          "url": "/laco/vintage/861845"
+        },
+        {
+          "slug": "861869",
+          "text": "861869 Vintage Used Look / Stainless Steel / Silver",
+          "url": "/laco/vintage/861869"
+        },
+        {
+          "slug": "861922",
+          "text": "861922 Vintage Vancouver  / Stainless Steel / Cream",
+          "url": "/laco/vintage/861922"
+        },
+        {
+          "slug": "861784",
+          "text": "861784 Vintage Used Look / Stainless Steel / Black",
+          "url": "/laco/vintage/861784"
+        },
+        {
+          "slug": "861876",
+          "text": "861876 Vintage Bordeaux / Stainless Steel / Black",
+          "url": "/laco/vintage/861876"
+        }
+      ]
+    },
+    {
+      "name": "Squad Watches watches15",
+      "slug": "squad-watches",
+      "references": [
+        {
+          "slug": "862107-rb",
+          "text": "862107.RB Squad Watch Amazonas .RB / Stainless steel / Black",
+          "url": "/laco/squad-watches/862107-rb"
+        },
+        {
+          "slug": "862109",
+          "text": "862109 Squad Watch Mojave / Stainless steel / Black",
+          "url": "/laco/squad-watches/862109"
+        },
+        {
+          "slug": "862108-mb",
+          "text": "862108.MB Squad Watch Atlantik MB / Stainless steel / Black",
+          "url": "/laco/squad-watches/862108-mb"
+        },
+        {
+          "slug": "862108",
+          "text": "862108 Squad Watch Atlantik / Stainless steel / Black",
+          "url": "/laco/squad-watches/862108"
+        },
+        {
+          "slug": "861704",
+          "text": "861704 Squad Watch Ocean / Stainless steel / Black",
+          "url": "/laco/squad-watches/861704"
+        },
+        {
+          "slug": "862107",
+          "text": "862107 Squad Watch Amazonas / Stainless steel / Black",
+          "url": "/laco/squad-watches/862107"
+        },
+        {
+          "slug": "861703",
+          "text": "861703 Squad Watch Seven Seas / Stainless steel / Black",
+          "url": "/laco/squad-watches/861703"
+        },
+        {
+          "slug": "861632-2",
+          "text": "861632.2 Squad Watch Atacama.2 / Stainless steel / Black",
+          "url": "/laco/squad-watches/861632-2"
+        },
+        {
+          "slug": "862107-mb",
+          "text": "862107.MB Squad Watch Amazonas MB / Stainless steel / Black",
+          "url": "/laco/squad-watches/862107-mb"
+        },
+        {
+          "slug": "862108-rb",
+          "text": "862108.RB Squad Watch Atlantik.RB / Stainless steel / Black",
+          "url": "/laco/squad-watches/862108-rb"
+        },
+        {
+          "slug": "862109-mb",
+          "text": "862109.MB Squad Watch Mojave MB / Stainless steel / Black",
+          "url": "/laco/squad-watches/862109-mb"
+        },
+        {
+          "slug": "862109-rb",
+          "text": "862109.RB Squad Watch Mojave RB / Stainless steel / Black",
+          "url": "/laco/squad-watches/862109-rb"
+        },
+        {
+          "slug": "862106",
+          "text": "862106 Squad Watch Himalaya / Stainless Steel / Black",
+          "url": "/laco/squad-watches/862106"
+        },
+        {
+          "slug": "862106-mb",
+          "text": "862106.MB Squad Watch Himalaya MB / Stainless Steel / Black",
+          "url": "/laco/squad-watches/862106-mb"
+        },
+        {
+          "slug": "862106-rb",
+          "text": "862106.RB Squad Watch Himalaya RB / Stainless Steel / Black",
+          "url": "/laco/squad-watches/862106-rb"
+        }
+      ]
+    },
+    {
+      "name": "Navy Watches watches11",
+      "slug": "navy-watches",
+      "references": [
+        {
+          "slug": "861614",
+          "text": "861614 Navy Watch Navy / Stainless Steel / Creme",
+          "url": "/laco/navy-watches/861614"
+        },
+        {
+          "slug": "861921",
+          "text": "861921 Navy Watch Philadelphia / Stainless Steel / Blue",
+          "url": "/laco/navy-watches/861921"
+        },
+        {
+          "slug": "861205",
+          "text": "861205 Navy Watch Wilhelmshaven / Stainless Steel / White",
+          "url": "/laco/navy-watches/861205"
+        },
+        {
+          "slug": "862104",
+          "text": "862104 Navy Watch Cuxhaven / Stainless Steel / White",
+          "url": "/laco/navy-watches/862104"
+        },
+        {
+          "slug": "862079",
+          "text": "862079 Editions Model Goldstadt-Watch / Stainless Steel / Black",
+          "url": "/laco/navy-watches/862079"
+        },
+        {
+          "slug": "862105",
+          "text": "862105 Navy Watch Bremerhaven / Stainless Steel / Black",
+          "url": "/laco/navy-watches/862105"
+        },
+        {
+          "slug": "861204",
+          "text": "861204 Navy Watch Wilhelmshaven / Stainless Steel / White",
+          "url": "/laco/navy-watches/861204"
+        },
+        {
+          "slug": "861615",
+          "text": "861615 Navy Watch Navy Black  / Stainless Steel / Black",
+          "url": "/laco/navy-watches/861615"
+        },
+        {
+          "slug": "862090",
+          "text": "862090 Navy Watch Valencia  / Stainless Steel / White",
+          "url": "/laco/navy-watches/862090"
+        },
+        {
+          "slug": "862021",
+          "text": "862021 Navy Watch Palm Springs / Stainless Steel / Blue",
+          "url": "/laco/navy-watches/862021"
+        },
+        {
+          "slug": "861651-2",
+          "text": "861651.2 Navy Watch Valencia  / Stainless Steel / White",
+          "url": "/laco/navy-watches/861651-2"
+        }
+      ]
+    }
+  ],
+  "total_references": 162
+}

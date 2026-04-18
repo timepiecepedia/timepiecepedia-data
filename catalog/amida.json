@@ -1,0 +1,17 @@
+{
+  "brand_slug": "amida",
+  "collections": [
+    {
+      "name": "Digitrend watches1",
+      "slug": "digitrend",
+      "references": [
+        {
+          "slug": "d-am01",
+          "text": "D-AM01 Digitrend Take-Off Edition",
+          "url": "/amida/digitrend/d-am01"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

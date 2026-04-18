@@ -1,0 +1,67 @@
+{
+  "brand_slug": "glycine",
+  "collections": [
+    {
+      "name": "Airman watches11",
+      "slug": "airman",
+      "references": [
+        {
+          "slug": "gl0062",
+          "text": "GL0062 Airman 42 Automatic Stainless Steel / Blue",
+          "url": "/glycine/airman/gl0062"
+        },
+        {
+          "slug": "gl0064",
+          "text": "GL0064 Airman 42 GMT Automatic Stainless Steel / Blue - Gradient / Bracelet",
+          "url": "/glycine/airman/gl0064"
+        },
+        {
+          "slug": "gl0057",
+          "text": "GL0057 Airman 44 Purist 24H Automatic Stainless Steel / Blue - Gradient",
+          "url": "/glycine/airman/gl0057"
+        },
+        {
+          "slug": "gl0058",
+          "text": "GL0058 Airman 46 GMT Automatic Stainless Steel / White",
+          "url": "/glycine/airman/gl0058"
+        },
+        {
+          "slug": "gl0059",
+          "text": "GL0059 Airman 46 GMT Automatic Stainless Steel / Black",
+          "url": "/glycine/airman/gl0059"
+        },
+        {
+          "slug": "3938-19-lb9b",
+          "text": "3938.19.LB9B Glycine Airman Double Twelve Black / Stainless Steel",
+          "url": "/glycine/airman/3938-19-lb9b"
+        },
+        {
+          "slug": "gl0060",
+          "text": "GL0060 Airman 46 GMT Automatic Stainless Steel / Blue",
+          "url": "/glycine/airman/gl0060"
+        },
+        {
+          "slug": "gl0061",
+          "text": "GL0061 Airman 42 Automatic Stainless Steel / White",
+          "url": "/glycine/airman/gl0061"
+        },
+        {
+          "slug": "gl0063",
+          "text": "GL0063 Airman 42 Automatic Stainless Steel / Black",
+          "url": "/glycine/airman/gl0063"
+        },
+        {
+          "slug": "gl0054",
+          "text": "GL0054 Airman 44 GMT Automatic Stainless Steel / Blue - Gradient",
+          "url": "/glycine/airman/gl0054"
+        },
+        {
+          "slug": "gl0056",
+          "text": "GL0056 Airman 44 GMT Automatic Stainless Steel / Black",
+          "url": "/glycine/airman/gl0056"
+        }
+      ]
+    }
+  ],
+  "total_references": 11
+}

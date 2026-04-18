@@ -1,0 +1,1688 @@
+{
+  "brand_slug": "breguet",
+  "collections": [
+    {
+      "name": "Classique watches113",
+      "slug": "classique",
+      "references": [
+        {
+          "slug": "7337br-1e-rv0",
+          "text": "7337BR/1E/RV0 Classique 7337 Rose Gold / Silver / Bracelet",
+          "url": "/breguet/classique/7337br-1e-rv0"
+        },
+        {
+          "slug": "7137br-15-9vu",
+          "text": "7137BR/15/9VU Classique 7137 Rose Gold / Silver",
+          "url": "/breguet/classique/7137br-15-9vu"
+        },
+        {
+          "slug": "7147bb-12-9wu",
+          "text": "7147BB/12/9WU Classique 7147 White Gold",
+          "url": "/breguet/classique/7147bb-12-9wu"
+        },
+        {
+          "slug": "5157br-11-9v6",
+          "text": "5157BR/11/9V6 Classique 5157 Rose Gold / Silver",
+          "url": "/breguet/classique/5157br-11-9v6"
+        },
+        {
+          "slug": "8787br-29-986",
+          "text": "8787BR/29/986 Classique 8787 Moonphase Rose Gold / Grand Feu Enamel",
+          "url": "/breguet/classique/8787br-29-986"
+        },
+        {
+          "slug": "7137bb-y5-9vu",
+          "text": "7137BB/Y5/9VU Classique 7137 White Gold / Blue",
+          "url": "/breguet/classique/7137bb-y5-9vu"
+        },
+        {
+          "slug": "9088bb-29-bc0-dd00",
+          "text": "9088BB/29/BC0/DD00 Classique Dame 9088 White Gold / White / Bracelet",
+          "url": "/breguet/classique/9088bb-29-bc0-dd00"
+        },
+        {
+          "slug": "7147br-12-9wu",
+          "text": "7147BR/12/9WU Classique 7147 Rose Gold",
+          "url": "/breguet/classique/7147br-12-9wu"
+        },
+        {
+          "slug": "5177ba-12-9v6",
+          "text": "5177BA/12/9V6 Classique 5177 Yellow Gold / Silver",
+          "url": "/breguet/classique/5177ba-12-9v6"
+        },
+        {
+          "slug": "5707bb-12-9v6",
+          "text": "5707BB/12/9V6 Classique Le Réveil du Tsar 5707 White Gold / Silver",
+          "url": "/breguet/classique/5707bb-12-9v6"
+        },
+        {
+          "slug": "5327bb-1e-9v6",
+          "text": "5327BB/1E/9V6 Classique 5327 White Gold / Silver",
+          "url": "/breguet/classique/5327bb-1e-9v6"
+        },
+        {
+          "slug": "9088br-29-964-dd0d",
+          "text": "9088BR/29/964/DD0D Classique Dame 9088 Rose Gold / White",
+          "url": "/breguet/classique/9088br-29-964-dd0d"
+        },
+        {
+          "slug": "5287br-12-9zu",
+          "text": "5287BR/12/9ZU Classique 5287 Rose Gold / Silver",
+          "url": "/breguet/classique/5287br-12-9zu"
+        },
+        {
+          "slug": "5717pt-as-9zu",
+          "text": "5717PT/AS/9ZU Classique Hora Mundi 5717 Platinum / Asia - Oceania",
+          "url": "/breguet/classique/5717pt-as-9zu"
+        },
+        {
+          "slug": "8068bb-52-bc0-dd00",
+          "text": "8068BB/52/BC0/DD00 Classique 8068 White Gold / MOP / Bracelet",
+          "url": "/breguet/classique/8068bb-52-bc0-dd00"
+        },
+        {
+          "slug": "8068bb-59-764-dd00",
+          "text": "8068BB/59/764/DD00 Classique 8068 White Gold / MOP",
+          "url": "/breguet/classique/8068bb-59-764-dd00"
+        },
+        {
+          "slug": "5177bb-12-9v6",
+          "text": "5177BB/12/9V6 Classique 5177 White Gold / Silver",
+          "url": "/breguet/classique/5177bb-12-9v6"
+        },
+        {
+          "slug": "7337br-1e-9v6",
+          "text": "7337BR/1E/9V6 Classique 7337 Rose Gold / Silver",
+          "url": "/breguet/classique/7337br-1e-9v6"
+        },
+        {
+          "slug": "5707ba-12-av0",
+          "text": "5707BA/12/AV0 Classique Le Réveil du Tsar 5707 Yellow Gold / Silver / Bracelet",
+          "url": "/breguet/classique/5707ba-12-av0"
+        },
+        {
+          "slug": "5177br-12-rv0",
+          "text": "5177BR/12/RV0 Classique 5177 Rose Gold / Silver / Bracelet",
+          "url": "/breguet/classique/5177br-12-rv0"
+        },
+        {
+          "slug": "5930ba-12-986",
+          "text": "5930BA/12/986 Classique 5930 Yellow Gold / Silver",
+          "url": "/breguet/classique/5930ba-12-986"
+        },
+        {
+          "slug": "7147br-29-9wu",
+          "text": "7147BR/29/9WU Classique 7147 Rose Gold / Grand Feu Enamel",
+          "url": "/breguet/classique/7147br-29-9wu"
+        },
+        {
+          "slug": "9088bb-52-964-dd0d",
+          "text": "9088BB/52/964/DD0D Classique Dame 9088 White Gold / White MOP",
+          "url": "/breguet/classique/9088bb-52-964-dd0d"
+        },
+        {
+          "slug": "5727bb-12-9zu",
+          "text": "5727BB/12/9ZU Classique Hora Mundi 5727 White Gold / White",
+          "url": "/breguet/classique/5727bb-12-9zu"
+        },
+        {
+          "slug": "5287bb-92-9zu",
+          "text": "5287BB/92/9ZU Classique 5287 White Gold / Black",
+          "url": "/breguet/classique/5287bb-92-9zu"
+        },
+        {
+          "slug": "5177ba-12-av0",
+          "text": "5177BA/12/AV0 Classique 5177 Yellow Gold / Silver / Bracelet",
+          "url": "/breguet/classique/5177ba-12-av0"
+        },
+        {
+          "slug": "7800bb-11-9yv",
+          "text": "7800BB/11/9YV Classique La Musicale 7800 White Gold / Silver",
+          "url": "/breguet/classique/7800bb-11-9yv"
+        },
+        {
+          "slug": "7788br-29-9v6-dd00",
+          "text": "7788BR/29/9V6/DD00 Classique 7788 Moonphase Rose Gold / Grand Feu Enamel",
+          "url": "/breguet/classique/7788br-29-9v6-dd00"
+        },
+        {
+          "slug": "9087bb-52-964",
+          "text": "9087BB/52/964 Classique Dame 9087 White Gold / White MOP",
+          "url": "/breguet/classique/9087bb-52-964"
+        },
+        {
+          "slug": "5277bb-12-9v6",
+          "text": "5277BB/12/9V6 Classique 5277 White Gold / Silver",
+          "url": "/breguet/classique/5277bb-12-9v6"
+        },
+        {
+          "slug": "7137ba-11-av0",
+          "text": "7137BA/11/AV0 Classique 7137 Yellow Gold / Silver / Bracelet",
+          "url": "/breguet/classique/7137ba-11-av0"
+        },
+        {
+          "slug": "7147bb-29-9wu",
+          "text": "7147BB/29/9WU Classique 7147 White Gold / Grand Feu Enamel",
+          "url": "/breguet/classique/7147bb-29-9wu"
+        },
+        {
+          "slug": "7787br-29-9v6",
+          "text": "7787BR/29/9V6 Classique 7787 Moonphase Rose Gold / Grand Feu Enamel",
+          "url": "/breguet/classique/7787br-29-9v6"
+        },
+        {
+          "slug": "7137ba-11-9v6",
+          "text": "7137BA/11/9V6 Classique 7137 Yellow Gold / Silver",
+          "url": "/breguet/classique/7137ba-11-9v6"
+        },
+        {
+          "slug": "8788br-29-986-dd00",
+          "text": "8788BR/29/986/DD00 Classique 8788 Moonphase Rose Gold / Grand Feu Enamel",
+          "url": "/breguet/classique/8788br-29-986-dd00"
+        },
+        {
+          "slug": "5140bb-29-9w6",
+          "text": "5140BB/29/9W6 Classique 5140 White Gold / White Enamel",
+          "url": "/breguet/classique/5140bb-29-9w6"
+        },
+        {
+          "slug": "9087bb-29-964",
+          "text": "9087BB/29/964 Classique Dame 9087 White Gold / White",
+          "url": "/breguet/classique/9087bb-29-964"
+        },
+        {
+          "slug": "9068br-12-976-dd00",
+          "text": "9068BR/12/976/DD00 Classique 9068 Rose Gold / Silver",
+          "url": "/breguet/classique/9068br-12-976-dd00"
+        },
+        {
+          "slug": "5287bb-12-9zu",
+          "text": "5287BB/12/9ZU Classique 5287 White Gold / Silver",
+          "url": "/breguet/classique/5287bb-12-9zu"
+        },
+        {
+          "slug": "5178bb-29-9v6-d000",
+          "text": "5178BB/29/9V6/D000 Classique 5178 White Gold / White Enamel",
+          "url": "/breguet/classique/5178bb-29-9v6-d000"
+        },
+        {
+          "slug": "5277br-12-9v6",
+          "text": "5277BR/12/9V6 Classique 5277 Rose Gold / Silver",
+          "url": "/breguet/classique/5277br-12-9v6"
+        },
+        {
+          "slug": "5177bb-15-9v6",
+          "text": "5177BB/15/9V6 Classique 5177 White Gold / Silver",
+          "url": "/breguet/classique/5177bb-15-9v6"
+        },
+        {
+          "slug": "5177ba-15-9v6",
+          "text": "5177BA/15/9V6 Classique 5177 Yellow Gold / Silver",
+          "url": "/breguet/classique/5177ba-15-9v6"
+        },
+        {
+          "slug": "5177ba-29-9v6",
+          "text": "5177BA/29/9V6 Classique 5177 Yellow Gold / White Enamel",
+          "url": "/breguet/classique/5177ba-29-9v6"
+        },
+        {
+          "slug": "5177bb-12-bv0",
+          "text": "5177BB/12/BV0 Classique 5177 White Gold / Silver / Bracelet",
+          "url": "/breguet/classique/5177bb-12-bv0"
+        },
+        {
+          "slug": "5707ba-12-9v6",
+          "text": "5707BA/12/9V6 Classique Le Réveil du Tsar 5707 Yellow Gold / Silver",
+          "url": "/breguet/classique/5707ba-12-9v6"
+        },
+        {
+          "slug": "7337bb-1e-9v6",
+          "text": "7337BB/1E/9V6 Classique 7337 White Gold / Silver",
+          "url": "/breguet/classique/7337bb-1e-9v6"
+        },
+        {
+          "slug": "5177bb-2y-9v6",
+          "text": "5177BB/2Y/9V6 Classique 5177 White Gold / Blue Enamel",
+          "url": "/breguet/classique/5177bb-2y-9v6"
+        },
+        {
+          "slug": "7137bb-11-bv0",
+          "text": "7137BB/11/BV0 Classique 7137 White Gold / Silver / Bracelet",
+          "url": "/breguet/classique/7137bb-11-bv0"
+        },
+        {
+          "slug": "9068bb-52-976-dd00",
+          "text": "9068BB/52/976/DD00 Classique 9068 White Gold / MOP",
+          "url": "/breguet/classique/9068bb-52-976-dd00"
+        },
+        {
+          "slug": "5930bb-12-986",
+          "text": "5930BB/12/986 Classique 5930 White Gold / Silver",
+          "url": "/breguet/classique/5930bb-12-986"
+        },
+        {
+          "slug": "8788bb-12-986-dd00",
+          "text": "8788BB/12/986/DD00 Classique 8788 Moonphase White Gold / Silver",
+          "url": "/breguet/classique/8788bb-12-986-dd00"
+        },
+        {
+          "slug": "7787br-12-9v6",
+          "text": "7787BR/12/9V6 Classique 7787 Moonphase Rose Gold",
+          "url": "/breguet/classique/7787br-12-9v6"
+        },
+        {
+          "slug": "7787bb-29-9v6",
+          "text": "7787BB/29/9V6 Classique 7787 Moonphase White Gold / Grand Feu Enamel",
+          "url": "/breguet/classique/7787bb-29-9v6"
+        },
+        {
+          "slug": "9087br-29-964",
+          "text": "9087BR/29/964 Classique Dame 9087 Rose Gold / White",
+          "url": "/breguet/classique/9087br-29-964"
+        },
+        {
+          "slug": "9088bb-29-964-dd0d",
+          "text": "9088BB/29/964/DD0D Classique Dame 9088 White Gold / White",
+          "url": "/breguet/classique/9088bb-29-964-dd0d"
+        },
+        {
+          "slug": "9088br-52-964-dd0d",
+          "text": "9088BR/52/964/DD0D Classique Dame 9088 Rose Gold / White MOP",
+          "url": "/breguet/classique/9088br-52-964-dd0d"
+        },
+        {
+          "slug": "5727br-12-9zu",
+          "text": "5727BR/12/9ZU Classique Hora Mundi 5727 Rose Gold / White",
+          "url": "/breguet/classique/5727br-12-9zu"
+        },
+        {
+          "slug": "9067bb-12-976",
+          "text": "9067BB/12/976 Classique 9067 White Gold / Silver",
+          "url": "/breguet/classique/9067bb-12-976"
+        },
+        {
+          "slug": "9067br-12-976",
+          "text": "9067BR/12/976 Classique 9067 Rose Gold / Silver",
+          "url": "/breguet/classique/9067br-12-976"
+        },
+        {
+          "slug": "9068bb-12-976-dd00",
+          "text": "9068BB/12/976/DD00 Classique 9068 White Gold / Silver",
+          "url": "/breguet/classique/9068bb-12-976-dd00"
+        },
+        {
+          "slug": "7727br-12-9wu",
+          "text": "7727BR/12/9WU Classique Chronométrie 7727 Rose Gold / Silver",
+          "url": "/breguet/classique/7727br-12-9wu"
+        },
+        {
+          "slug": "7727bb-12-9wu",
+          "text": "7727BB/12/9WU Classique Chronométrie 7727 White Gold / Silver",
+          "url": "/breguet/classique/7727bb-12-9wu"
+        },
+        {
+          "slug": "5178br-29-9v6-d000",
+          "text": "5178BR/29/9V6/D000 Classique 5178 Rose Gold / White Enamel",
+          "url": "/breguet/classique/5178br-29-9v6-d000"
+        },
+        {
+          "slug": "5157bb-11-9v6",
+          "text": "5157BB/11/9V6 Classique 5157 White Gold / Silver",
+          "url": "/breguet/classique/5157bb-11-9v6"
+        },
+        {
+          "slug": "5177br-29-rv0",
+          "text": "5177BR/29/RV0 Classique 5177 Rose Gold / White Enamel / Bracelet",
+          "url": "/breguet/classique/5177br-29-rv0"
+        },
+        {
+          "slug": "5177ba-29-av0",
+          "text": "5177BA/29/AV0 Classique 5177 Yellow Gold / White Enamel / Bracelet",
+          "url": "/breguet/classique/5177ba-29-av0"
+        },
+        {
+          "slug": "5717pt-us-9zu",
+          "text": "5717PT/US/9ZU Classique Hora Mundi 5717 Platinum / America",
+          "url": "/breguet/classique/5717pt-us-9zu"
+        },
+        {
+          "slug": "5717br-us-9zu",
+          "text": "5717BR/US/9ZU Classique Hora Mundi 5717 Rose Gold  / America",
+          "url": "/breguet/classique/5717br-us-9zu"
+        },
+        {
+          "slug": "5717pt-eu-9zu",
+          "text": "5717PT/EU/9ZU Classique Hora Mundi 5717 Platinum  / Europe - Africa",
+          "url": "/breguet/classique/5717pt-eu-9zu"
+        },
+        {
+          "slug": "5719pt-as-9zv-dd0d",
+          "text": "5719PT/AS/9ZV/DD0D Classique Hora Mundi 5719 Platinum / Asia - Oceania",
+          "url": "/breguet/classique/5719pt-as-9zv-dd0d"
+        },
+        {
+          "slug": "5707bb-12-bv0",
+          "text": "5707BB/12/BV0 Classique Le Réveil du Tsar 5707 White Gold / Silver / Bracelet",
+          "url": "/breguet/classique/5707bb-12-bv0"
+        },
+        {
+          "slug": "7800br-aa-9yv",
+          "text": "7800BR/AA/9YV Classique La Musicale 7800 Rose Gold / Silver",
+          "url": "/breguet/classique/7800br-aa-9yv"
+        },
+        {
+          "slug": "7337ba-1e-9v6",
+          "text": "7337BA/1E/9V6 Classique 7337 Yellow Gold / Silver",
+          "url": "/breguet/classique/7337ba-1e-9v6"
+        },
+        {
+          "slug": "7337bb-1e-bv0",
+          "text": "7337BB/1E/BV0 Classique 7337 White Gold / Silver / Bracelet",
+          "url": "/breguet/classique/7337bb-1e-bv0"
+        },
+        {
+          "slug": "7337ba-1e-av0",
+          "text": "7337BA/1E/AV0 Classique 7337 Yellow Gold / Silver / Bracelet",
+          "url": "/breguet/classique/7337ba-1e-av0"
+        },
+        {
+          "slug": "7337bb-y5-9vu",
+          "text": "7337BB/Y5/9VU Classique 7337 White Gold / Blue",
+          "url": "/breguet/classique/7337bb-y5-9vu"
+        },
+        {
+          "slug": "7337br-15-9vu",
+          "text": "7337BR/15/9VU Classique 7337 Rose Gold / Silver",
+          "url": "/breguet/classique/7337br-15-9vu"
+        },
+        {
+          "slug": "9068br-52-976-dd00",
+          "text": "9068BR/52/976/DD00 Classique 9068 Rose Gold / MOP",
+          "url": "/breguet/classique/9068br-52-976-dd00"
+        },
+        {
+          "slug": "8788br-12-986-dd00",
+          "text": "8788BR/12/986/DD00 Classique 8788 Moonphase Rose Gold / Grand Feu Enamel",
+          "url": "/breguet/classique/8788br-12-986-dd00"
+        },
+        {
+          "slug": "8067bb-52-964",
+          "text": "8067BB/52/964 Classique 8067 White Gold / MOP",
+          "url": "/breguet/classique/8067bb-52-964"
+        },
+        {
+          "slug": "7337br-12-9vu",
+          "text": "7337BR/12/9VU Classique 7337 Rose Gold / Silver",
+          "url": "/breguet/classique/7337br-12-9vu"
+        },
+        {
+          "slug": "5327br-1e-9v6",
+          "text": "5327BR/1E/9V6 Classique 5327 Rose Gold / Silver",
+          "url": "/breguet/classique/5327br-1e-9v6"
+        },
+        {
+          "slug": "5327bb-1e-bv0",
+          "text": "5327BB/1E/BV0 Classique 5327 White Gold / Silver / Bracelet",
+          "url": "/breguet/classique/5327bb-1e-bv0"
+        },
+        {
+          "slug": "5327br-1e-rv0",
+          "text": "5327BR/1E/RV0 Classique 5327 Rose Gold / Silver / Bracelet",
+          "url": "/breguet/classique/5327br-1e-rv0"
+        },
+        {
+          "slug": "9087bb-52-bc0",
+          "text": "9087BB/52/BC0 Classique Dame 9087 White Gold / White MOP / Bracelet",
+          "url": "/breguet/classique/9087bb-52-bc0"
+        },
+        {
+          "slug": "7787bb-12-9v6",
+          "text": "7787BB/12/9V6 Classique 7787 Moonphase White Gold",
+          "url": "/breguet/classique/7787bb-12-9v6"
+        },
+        {
+          "slug": "9087br-52-964",
+          "text": "9087BR/52/964 Classique Dame 9087 Rose Gold / White MOP",
+          "url": "/breguet/classique/9087br-52-964"
+        },
+        {
+          "slug": "5287br-92-9zu",
+          "text": "5287BR/92/9ZU Classique 5287 Rose Gold / Black",
+          "url": "/breguet/classique/5287br-92-9zu"
+        },
+        {
+          "slug": "5157ba-11-9v6",
+          "text": "5157BA/11/9V6 Classique 5157 Yellow Gold / Silver",
+          "url": "/breguet/classique/5157ba-11-9v6"
+        },
+        {
+          "slug": "5177br-15-9v6",
+          "text": "5177BR/15/9V6 Classique 5177 Rose Gold / Silver",
+          "url": "/breguet/classique/5177br-15-9v6"
+        },
+        {
+          "slug": "5177br-12-9v6",
+          "text": "5177BR/12/9V6 Classique 5177 Rose Gold / Silver",
+          "url": "/breguet/classique/5177br-12-9v6"
+        },
+        {
+          "slug": "5177br-29-9v6",
+          "text": "5177BR/29/9V6 Classique 5177 Rose Gold / White Enamel",
+          "url": "/breguet/classique/5177br-29-9v6"
+        },
+        {
+          "slug": "5177bb-29-9v6",
+          "text": "5177BB/29/9V6 Classique 5177 White Gold / White Enamel",
+          "url": "/breguet/classique/5177bb-29-9v6"
+        },
+        {
+          "slug": "5177bb-29-bv0",
+          "text": "5177BB/29/BV0 Classique 5177 White Gold / White Enamel / Bracelet",
+          "url": "/breguet/classique/5177bb-29-bv0"
+        },
+        {
+          "slug": "5717br-eu-9zu",
+          "text": "5717BR/EU/9ZU Classique Hora Mundi 5717 Rose Gold  / Europe - Africa",
+          "url": "/breguet/classique/5717br-eu-9zu"
+        },
+        {
+          "slug": "5717br-as-9zu",
+          "text": "5717BR/AS/9ZU Classique Hora Mundi 5717 Rose Gold / Asia - Oceania",
+          "url": "/breguet/classique/5717br-as-9zu"
+        },
+        {
+          "slug": "5719pt-eu-9zv-dd0d",
+          "text": "5719PT/EU/9ZV/DD0D Classique Hora Mundi 5719 Platinum / Europe - Africa",
+          "url": "/breguet/classique/5719pt-eu-9zv-dd0d"
+        },
+        {
+          "slug": "5719pt-us-9zv-dd0d",
+          "text": "5719PT/US/9ZV/DD0D Classique Hora Mundi 5719 Platinum / America",
+          "url": "/breguet/classique/5719pt-us-9zv-dd0d"
+        },
+        {
+          "slug": "7800ba-11-9yv",
+          "text": "7800BA/11/9YV Classique La Musicale 7800 Yellow Gold / Silver",
+          "url": "/breguet/classique/7800ba-11-9yv"
+        },
+        {
+          "slug": "5140bb-12-9w6",
+          "text": "5140BB/12/9W6 Classique 5140 White Gold / Silver",
+          "url": "/breguet/classique/5140bb-12-9w6"
+        },
+        {
+          "slug": "5140ba-12-9w6",
+          "text": "5140BA/12/9W6 Classique 5140 Yellow Gold / Silver",
+          "url": "/breguet/classique/5140ba-12-9w6"
+        },
+        {
+          "slug": "5140ba-29-9w6",
+          "text": "5140BA/29/9W6 Classique 5140 Yellow Gold / White Enamel",
+          "url": "/breguet/classique/5140ba-29-9w6"
+        },
+        {
+          "slug": "8067ba-52-964",
+          "text": "8067BA/52/964 Classique 8067 Yellow Gold / MOP",
+          "url": "/breguet/classique/8067ba-52-964"
+        },
+        {
+          "slug": "8067ba-52-ac0",
+          "text": "8067BA/52/AC0 Classique 8067 Yellow Gold / MOP / Bracelet",
+          "url": "/breguet/classique/8067ba-52-ac0"
+        },
+        {
+          "slug": "8067bb-52-bc0",
+          "text": "8067BB/52/BC0 Classique 8067 White Gold / MOP / Bracelet",
+          "url": "/breguet/classique/8067bb-52-bc0"
+        },
+        {
+          "slug": "8068bb-52-964-dd00",
+          "text": "8068BB/52/964/DD00 Classique 8068 White Gold / MOP",
+          "url": "/breguet/classique/8068bb-52-964-dd00"
+        },
+        {
+          "slug": "8068ba-52-964-dd00",
+          "text": "8068BA/52/964/DD00 Classique 8068 Yellow Gold / MOP",
+          "url": "/breguet/classique/8068ba-52-964-dd00"
+        },
+        {
+          "slug": "7137bb-11-9v6",
+          "text": "7137BB/11/9V6 Classique 7137 White Gold / Silver",
+          "url": "/breguet/classique/7137bb-11-9v6"
+        },
+        {
+          "slug": "7337bb-12-9vu",
+          "text": "7337BB/12/9VU Classique 7337 White Gold / Silver",
+          "url": "/breguet/classique/7337bb-12-9vu"
+        },
+        {
+          "slug": "9065br-5t-976-dd00",
+          "text": "9065BR/5T/976/DD00 Classique 9065 Rose Gold - Diamond / Black MOP",
+          "url": "/breguet/classique/9065br-5t-976-dd00"
+        },
+        {
+          "slug": "8068br-59-764-dd00",
+          "text": "8068BR/59/764/DD00 Classique 8068 Rose Gold / MOP",
+          "url": "/breguet/classique/8068br-59-764-dd00"
+        },
+        {
+          "slug": "8068ba-52-ac0-dd00",
+          "text": "8068BA/52/AC0/DD00 Classique 8068 Yellow Gold / MOP / Bracelet",
+          "url": "/breguet/classique/8068ba-52-ac0-dd00"
+        }
+      ]
+    },
+    {
+      "name": "Marine watches89",
+      "slug": "marine",
+      "references": [
+        {
+          "slug": "5827ba-12-5zu",
+          "text": "5827BA/12/5ZU Marine Chronograph 5827 Yellow Gold / Silver / Rubber",
+          "url": "/breguet/marine/5827ba-12-5zu"
+        },
+        {
+          "slug": "5529bb-yd-9wv-d0",
+          "text": "5529BB/YD/9WV/D0 Marine Chronograph 5529 White Gold - Diamond / Blue / Alligator",
+          "url": "/breguet/marine/5529bb-yd-9wv-d0"
+        },
+        {
+          "slug": "5547br-g3-rz0",
+          "text": "5547BR/G3/RZ0 Marine Alarme Musicale Rose Gold / Grey / Bracelet",
+          "url": "/breguet/marine/5547br-g3-rz0"
+        },
+        {
+          "slug": "5517bb-y2-5zu",
+          "text": "5517BB/Y2/5ZU Marine 5517 White Gold / Blue / Rubber",
+          "url": "/breguet/marine/5517bb-y2-5zu"
+        },
+        {
+          "slug": "5827br-12-5zu",
+          "text": "5827BR/12/5ZU Marine Chronograph 5827 Rose Gold / Silver / Rubber",
+          "url": "/breguet/marine/5827br-12-5zu"
+        },
+        {
+          "slug": "9509bb-5r-984-rd0r",
+          "text": "9509BB/5R/984/RD0R Marine Dame High Jewellery 9509 Poseidonia",
+          "url": "/breguet/marine/9509bb-5r-984-rd0r"
+        },
+        {
+          "slug": "5547ti-g2-5zu",
+          "text": "5547TI/G2/5ZU Marine Alarme Musicale Titanium / Grey / Rubber",
+          "url": "/breguet/marine/5547ti-g2-5zu"
+        },
+        {
+          "slug": "5827br-z2-5zu",
+          "text": "5827BR/Z2/5ZU Marine Chronograph 5827 Rose Gold / Black / Rubber",
+          "url": "/breguet/marine/5827br-z2-5zu"
+        },
+        {
+          "slug": "5547bb-y2-9zu",
+          "text": "5547BB/Y2/9ZU Marine Alarme Musicale White Gold / Blue / Alligator",
+          "url": "/breguet/marine/5547bb-y2-9zu"
+        },
+        {
+          "slug": "525bb-92-5wv",
+          "text": "525BB/92/5WV Marine Chronograph 5525 White Gold / Ginza",
+          "url": "/breguet/marine/525bb-92-5wv"
+        },
+        {
+          "slug": "5557br-ys-rw0",
+          "text": "5557BR/YS/RW0 Marine Hora Mundi 5557 Rose Gold / Blue / Bracelet",
+          "url": "/breguet/marine/5557br-ys-rw0"
+        },
+        {
+          "slug": "5547br-g3-9zu",
+          "text": "5547BR/G3/9ZU Marine Alarme Musicale Rose Gold / Grey / Alligator",
+          "url": "/breguet/marine/5547br-g3-9zu"
+        },
+        {
+          "slug": "5527br-12-5wv",
+          "text": "5527BR/12/5WV Marine Chronograph 5527 Rose Gold / Silver / Rubber",
+          "url": "/breguet/marine/5527br-12-5wv"
+        },
+        {
+          "slug": "5517br-12-9zu",
+          "text": "5517BR/12/9ZU Marine 5517 Rose Gold / Silver / Alligator",
+          "url": "/breguet/marine/5517br-12-9zu"
+        },
+        {
+          "slug": "5827bb-12-bm0",
+          "text": "5827BB/12/BM0 Marine Chronograph 5827 White Gold / Silver / Bracelet",
+          "url": "/breguet/marine/5827bb-12-bm0"
+        },
+        {
+          "slug": "5547ti-y1-5zu",
+          "text": "5547TI/Y1/5ZU Marine Alarme Musicale Titanium / Blue / Rubber",
+          "url": "/breguet/marine/5547ti-y1-5zu"
+        },
+        {
+          "slug": "5517bb-y2-bz0",
+          "text": "5517BB/Y2/BZ0 Marine 5517 White Gold / Blue / Bracelet",
+          "url": "/breguet/marine/5517bb-y2-bz0"
+        },
+        {
+          "slug": "5527bb-y2-bw0",
+          "text": "5527BB/Y2/BW0 Marine Chronograph 5527 White Gold / Blue / Bracelet",
+          "url": "/breguet/marine/5527bb-y2-bw0"
+        },
+        {
+          "slug": "5515bb-92-5zu",
+          "text": "5515BB/92/5ZU Marine 5515 White Gold / Ginza",
+          "url": "/breguet/marine/5515bb-92-5zu"
+        },
+        {
+          "slug": "5547ti-y1-tz0",
+          "text": "5547TI/Y1/TZ0 Marine Alarme Musicale Titanium / Blue / Bracelet",
+          "url": "/breguet/marine/5547ti-y1-tz0"
+        },
+        {
+          "slug": "5547br-12-rz0",
+          "text": "5547BR/12/RZ0 Marine Alarme Musicale Rose Gold / Silver / Bracelet",
+          "url": "/breguet/marine/5547br-12-rz0"
+        },
+        {
+          "slug": "5517br-g3-rz0",
+          "text": "5517BR/G3/RZ0 Marine 5517 Rose Gold / Slate Grey / Bracelet",
+          "url": "/breguet/marine/5517br-g3-rz0"
+        },
+        {
+          "slug": "5547br-12-5zu",
+          "text": "5547BR/12/5ZU Marine Alarme Musicale Rose Gold / Silver / Rubber",
+          "url": "/breguet/marine/5547br-12-5zu"
+        },
+        {
+          "slug": "5517ti-g2-5zu",
+          "text": "5517TI/G2/5ZU Marine 5517 Titanium / Slate Grey / Rubber",
+          "url": "/breguet/marine/5517ti-g2-5zu"
+        },
+        {
+          "slug": "9517st-e2-984",
+          "text": "9517ST/E2/984 Marine Dame 9517 Stainless Steel / Blue / Alligator",
+          "url": "/breguet/marine/9517st-e2-984"
+        },
+        {
+          "slug": "5547ti-y1-9zu",
+          "text": "5547TI/Y1/9ZU Marine Alarme Musicale Titanium / Blue / Alligator",
+          "url": "/breguet/marine/5547ti-y1-9zu"
+        },
+        {
+          "slug": "5517bb-y2-9zu",
+          "text": "5517BB/Y2/9ZU Marine 5517 White Gold / Blue / Alligator",
+          "url": "/breguet/marine/5517bb-y2-9zu"
+        },
+        {
+          "slug": "5517ti-g2-9zu",
+          "text": "5517TI/G2/9ZU Marine 5517 Titanium / Slate Grey / Alligator",
+          "url": "/breguet/marine/5517ti-g2-9zu"
+        },
+        {
+          "slug": "5547bb-y2-bz0",
+          "text": "5547BB/Y2/BZ0 Marine Alarme Musicale White Gold / Blue / Bracelet",
+          "url": "/breguet/marine/5547bb-y2-bz0"
+        },
+        {
+          "slug": "9518bb-v2-984-d000",
+          "text": "9518BB/V2/984/D000 Marine Dame 9518 White Gold - Diamond / MOP  / Alligator",
+          "url": "/breguet/marine/9518bb-v2-984-d000"
+        },
+        {
+          "slug": "9518st-e2-984-d000",
+          "text": "9518ST/E2/984/D000 Marine Dame 9518 Stainless Steel - Diamond / Blue / Alligator",
+          "url": "/breguet/marine/9518st-e2-984-d000"
+        },
+        {
+          "slug": "5517br-12-rz0",
+          "text": "5517BR/12/RZ0 Marine 5517 Rose Gold / Silver / Bracelet",
+          "url": "/breguet/marine/5517br-12-rz0"
+        },
+        {
+          "slug": "5527ti-g2-9wv",
+          "text": "5527TI/G2/9WV Marine Chronograph 5527 Titanium / Grey / Alligator",
+          "url": "/breguet/marine/5527ti-g2-9wv"
+        },
+        {
+          "slug": "5577pt-y2-5wv",
+          "text": "5577PT/Y2/5WV Marine Tourbillon 5577 Platinum / Blue / Rubber",
+          "url": "/breguet/marine/5577pt-y2-5wv"
+        },
+        {
+          "slug": "5517ti-y1-9zu",
+          "text": "5517TI/Y1/9ZU Marine 5517 Titanium / Blue / Alligator",
+          "url": "/breguet/marine/5517ti-y1-9zu"
+        },
+        {
+          "slug": "5527ti-g2-tw0",
+          "text": "5527TI/G2/TW0 Marine Chronograph 5527 Titanium / Grey / Bracelet",
+          "url": "/breguet/marine/5527ti-g2-tw0"
+        },
+        {
+          "slug": "9517st-5w-584",
+          "text": "9517ST/5W/584 Marine Dame 9517 Stainless Steel / MOP / Rubber",
+          "url": "/breguet/marine/9517st-5w-584"
+        },
+        {
+          "slug": "5527bb-y2-5wv",
+          "text": "5527BB/Y2/5WV Marine Chronograph 5527 White Gold / Blue / Rubber",
+          "url": "/breguet/marine/5527bb-y2-5wv"
+        },
+        {
+          "slug": "5827br-z2-rm0",
+          "text": "5827BR/Z2/RM0 Marine Chronograph 5827 Rose Gold / Black / Bracelet",
+          "url": "/breguet/marine/5827br-z2-rm0"
+        },
+        {
+          "slug": "5527br-12-9wv",
+          "text": "5527BR/12/9WV Marine Chronograph 5527 Rose Gold / Silver / Alligator",
+          "url": "/breguet/marine/5527br-12-9wv"
+        },
+        {
+          "slug": "9517st-e2-584",
+          "text": "9517ST/E2/584 Marine Dame 9517 Stainless Steel / Blue / Rubber",
+          "url": "/breguet/marine/9517st-e2-584"
+        },
+        {
+          "slug": "5527bb-y2-9wv",
+          "text": "5527BB/Y2/9WV Marine Chronograph 5527 White Gold / Blue / Alligator",
+          "url": "/breguet/marine/5527bb-y2-9wv"
+        },
+        {
+          "slug": "5577br-g2-9wv",
+          "text": "5577BR/G2/9WV Marine Tourbillon 5577 Rose Gold / Slate / Alligator",
+          "url": "/breguet/marine/5577br-g2-9wv"
+        },
+        {
+          "slug": "9509bb-td-984-dd0d",
+          "text": "9509BB/TD/984/DD0D Marine Dame High Jewellery 9509 Poseidonia",
+          "url": "/breguet/marine/9509bb-td-984-dd0d"
+        },
+        {
+          "slug": "5577pt-y2-9wv",
+          "text": "5577PT/Y2/9WV Marine Tourbillon 5577 Platinum / Blue / Alligator",
+          "url": "/breguet/marine/5577pt-y2-9wv"
+        },
+        {
+          "slug": "9518br-52-584-d000",
+          "text": "9518BR/52/584/D000 Marine Dame 9518 Rose Gold - Diamond / MOP  / Rubber",
+          "url": "/breguet/marine/9518br-52-584-d000"
+        },
+        {
+          "slug": "5557br-ys-9wv",
+          "text": "5557BR/YS/9WV Marine Hora Mundi 5557 Rose Gold / Blue / Alligator",
+          "url": "/breguet/marine/5557br-ys-9wv"
+        },
+        {
+          "slug": "9518st-5w-584-d000",
+          "text": "9518ST/5W/584/D000 Marine Dame 9518 Stainless Steel - Diamond / MOP  / Rubber",
+          "url": "/breguet/marine/9518st-5w-584-d000"
+        },
+        {
+          "slug": "9518st-5w-984-d000",
+          "text": "9518ST/5W/984/D000 Marine Dame 9518 Stainless Steel - Diamond / MOP  / Alligator",
+          "url": "/breguet/marine/9518st-5w-984-d000"
+        },
+        {
+          "slug": "5557br-ys-5wv",
+          "text": "5557BR/YS/5WV Marine Hora Mundi 5557 Rose Gold / Blue / Rubber",
+          "url": "/breguet/marine/5557br-ys-5wv"
+        },
+        {
+          "slug": "5557bb-ys-9wv",
+          "text": "5557BB/YS/9WV Marine Hora Mundi 5557 White Gold / Blue / Alligator",
+          "url": "/breguet/marine/5557bb-ys-9wv"
+        },
+        {
+          "slug": "5547bb-y2-5zu",
+          "text": "5547BB/Y2/5ZU Marine Alarme Musicale White Gold / Blue / Rubber",
+          "url": "/breguet/marine/5547bb-y2-5zu"
+        },
+        {
+          "slug": "5527br-g3-5wv",
+          "text": "5527BR/G3/5WV Marine Chronograph 5527 Rose Gold / Grey / Rubber",
+          "url": "/breguet/marine/5527br-g3-5wv"
+        },
+        {
+          "slug": "5527br-g3-9wv",
+          "text": "5527BR/G3/9WV Marine Chronograph 5527 Rose Gold / Grey / Alligator",
+          "url": "/breguet/marine/5527br-g3-9wv"
+        },
+        {
+          "slug": "5527ti-y1-5wv",
+          "text": "5527TI/Y1/5WV Marine Chronograph 5527 Titanium / Blue / Rubber",
+          "url": "/breguet/marine/5527ti-y1-5wv"
+        },
+        {
+          "slug": "5527ti-y1-9wv",
+          "text": "5527TI/Y1/9WV Marine Chronograph 5527 Titanium / Blue / Alligator",
+          "url": "/breguet/marine/5527ti-y1-9wv"
+        },
+        {
+          "slug": "5517br-g3-9zu",
+          "text": "5517BR/G3/9ZU Marine 5517 Rose Gold / Slate Grey / Alligator",
+          "url": "/breguet/marine/5517br-g3-9zu"
+        },
+        {
+          "slug": "5887br-g2-9wv",
+          "text": "5887BR/G2/9WV Marine Tourbillon Equation of Time 5887 Rose Gold / Brown / Alligator",
+          "url": "/breguet/marine/5887br-g2-9wv"
+        },
+        {
+          "slug": "5827bb-12-5zu",
+          "text": "5827BB/12/5ZU Marine Chronograph 5827 White Gold / Silver / Rubber",
+          "url": "/breguet/marine/5827bb-12-5zu"
+        },
+        {
+          "slug": "5887pt-y2-9wv",
+          "text": "5887PT/Y2/9WV Marine Tourbillon Equation of Time 5887 Platinum / Blue / Alligator",
+          "url": "/breguet/marine/5887pt-y2-9wv"
+        },
+        {
+          "slug": "5529br-yd-5wv-d0",
+          "text": "5529BR/YD/5WV/D0 Marine Chronograph 5529 Rose Gold - Diamond / Blue / Rubber",
+          "url": "/breguet/marine/5529br-yd-5wv-d0"
+        },
+        {
+          "slug": "5517ti-y1-5zu",
+          "text": "5517TI/Y1/5ZU Marine 5517 Titanium / Blue / Rubber",
+          "url": "/breguet/marine/5517ti-y1-5zu"
+        },
+        {
+          "slug": "5529bb-yd-5wv-d0",
+          "text": "5529BB/YD/5WV/D0 Marine Chronograph 5529 White Gold - Diamond / Blue / Rubber",
+          "url": "/breguet/marine/5529bb-yd-5wv-d0"
+        },
+        {
+          "slug": "5527ti-g2-5wv",
+          "text": "5527TI/G2/5WV Marine Chronograph 5527 Titanium / Grey / Rubber",
+          "url": "/breguet/marine/5527ti-g2-5wv"
+        },
+        {
+          "slug": "5517ti-y1-tz0",
+          "text": "5517TI/Y1/TZ0 Marine 5517 Titanium / Blue / Bracelet",
+          "url": "/breguet/marine/5517ti-y1-tz0"
+        },
+        {
+          "slug": "5577br-g2-5wv",
+          "text": "5577BR/G2/5WV Marine Tourbillon 5577 Rose Gold / Slate / Rubber",
+          "url": "/breguet/marine/5577br-g2-5wv"
+        },
+        {
+          "slug": "5529br-yd-9wv-d0",
+          "text": "5529BR/YD/9WV/D0 Marine Chronograph 5529 Rose Gold - Diamond / Blue / Alligator",
+          "url": "/breguet/marine/5529br-yd-9wv-d0"
+        },
+        {
+          "slug": "9518st-yd-s80-d001",
+          "text": "9518ST/YD/S80/D001 Marine Dame 9518 Stainless Steel - Diamond / Blue / Bracelet",
+          "url": "/breguet/marine/9518st-yd-s80-d001"
+        },
+        {
+          "slug": "5517br-g3-5zu",
+          "text": "5517BR/G3/5ZU Marine 5517 Rose Gold / Slate Grey / Rubber",
+          "url": "/breguet/marine/5517br-g3-5zu"
+        },
+        {
+          "slug": "9518st-1d-s80-d001",
+          "text": "9518ST/1D/S80/D001 Marine Dame 9518 Stainless Steel - Diamond / Silver / Bracelet",
+          "url": "/breguet/marine/9518st-1d-s80-d001"
+        },
+        {
+          "slug": "5527br-12-rw0",
+          "text": "5527BR/12/RW0 Marine Chronograph 5527 Rose Gold / Silver / Bracelet",
+          "url": "/breguet/marine/5527br-12-rw0"
+        },
+        {
+          "slug": "5557bb-ys-bw0",
+          "text": "5557BB/YS/BW0 Marine Hora Mundi 5557 White Gold / Blue / Bracelet",
+          "url": "/breguet/marine/5557bb-ys-bw0"
+        },
+        {
+          "slug": "9518br-52-984-d000",
+          "text": "9518BR/52/984/D000 Marine Dame 9518 Rose Gold - Diamond / MOP  / Alligator",
+          "url": "/breguet/marine/9518br-52-984-d000"
+        },
+        {
+          "slug": "5887br-12-9wv",
+          "text": "5887BR/12/9WV Marine Tourbillon Equation of Time 5887 Rose Gold / Silver / Alligator",
+          "url": "/breguet/marine/5887br-12-9wv"
+        },
+        {
+          "slug": "5517br-12-5zu",
+          "text": "5517BR/12/5ZU Marine 5517 Rose Gold / Silver / Rubber",
+          "url": "/breguet/marine/5517br-12-5zu"
+        },
+        {
+          "slug": "5839bb-6d-9zu-dd0d",
+          "text": "5839BB/6D/9ZU/DD0D Marine Chronograph Tourbillon 5839 White Gold - Baguette",
+          "url": "/breguet/marine/5839bb-6d-9zu-dd0d"
+        },
+        {
+          "slug": "5527ti-y1-tw0",
+          "text": "5527TI/Y1/TW0 Marine Chronograph 5527 Titanium / Blue / Bracelet",
+          "url": "/breguet/marine/5527ti-y1-tw0"
+        },
+        {
+          "slug": "5547br-g3-5zu",
+          "text": "5547BR/G3/5ZU Marine Alarme Musicale Rose Gold / Grey / Rubber",
+          "url": "/breguet/marine/5547br-g3-5zu"
+        },
+        {
+          "slug": "9517st-5w-984",
+          "text": "9517ST/5W/984 Marine Dame 9517 Stainless Steel / MOP / Alligator",
+          "url": "/breguet/marine/9517st-5w-984"
+        },
+        {
+          "slug": "5547br-12-9zu",
+          "text": "5547BR/12/9ZU Marine Alarme Musicale Rose Gold / Silver / Alligator",
+          "url": "/breguet/marine/5547br-12-9zu"
+        },
+        {
+          "slug": "9518bb-v2-584-d000",
+          "text": "9518BB/V2/584/D000 Marine Dame 9518 White Gold - Diamond / MOP  / Rubber",
+          "url": "/breguet/marine/9518bb-v2-584-d000"
+        },
+        {
+          "slug": "5557bb-ys-5wv",
+          "text": "5557BB/YS/5WV Marine Hora Mundi 5557 White Gold / Blue / Rubber",
+          "url": "/breguet/marine/5557bb-ys-5wv"
+        },
+        {
+          "slug": "5517ti-g2-tz0",
+          "text": "5517TI/G2/TZ0 Marine 5517 Titanium / Slate Grey / Bracelet",
+          "url": "/breguet/marine/5517ti-g2-tz0"
+        },
+        {
+          "slug": "9518st-e2-584-d000",
+          "text": "9518ST/E2/584/D000 Marine Dame 9518 Stainless Steel - Diamond / Blue / Rubber",
+          "url": "/breguet/marine/9518st-e2-584-d000"
+        },
+        {
+          "slug": "5547ti-g2-9zu",
+          "text": "5547TI/G2/9ZU Marine Alarme Musicale Titanium / Grey / Alligator",
+          "url": "/breguet/marine/5547ti-g2-9zu"
+        },
+        {
+          "slug": "9509bb-5e-984-ed0e",
+          "text": "9509BB/5E/984/ED0E Marine Dame High Jewellery 9509 Poseidonia",
+          "url": "/breguet/marine/9509bb-5e-984-ed0e"
+        },
+        {
+          "slug": "5527br-g3-rw0",
+          "text": "5527BR/G3/RW0 Marine Chronograph 5527 Rose Gold / Grey / Bracelet",
+          "url": "/breguet/marine/5527br-g3-rw0"
+        },
+        {
+          "slug": "9509bb-5s-984-sd0s",
+          "text": "9509BB/5S/984/SD0S Marine Dame High Jewellery 9509 Poseidonia",
+          "url": "/breguet/marine/9509bb-5s-984-sd0s"
+        },
+        {
+          "slug": "5827ba-12-am0",
+          "text": "5827BA/12/AM0 Marine Chronograph 5827 Yellow Gold / Silver / Bracelet",
+          "url": "/breguet/marine/5827ba-12-am0"
+        }
+      ]
+    },
+    {
+      "name": "Classique Complications watches50",
+      "slug": "classique-complications",
+      "references": [
+        {
+          "slug": "3357bb-12-986",
+          "text": "3357BB/12/986 Tourbillon 3357 White Gold / Silver",
+          "url": "/breguet/classique-complications/3357bb-12-986"
+        },
+        {
+          "slug": "5347br-2a-9zu",
+          "text": "5347BR/2A/9ZU Double Tourbillon Rose Gold / Grey",
+          "url": "/breguet/classique-complications/5347br-2a-9zu"
+        },
+        {
+          "slug": "7637br-2n-9zu",
+          "text": "7637BR/2N/9ZU Classique Minute Repeater 7637 Rose Gold / Black Enamel",
+          "url": "/breguet/classique-complications/7637br-2n-9zu"
+        },
+        {
+          "slug": "5349pt-11-9yv-dd0d",
+          "text": "5349PT/11/9YV/DD0D Double Tourbillon 5349 Platinum - Baguette / Diamond",
+          "url": "/breguet/classique-complications/5349pt-11-9yv-dd0d"
+        },
+        {
+          "slug": "3358bb-52-986-dd00",
+          "text": "3358BB/52/986/DD00 Tourbillon 3358 White Gold - Diamond / MOP",
+          "url": "/breguet/classique-complications/3358bb-52-986-dd00"
+        },
+        {
+          "slug": "7637bb-2y-9zu",
+          "text": "7637BB/2Y/9ZU Classique Minute Repeater 7637 White Gold / Blue Enamel",
+          "url": "/breguet/classique-complications/7637bb-2y-9zu"
+        },
+        {
+          "slug": "5347br-11-9zu",
+          "text": "5347BR/11/9ZU Double Tourbillon Rose Gold / Silver",
+          "url": "/breguet/classique-complications/5347br-11-9zu"
+        },
+        {
+          "slug": "3355pt-00-pa0",
+          "text": "3355PT/00/PA0 Tourbillon 3355 Platinum / Silver / Bracelet",
+          "url": "/breguet/classique-complications/3355pt-00-pa0"
+        },
+        {
+          "slug": "5447bb-1e-9v6",
+          "text": "5447BB/1E/9V6 Classique Minute Repeater Perpetual Calendar White Gold / Silver",
+          "url": "/breguet/classique-complications/5447bb-1e-9v6"
+        },
+        {
+          "slug": "5395br-1s-9wu",
+          "text": "5395BR/1S/9WU Classique Tourbillon Extra-Plat Squelette 5395 Rose Gold",
+          "url": "/breguet/classique-complications/5395br-1s-9wu"
+        },
+        {
+          "slug": "3797pt-1e-9wu",
+          "text": "3797PT/1E/9WU Tourbillon Perpetual Calendar  3797 Platinum / Silver",
+          "url": "/breguet/classique-complications/3797pt-1e-9wu"
+        },
+        {
+          "slug": "7637bb-12-9zu",
+          "text": "7637BB/12/9ZU Classique Minute Repeater 7637 White Gold / Silver",
+          "url": "/breguet/classique-complications/7637bb-12-9zu"
+        },
+        {
+          "slug": "5317pt-12-9v6",
+          "text": "5317PT/12/9V6 Tourbillon Five Days Platinum / Silver",
+          "url": "/breguet/classique-complications/5317pt-12-9v6"
+        },
+        {
+          "slug": "5317ba-12-9v6",
+          "text": "5317BA/12/9V6 Tourbillon Five Days Yellow Gold / Silver",
+          "url": "/breguet/classique-complications/5317ba-12-9v6"
+        },
+        {
+          "slug": "7327br-11-9vu",
+          "text": "7327BR/11/9VU Classique Perpetual Calendar 7327 Rose Gold / Silver",
+          "url": "/breguet/classique-complications/7327br-11-9vu"
+        },
+        {
+          "slug": "5447br-1e-9v6",
+          "text": "5447BR/1E/9V6 Classique Minute Repeater Perpetual Calendar Rose Gold / Silver",
+          "url": "/breguet/classique-complications/5447br-1e-9v6"
+        },
+        {
+          "slug": "7639bb-6d-9xv-dd0d",
+          "text": "7639BB/6D/9XV/DD0D Classique Minute Repeater 7639 White Gold - Baguette / Diamond",
+          "url": "/breguet/classique-complications/7639bb-6d-9xv-dd0d"
+        },
+        {
+          "slug": "1907ba-12",
+          "text": "1907BA/12 Pocket Watch Grande Sonnerie 1907 Yellow Gold / Silver",
+          "url": "/breguet/classique-complications/1907ba-12"
+        },
+        {
+          "slug": "5349pt-2y-9yv-dd0d",
+          "text": "5349PT/2Y/9YV/DD0D Double Tourbillon 5349 Platinum - Baguette / Blue",
+          "url": "/breguet/classique-complications/5349pt-2y-9yv-dd0d"
+        },
+        {
+          "slug": "5367pt-29-9wu",
+          "text": "5367PT/29/9WU Classique Tourbillon 5367 Platinum / White",
+          "url": "/breguet/classique-complications/5367pt-29-9wu"
+        },
+        {
+          "slug": "5347pt-11-9zu",
+          "text": "5347PT/11/9ZU Double Tourbillon Platinum / Silver",
+          "url": "/breguet/classique-complications/5347pt-11-9zu"
+        },
+        {
+          "slug": "5367pt-2y-9wu",
+          "text": "5367PT/2Y/9WU Classique Tourbillon 5367 Platinum / Blue",
+          "url": "/breguet/classique-complications/5367pt-2y-9wu"
+        },
+        {
+          "slug": "5345br-1s-5xu",
+          "text": "5345BR/1S/5XU Classique Double Tourbillon Quai de l'Horloge Rose Gold",
+          "url": "/breguet/classique-complications/5345br-1s-5xu"
+        },
+        {
+          "slug": "5317pt-12-pv0",
+          "text": "5317PT/12/PV0 Tourbillon Five Days Platinum / Silver / Bracelet",
+          "url": "/breguet/classique-complications/5317pt-12-pv0"
+        },
+        {
+          "slug": "5377pt-12-9wu",
+          "text": "5377PT/12/9WU Tourbillon Extra-Plat 5377 Platinum",
+          "url": "/breguet/classique-complications/5377pt-12-9wu"
+        },
+        {
+          "slug": "3795pt-1e-9wu",
+          "text": "3795PT/1E/9WU Tourbillon Perpetual Calendar Skeleton 3795 Platinum / Silver",
+          "url": "/breguet/classique-complications/3795pt-1e-9wu"
+        },
+        {
+          "slug": "3797br-1e-9wu",
+          "text": "3797BR/1E/9WU Tourbillon Perpetual Calendar  3797 Rose Gold / Silver",
+          "url": "/breguet/classique-complications/3797br-1e-9wu"
+        },
+        {
+          "slug": "5335br-42-9w6",
+          "text": "5335BR/42/9W6 Tourbillon Messidor Rose Gold",
+          "url": "/breguet/classique-complications/5335br-42-9w6"
+        },
+        {
+          "slug": "3358br-8d-986-d0",
+          "text": "3358BR/8D/986/D0 Tourbillon 3358 Rose Gold - Diamond / Stunning Sight",
+          "url": "/breguet/classique-complications/3358br-8d-986-d0"
+        },
+        {
+          "slug": "3358bb-vd-986-d0",
+          "text": "3358BB/VD/986/D0 Tourbillon 3358 White Gold - Diamond / Starlit Night",
+          "url": "/breguet/classique-complications/3358bb-vd-986-d0"
+        },
+        {
+          "slug": "5377br-12-9wu",
+          "text": "5377BR/12/9WU Tourbillon Extra-Plat 5377 Rose Gold",
+          "url": "/breguet/classique-complications/5377br-12-9wu"
+        },
+        {
+          "slug": "7327bb-11-9vu",
+          "text": "7327BB/11/9VU Classique Perpetual Calendar 7327 White Gold / Silver",
+          "url": "/breguet/classique-complications/7327bb-11-9vu"
+        },
+        {
+          "slug": "5365br-15-9wu",
+          "text": "5365BR/15/9WU Classique Tourbillon Extra-Plat Anniversaire 5365 Rose gold / Silver",
+          "url": "/breguet/classique-complications/5365br-15-9wu"
+        },
+        {
+          "slug": "5335br-42-rw0",
+          "text": "5335BR/42/RW0 Tourbillon Messidor Rose Gold / Bracelet",
+          "url": "/breguet/classique-complications/5335br-42-rw0"
+        },
+        {
+          "slug": "5395pt-rs-9wu",
+          "text": "5395PT/RS/9WU Classique Tourbillon Extra-Plat Squelette 5395 Platinum",
+          "url": "/breguet/classique-complications/5395pt-rs-9wu"
+        },
+        {
+          "slug": "5335pt-42-pw0",
+          "text": "5335PT/42/PW0 Tourbillon Messidor Platinum / Bracelet",
+          "url": "/breguet/classique-complications/5335pt-42-pw0"
+        },
+        {
+          "slug": "5335pt-42-9w6",
+          "text": "5335PT/42/9W6 Tourbillon Messidor Platinum",
+          "url": "/breguet/classique-complications/5335pt-42-9w6"
+        },
+        {
+          "slug": "5367br-29-9wu",
+          "text": "5367BR/29/9WU Classique Tourbillon 5367 Rose Gold / White",
+          "url": "/breguet/classique-complications/5367br-29-9wu"
+        },
+        {
+          "slug": "5345pt-1s-7xu",
+          "text": "5345PT/1S/7XU Classique Double Tourbillon Quai de l'Horloge",
+          "url": "/breguet/classique-complications/5345pt-1s-7xu"
+        },
+        {
+          "slug": "3795br-1e-9wu",
+          "text": "3795BR/1E/9WU Tourbillon Perpetual Calendar Skeleton 3795 Rose Gold / Silver",
+          "url": "/breguet/classique-complications/3795br-1e-9wu"
+        },
+        {
+          "slug": "3357br-12-986",
+          "text": "3357BR/12/986 Tourbillon 3357 Rose Gold / Silver",
+          "url": "/breguet/classique-complications/3357br-12-986"
+        },
+        {
+          "slug": "3357ba-12-986",
+          "text": "3357BA/12/986 Tourbillon 3357 Yellow Gold / Silver",
+          "url": "/breguet/classique-complications/3357ba-12-986"
+        },
+        {
+          "slug": "7637br-12-9zu",
+          "text": "7637BR/12/9ZU Classique Minute Repeater 7637 Rose Gold / Silver",
+          "url": "/breguet/classique-complications/7637br-12-9zu"
+        },
+        {
+          "slug": "3358bb-2y-986-dd0d",
+          "text": "3358BB/2Y/986/DD0D Tourbillon 3358 White Gold - Diamond / Silver - Blue",
+          "url": "/breguet/classique-complications/3358bb-2y-986-dd0d"
+        },
+        {
+          "slug": "3358bb-2p-986-dd0d",
+          "text": "3358BB/2P/986/DD0D Tourbillon 3358 White Gold - Diamond / Silver - Red",
+          "url": "/breguet/classique-complications/3358bb-2p-986-dd0d"
+        },
+        {
+          "slug": "5347pt-2p-9zu",
+          "text": "5347PT/2P/9ZU Double Tourbillon Platinum / Red",
+          "url": "/breguet/classique-complications/5347pt-2p-9zu"
+        },
+        {
+          "slug": "3355pt-00-986",
+          "text": "3355PT/00/986 Tourbillon 3355 Platinum / Silver",
+          "url": "/breguet/classique-complications/3355pt-00-986"
+        },
+        {
+          "slug": "5359bb-6b-9v6-dd0d",
+          "text": "5359BB/6B/9V6/DD0D Tourbillon White Gold - Baguette / Silver",
+          "url": "/breguet/classique-complications/5359bb-6b-9v6-dd0d"
+        },
+        {
+          "slug": "5317br-12-9v6",
+          "text": "5317BR/12/9V6 Tourbillon Five Days Rose Gold / Silver",
+          "url": "/breguet/classique-complications/5317br-12-9v6"
+        },
+        {
+          "slug": "5317br-12-rv0",
+          "text": "5317BR/12/RV0 Tourbillon Five Days Rose Gold / Silver / Bracelet",
+          "url": "/breguet/classique-complications/5317br-12-rv0"
+        }
+      ]
+    },
+    {
+      "name": "Tradition watches25",
+      "slug": "tradition",
+      "references": [
+        {
+          "slug": "7027bb-g9-9v6",
+          "text": "7027BB/G9/9V6 Tradition 7057 White Gold / Black",
+          "url": "/breguet/tradition/7027bb-g9-9v6"
+        },
+        {
+          "slug": "7077br-g1-9xv",
+          "text": "7077BR/G1/9XV Tradition 7077 Chronographe Indépendant Rose Gold",
+          "url": "/breguet/tradition/7077br-g1-9xv"
+        },
+        {
+          "slug": "7038br-18-9v6-d00d",
+          "text": "7038BR/18/9V6/D00D Tradition Dame 7038 Automatique Rose Gold / Diamond /  MOP",
+          "url": "/breguet/tradition/7038br-18-9v6-d00d"
+        },
+        {
+          "slug": "7097bb-g1-9wu",
+          "text": "7097BB/G1/9WU Tradition 7097 Automatique Seconde Retrograde White Gold / Silver",
+          "url": "/breguet/tradition/7097bb-g1-9wu"
+        },
+        {
+          "slug": "7038br-ct-3v6-d00d",
+          "text": "7038BR/CT/3V6/D00D Tradition Dame 7038 Automatique Rose Gold - Diamond /  Black MOP",
+          "url": "/breguet/tradition/7038br-ct-3v6-d00d"
+        },
+        {
+          "slug": "7047br-g9-9zu",
+          "text": "7047BR/G9/9ZU Tradition 7047 Fusée Tourbillon Rose Gold / Black",
+          "url": "/breguet/tradition/7047br-g9-9zu"
+        },
+        {
+          "slug": "7097bb-gy-9wu",
+          "text": "7097BB/GY/9WU Tradition 7097 Automatique Seconde Retrograde White Gold / Blue",
+          "url": "/breguet/tradition/7097bb-gy-9wu"
+        },
+        {
+          "slug": "7597br-g1-9wu",
+          "text": "7597BR/G1/9WU Tradition 7597 Quantième Rétrograde Rose Gold / Silver",
+          "url": "/breguet/tradition/7597br-g1-9wu"
+        },
+        {
+          "slug": "7067br-g1-9w6",
+          "text": "7067BR/G1/9W6 Tradition 7067 GMT Rose Gold",
+          "url": "/breguet/tradition/7067br-g1-9w6"
+        },
+        {
+          "slug": "7057br-r9-9w6",
+          "text": "7057BR/R9/9W6 Tradition 7057 Rose Gold / Black",
+          "url": "/breguet/tradition/7057br-r9-9w6"
+        },
+        {
+          "slug": "7057bb-g9-9w6",
+          "text": "7057BB/G9/9W6 Tradition 7057 White Gold / Black",
+          "url": "/breguet/tradition/7057bb-g9-9w6"
+        },
+        {
+          "slug": "7597bb-g1-9wu",
+          "text": "7597BB/G1/9WU Tradition 7597 Quantième Rétrograde White Gold / Silver",
+          "url": "/breguet/tradition/7597bb-g1-9wu"
+        },
+        {
+          "slug": "7057br-g9-9w6",
+          "text": "7057BR/G9/9W6 Tradition 7057 Rose Gold / Black",
+          "url": "/breguet/tradition/7057br-g9-9w6"
+        },
+        {
+          "slug": "7097br-g1-9wu",
+          "text": "7097BR/G1/9WU Tradition 7097 Automatique Seconde Retrograde Rose Gold",
+          "url": "/breguet/tradition/7097br-g1-9wu"
+        },
+        {
+          "slug": "7038bb-1t-9v6-d00d",
+          "text": "7038BB/1T/9V6/D00D Tradition Dame 7038 Automatique White Gold / Diamond /  MOP",
+          "url": "/breguet/tradition/7038bb-1t-9v6-d00d"
+        },
+        {
+          "slug": "7057bb-11-9w6",
+          "text": "7057BB/11/9W6 Tradition 7057 White Gold / Silver",
+          "url": "/breguet/tradition/7057bb-11-9w6"
+        },
+        {
+          "slug": "7067bb-g1-9w6",
+          "text": "7067BB/G1/9W6 Tradition 7067 GMT White Gold",
+          "url": "/breguet/tradition/7067bb-g1-9w6"
+        },
+        {
+          "slug": "7047br-r9-9zu",
+          "text": "7047BR/R9/9ZU Tradition 7047 Fusée Tourbillon Rose Gold / Black",
+          "url": "/breguet/tradition/7047br-r9-9zu"
+        },
+        {
+          "slug": "7027br-g9-9v6",
+          "text": "7027BR/G9/9V6 Tradition 7057 Rose Gold / Black",
+          "url": "/breguet/tradition/7027br-g9-9v6"
+        },
+        {
+          "slug": "7027br-r9-9v6",
+          "text": "7027BR/R9/9V6 Tradition 7057 Rose Gold / Black",
+          "url": "/breguet/tradition/7027br-r9-9v6"
+        },
+        {
+          "slug": "7047pt-1y-9zu",
+          "text": "7047PT/1Y/9ZU Tradition 7047 Fusée Tourbillon Platinum / Blue",
+          "url": "/breguet/tradition/7047pt-1y-9zu"
+        },
+        {
+          "slug": "7597bb-gy-9wu",
+          "text": "7597BB/GY/9WU Tradition 7597 Quantième Rétrograde Platinum / Blue",
+          "url": "/breguet/tradition/7597bb-gy-9wu"
+        },
+        {
+          "slug": "7047pt-11-9zu",
+          "text": "7047PT/11/9ZU Tradition 7047 Fusée Tourbillon Platinum / Silver",
+          "url": "/breguet/tradition/7047pt-11-9zu"
+        },
+        {
+          "slug": "7077bb-g1-9xv",
+          "text": "7077BB/G1/9XV Tradition 7077 Chronographe Indépendant White Gold",
+          "url": "/breguet/tradition/7077bb-g1-9xv"
+        },
+        {
+          "slug": "7035br-d8-9v6-d00d",
+          "text": "7035BR/D8/9V6/D00D Tradition 7035 Pink Gold - Diamond / MOP",
+          "url": "/breguet/tradition/7035br-d8-9v6-d00d"
+        }
+      ]
+    },
+    {
+      "name": "Reine de Naples watches25",
+      "slug": "reine-de-naples",
+      "references": [
+        {
+          "slug": "8918bb-5p-964-d00d3l",
+          "text": "8918BB/5P/964/D00D3L Reine de Naples 8918 White Gold - Diamond / MOP",
+          "url": "/breguet/reine-de-naples/8918bb-5p-964-d00d3l"
+        },
+        {
+          "slug": "8918bb-5r-964-r00r",
+          "text": "8918BB/5R/964/R00R Reine de Naples 8918 White Gold - Rubies / MOP",
+          "url": "/breguet/reine-de-naples/8918bb-5r-964-r00r"
+        },
+        {
+          "slug": "8967st-g1-j50",
+          "text": "8967ST/G1/J50 Reine de Naples 8967 Stainless Steel / Blue MOP / Bracelet",
+          "url": "/breguet/reine-de-naples/8967st-g1-j50"
+        },
+        {
+          "slug": "8918bb-28-964-d00d",
+          "text": "8918BB/28/964/D00D Reine de Naples 8918 White Gold - Diamond / White",
+          "url": "/breguet/reine-de-naples/8918bb-28-964-d00d"
+        },
+        {
+          "slug": "8918br-2c-364-d00d",
+          "text": "8918BR/2C/364/D00D Reine de Naples 8918 Rose Gold - Diamond / Pink",
+          "url": "/breguet/reine-de-naples/8918br-2c-364-d00d"
+        },
+        {
+          "slug": "8918bb-58-j20-d000",
+          "text": "8918BB/58/J20/D000 Reine de Naples 8918 White Gold - Diamond / MOP / Bracelet",
+          "url": "/breguet/reine-de-naples/8918bb-58-j20-d000"
+        },
+        {
+          "slug": "8967st-51-j50",
+          "text": "8967ST/51/J50 Reine de Naples 8967 Stainless Steel / White MOP / Bracelet",
+          "url": "/breguet/reine-de-naples/8967st-51-j50"
+        },
+        {
+          "slug": "8918bb-58-j31-d0dd",
+          "text": "8918BB/58/J31/D0DD Reine de Naples 8918 White Gold - Diamond / MOP / Bracelet",
+          "url": "/breguet/reine-de-naples/8918bb-58-j31-d0dd"
+        },
+        {
+          "slug": "8918ba-58-j39-d00d",
+          "text": "8918BA/58/J39/D00D Reine de Naples 8918 Yellow Gold - Diamond / MOP / Bracelet",
+          "url": "/breguet/reine-de-naples/8918ba-58-j39-d00d"
+        },
+        {
+          "slug": "8918br-5t-j20-d000",
+          "text": "8918BR/5T/J20/D000 Reine de Naples 8918 Rose Gold - Diamond / Champagne MOP / Bracelet",
+          "url": "/breguet/reine-de-naples/8918br-5t-j20-d000"
+        },
+        {
+          "slug": "8918ba-58-964-d00d3l",
+          "text": "8918BA/58/964/D00D3L Reine de Naples 8918 Yellow Gold - Diamond / MOP",
+          "url": "/breguet/reine-de-naples/8918ba-58-964-d00d3l"
+        },
+        {
+          "slug": "8918br-58-964-d00d3l",
+          "text": "8918BR/58/964/D00D3L Reine de Naples 8918 Rose Gold - Diamond / MOP",
+          "url": "/breguet/reine-de-naples/8918br-58-964-d00d3l"
+        },
+        {
+          "slug": "8967st-51-986",
+          "text": "8967ST/51/986 Reine de Naples 8967 Stainless Steel / White MOP",
+          "url": "/breguet/reine-de-naples/8967st-51-986"
+        },
+        {
+          "slug": "8967st-g1-986",
+          "text": "8967ST/G1/986 Reine de Naples 8967 Stainless Steel / Pink MOP",
+          "url": "/breguet/reine-de-naples/8967st-g1-986"
+        },
+        {
+          "slug": "8967st-v8-986",
+          "text": "8967ST/V8/986 Reine de Naples 8967 Stainless Steel / Blue MOP",
+          "url": "/breguet/reine-de-naples/8967st-v8-986"
+        },
+        {
+          "slug": "8918bb-2n-764-d00d",
+          "text": "8918BB/2N/764/D00D Reine de Naples 8918 White Gold - Diamond / Black",
+          "url": "/breguet/reine-de-naples/8918bb-2n-764-d00d"
+        },
+        {
+          "slug": "8918br-58-j20-d000",
+          "text": "8918BR/58/J20/D000 Reine de Naples 8918 Rose Gold - Diamond / MOP / Bracelet",
+          "url": "/breguet/reine-de-naples/8918br-58-j20-d000"
+        },
+        {
+          "slug": "8918bb-58-964-d00d3l",
+          "text": "8918BB/58/964/D00D3L Reine de Naples 8918 White Gold - Diamond / MOP",
+          "url": "/breguet/reine-de-naples/8918bb-58-964-d00d3l"
+        },
+        {
+          "slug": "8967st-v8-j50",
+          "text": "8967ST/V8/J50 Reine de Naples 8967 Stainless Steel / Blue MOP / Bracelet",
+          "url": "/breguet/reine-de-naples/8967st-v8-j50"
+        },
+        {
+          "slug": "8918br-5t-964-d00d3l",
+          "text": "8918BR/5T/964/D00D3L Reine de Naples 8918 Rose Gold - Diamond / Champagne MOP",
+          "url": "/breguet/reine-de-naples/8918br-5t-964-d00d3l"
+        },
+        {
+          "slug": "8967st-58-j50",
+          "text": "8967ST/58/J50 Reine de Naples 8967 Stainless Steel / Pink MOP / Bracelet",
+          "url": "/breguet/reine-de-naples/8967st-58-j50"
+        },
+        {
+          "slug": "8918ba-58-j20-d000",
+          "text": "8918BA/58/J20/D000 Reine de Naples 8918 Yellow Gold - Diamond / MOP / Bracelet",
+          "url": "/breguet/reine-de-naples/8918ba-58-j20-d000"
+        },
+        {
+          "slug": "8967st589863l",
+          "text": "8967ST589863L Reine de Naples 8967 Stainless Steel / Pink MOP",
+          "url": "/breguet/reine-de-naples/8967st589863l"
+        },
+        {
+          "slug": "8918bb-58-j39-d00d",
+          "text": "8918BB/58/J39/D00D Reine de Naples 8918 White Gold - Diamond / MOP / Bracelet",
+          "url": "/breguet/reine-de-naples/8918bb-58-j39-d00d"
+        },
+        {
+          "slug": "8967st-e8-786-3l",
+          "text": "8967ST/E8/786/3L Reine de Naples 8967 Stainless Steel / Blue MOP",
+          "url": "/breguet/reine-de-naples/8967st-e8-786-3l"
+        }
+      ]
+    },
+    {
+      "name": "Héritage watches20",
+      "slug": "heritage",
+      "references": [
+        {
+          "slug": "8860br-11-rb0",
+          "text": "8860BR/11/RB0 Héritage Moonphase 8860 Rose Gold / Silver / Bracelet",
+          "url": "/breguet/heritage/8860br-11-rb0"
+        },
+        {
+          "slug": "8861br-15-986-d000",
+          "text": "8861BR/15/986/D000 Héritage Moonphase 8861 Rose Gold - Diamond / Silver",
+          "url": "/breguet/heritage/8861br-15-986-d000"
+        },
+        {
+          "slug": "5410bb-12-9vv",
+          "text": "5410BB/12/9VV Héritage Big Date 5410 White Gold / Silver",
+          "url": "/breguet/heritage/5410bb-12-9vv"
+        },
+        {
+          "slug": "5400br-12-9v6",
+          "text": "5400BR/12/9V6 Héritage Chronograph Rose Gold / Silver",
+          "url": "/breguet/heritage/5400br-12-9v6"
+        },
+        {
+          "slug": "5400bb-12-9v6",
+          "text": "5400BB/12/9V6 Héritage Chronograph White Gold / Silver",
+          "url": "/breguet/heritage/5400bb-12-9v6"
+        },
+        {
+          "slug": "5497br-12-9v6",
+          "text": "5497BR/12/9V6 Héritage Tourbillon Rose Gold / Silver",
+          "url": "/breguet/heritage/5497br-12-9v6"
+        },
+        {
+          "slug": "5410br-12-9vv",
+          "text": "5410BR/12/9VV Héritage Big Date 5410 Rose Gold / Silver",
+          "url": "/breguet/heritage/5410br-12-9vv"
+        },
+        {
+          "slug": "8860bb-11-bb0",
+          "text": "8860BB/11/BB0 Héritage Moonphase 8860 White Gold / Silver / Bracelet",
+          "url": "/breguet/heritage/8860bb-11-bb0"
+        },
+        {
+          "slug": "8861br-11-rb0-d000",
+          "text": "8861BR/11/RB0/D000 Héritage Moonphase 8861 Rose Gold - Diamond / Silver / Bracelet",
+          "url": "/breguet/heritage/8861br-11-rb0-d000"
+        },
+        {
+          "slug": "8861bb-11-bb0-d000",
+          "text": "8861BB/11/BB0/D000 Héritage Moonphase 8861 White Gold - Diamond / Silver / Bracelet",
+          "url": "/breguet/heritage/8861bb-11-bb0-d000"
+        },
+        {
+          "slug": "8861br-11-386-d000",
+          "text": "8861BR/11/386/D000 Héritage Moonphase 8861 Rose Gold - Diamond / Silver",
+          "url": "/breguet/heritage/8861br-11-386-d000"
+        },
+        {
+          "slug": "8861bb-15-986-d000",
+          "text": "8861BB/15/986/D000 Héritage Moonphase 8861 White Gold - Diamond / Silver",
+          "url": "/breguet/heritage/8861bb-15-986-d000"
+        },
+        {
+          "slug": "8861bb-11-386-d000",
+          "text": "8861BB/11/386/D000 Héritage Moonphase 8861 White Gold - Diamond / MOP",
+          "url": "/breguet/heritage/8861bb-11-386-d000"
+        },
+        {
+          "slug": "3661br-12-984-dd00",
+          "text": "3661BR/12/984/DD00 Héritage Rose Gold - Diamond / Silver",
+          "url": "/breguet/heritage/3661br-12-984-dd00"
+        },
+        {
+          "slug": "8860bb-11-386",
+          "text": "8860BB/11/386 Héritage Moonphase 8860 White Gold / Silver",
+          "url": "/breguet/heritage/8860bb-11-386"
+        },
+        {
+          "slug": "8860br-11-386",
+          "text": "8860BR/11/386 Héritage Moonphase 8860 Rose Gold / Silver",
+          "url": "/breguet/heritage/8860br-11-386"
+        },
+        {
+          "slug": "5497pt-12-pb0",
+          "text": "5497PT/12/PB0 Héritage Tourbillon Platinum / Silver / Bracelet",
+          "url": "/breguet/heritage/5497pt-12-pb0"
+        },
+        {
+          "slug": "5497pt-12-9v6",
+          "text": "5497PT/12/9V6 Héritage Tourbillon Platinum / Silver",
+          "url": "/breguet/heritage/5497pt-12-9v6"
+        },
+        {
+          "slug": "5497br-12-rb0",
+          "text": "5497BR/12/RB0 Héritage Tourbillon Rose Gold / Silver / Bracelet",
+          "url": "/breguet/heritage/5497br-12-rb0"
+        },
+        {
+          "slug": "3661bb-12-984-dd00",
+          "text": "3661BB/12/984/DD00 Héritage White Gold - Diamond / Silver",
+          "url": "/breguet/heritage/3661bb-12-984-dd00"
+        }
+      ]
+    },
+    {
+      "name": "Pilot watches6",
+      "slug": "pilot",
+      "references": [
+        {
+          "slug": "3800st-92-sw9",
+          "text": "3800ST/92/SW9 Type XX Stainless Steel / Black / Bracelet",
+          "url": "/breguet/pilot/3800st-92-sw9"
+        },
+        {
+          "slug": "3815ti-hm-3zu",
+          "text": "3815TI/HM/3ZU Type XXI 3815 Titanium / Black - Green",
+          "url": "/breguet/pilot/3815ti-hm-3zu"
+        },
+        {
+          "slug": "2057st-92-3wu",
+          "text": "2057ST/92/3WU Type 20 Chronograph",
+          "url": "/breguet/pilot/2057st-92-3wu"
+        },
+        {
+          "slug": "3800st-92-9w6",
+          "text": "3800ST/92/9W6 Type XX Stainless Steel / Black / Alligator",
+          "url": "/breguet/pilot/3800st-92-9w6"
+        },
+        {
+          "slug": "3815ti-ho-3zu",
+          "text": "3815TI/HO/3ZU Type XXI 3815 Titanium / Black - Orange",
+          "url": "/breguet/pilot/3815ti-ho-3zu"
+        },
+        {
+          "slug": "2067st-92-3wu",
+          "text": "2067ST/92/3WU Type XX Chronograph",
+          "url": "/breguet/pilot/2067st-92-3wu"
+        }
+      ]
+    }
+  ],
+  "total_references": 328
+}

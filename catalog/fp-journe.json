@@ -1,0 +1,153 @@
+{
+  "brand_slug": "fp-journe",
+  "collections": [
+    {
+      "name": "Octa watches18",
+      "slug": "octa",
+      "references": [
+        {
+          "slug": "1300-3-qp-42-rg-gr",
+          "text": "1300.3 QP 42 RG GR Octa Quantième Perpétuel 42 Rose Gold / Grey",
+          "url": "/fp-journe/octa/1300-3-qp-42-rg-gr"
+        },
+        {
+          "slug": "1300-3-nol-42-pt-gr",
+          "text": "1300.3 NOL 42 PT GR Octa Lune 42 Platinum / Grey",
+          "url": "/fp-journe/octa/1300-3-nol-42-pt-gr"
+        },
+        {
+          "slug": "1300-3-qp-42-rg-pi",
+          "text": "1300.3 QP 42 RG PI Octa Quantième Perpétuel 42 Rose Gold / Pink",
+          "url": "/fp-journe/octa/1300-3-qp-42-rg-pi"
+        },
+        {
+          "slug": "1300-3-nol-42-rg-gr",
+          "text": "1300.3 NOL 42 RG GR Octa Lune 42 Rose Gold / Grey",
+          "url": "/fp-journe/octa/1300-3-nol-42-rg-gr"
+        },
+        {
+          "slug": "1300-3-qp-42-rg-pi-br",
+          "text": "1300.3 QP 42 RG PI BR Octa Quantième Perpétuel 42 Rose Gold / Pink / Bracelet",
+          "url": "/fp-journe/octa/1300-3-qp-42-rg-pi-br"
+        },
+        {
+          "slug": "1300-3-nod-42-pt",
+          "text": "1300.3 NOD 42 PT Octa Divine 42 Platinum",
+          "url": "/fp-journe/octa/1300-3-nod-42-pt"
+        },
+        {
+          "slug": "1300-3-qp-42-pt-gr",
+          "text": "1300.3 QP 42 PT GR Octa Quantième Perpétuel 42 Platinum / Grey",
+          "url": "/fp-journe/octa/1300-3-qp-42-pt-gr"
+        },
+        {
+          "slug": "1300-3-nol-42-pt-pi-br",
+          "text": "1300.3 NOL 42 PT PI BR Octa Lune 42 Platinum / Pink / Bracelet",
+          "url": "/fp-journe/octa/1300-3-nol-42-pt-pi-br"
+        },
+        {
+          "slug": "1300-3-nol-42-rg-gr-br",
+          "text": "1300.3 NOL 42 RG GR BR Octa Lune 42 Rose Gold / Grey / Bracelet",
+          "url": "/fp-journe/octa/1300-3-nol-42-rg-gr-br"
+        },
+        {
+          "slug": "1300-3-qp-42-pt-gr-br",
+          "text": "1300.3 QP 42 PT GR BR Octa Quantième Perpétuel 42 Platinum / Grey / Bracelet",
+          "url": "/fp-journe/octa/1300-3-qp-42-pt-gr-br"
+        },
+        {
+          "slug": "1300-3-nol-42-pt-gr-br",
+          "text": "1300.3 NOL 42 PT GR BR Octa Lune 42 Platinum / Grey / Bracelet",
+          "url": "/fp-journe/octa/1300-3-nol-42-pt-gr-br"
+        },
+        {
+          "slug": "1300-3-nod-42-rg",
+          "text": "1300.3 NOD 42 RG Octa Divine 42 Rose Gold",
+          "url": "/fp-journe/octa/1300-3-nod-42-rg"
+        },
+        {
+          "slug": "1300-3-nol-42-pt-pi",
+          "text": "1300.3 NOL 42 PT PI Octa Lune 42 Platinum / Pink",
+          "url": "/fp-journe/octa/1300-3-nol-42-pt-pi"
+        },
+        {
+          "slug": "1300-3-nol-42-rg-pi-br",
+          "text": "1300.3 NOL 42 RG PI BR Octa Lune 42 Rose Gold / Pink / Bracelet",
+          "url": "/fp-journe/octa/1300-3-nol-42-rg-pi-br"
+        },
+        {
+          "slug": "1300-3-qp-42-pt-pi-br",
+          "text": "1300.3 QP 42 PT PI BR Octa Quantième Perpétuel 42 Platinum / Pink / Bracelet",
+          "url": "/fp-journe/octa/1300-3-qp-42-pt-pi-br"
+        },
+        {
+          "slug": "1300-3-qp-42-pt-pi",
+          "text": "1300.3 QP 42 PT PI Octa Quantième Perpétuel 42 Platinum / Pink",
+          "url": "/fp-journe/octa/1300-3-qp-42-pt-pi"
+        },
+        {
+          "slug": "1300-3-qp42-rg-gr-br",
+          "text": "1300.3 QP42  RG GR BR Octa Quantième Perpétuel 42 Rose Gold / Grey / Bracelet",
+          "url": "/fp-journe/octa/1300-3-qp42-rg-gr-br"
+        },
+        {
+          "slug": "1300-3-nol-42-rg-pi",
+          "text": "1300.3 NOL 42 RG PI Octa Lune 42 Rose Gold / Pink",
+          "url": "/fp-journe/octa/1300-3-nol-42-rg-pi"
+        }
+      ]
+    },
+    {
+      "name": "Souveraine watches9",
+      "slug": "souveraine",
+      "references": [
+        {
+          "slug": "1499-3-car-40-rg-pi-br",
+          "text": "1499.3 CAR 40 RG PI BR Souveraine Chronomètre à Résonance 40 Red Gold / Pink / Bracelet",
+          "url": "/fp-journe/souveraine/1499-3-car-40-rg-pi-br"
+        },
+        {
+          "slug": "1499-3-car-40-pt-gr",
+          "text": "1499.3 CAR 40 PT GR Souveraine Chronomètre à Résonance 40 Platinum / Grey",
+          "url": "/fp-journe/souveraine/1499-3-car-40-pt-gr"
+        },
+        {
+          "slug": "1304-cs-39-ta-bl",
+          "text": "1304 CS 39 TA BL Souveraine Chronomètre Bleu",
+          "url": "/fp-journe/souveraine/1304-cs-39-ta-bl"
+        },
+        {
+          "slug": "1499-3-car-40-pt-gr-br",
+          "text": "1499.3 CAR 40 PT GR BR Souveraine Chronomètre à Résonance 40 Platinum / Grey / Bracelet",
+          "url": "/fp-journe/souveraine/1499-3-car-40-pt-gr-br"
+        },
+        {
+          "slug": "1499-3-car-40-rg-pi",
+          "text": "1499.3 CAR 40 RG PI Souveraine Chronomètre à Résonance 40 Red Gold / Pink",
+          "url": "/fp-journe/souveraine/1499-3-car-40-rg-pi"
+        },
+        {
+          "slug": "1510-co-42-pt",
+          "text": "1510 CO 42 PT Souveraine Chronomètre Optimum 42 Platinum",
+          "url": "/fp-journe/souveraine/1510-co-42-pt"
+        },
+        {
+          "slug": "1510-co-42-rg",
+          "text": "1510 CO 42 RG Souveraine Chronomètre Optimum 42 Red Gold",
+          "url": "/fp-journe/souveraine/1510-co-42-rg"
+        },
+        {
+          "slug": "1499-3-car-40-pt-pi",
+          "text": "1499.3 CAR 40 PT PI Souveraine Chronomètre à Résonance 40 Platinum / Pink",
+          "url": "/fp-journe/souveraine/1499-3-car-40-pt-pi"
+        },
+        {
+          "slug": "1499-3-car-40-rg-gr",
+          "text": "1499.3 CAR 40 RG GR Souveraine Chronomètre à Résonance 40 Red Gold / Grey",
+          "url": "/fp-journe/souveraine/1499-3-car-40-rg-gr"
+        }
+      ]
+    }
+  ],
+  "total_references": 27
+}

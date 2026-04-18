@@ -1,0 +1,27 @@
+{
+  "brand_slug": "chronotheory-co",
+  "collections": [
+    {
+      "name": "AV-98 watches3",
+      "slug": "av-98",
+      "references": [
+        {
+          "slug": "ctw-027-rose",
+          "text": "CTW-027-Rose AV-98 Timpani Rose",
+          "url": "/chronotheory-co/av-98/ctw-027-rose"
+        },
+        {
+          "slug": "ctw-027-black",
+          "text": "CTW-027-Black AV-98 Piano Forte Black",
+          "url": "/chronotheory-co/av-98/ctw-027-black"
+        },
+        {
+          "slug": "ctw-027-blue",
+          "text": "CTW-027-Blue AV-98 Strato Navy",
+          "url": "/chronotheory-co/av-98/ctw-027-blue"
+        }
+      ]
+    }
+  ],
+  "total_references": 3
+}

@@ -1,0 +1,37 @@
+{
+  "brand_slug": "hermes",
+  "collections": [
+    {
+      "name": "Slim d'Hermès watches5",
+      "slug": "slim-d-hermes",
+      "references": [
+        {
+          "slug": "w043196ww00",
+          "text": "W043196WW00 Slim d'Hermès GM Stainless Steel / Silver",
+          "url": "/hermes/slim-d-hermes/w043196ww00"
+        },
+        {
+          "slug": "w043204ww00",
+          "text": "W043204WW00 Slim d'Hermès GM Stainless Steel / Blue",
+          "url": "/hermes/slim-d-hermes/w043204ww00"
+        },
+        {
+          "slug": "w043203ww00",
+          "text": "W043203WW00 Slim d'Hermès GM Stainless Steel / Graphite",
+          "url": "/hermes/slim-d-hermes/w043203ww00"
+        },
+        {
+          "slug": "w041759ww00",
+          "text": "W041759WW00 Slim d'Hermès GM Stainless Steel / Silver",
+          "url": "/hermes/slim-d-hermes/w041759ww00"
+        },
+        {
+          "slug": "w041762ww00",
+          "text": "W041762WW00 Slim d'Hermès GM Rose Gold / Silver",
+          "url": "/hermes/slim-d-hermes/w041762ww00"
+        }
+      ]
+    }
+  ],
+  "total_references": 5
+}

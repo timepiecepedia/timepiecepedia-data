@@ -1,0 +1,73 @@
+{
+  "brand_slug": "ralph-lauren",
+  "collections": [
+    {
+      "name": "Sporting watches5",
+      "slug": "sporting",
+      "references": [
+        {
+          "slug": "rlr0220706",
+          "text": "RLR0220706 Sporting 45mm Chronometer Steel / Black",
+          "url": "/ralph-lauren/sporting/rlr0220706"
+        },
+        {
+          "slug": "rlr0210000",
+          "text": "RLR0210000 Sporting 45mm World Time Steel / Blue / Bracelet",
+          "url": "/ralph-lauren/sporting/rlr0210000"
+        },
+        {
+          "slug": "rlr0211700",
+          "text": "RLR0211700 Sporting 45mm World Time Rose Gold / Silver",
+          "url": "/ralph-lauren/sporting/rlr0211700"
+        },
+        {
+          "slug": "rlr0250700",
+          "text": "RLR0250700 Sporting 39mm Chronometer Steel / Black",
+          "url": "/ralph-lauren/sporting/rlr0250700"
+        },
+        {
+          "slug": "rlr0210700",
+          "text": "RLR0210700 Sporting 45mm World Time Steel / Blue",
+          "url": "/ralph-lauren/sporting/rlr0210700"
+        }
+      ]
+    },
+    {
+      "name": "Safari watches6",
+      "slug": "safari",
+      "references": [
+        {
+          "slug": "rlr0220900",
+          "text": "RLR0220900 Safari 45mm Chronometer Aged Steel / Black",
+          "url": "/ralph-lauren/safari/rlr0220900"
+        },
+        {
+          "slug": "rlr0220712",
+          "text": "RLR0220712 Safari 45mm Chronometer Aged Steel / Khaki",
+          "url": "/ralph-lauren/safari/rlr0220712"
+        },
+        {
+          "slug": "rlr0250702",
+          "text": "RLR0250702 Safari 39mm Chronometer Aged Steel / Khaki",
+          "url": "/ralph-lauren/safari/rlr0250702"
+        },
+        {
+          "slug": "rlr0220711",
+          "text": "RLR0220711 Safari 45mm Chronometer Aged Steel / Camo",
+          "url": "/ralph-lauren/safari/rlr0220711"
+        },
+        {
+          "slug": "rlr0250900",
+          "text": "RLR0250900 Safari 39mm Chronometer Aged Steel / Black",
+          "url": "/ralph-lauren/safari/rlr0250900"
+        },
+        {
+          "slug": "rlr0250703",
+          "text": "RLR0250703 Safari 39mm Chronometer Aged Steel / Camo",
+          "url": "/ralph-lauren/safari/rlr0250703"
+        }
+      ]
+    }
+  ],
+  "total_references": 11
+}

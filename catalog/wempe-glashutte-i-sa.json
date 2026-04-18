@@ -1,0 +1,77 @@
+{
+  "brand_slug": "wempe-glashutte-i-sa",
+  "collections": [
+    {
+      "name": "Iron Walker watches13",
+      "slug": "iron-walker",
+      "references": [
+        {
+          "slug": "wi000001",
+          "text": "WI000001 Iron Walker Quartz Women Silver",
+          "url": "/wempe-glashutte-i-sa/iron-walker/wi000001"
+        },
+        {
+          "slug": "wi000006",
+          "text": "WI000006 Iron Walker Quartz Men Blue",
+          "url": "/wempe-glashutte-i-sa/iron-walker/wi000006"
+        },
+        {
+          "slug": "wi000004",
+          "text": "WI000004 Iron Walker Quartz Men Silver",
+          "url": "/wempe-glashutte-i-sa/iron-walker/wi000004"
+        },
+        {
+          "slug": "wi300001",
+          "text": "WI300001 Iron Walker Automatic Chronograph Black",
+          "url": "/wempe-glashutte-i-sa/iron-walker/wi300001"
+        },
+        {
+          "slug": "wi200002",
+          "text": "WI200002 Iron Walker Automatic Diver Blue",
+          "url": "/wempe-glashutte-i-sa/iron-walker/wi200002"
+        },
+        {
+          "slug": "wi000005",
+          "text": "WI000005 Iron Walker Quartz Men Black",
+          "url": "/wempe-glashutte-i-sa/iron-walker/wi000005"
+        },
+        {
+          "slug": "wi000002",
+          "text": "WI000002 Iron Walker Quartz Women Black",
+          "url": "/wempe-glashutte-i-sa/iron-walker/wi000002"
+        },
+        {
+          "slug": "wi300002",
+          "text": "WI300002 Iron Walker Automatic Chronograph Blue",
+          "url": "/wempe-glashutte-i-sa/iron-walker/wi300002"
+        },
+        {
+          "slug": "wi200001",
+          "text": "WI200001 Iron Walker Automatic Diver Black",
+          "url": "/wempe-glashutte-i-sa/iron-walker/wi200001"
+        },
+        {
+          "slug": "wi000003",
+          "text": "WI000003 Iron Walker Quartz Women Blue",
+          "url": "/wempe-glashutte-i-sa/iron-walker/wi000003"
+        },
+        {
+          "slug": "wi100006",
+          "text": "WI100006 Iron Walker Automatic Men Blue",
+          "url": "/wempe-glashutte-i-sa/iron-walker/wi100006"
+        },
+        {
+          "slug": "wi100005",
+          "text": "WI100005 Iron Walker Automatic Men Black",
+          "url": "/wempe-glashutte-i-sa/iron-walker/wi100005"
+        },
+        {
+          "slug": "wi100004",
+          "text": "WI100004 Iron Walker Automatic Men Silver",
+          "url": "/wempe-glashutte-i-sa/iron-walker/wi100004"
+        }
+      ]
+    }
+  ],
+  "total_references": 13
+}

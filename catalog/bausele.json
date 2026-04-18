@@ -1,0 +1,103 @@
+{
+  "brand_slug": "bausele",
+  "collections": [
+    {
+      "name": "Diver watches13",
+      "slug": "diver",
+      "references": [
+        {
+          "slug": "aomvssr1gr1",
+          "text": "AOMVSSR1GR1 Oceanmoon IV Emerald Green",
+          "url": "/bausele/diver/aomvssr1gr1"
+        },
+        {
+          "slug": "b34ssr1bl2",
+          "text": "B34SSR1BL2 Liqui Moly GMT",
+          "url": "/bausele/diver/b34ssr1bl2"
+        },
+        {
+          "slug": "besssm1wh1",
+          "text": "BESSSM1WH1 Endless Sunrise Ivory Pearl",
+          "url": "/bausele/diver/besssm1wh1"
+        },
+        {
+          "slug": "besssm1or1",
+          "text": "BESSSM1OR1 Endless Sunrise Tangerine Sun",
+          "url": "/bausele/diver/besssm1or1"
+        },
+        {
+          "slug": "aomvssr1pb1",
+          "text": "AOMVSSR1PB1 Oceanmoon IV Pacific Blue",
+          "url": "/bausele/diver/aomvssr1pb1"
+        },
+        {
+          "slug": "aomvssr1bl1",
+          "text": "AOMVSSR1BL1 Oceanmoon IV Orca Black",
+          "url": "/bausele/diver/aomvssr1bl1"
+        },
+        {
+          "slug": "aomvssr1wh1",
+          "text": "AOMVSSR1WH1 Oceanmoon IV Algae Court",
+          "url": "/bausele/diver/aomvssr1wh1"
+        },
+        {
+          "slug": "besssm1bu1",
+          "text": "BESSSM1BU1 Endless Sunrise Alcyone Blue",
+          "url": "/bausele/diver/besssm1bu1"
+        },
+        {
+          "slug": "besssm1ye1",
+          "text": "BESSSM1YE1 Endless Sunrise Good Vibes Yellow",
+          "url": "/bausele/diver/besssm1ye1"
+        },
+        {
+          "slug": "b34blr1bl1",
+          "text": "B34BLR1BL1 Sydney Diver Tasman Black",
+          "url": "/bausele/diver/b34blr1bl1"
+        },
+        {
+          "slug": "b34blr1be1",
+          "text": "B34BLR1BE1 Sydney Diver Sand",
+          "url": "/bausele/diver/b34blr1be1"
+        },
+        {
+          "slug": "b34blr1bl2",
+          "text": "B34BLR1BL2 Sydney Diver Black Pearl",
+          "url": "/bausele/diver/b34blr1bl2"
+        },
+        {
+          "slug": "araafblr1bu1",
+          "text": "ARAAFBLR1BU1 Oceanmoon IV RAAF 5th Generation",
+          "url": "/bausele/diver/araafblr1bu1"
+        }
+      ]
+    },
+    {
+      "name": "Field Watch watches4",
+      "slug": "field-watch",
+      "references": [
+        {
+          "slug": "b31sbn1bl1",
+          "text": "B31SBN1BL1 Classic Field Onyx Black",
+          "url": "/bausele/field-watch/b31sbn1bl1"
+        },
+        {
+          "slug": "b31sbn4re1",
+          "text": "B31SBN4RE1 Classic Field Jean Jacques Machado",
+          "url": "/bausele/field-watch/b31sbn4re1"
+        },
+        {
+          "slug": "b31sbn2be1",
+          "text": "B31SBN2BE1 Classic Field Desert Sand",
+          "url": "/bausele/field-watch/b31sbn2be1"
+        },
+        {
+          "slug": "b31sbn3wh1",
+          "text": "B31SBN3WH1 Classic Field Sabot Foundation",
+          "url": "/bausele/field-watch/b31sbn3wh1"
+        }
+      ]
+    }
+  ],
+  "total_references": 17
+}

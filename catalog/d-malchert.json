@@ -1,0 +1,17 @@
+{
+  "brand_slug": "d-malchert",
+  "collections": [
+    {
+      "name": "Schlossberg watches1",
+      "slug": "schlossberg",
+      "references": [
+        {
+          "slug": "us1",
+          "text": "US1 Uhr Schlossberg",
+          "url": "/d-malchert/schlossberg/us1"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

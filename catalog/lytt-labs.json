@@ -1,0 +1,27 @@
+{
+  "brand_slug": "lytt-labs",
+  "collections": [
+    {
+      "name": "Inception Prodigy watches3",
+      "slug": "inception-prodigy",
+      "references": [
+        {
+          "slug": "p03-03",
+          "text": "P03-03 Inception Prodigy Rose Gold / Champagne",
+          "url": "/lytt-labs/inception-prodigy/p03-03"
+        },
+        {
+          "slug": "p03-01",
+          "text": "P03-01 Inception Prodigy Stainless Steel / Silver",
+          "url": "/lytt-labs/inception-prodigy/p03-01"
+        },
+        {
+          "slug": "p03-02",
+          "text": "P03-02 Inception Prodigy Gunmetal / Black",
+          "url": "/lytt-labs/inception-prodigy/p03-02"
+        }
+      ]
+    }
+  ],
+  "total_references": 3
+}

@@ -1,0 +1,42 @@
+{
+  "brand_slug": "l-jr",
+  "collections": [
+    {
+      "name": "Step One watches6",
+      "slug": "step-one",
+      "references": [
+        {
+          "slug": "s1302",
+          "text": "S1302 Step One Day & Date Stainless Steel / Black",
+          "url": "/l-jr/step-one/s1302"
+        },
+        {
+          "slug": "s1303",
+          "text": "S1303 Step One Day & Date Stainless Steel / Grey",
+          "url": "/l-jr/step-one/s1303"
+        },
+        {
+          "slug": "s1301",
+          "text": "S1301 Step One Day & Date Stainless Steel / PVD / Silver",
+          "url": "/l-jr/step-one/s1301"
+        },
+        {
+          "slug": "s1501",
+          "text": "S1501 Step One Chronograph Stainless Steel / PVD / Silver",
+          "url": "/l-jr/step-one/s1501"
+        },
+        {
+          "slug": "s1503",
+          "text": "S1503 Step One Chronograph Stainless Steel / Grey",
+          "url": "/l-jr/step-one/s1503"
+        },
+        {
+          "slug": "s1502",
+          "text": "S1502 Step One Chronograph Stainless Steel / Black",
+          "url": "/l-jr/step-one/s1502"
+        }
+      ]
+    }
+  ],
+  "total_references": 6
+}

@@ -1,0 +1,2939 @@
+{
+  "brand_slug": "nomos-glashutte",
+  "collections": [
+    {
+      "name": "Tangente watches159",
+      "slug": "tangente",
+      "references": [
+        {
+          "slug": "181",
+          "text": "181 Tangente Neomatik 41 Update Ruthenium",
+          "url": "/nomos-glashutte/tangente/181"
+        },
+        {
+          "slug": "501-win",
+          "text": "501.WIN Tangente Sport Wing Korinbo",
+          "url": "/nomos-glashutte/tangente/501-win"
+        },
+        {
+          "slug": "164-s10",
+          "text": "164.S10 Tangente 38 Red Dot Salmon",
+          "url": "/nomos-glashutte/tangente/164-s10"
+        },
+        {
+          "slug": "166",
+          "text": "166 Tangente 38 Midnight Blue",
+          "url": "/nomos-glashutte/tangente/166"
+        },
+        {
+          "slug": "136",
+          "text": "136 Tangente 2date Blue / Open Case Back",
+          "url": "/nomos-glashutte/tangente/136"
+        },
+        {
+          "slug": "101-s18",
+          "text": "101.S18 Tangente Glück Auf",
+          "url": "/nomos-glashutte/tangente/101-s18"
+        },
+        {
+          "slug": "164-s18",
+          "text": "164.S18 Tangente 38 Le Page",
+          "url": "/nomos-glashutte/tangente/164-s18"
+        },
+        {
+          "slug": "179-s12",
+          "text": "179.S12 Tangente 38 Datum Flamingopink",
+          "url": "/nomos-glashutte/tangente/179-s12"
+        },
+        {
+          "slug": "192-sb",
+          "text": "192.SB Tangente Neomatik Doré / Closed Case Back",
+          "url": "/nomos-glashutte/tangente/192-sb"
+        },
+        {
+          "slug": "122-s2",
+          "text": "122.S2 Tangente 33 A Century of Bauhaus Yellow",
+          "url": "/nomos-glashutte/tangente/122-s2"
+        },
+        {
+          "slug": "167",
+          "text": "167 Tangente 38 Midnight Blue See-Through",
+          "url": "/nomos-glashutte/tangente/167"
+        },
+        {
+          "slug": "123",
+          "text": "123 Tangente 33",
+          "url": "/nomos-glashutte/tangente/123"
+        },
+        {
+          "slug": "145",
+          "text": "145 Tangente Neomatik 39 Blue Gold / Closed Back",
+          "url": "/nomos-glashutte/tangente/145"
+        },
+        {
+          "slug": "191",
+          "text": "191 Tangente Neomatik Blue Gold / Closed Back",
+          "url": "/nomos-glashutte/tangente/191"
+        },
+        {
+          "slug": "135",
+          "text": "135 Tangente 2date / Open Case Back",
+          "url": "/nomos-glashutte/tangente/135"
+        },
+        {
+          "slug": "136-sb",
+          "text": "136.SB Tangente 2date Blue / Closed Case Back",
+          "url": "/nomos-glashutte/tangente/136-sb"
+        },
+        {
+          "slug": "189",
+          "text": "189 Tangente Neomatik Platinum Gray / Open",
+          "url": "/nomos-glashutte/tangente/189"
+        },
+        {
+          "slug": "107",
+          "text": "107 Tangente Datum",
+          "url": "/nomos-glashutte/tangente/107"
+        },
+        {
+          "slug": "179-s2",
+          "text": "179.S2 Tangente 38 Datum Love",
+          "url": "/nomos-glashutte/tangente/179-s2"
+        },
+        {
+          "slug": "139-s8",
+          "text": "139.S8 Tangente 38 Doctors Without Borders UK",
+          "url": "/nomos-glashutte/tangente/139-s8"
+        },
+        {
+          "slug": "101-s14",
+          "text": "101.S14 Tangente 35 A Century of Bauhaus Blue",
+          "url": "/nomos-glashutte/tangente/101-s14"
+        },
+        {
+          "slug": "139-s18",
+          "text": "139.S18 Tangente 35 Four Seasons Fall / Akane",
+          "url": "/nomos-glashutte/tangente/139-s18"
+        },
+        {
+          "slug": "179-s14",
+          "text": "179.S14 Tangente 38 Datum Rambazamba",
+          "url": "/nomos-glashutte/tangente/179-s14"
+        },
+        {
+          "slug": "164-s11",
+          "text": "164.S11 Tangente 38 Red Dot Blue",
+          "url": "/nomos-glashutte/tangente/164-s11"
+        },
+        {
+          "slug": "123-s8",
+          "text": "123.S8 Tangente 33 120 Jahre Depperich",
+          "url": "/nomos-glashutte/tangente/123-s8"
+        },
+        {
+          "slug": "179-s13",
+          "text": "179.S13 Tangente 38 Datum Poporange",
+          "url": "/nomos-glashutte/tangente/179-s13"
+        },
+        {
+          "slug": "179-s17",
+          "text": "179.S17 Tangente 38 Datum Boje",
+          "url": "/nomos-glashutte/tangente/179-s17"
+        },
+        {
+          "slug": "179-s23",
+          "text": "179.S23 Tangente 38 Datum Frostblau",
+          "url": "/nomos-glashutte/tangente/179-s23"
+        },
+        {
+          "slug": "179-s30",
+          "text": "179.S30 Tangente 38 Datum Chili",
+          "url": "/nomos-glashutte/tangente/179-s30"
+        },
+        {
+          "slug": "139",
+          "text": "139 Tangente",
+          "url": "/nomos-glashutte/tangente/139"
+        },
+        {
+          "slug": "180-s1",
+          "text": "180.S1 Tangente Neomatik 41 Update 115 Jahre Rüschenbeck",
+          "url": "/nomos-glashutte/tangente/180-s1"
+        },
+        {
+          "slug": "581",
+          "text": "581 Tangente Sport neomatik 42 date marine black",
+          "url": "/nomos-glashutte/tangente/581"
+        },
+        {
+          "slug": "140-s3",
+          "text": "140.S3 Tangente Neomatik 39 Red Dot 2019 Commemorative Edition Salmon",
+          "url": "/nomos-glashutte/tangente/140-s3"
+        },
+        {
+          "slug": "179-s8",
+          "text": "179.S8 Tangente 38 Datum Katzengold",
+          "url": "/nomos-glashutte/tangente/179-s8"
+        },
+        {
+          "slug": "179-s21",
+          "text": "179.S21 Tangente 38 Datum Pastell",
+          "url": "/nomos-glashutte/tangente/179-s21"
+        },
+        {
+          "slug": "506",
+          "text": "506 Tangente Sport Index",
+          "url": "/nomos-glashutte/tangente/506"
+        },
+        {
+          "slug": "123-s9",
+          "text": "123.S9 Tangente 33 70 Jahre Grundgesetz",
+          "url": "/nomos-glashutte/tangente/123-s9"
+        },
+        {
+          "slug": "502",
+          "text": "502 Tangente Sport Datum",
+          "url": "/nomos-glashutte/tangente/502"
+        },
+        {
+          "slug": "132",
+          "text": "132 Tangente Midnight Blue",
+          "url": "/nomos-glashutte/tangente/132"
+        },
+        {
+          "slug": "101-lange",
+          "text": "101-Lange Tangente Lange Dial",
+          "url": "/nomos-glashutte/tangente/101-lange"
+        },
+        {
+          "slug": "180-s3",
+          "text": "180.S3 Tangente Neomatik 41 Update Wempe Signature Collection",
+          "url": "/nomos-glashutte/tangente/180-s3"
+        },
+        {
+          "slug": "179-s28",
+          "text": "179.S28 Tangente 38 Datum Sportbunt",
+          "url": "/nomos-glashutte/tangente/179-s28"
+        },
+        {
+          "slug": "125",
+          "text": "125 Tangente 33 Grau Glasboden",
+          "url": "/nomos-glashutte/tangente/125"
+        },
+        {
+          "slug": "130",
+          "text": "130 Tangente 38 Datum",
+          "url": "/nomos-glashutte/tangente/130"
+        },
+        {
+          "slug": "173",
+          "text": "173 Tangente Gangreserve Anthrazit",
+          "url": "/nomos-glashutte/tangente/173"
+        },
+        {
+          "slug": "129",
+          "text": "129 Tangente Norma",
+          "url": "/nomos-glashutte/tangente/129"
+        },
+        {
+          "slug": "115",
+          "text": "115 Tangente Gold Datum",
+          "url": "/nomos-glashutte/tangente/115"
+        },
+        {
+          "slug": "110",
+          "text": "110 Tangente Gold mocca",
+          "url": "/nomos-glashutte/tangente/110"
+        },
+        {
+          "slug": "139-to",
+          "text": "139.TO Tangente Taiwan Ocean",
+          "url": "/nomos-glashutte/tangente/139-to"
+        },
+        {
+          "slug": "165",
+          "text": "165 Tangente 38",
+          "url": "/nomos-glashutte/tangente/165"
+        },
+        {
+          "slug": "101-s15",
+          "text": "101.S15 Tangente 35 A Century of Bauhaus Yellow",
+          "url": "/nomos-glashutte/tangente/101-s15"
+        },
+        {
+          "slug": "139-s17",
+          "text": "139.S17 Tangente 70 Jahre Grundgesetz",
+          "url": "/nomos-glashutte/tangente/139-s17"
+        },
+        {
+          "slug": "164-s13",
+          "text": "164.S13 Tangente 38 Four Seasons Summer / Ai",
+          "url": "/nomos-glashutte/tangente/164-s13"
+        },
+        {
+          "slug": "501-jpw",
+          "text": "501.JPW Tangente Sport Japan Limited Silver",
+          "url": "/nomos-glashutte/tangente/501-jpw"
+        },
+        {
+          "slug": "143",
+          "text": "143 Tangente Neomatik 39 Platinum Gray / Closed",
+          "url": "/nomos-glashutte/tangente/143"
+        },
+        {
+          "slug": "121",
+          "text": "121 Tangente 35 Platin",
+          "url": "/nomos-glashutte/tangente/121"
+        },
+        {
+          "slug": "179-s4",
+          "text": "179.S4 Tangente 38 Datum Go",
+          "url": "/nomos-glashutte/tangente/179-s4"
+        },
+        {
+          "slug": "179-s19",
+          "text": "179.S19 Tangente 38 Datum Tiefseegrau",
+          "url": "/nomos-glashutte/tangente/179-s19"
+        },
+        {
+          "slug": "179-s24",
+          "text": "179.S24 Tangente 38 Datum Schneesturm",
+          "url": "/nomos-glashutte/tangente/179-s24"
+        },
+        {
+          "slug": "179-s25",
+          "text": "179.S25 Tangente 38 Datum Ariel",
+          "url": "/nomos-glashutte/tangente/179-s25"
+        },
+        {
+          "slug": "192",
+          "text": "192 Tangente Neomatik Doré / Open Case Back",
+          "url": "/nomos-glashutte/tangente/192"
+        },
+        {
+          "slug": "122",
+          "text": "122 Tangente 33",
+          "url": "/nomos-glashutte/tangente/122"
+        },
+        {
+          "slug": "172",
+          "text": "172 Tangente Gangreserve",
+          "url": "/nomos-glashutte/tangente/172"
+        },
+        {
+          "slug": "169",
+          "text": "169 Tangente Datum Gangreserve",
+          "url": "/nomos-glashutte/tangente/169"
+        },
+        {
+          "slug": "531",
+          "text": "531 Tangente Sport Datum",
+          "url": "/nomos-glashutte/tangente/531"
+        },
+        {
+          "slug": "101-s7",
+          "text": "101.S7 Tangente Erika",
+          "url": "/nomos-glashutte/tangente/101-s7"
+        },
+        {
+          "slug": "139-ts",
+          "text": "139.TS Tangente Taiwan Sky",
+          "url": "/nomos-glashutte/tangente/139-ts"
+        },
+        {
+          "slug": "151",
+          "text": "151 Tangente 33 Champagner Glasboden",
+          "url": "/nomos-glashutte/tangente/151"
+        },
+        {
+          "slug": "165-s4",
+          "text": "165.S4 Tangente 38 A Century of Bauhaus Red",
+          "url": "/nomos-glashutte/tangente/165-s4"
+        },
+        {
+          "slug": "139-s20",
+          "text": "139.S20 Tangente 35 Four Seasons Spring / Enju",
+          "url": "/nomos-glashutte/tangente/139-s20"
+        },
+        {
+          "slug": "123-s11",
+          "text": "123.S11 Tangente 33 Four Seasons Spring / Enju",
+          "url": "/nomos-glashutte/tangente/123-s11"
+        },
+        {
+          "slug": "140-s4",
+          "text": "140.S4 Tangente Neomatik 39 Red Dot 2019 Commemorative Edition Silver",
+          "url": "/nomos-glashutte/tangente/140-s4"
+        },
+        {
+          "slug": "140-s5",
+          "text": "140.S5 Tangente Neomatik 39 Red Dot 2019 Commemorative Edition Ruthenium",
+          "url": "/nomos-glashutte/tangente/140-s5"
+        },
+        {
+          "slug": "179-s1",
+          "text": "179.S1 Tangente 38 Datum Zirkus",
+          "url": "/nomos-glashutte/tangente/179-s1"
+        },
+        {
+          "slug": "179-s6",
+          "text": "179.S6 Tangente 38 Datum Kanari",
+          "url": "/nomos-glashutte/tangente/179-s6"
+        },
+        {
+          "slug": "179-s7",
+          "text": "179.S7 Tangente 38 Datum Bubblegum",
+          "url": "/nomos-glashutte/tangente/179-s7"
+        },
+        {
+          "slug": "179-s11",
+          "text": "179.S11 Tangente 38 Datum Schulhausweiß",
+          "url": "/nomos-glashutte/tangente/179-s11"
+        },
+        {
+          "slug": "135-sb",
+          "text": "135.SB Tangente 2date / Closed Case Back",
+          "url": "/nomos-glashutte/tangente/135-sb"
+        },
+        {
+          "slug": "164",
+          "text": "164 Tangente 38",
+          "url": "/nomos-glashutte/tangente/164"
+        },
+        {
+          "slug": "138",
+          "text": "138 Tangente 38 Datum",
+          "url": "/nomos-glashutte/tangente/138"
+        },
+        {
+          "slug": "178",
+          "text": "178 Tangente Ruthenium",
+          "url": "/nomos-glashutte/tangente/178"
+        },
+        {
+          "slug": "175",
+          "text": "175 Tangente Neomatik",
+          "url": "/nomos-glashutte/tangente/175"
+        },
+        {
+          "slug": "177",
+          "text": "177 Tangente Neomatik Nachtblau",
+          "url": "/nomos-glashutte/tangente/177"
+        },
+        {
+          "slug": "118",
+          "text": "118 Tangente Gold",
+          "url": "/nomos-glashutte/tangente/118"
+        },
+        {
+          "slug": "116",
+          "text": "116 Tangente Gold Gangreserve Datum",
+          "url": "/nomos-glashutte/tangente/116"
+        },
+        {
+          "slug": "533",
+          "text": "533 Tangente Sport Index Datum Glasboden",
+          "url": "/nomos-glashutte/tangente/533"
+        },
+        {
+          "slug": "124",
+          "text": "124 Tangente 33 Grau",
+          "url": "/nomos-glashutte/tangente/124"
+        },
+        {
+          "slug": "171",
+          "text": "171 Tangente Automatik / Neomatik 1st Edition",
+          "url": "/nomos-glashutte/tangente/171"
+        },
+        {
+          "slug": "139-um",
+          "text": "139.UM Tangente Chronometer 20 Jahre Uhren Magazin",
+          "url": "/nomos-glashutte/tangente/139-um"
+        },
+        {
+          "slug": "164-dis20",
+          "text": "164.DIS20 Tangente 38 Dresden International School 20",
+          "url": "/nomos-glashutte/tangente/164-dis20"
+        },
+        {
+          "slug": "174",
+          "text": "174 Tangente Neomatik Champagner 1st Edition",
+          "url": "/nomos-glashutte/tangente/174"
+        },
+        {
+          "slug": "140",
+          "text": "140 Tangente Neomatik 39",
+          "url": "/nomos-glashutte/tangente/140"
+        },
+        {
+          "slug": "142",
+          "text": "142 Tangente Neomatik 39 Nachtblau",
+          "url": "/nomos-glashutte/tangente/142"
+        },
+        {
+          "slug": "165-s3",
+          "text": "165.S3 Tangente 38 A Century of Bauhaus Yellow",
+          "url": "/nomos-glashutte/tangente/165-s3"
+        },
+        {
+          "slug": "139-s19",
+          "text": "139.S19 Tangente 35 Four Seasons Winter / Yakusugi",
+          "url": "/nomos-glashutte/tangente/139-s19"
+        },
+        {
+          "slug": "140-s6",
+          "text": "140.S6 Tangente Neomatik 39 Red Dot 2019 Commemorative Edition Blue",
+          "url": "/nomos-glashutte/tangente/140-s6"
+        },
+        {
+          "slug": "133",
+          "text": "133 Tangente Midnight Blue See-Through",
+          "url": "/nomos-glashutte/tangente/133"
+        },
+        {
+          "slug": "164-s16",
+          "text": "164.S16 Tangente 38 Amsterdam",
+          "url": "/nomos-glashutte/tangente/164-s16"
+        },
+        {
+          "slug": "182",
+          "text": "182 Tangente Neomatik 41 Update Midnight Blue",
+          "url": "/nomos-glashutte/tangente/182"
+        },
+        {
+          "slug": "501-jpb",
+          "text": "501.JPB Tangente Sport Japan Limited Black",
+          "url": "/nomos-glashutte/tangente/501-jpb"
+        },
+        {
+          "slug": "139-s52",
+          "text": "139.S52 Tangente 35 Le Page",
+          "url": "/nomos-glashutte/tangente/139-s52"
+        },
+        {
+          "slug": "144",
+          "text": "144 Tangente Neomatik 39 Platinum Gray / Open",
+          "url": "/nomos-glashutte/tangente/144"
+        },
+        {
+          "slug": "138-s8",
+          "text": "138.S8 Tangente 38 120 Jahre Depperich",
+          "url": "/nomos-glashutte/tangente/138-s8"
+        },
+        {
+          "slug": "165-s50",
+          "text": "165.S50 Tangente 38 50  50 Ans de Médecins Sans Frontières",
+          "url": "/nomos-glashutte/tangente/165-s50"
+        },
+        {
+          "slug": "101-s19",
+          "text": "101.S19 Tangente Liebreiz",
+          "url": "/nomos-glashutte/tangente/101-s19"
+        },
+        {
+          "slug": "139-s51",
+          "text": "139.S51 Tangente Liebreiz / Open Case Back",
+          "url": "/nomos-glashutte/tangente/139-s51"
+        },
+        {
+          "slug": "146",
+          "text": "146 Tangente Neomatik 39 Blue Gold / Open Back",
+          "url": "/nomos-glashutte/tangente/146"
+        },
+        {
+          "slug": "179-s3",
+          "text": "179.S3 Tangente 38 Datum Stop",
+          "url": "/nomos-glashutte/tangente/179-s3"
+        },
+        {
+          "slug": "179-s5",
+          "text": "179.S5 Tangente 38 Datum Peace",
+          "url": "/nomos-glashutte/tangente/179-s5"
+        },
+        {
+          "slug": "179-s9",
+          "text": "179.S9 Tangente 38 Datum Mauvegrün",
+          "url": "/nomos-glashutte/tangente/179-s9"
+        },
+        {
+          "slug": "179-s15",
+          "text": "179.S15 Tangente 38 Datum Pompadour",
+          "url": "/nomos-glashutte/tangente/179-s15"
+        },
+        {
+          "slug": "179-s16",
+          "text": "179.S16 Tangente 38 Datum Super Sardine",
+          "url": "/nomos-glashutte/tangente/179-s16"
+        },
+        {
+          "slug": "179-s22",
+          "text": "179.S22 Tangente 38 Datum Delfin",
+          "url": "/nomos-glashutte/tangente/179-s22"
+        },
+        {
+          "slug": "179-s26",
+          "text": "179.S26 Tangente 38 Datum Schlossgrün",
+          "url": "/nomos-glashutte/tangente/179-s26"
+        },
+        {
+          "slug": "179-s27",
+          "text": "179.S27 Tangente 38 Datum Ziegelblau",
+          "url": "/nomos-glashutte/tangente/179-s27"
+        },
+        {
+          "slug": "179-s29",
+          "text": "179.S29 Tangente 38 Datum Dunkelbunt",
+          "url": "/nomos-glashutte/tangente/179-s29"
+        },
+        {
+          "slug": "179-s31",
+          "text": "179.S31 Tangente 38 Datum Nachtgesang",
+          "url": "/nomos-glashutte/tangente/179-s31"
+        },
+        {
+          "slug": "126",
+          "text": "126 Tangente 33 Karat",
+          "url": "/nomos-glashutte/tangente/126"
+        },
+        {
+          "slug": "131",
+          "text": "131 Tangente Datum Gangreserve",
+          "url": "/nomos-glashutte/tangente/131"
+        },
+        {
+          "slug": "164-s2",
+          "text": "164.S2 Tangente 38 Doctors Without Borders US",
+          "url": "/nomos-glashutte/tangente/164-s2"
+        },
+        {
+          "slug": "123-s4",
+          "text": "123.S4 Tangente 33 Doctors Without Borders UK",
+          "url": "/nomos-glashutte/tangente/123-s4"
+        },
+        {
+          "slug": "179",
+          "text": "179 Tangente Ruthenium Datum",
+          "url": "/nomos-glashutte/tangente/179"
+        },
+        {
+          "slug": "501",
+          "text": "501 Tangente Sport",
+          "url": "/nomos-glashutte/tangente/501"
+        },
+        {
+          "slug": "117",
+          "text": "117 Tangente Gold Gangreserve",
+          "url": "/nomos-glashutte/tangente/117"
+        },
+        {
+          "slug": "532",
+          "text": "532 Tangente Sport Index Glasboden",
+          "url": "/nomos-glashutte/tangente/532"
+        },
+        {
+          "slug": "101-s5",
+          "text": "101.S5 Tangente Emma",
+          "url": "/nomos-glashutte/tangente/101-s5"
+        },
+        {
+          "slug": "101-s6",
+          "text": "101.S6 Tangente Elfie",
+          "url": "/nomos-glashutte/tangente/101-s6"
+        },
+        {
+          "slug": "141",
+          "text": "141 Tangente Neomatik 39 Silvercut",
+          "url": "/nomos-glashutte/tangente/141"
+        },
+        {
+          "slug": "150",
+          "text": "150 Tangente 33 Champagner",
+          "url": "/nomos-glashutte/tangente/150"
+        },
+        {
+          "slug": "180",
+          "text": "180 Tangente Neomatik 41 Update",
+          "url": "/nomos-glashutte/tangente/180"
+        },
+        {
+          "slug": "122-s1",
+          "text": "122.S1 Tangente 33 A Century of Bauhaus Blue",
+          "url": "/nomos-glashutte/tangente/122-s1"
+        },
+        {
+          "slug": "122-s3",
+          "text": "122.S3 Tangente 33 A Century of Bauhaus Red",
+          "url": "/nomos-glashutte/tangente/122-s3"
+        },
+        {
+          "slug": "165-s2",
+          "text": "165.S2 Tangente 38 A Century of Bauhaus Blue",
+          "url": "/nomos-glashutte/tangente/165-s2"
+        },
+        {
+          "slug": "175-s2",
+          "text": "175.S2 Tangente Neomatik Ärzte ohne Grenzen",
+          "url": "/nomos-glashutte/tangente/175-s2"
+        },
+        {
+          "slug": "140-s2",
+          "text": "140.S2 Tangente Neomatik 39 Ärzte ohne Grenzen",
+          "url": "/nomos-glashutte/tangente/140-s2"
+        },
+        {
+          "slug": "580",
+          "text": "580 Tangente Sport neomatik 42 date white",
+          "url": "/nomos-glashutte/tangente/580"
+        },
+        {
+          "slug": "120",
+          "text": "120 Tangente 33 Duo",
+          "url": "/nomos-glashutte/tangente/120"
+        },
+        {
+          "slug": "123-s10",
+          "text": "123.S10 Tangente 33 Four Seasons Fall / Akane",
+          "url": "/nomos-glashutte/tangente/123-s10"
+        },
+        {
+          "slug": "188",
+          "text": "188 Tangente Neomatik Platinum Gray / Closed",
+          "url": "/nomos-glashutte/tangente/188"
+        },
+        {
+          "slug": "190",
+          "text": "190 Tangente Neomatik Blue Gold / Closed Back",
+          "url": "/nomos-glashutte/tangente/190"
+        },
+        {
+          "slug": "179-s10",
+          "text": "179.S10 Tangente 38 Datum Lemonbiscuit",
+          "url": "/nomos-glashutte/tangente/179-s10"
+        },
+        {
+          "slug": "179-s18",
+          "text": "179.S18 Tangente 38 Datum Lakritze",
+          "url": "/nomos-glashutte/tangente/179-s18"
+        },
+        {
+          "slug": "164-s1",
+          "text": "164.S1 Tangente 38 Ärzte ohne Grenzen",
+          "url": "/nomos-glashutte/tangente/164-s1"
+        },
+        {
+          "slug": "507",
+          "text": "507 Tangente Sport Index Datum",
+          "url": "/nomos-glashutte/tangente/507"
+        },
+        {
+          "slug": "501-s6",
+          "text": "501.S6 Tangente Sport Hodinkee",
+          "url": "/nomos-glashutte/tangente/501-s6"
+        },
+        {
+          "slug": "139-s50",
+          "text": "139.S50 Tangente 35 Antoine de Macedo Saint-Germain Paris",
+          "url": "/nomos-glashutte/tangente/139-s50"
+        },
+        {
+          "slug": "101-s17",
+          "text": "101.S17 Tangente Loki Schmidt",
+          "url": "/nomos-glashutte/tangente/101-s17"
+        },
+        {
+          "slug": "164-s19",
+          "text": "164.S19 Tangente 38 Blome Uhren",
+          "url": "/nomos-glashutte/tangente/164-s19"
+        },
+        {
+          "slug": "514",
+          "text": "514 Tangente Gold Datum Anthrazit",
+          "url": "/nomos-glashutte/tangente/514"
+        },
+        {
+          "slug": "160-s2",
+          "text": "160.S2 Tangente Neomatik Rose Gold / Japan",
+          "url": "/nomos-glashutte/tangente/160-s2"
+        },
+        {
+          "slug": "179-s20",
+          "text": "179.S20 Tangente 38 Datum Haifischgrau",
+          "url": "/nomos-glashutte/tangente/179-s20"
+        },
+        {
+          "slug": "164-s8",
+          "text": "164.S8 Tangente 38 120 Jahre Depperich",
+          "url": "/nomos-glashutte/tangente/164-s8"
+        },
+        {
+          "slug": "101",
+          "text": "101 Tangente",
+          "url": "/nomos-glashutte/tangente/101"
+        },
+        {
+          "slug": "176",
+          "text": "176 Tangente Neomatik Champagner",
+          "url": "/nomos-glashutte/tangente/176"
+        },
+        {
+          "slug": "101-s16",
+          "text": "101.S16 Tangente 35 A Century of Bauhaus Red",
+          "url": "/nomos-glashutte/tangente/101-s16"
+        },
+        {
+          "slug": "164-s12",
+          "text": "164.S12 Tangente 38 70 Jahre Grundgesetz",
+          "url": "/nomos-glashutte/tangente/164-s12"
+        },
+        {
+          "slug": "127",
+          "text": "127 Tangente 33 Duo See-Through",
+          "url": "/nomos-glashutte/tangente/127"
+        },
+        {
+          "slug": "164-s21",
+          "text": "164.S21 Tangente 38 160 Jahre Juwelier Fridrich",
+          "url": "/nomos-glashutte/tangente/164-s21"
+        },
+        {
+          "slug": "144-s1",
+          "text": "144.S1 Tangente Neomatik 39 Wempe Signature Collection",
+          "url": "/nomos-glashutte/tangente/144-s1"
+        }
+      ]
+    },
+    {
+      "name": "Club watches131",
+      "slug": "club",
+      "references": [
+        {
+          "slug": "744",
+          "text": "744 Club Neomatik 37 Siren White",
+          "url": "/nomos-glashutte/club/744"
+        },
+        {
+          "slug": "735-s2",
+          "text": "735.S2 Club Campus 38 For Pride – Life",
+          "url": "/nomos-glashutte/club/735-s2"
+        },
+        {
+          "slug": "721-gb",
+          "text": "721.GB Club Campus 38 Starlight / Open Case Back",
+          "url": "/nomos-glashutte/club/721-gb"
+        },
+        {
+          "slug": "733",
+          "text": "733 Club Datum",
+          "url": "/nomos-glashutte/club/733"
+        },
+        {
+          "slug": "777",
+          "text": "777 Club Aqua Automat Datum Signal Blue",
+          "url": "/nomos-glashutte/club/777"
+        },
+        {
+          "slug": "734",
+          "text": "734 Club Datum Dunkel Glasboden",
+          "url": "/nomos-glashutte/club/734"
+        },
+        {
+          "slug": "738",
+          "text": "738 Club Campus 38 Nacht / See-Through",
+          "url": "/nomos-glashutte/club/738"
+        },
+        {
+          "slug": "718",
+          "text": "718 Club Campus 36 Starlight",
+          "url": "/nomos-glashutte/club/718"
+        },
+        {
+          "slug": "756-sb",
+          "text": "756.SB Club Sport Neomatik 34 Rosé / Closed Case Back",
+          "url": "/nomos-glashutte/club/756-sb"
+        },
+        {
+          "slug": "767",
+          "text": "767 Club Campus Neomatik 39 Midnight Blue / Textile",
+          "url": "/nomos-glashutte/club/767"
+        },
+        {
+          "slug": "791-s2",
+          "text": "791.S2 Club Sport Neomatik Worldtimer for Mansour – Abu Dhabi",
+          "url": "/nomos-glashutte/club/791-s2"
+        },
+        {
+          "slug": "736-s2",
+          "text": "736.S2 Club Campus 38 National Breast Cancer Foundation",
+          "url": "/nomos-glashutte/club/736-s2"
+        },
+        {
+          "slug": "725",
+          "text": "725 Club Campus 38 Cream Coral",
+          "url": "/nomos-glashutte/club/725"
+        },
+        {
+          "slug": "759",
+          "text": "759 Club Sport Neomatik 39 Indian Summer - Tabac / Closed Case Back",
+          "url": "/nomos-glashutte/club/759"
+        },
+        {
+          "slug": "715-gb",
+          "text": "715.GB Club Campus 36 Electric Green / See-Through",
+          "url": "/nomos-glashutte/club/715-gb"
+        },
+        {
+          "slug": "790-s1",
+          "text": "790.S1 Club Sport Neomatik Worldtimer Volcano",
+          "url": "/nomos-glashutte/club/790-s1"
+        },
+        {
+          "slug": "760",
+          "text": "760 Club Sport Neomatik 39 Indian Summer - Tabac / Open Case Back",
+          "url": "/nomos-glashutte/club/760"
+        },
+        {
+          "slug": "741",
+          "text": "741 Club Neomatik 37 Atlantik",
+          "url": "/nomos-glashutte/club/741"
+        },
+        {
+          "slug": "735",
+          "text": "735 Club Campus 38 Silver",
+          "url": "/nomos-glashutte/club/735"
+        },
+        {
+          "slug": "702",
+          "text": "702 Club Dunkel",
+          "url": "/nomos-glashutte/club/702"
+        },
+        {
+          "slug": "736-s4",
+          "text": "736.S4 Club Campus U",
+          "url": "/nomos-glashutte/club/736-s4"
+        },
+        {
+          "slug": "731",
+          "text": "731 Club Datum",
+          "url": "/nomos-glashutte/club/731"
+        },
+        {
+          "slug": "708-s2",
+          "text": "708.S2 Club Campus 36 National Breast Cancer Foundation",
+          "url": "/nomos-glashutte/club/708-s2"
+        },
+        {
+          "slug": "738-s4",
+          "text": "738.S4 Club Campus U",
+          "url": "/nomos-glashutte/club/738-s4"
+        },
+        {
+          "slug": "724",
+          "text": "724 Club Campus 38 Endless Blue",
+          "url": "/nomos-glashutte/club/724"
+        },
+        {
+          "slug": "753",
+          "text": "753 Club Automat Glasboden",
+          "url": "/nomos-glashutte/club/753"
+        },
+        {
+          "slug": "768",
+          "text": "768 Club Campus Neomatik 39 Midnight Blue / Textile / See-Through",
+          "url": "/nomos-glashutte/club/768"
+        },
+        {
+          "slug": "701-s3",
+          "text": "701.S3 Club 36 Ace Jewelers Blue",
+          "url": "/nomos-glashutte/club/701-s3"
+        },
+        {
+          "slug": "718-gb",
+          "text": "718.GB Club Campus 36 Starlight / Open Case Back",
+          "url": "/nomos-glashutte/club/718-gb"
+        },
+        {
+          "slug": "757-sb",
+          "text": "757.SB Club Sport Neomatik 34 Purple / Closed Case Back",
+          "url": "/nomos-glashutte/club/757-sb"
+        },
+        {
+          "slug": "771",
+          "text": "771 Club Automat Datum",
+          "url": "/nomos-glashutte/club/771"
+        },
+        {
+          "slug": "708",
+          "text": "708 Club Campus 36 Silver",
+          "url": "/nomos-glashutte/club/708"
+        },
+        {
+          "slug": "704",
+          "text": "704 Club Dunkel Glasboden",
+          "url": "/nomos-glashutte/club/704"
+        },
+        {
+          "slug": "732",
+          "text": "732 Club Datum Dunkel",
+          "url": "/nomos-glashutte/club/732"
+        },
+        {
+          "slug": "737",
+          "text": "737 Club Campus 38 Silver / See-Through",
+          "url": "/nomos-glashutte/club/737"
+        },
+        {
+          "slug": "733-s6",
+          "text": "733.S6 Club Date 38 Limited Edition for Hodinkee / Terracotta",
+          "url": "/nomos-glashutte/club/733-s6"
+        },
+        {
+          "slug": "790-s4",
+          "text": "790.S4 Club Sport Neomatik Worldtimer Glacier",
+          "url": "/nomos-glashutte/club/790-s4"
+        },
+        {
+          "slug": "790-s5",
+          "text": "790.S5 Club Sport Neomatik Worldtimer Magma",
+          "url": "/nomos-glashutte/club/790-s5"
+        },
+        {
+          "slug": "790-s6",
+          "text": "790.S6 Club Sport Neomatik Worldtimer Dune",
+          "url": "/nomos-glashutte/club/790-s6"
+        },
+        {
+          "slug": "791-s1",
+          "text": "791.S1 Club Sport Neomatik Worldtimer for Mansour – Dubai",
+          "url": "/nomos-glashutte/club/791-s1"
+        },
+        {
+          "slug": "738-s1",
+          "text": "738.S1 Club Campus 38 Amsterdam",
+          "url": "/nomos-glashutte/club/738-s1"
+        },
+        {
+          "slug": "735-s6",
+          "text": "735.S6 Club Campus 38 For Pride – Nature",
+          "url": "/nomos-glashutte/club/735-s6"
+        },
+        {
+          "slug": "735-s7",
+          "text": "735.S7 Club Campus 38 For Pride – Spirit",
+          "url": "/nomos-glashutte/club/735-s7"
+        },
+        {
+          "slug": "738-s2",
+          "text": "738.S2 Club Campus 38 #NomiesForLife",
+          "url": "/nomos-glashutte/club/738-s2"
+        },
+        {
+          "slug": "710",
+          "text": "710 Club Campus 36 Future Orange",
+          "url": "/nomos-glashutte/club/710"
+        },
+        {
+          "slug": "713",
+          "text": "713 Club Campus 36 Blue Purple",
+          "url": "/nomos-glashutte/club/713"
+        },
+        {
+          "slug": "737-s5",
+          "text": "737.S5 Club 50 for Brinker's Jewelers",
+          "url": "/nomos-glashutte/club/737-s5"
+        },
+        {
+          "slug": "773-s1",
+          "text": "773.S1 Club Sport Green / DXM",
+          "url": "/nomos-glashutte/club/773-s1"
+        },
+        {
+          "slug": "733-s4",
+          "text": "733.S4 Club Date 38 Limited Edition for Hodinkee / Sienna",
+          "url": "/nomos-glashutte/club/733-s4"
+        },
+        {
+          "slug": "774",
+          "text": "774 Club Automat Datum Dunkel",
+          "url": "/nomos-glashutte/club/774"
+        },
+        {
+          "slug": "751",
+          "text": "751 Club Automat",
+          "url": "/nomos-glashutte/club/751"
+        },
+        {
+          "slug": "703",
+          "text": "703 Club Glasboden",
+          "url": "/nomos-glashutte/club/703"
+        },
+        {
+          "slug": "754",
+          "text": "754 Club Automat Dunkel Glasboden",
+          "url": "/nomos-glashutte/club/754"
+        },
+        {
+          "slug": "772-s1",
+          "text": "772.S1 Club Automat Datum Troverie",
+          "url": "/nomos-glashutte/club/772-s1"
+        },
+        {
+          "slug": "753-s2",
+          "text": "753.S2 Club Automatic Navy",
+          "url": "/nomos-glashutte/club/753-s2"
+        },
+        {
+          "slug": "712",
+          "text": "712 Club Campus 36 Absolute Gray",
+          "url": "/nomos-glashutte/club/712"
+        },
+        {
+          "slug": "729",
+          "text": "729 Club Campus 38 Future Orange",
+          "url": "/nomos-glashutte/club/729"
+        },
+        {
+          "slug": "727",
+          "text": "727 Club Campus 38 Absolute Gray",
+          "url": "/nomos-glashutte/club/727"
+        },
+        {
+          "slug": "768-s2",
+          "text": "768.S2 Club Campus Neomatik 39 Greece Watch Club",
+          "url": "/nomos-glashutte/club/768-s2"
+        },
+        {
+          "slug": "750",
+          "text": "750 Club Sport Neomatik 37 Polar",
+          "url": "/nomos-glashutte/club/750"
+        },
+        {
+          "slug": "733-s7",
+          "text": "733.S7 Club Date 38 Limited Edition for Hodinkee / Reseda",
+          "url": "/nomos-glashutte/club/733-s7"
+        },
+        {
+          "slug": "715",
+          "text": "715 Club Campus 36 Electric Green",
+          "url": "/nomos-glashutte/club/715"
+        },
+        {
+          "slug": "703-1",
+          "text": "703.1 Club 36 Mk2 Glasboden",
+          "url": "/nomos-glashutte/club/703-1"
+        },
+        {
+          "slug": "791",
+          "text": "791 Club Sport Neomatik Worldtimer Silver",
+          "url": "/nomos-glashutte/club/791"
+        },
+        {
+          "slug": "790",
+          "text": "790 Club Sport Neomatik Worldtimer Blue",
+          "url": "/nomos-glashutte/club/790"
+        },
+        {
+          "slug": "757",
+          "text": "757 Club Sport Neomatik 34 Purple / Open Case Back",
+          "url": "/nomos-glashutte/club/757"
+        },
+        {
+          "slug": "701",
+          "text": "701 Club",
+          "url": "/nomos-glashutte/club/701"
+        },
+        {
+          "slug": "742",
+          "text": "742 Club Neomatik 37 Siren Blue",
+          "url": "/nomos-glashutte/club/742"
+        },
+        {
+          "slug": "743",
+          "text": "743 Club Neomatik 37 Signal Red",
+          "url": "/nomos-glashutte/club/743"
+        },
+        {
+          "slug": "752",
+          "text": "752 Club Automat Dunkel",
+          "url": "/nomos-glashutte/club/752"
+        },
+        {
+          "slug": "748",
+          "text": "748 Club Campus Neomatik 37 Silver / Bracelet",
+          "url": "/nomos-glashutte/club/748"
+        },
+        {
+          "slug": "765",
+          "text": "765 Club Campus Neomatik 39 White / Bracelet",
+          "url": "/nomos-glashutte/club/765"
+        },
+        {
+          "slug": "737-s3",
+          "text": "737.S3 Club 48 for Brinker's Jewelers",
+          "url": "/nomos-glashutte/club/737-s3"
+        },
+        {
+          "slug": "753-s1",
+          "text": "753.S1 Club Automatic Onyx",
+          "url": "/nomos-glashutte/club/753-s1"
+        },
+        {
+          "slug": "753-s3",
+          "text": "753.S3 Club Automatic Olive",
+          "url": "/nomos-glashutte/club/753-s3"
+        },
+        {
+          "slug": "703-s4",
+          "text": "703.S4 Club 36 NOMOS Watch Club",
+          "url": "/nomos-glashutte/club/703-s4"
+        },
+        {
+          "slug": "733-s5",
+          "text": "733.S5 Club Date 38 Limited Edition for Hodinkee / Pacific",
+          "url": "/nomos-glashutte/club/733-s5"
+        },
+        {
+          "slug": "714",
+          "text": "714 Club Campus 36 Cream Coral",
+          "url": "/nomos-glashutte/club/714"
+        },
+        {
+          "slug": "726",
+          "text": "726 Club Campus 38 Electric Green",
+          "url": "/nomos-glashutte/club/726"
+        },
+        {
+          "slug": "762",
+          "text": "762 Club Sport Neomatik 39 Indian Summer - Ember / Open Case Back",
+          "url": "/nomos-glashutte/club/762"
+        },
+        {
+          "slug": "701-1",
+          "text": "701.1 Club 36 Mk2",
+          "url": "/nomos-glashutte/club/701-1"
+        },
+        {
+          "slug": "724-gb",
+          "text": "724.GB Club Campus 38 Endless Blue / See-Through",
+          "url": "/nomos-glashutte/club/724-gb"
+        },
+        {
+          "slug": "723-gb",
+          "text": "723.GB Club Campus 38 Nonstop Red / See-Through",
+          "url": "/nomos-glashutte/club/723-gb"
+        },
+        {
+          "slug": "725-gb",
+          "text": "725.GB Club Campus 38 Cream Coral / See-Through",
+          "url": "/nomos-glashutte/club/725-gb"
+        },
+        {
+          "slug": "730-s2",
+          "text": "730.S2 Club Campus 38 Neon Night",
+          "url": "/nomos-glashutte/club/730-s2"
+        },
+        {
+          "slug": "719",
+          "text": "719 Club Campus 36 Night Sky",
+          "url": "/nomos-glashutte/club/719"
+        },
+        {
+          "slug": "790-s2",
+          "text": "790.S2 Club Sport Neomatik Worldtimer Jungle",
+          "url": "/nomos-glashutte/club/790-s2"
+        },
+        {
+          "slug": "790-s3",
+          "text": "790.S3 Club Sport Neomatik Worldtimer Canyon",
+          "url": "/nomos-glashutte/club/790-s3"
+        },
+        {
+          "slug": "736",
+          "text": "736 Club Campus 38 Nacht",
+          "url": "/nomos-glashutte/club/736"
+        },
+        {
+          "slug": "775",
+          "text": "775 Club Aqua Automat Datum",
+          "url": "/nomos-glashutte/club/775"
+        },
+        {
+          "slug": "776",
+          "text": "776 Club Aqua Automat Datum Atlantik",
+          "url": "/nomos-glashutte/club/776"
+        },
+        {
+          "slug": "740",
+          "text": "740 Club Neomatik 37",
+          "url": "/nomos-glashutte/club/740"
+        },
+        {
+          "slug": "709",
+          "text": "709 Club Campus 36 Silver / See-Through",
+          "url": "/nomos-glashutte/club/709"
+        },
+        {
+          "slug": "766",
+          "text": "766 Club Campus Neomatik 39 White / Bracelet / See-Through",
+          "url": "/nomos-glashutte/club/766"
+        },
+        {
+          "slug": "749",
+          "text": "749 Club Campus Neomatik 37 Silver / Bracelet / See-Through",
+          "url": "/nomos-glashutte/club/749"
+        },
+        {
+          "slug": "781",
+          "text": "781 Club neomatik 42 date black",
+          "url": "/nomos-glashutte/club/781"
+        },
+        {
+          "slug": "737-re",
+          "text": "737.RE Club Campus 38 Relojes Especiales",
+          "url": "/nomos-glashutte/club/737-re"
+        },
+        {
+          "slug": "737-s2",
+          "text": "737.S2 Club Campus 38 J9",
+          "url": "/nomos-glashutte/club/737-s2"
+        },
+        {
+          "slug": "735-s3",
+          "text": "735.S3 Club Campus 38 For Pride – Sunlight",
+          "url": "/nomos-glashutte/club/735-s3"
+        },
+        {
+          "slug": "735-s4",
+          "text": "735.S4 Club Campus 38 For Pride – Serenity",
+          "url": "/nomos-glashutte/club/735-s4"
+        },
+        {
+          "slug": "735-s5",
+          "text": "735.S5 Club Campus 38 For Pride – Healing",
+          "url": "/nomos-glashutte/club/735-s5"
+        },
+        {
+          "slug": "703-s3",
+          "text": "703.S3 Club 36 Ace Jewelers Blue / Open Case Back",
+          "url": "/nomos-glashutte/club/703-s3"
+        },
+        {
+          "slug": "782",
+          "text": "782 Club neomatik 42 date blue / bracelet",
+          "url": "/nomos-glashutte/club/782"
+        },
+        {
+          "slug": "711",
+          "text": "711 Club Campus 36 Deep Pink",
+          "url": "/nomos-glashutte/club/711"
+        },
+        {
+          "slug": "728",
+          "text": "728 Club Campus 38 Deep Pink",
+          "url": "/nomos-glashutte/club/728"
+        },
+        {
+          "slug": "730",
+          "text": "730 Club Campus 38 Blue Purple",
+          "url": "/nomos-glashutte/club/730"
+        },
+        {
+          "slug": "738-s5",
+          "text": "738.S5 Club Campus U²",
+          "url": "/nomos-glashutte/club/738-s5"
+        },
+        {
+          "slug": "737-s4",
+          "text": "737.S4 Club 49 for Brinker's Jewelers",
+          "url": "/nomos-glashutte/club/737-s4"
+        },
+        {
+          "slug": "746",
+          "text": "746 Club Sport Neomatik 37 Petrol",
+          "url": "/nomos-glashutte/club/746"
+        },
+        {
+          "slug": "747",
+          "text": "747 Club Sport Neomatik 37 Polar / Closed Back",
+          "url": "/nomos-glashutte/club/747"
+        },
+        {
+          "slug": "745",
+          "text": "745 Club Sport Neomatik 37 Petrol / Closed Back",
+          "url": "/nomos-glashutte/club/745"
+        },
+        {
+          "slug": "768-s3",
+          "text": "768.s3 Club Campus Neomatik 39 Qatar Limited Edition",
+          "url": "/nomos-glashutte/club/768-s3"
+        },
+        {
+          "slug": "761",
+          "text": "761 Club Sport Neomatik 39 Indian Summer - Ember / Closed Case Back",
+          "url": "/nomos-glashutte/club/761"
+        },
+        {
+          "slug": "763",
+          "text": "763 Club Sport Neomatik 39 Indian Summer - Smoke / Closed Case Back",
+          "url": "/nomos-glashutte/club/763"
+        },
+        {
+          "slug": "764",
+          "text": "764 Club Sport Neomatik 39 Indian Summer - Smoke / Open Case Back",
+          "url": "/nomos-glashutte/club/764"
+        },
+        {
+          "slug": "723",
+          "text": "723 Club Campus 38 Nonstop Red",
+          "url": "/nomos-glashutte/club/723"
+        },
+        {
+          "slug": "717",
+          "text": "717 Club Campus 36 Endless Blue",
+          "url": "/nomos-glashutte/club/717"
+        },
+        {
+          "slug": "717-gb",
+          "text": "717.GB Club Campus 36 Endless Blue / See-Through",
+          "url": "/nomos-glashutte/club/717-gb"
+        },
+        {
+          "slug": "716",
+          "text": "716 Club Campus 36 Nonstop Red",
+          "url": "/nomos-glashutte/club/716"
+        },
+        {
+          "slug": "716-gb",
+          "text": "716.GB Club Campus 36 Nonstop Red / See-Through",
+          "url": "/nomos-glashutte/club/716-gb"
+        },
+        {
+          "slug": "714-gb",
+          "text": "714.GB Club Campus 36 Cream Coral / See-Through",
+          "url": "/nomos-glashutte/club/714-gb"
+        },
+        {
+          "slug": "726-gb",
+          "text": "726.GB Club Campus 38 Electric Green / See-Through",
+          "url": "/nomos-glashutte/club/726-gb"
+        },
+        {
+          "slug": "730-s1",
+          "text": "730.S1 Club Campus 38 Neon Day",
+          "url": "/nomos-glashutte/club/730-s1"
+        },
+        {
+          "slug": "719-gb",
+          "text": "719.GB Club Campus 36 Night Sky / Open Case Back",
+          "url": "/nomos-glashutte/club/719-gb"
+        },
+        {
+          "slug": "721",
+          "text": "721 Club Campus 38 Starlight",
+          "url": "/nomos-glashutte/club/721"
+        },
+        {
+          "slug": "722",
+          "text": "722 Club Campus 38 Starlight Night Sky",
+          "url": "/nomos-glashutte/club/722"
+        },
+        {
+          "slug": "722-gb",
+          "text": "722.GB Club Campus 38 Starlight Night Sky / Open Case Back",
+          "url": "/nomos-glashutte/club/722-gb"
+        },
+        {
+          "slug": "755",
+          "text": "755 Club Sport Neomatik 34 Gold / Open Case Back",
+          "url": "/nomos-glashutte/club/755"
+        },
+        {
+          "slug": "755-sb",
+          "text": "755.SB Club Sport Neomatik 34 Gold / Closed Case Back",
+          "url": "/nomos-glashutte/club/755-sb"
+        },
+        {
+          "slug": "756",
+          "text": "756 Club Sport Neomatik 34 Rosé / Open Case Back",
+          "url": "/nomos-glashutte/club/756"
+        },
+        {
+          "slug": "760-s1",
+          "text": "760.S1 Club Sport Neomatik 39 Jewels by Love",
+          "url": "/nomos-glashutte/club/760-s1"
+        }
+      ]
+    },
+    {
+      "name": "Tetra watches66",
+      "slug": "tetra",
+      "references": [
+        {
+          "slug": "415",
+          "text": "415 Tetra Gold Gangreserve anthrazit",
+          "url": "/nomos-glashutte/tetra/415"
+        },
+        {
+          "slug": "413",
+          "text": "413 Tetra Gold",
+          "url": "/nomos-glashutte/tetra/413"
+        },
+        {
+          "slug": "491",
+          "text": "491 Tetra Goldelse",
+          "url": "/nomos-glashutte/tetra/491"
+        },
+        {
+          "slug": "423",
+          "text": "423 Tetra Neomatik 39 Silvercut",
+          "url": "/nomos-glashutte/tetra/423"
+        },
+        {
+          "slug": "451",
+          "text": "451 Tetra² Tausendschön",
+          "url": "/nomos-glashutte/tetra/451"
+        },
+        {
+          "slug": "433",
+          "text": "433 Tetra Symphony - Divine Spark / Closed Back",
+          "url": "/nomos-glashutte/tetra/433"
+        },
+        {
+          "slug": "455",
+          "text": "455 Tetra² Flohkraut",
+          "url": "/nomos-glashutte/tetra/455"
+        },
+        {
+          "slug": "461",
+          "text": "461 Tetra² Adonisröschen",
+          "url": "/nomos-glashutte/tetra/461"
+        },
+        {
+          "slug": "489",
+          "text": "489 Tetra Clärchen",
+          "url": "/nomos-glashutte/tetra/489"
+        },
+        {
+          "slug": "466",
+          "text": "466 Tetra² Mispel",
+          "url": "/nomos-glashutte/tetra/466"
+        },
+        {
+          "slug": "445",
+          "text": "445 Tetra Symphony - Ode to Joy / Closed Back",
+          "url": "/nomos-glashutte/tetra/445"
+        },
+        {
+          "slug": "405-s3",
+          "text": "405.S3 Tetra Duo Lily",
+          "url": "/nomos-glashutte/tetra/405-s3"
+        },
+        {
+          "slug": "429",
+          "text": "429 Tetra Norma",
+          "url": "/nomos-glashutte/tetra/429"
+        },
+        {
+          "slug": "412",
+          "text": "412 Tetra 27 Gold mocca",
+          "url": "/nomos-glashutte/tetra/412"
+        },
+        {
+          "slug": "492",
+          "text": "492 Tetra Kleene",
+          "url": "/nomos-glashutte/tetra/492"
+        },
+        {
+          "slug": "452",
+          "text": "452 Tetra² Bärenfuß",
+          "url": "/nomos-glashutte/tetra/452"
+        },
+        {
+          "slug": "499",
+          "text": "499 Tetra plum",
+          "url": "/nomos-glashutte/tetra/499"
+        },
+        {
+          "slug": "473",
+          "text": "473 Tetra 27 Champagner",
+          "url": "/nomos-glashutte/tetra/473"
+        },
+        {
+          "slug": "421-s3",
+          "text": "421.S3 Tetra Neomatik 39 175 Years Watchmaking Glashütte Blue",
+          "url": "/nomos-glashutte/tetra/421-s3"
+        },
+        {
+          "slug": "477",
+          "text": "477 Tetra Die Unerreichbare / Open Case Back",
+          "url": "/nomos-glashutte/tetra/477"
+        },
+        {
+          "slug": "422",
+          "text": "422 Tetra Neomatik 39 Nachtblau",
+          "url": "/nomos-glashutte/tetra/422"
+        },
+        {
+          "slug": "453",
+          "text": "453 Tetra² Gurkenkraut",
+          "url": "/nomos-glashutte/tetra/453"
+        },
+        {
+          "slug": "474",
+          "text": "474 Tetra Die Kapriziöse / Open Case Back",
+          "url": "/nomos-glashutte/tetra/474"
+        },
+        {
+          "slug": "490",
+          "text": "490 Tetra Nachtijall",
+          "url": "/nomos-glashutte/tetra/490"
+        },
+        {
+          "slug": "483",
+          "text": "483 Tetra+ Mäusedorn",
+          "url": "/nomos-glashutte/tetra/483"
+        },
+        {
+          "slug": "482",
+          "text": "482 Tetra+ Erzgebirgsperle",
+          "url": "/nomos-glashutte/tetra/482"
+        },
+        {
+          "slug": "476",
+          "text": "476 Tetra Die Wildentschlossene / Open Case Back",
+          "url": "/nomos-glashutte/tetra/476"
+        },
+        {
+          "slug": "421-s2",
+          "text": "421.S2 Tetra Neomatik 39 175 Years Watchmaking Glashütte Red",
+          "url": "/nomos-glashutte/tetra/421-s2"
+        },
+        {
+          "slug": "447",
+          "text": "447 Tetra Symphony - Immortal Beloved / Closed Back",
+          "url": "/nomos-glashutte/tetra/447"
+        },
+        {
+          "slug": "488",
+          "text": "488 Tetra plum See-Through",
+          "url": "/nomos-glashutte/tetra/488"
+        },
+        {
+          "slug": "454",
+          "text": "454 Tetra² Leberblümchen",
+          "url": "/nomos-glashutte/tetra/454"
+        },
+        {
+          "slug": "485",
+          "text": "485 Tetra weltweiß",
+          "url": "/nomos-glashutte/tetra/485"
+        },
+        {
+          "slug": "426",
+          "text": "426 Tetra Die Wildentschlossene / Closed Case Back",
+          "url": "/nomos-glashutte/tetra/426"
+        },
+        {
+          "slug": "414",
+          "text": "414 Tetra Gold Gangreserve",
+          "url": "/nomos-glashutte/tetra/414"
+        },
+        {
+          "slug": "480",
+          "text": "480 Tetra+ Burgundertrüffel",
+          "url": "/nomos-glashutte/tetra/480"
+        },
+        {
+          "slug": "481",
+          "text": "481 Tetra+ Blasser Zonenmilchling",
+          "url": "/nomos-glashutte/tetra/481"
+        },
+        {
+          "slug": "487",
+          "text": "487 Tetra zartbitter",
+          "url": "/nomos-glashutte/tetra/487"
+        },
+        {
+          "slug": "401",
+          "text": "401 Tetra 27",
+          "url": "/nomos-glashutte/tetra/401"
+        },
+        {
+          "slug": "421-s4",
+          "text": "421.S4 Tetra Neomatik 39 175 Years Watchmaking Glashütte Black",
+          "url": "/nomos-glashutte/tetra/421-s4"
+        },
+        {
+          "slug": "446",
+          "text": "446 Tetra Symphony - Ode to Joy / See-Through Back",
+          "url": "/nomos-glashutte/tetra/446"
+        },
+        {
+          "slug": "475",
+          "text": "475 Tetra Die Fuchsteufelswilde / Open Case Back",
+          "url": "/nomos-glashutte/tetra/475"
+        },
+        {
+          "slug": "424",
+          "text": "424 Tetra Die Kapriziöse / Closed Case Back",
+          "url": "/nomos-glashutte/tetra/424"
+        },
+        {
+          "slug": "448",
+          "text": "448 Tetra Symphony - Immortal Beloved / See-Through Back",
+          "url": "/nomos-glashutte/tetra/448"
+        },
+        {
+          "slug": "449",
+          "text": "449 Tetra Symphony - Fidelio / Closed Back",
+          "url": "/nomos-glashutte/tetra/449"
+        },
+        {
+          "slug": "450",
+          "text": "450 Tetra Symphony - Fidelio / See-Through Back",
+          "url": "/nomos-glashutte/tetra/450"
+        },
+        {
+          "slug": "421-s1",
+          "text": "421.S1 Tetra Neomatik 39 175 Years Watchmaking Glashütte Off White",
+          "url": "/nomos-glashutte/tetra/421-s1"
+        },
+        {
+          "slug": "427",
+          "text": "427 Tetra Die Unerreichbare / Closed Case Back",
+          "url": "/nomos-glashutte/tetra/427"
+        },
+        {
+          "slug": "425",
+          "text": "425 Tetra Die Fuchsteufelswilde / Closed Case Back",
+          "url": "/nomos-glashutte/tetra/425"
+        },
+        {
+          "slug": "457",
+          "text": "457 Tetra² Jelängerjelieber",
+          "url": "/nomos-glashutte/tetra/457"
+        },
+        {
+          "slug": "472",
+          "text": "472 Tetra 27 Karat",
+          "url": "/nomos-glashutte/tetra/472"
+        },
+        {
+          "slug": "408",
+          "text": "408 Tetra",
+          "url": "/nomos-glashutte/tetra/408"
+        },
+        {
+          "slug": "406",
+          "text": "406 Tetra Glasboden",
+          "url": "/nomos-glashutte/tetra/406"
+        },
+        {
+          "slug": "421",
+          "text": "421 Tetra Neomatik 39",
+          "url": "/nomos-glashutte/tetra/421"
+        },
+        {
+          "slug": "484",
+          "text": "484 Tetra biskuit",
+          "url": "/nomos-glashutte/tetra/484"
+        },
+        {
+          "slug": "486",
+          "text": "486 Tetra himmelblau",
+          "url": "/nomos-glashutte/tetra/486"
+        },
+        {
+          "slug": "411",
+          "text": "411 Tetra 27 Gold",
+          "url": "/nomos-glashutte/tetra/411"
+        },
+        {
+          "slug": "456",
+          "text": "456 Tetra² Knabenkraut",
+          "url": "/nomos-glashutte/tetra/456"
+        },
+        {
+          "slug": "444",
+          "text": "444 Tetra Symphony - Divine Spark / See-Through Back",
+          "url": "/nomos-glashutte/tetra/444"
+        },
+        {
+          "slug": "458",
+          "text": "458 Tetra² Fleißiges Lieschen",
+          "url": "/nomos-glashutte/tetra/458"
+        },
+        {
+          "slug": "459",
+          "text": "459 Tetra² Tausendgüldenkraut",
+          "url": "/nomos-glashutte/tetra/459"
+        },
+        {
+          "slug": "460",
+          "text": "460 Tetra² Maßliebchen",
+          "url": "/nomos-glashutte/tetra/460"
+        },
+        {
+          "slug": "462",
+          "text": "462 Tetra² Rührmichnichtan",
+          "url": "/nomos-glashutte/tetra/462"
+        },
+        {
+          "slug": "463",
+          "text": "463 Tetra² Hasenohr",
+          "url": "/nomos-glashutte/tetra/463"
+        },
+        {
+          "slug": "464",
+          "text": "464 Tetra² Sumpfkratzdistel",
+          "url": "/nomos-glashutte/tetra/464"
+        },
+        {
+          "slug": "465",
+          "text": "465 Tetra² Männertreu",
+          "url": "/nomos-glashutte/tetra/465"
+        },
+        {
+          "slug": "405",
+          "text": "405 Tetra Duo",
+          "url": "/nomos-glashutte/tetra/405"
+        }
+      ]
+    },
+    {
+      "name": "Orion watches55",
+      "slug": "orion",
+      "references": [
+        {
+          "slug": "342",
+          "text": "342 Orion Neomatik 39 Silvercut",
+          "url": "/nomos-glashutte/orion/342"
+        },
+        {
+          "slug": "359",
+          "text": "359 Orion 33 Gold / Open Case Back",
+          "url": "/nomos-glashutte/orion/359"
+        },
+        {
+          "slug": "391",
+          "text": "391 Orion Neomatik Champagner 1st Edition",
+          "url": "/nomos-glashutte/orion/391"
+        },
+        {
+          "slug": "314",
+          "text": "314 Orion 35 Gold rosé",
+          "url": "/nomos-glashutte/orion/314"
+        },
+        {
+          "slug": "319",
+          "text": "319 Orion 33 Duo / Close Case Back",
+          "url": "/nomos-glashutte/orion/319"
+        },
+        {
+          "slug": "380-s1",
+          "text": "380.S1 Orion 38 Friesennerz",
+          "url": "/nomos-glashutte/orion/380-s1"
+        },
+        {
+          "slug": "302",
+          "text": "302 Orion 35 Black / Closed Case Back",
+          "url": "/nomos-glashutte/orion/302"
+        },
+        {
+          "slug": "363",
+          "text": "363 Orion Neomatik 41 Date Midnight Blue",
+          "url": "/nomos-glashutte/orion/363"
+        },
+        {
+          "slug": "389",
+          "text": "389 Orion 38 Midnight Blue / Open Case Back",
+          "url": "/nomos-glashutte/orion/389"
+        },
+        {
+          "slug": "306",
+          "text": "306 Orion 35 White / Open Case Back",
+          "url": "/nomos-glashutte/orion/306"
+        },
+        {
+          "slug": "307",
+          "text": "307 Orion 35 Anthracite / Open Case Back",
+          "url": "/nomos-glashutte/orion/307"
+        },
+        {
+          "slug": "331",
+          "text": "331 Orion 35 White / Close Case Back",
+          "url": "/nomos-glashutte/orion/331"
+        },
+        {
+          "slug": "341",
+          "text": "341 Orion Neomatik 39 White",
+          "url": "/nomos-glashutte/orion/341"
+        },
+        {
+          "slug": "385",
+          "text": "385 Orion 38 1989 / Open Case Back",
+          "url": "/nomos-glashutte/orion/385"
+        },
+        {
+          "slug": "392",
+          "text": "392 Orion Neomatik 36",
+          "url": "/nomos-glashutte/orion/392"
+        },
+        {
+          "slug": "384",
+          "text": "384 Orion 38 / Open Case Back",
+          "url": "/nomos-glashutte/orion/384"
+        },
+        {
+          "slug": "393",
+          "text": "393 Orion Neomatik 36 Champagne",
+          "url": "/nomos-glashutte/orion/393"
+        },
+        {
+          "slug": "360",
+          "text": "360 Orion Neomatik 41 Date",
+          "url": "/nomos-glashutte/orion/360"
+        },
+        {
+          "slug": "384-s7",
+          "text": "384.S7 Orion 38 Silvercut for L'Oro",
+          "url": "/nomos-glashutte/orion/384-s7"
+        },
+        {
+          "slug": "378",
+          "text": "378 Orion 38 Silver / Closed Case Back",
+          "url": "/nomos-glashutte/orion/378"
+        },
+        {
+          "slug": "379",
+          "text": "379 Orion 38 Silver / Open Case Back",
+          "url": "/nomos-glashutte/orion/379"
+        },
+        {
+          "slug": "390",
+          "text": "390 Orion Neomatik 36 1st Edition",
+          "url": "/nomos-glashutte/orion/390"
+        },
+        {
+          "slug": "322",
+          "text": "322 Orion 33 / Open Case Back",
+          "url": "/nomos-glashutte/orion/322"
+        },
+        {
+          "slug": "364",
+          "text": "364 Orion Neomatik 41 Date Olive Gold",
+          "url": "/nomos-glashutte/orion/364"
+        },
+        {
+          "slug": "388",
+          "text": "388 Orion 38 Midnight Blue / Closed Case Back",
+          "url": "/nomos-glashutte/orion/388"
+        },
+        {
+          "slug": "330",
+          "text": "330 Orion 33 Midnight Blue / Closed Case Back",
+          "url": "/nomos-glashutte/orion/330"
+        },
+        {
+          "slug": "329",
+          "text": "329 Orion 33 Midnight Blue / Open Case Back",
+          "url": "/nomos-glashutte/orion/329"
+        },
+        {
+          "slug": "311-9",
+          "text": "311.9 Orion 35 Gold",
+          "url": "/nomos-glashutte/orion/311-9"
+        },
+        {
+          "slug": "397",
+          "text": "397 Orion Neomatik 36 Doré",
+          "url": "/nomos-glashutte/orion/397"
+        },
+        {
+          "slug": "325",
+          "text": "325 Orion 33 Rose / Open Case Back",
+          "url": "/nomos-glashutte/orion/325"
+        },
+        {
+          "slug": "301",
+          "text": "301 Orion 35 / Closed Case Back",
+          "url": "/nomos-glashutte/orion/301"
+        },
+        {
+          "slug": "309",
+          "text": "309 Orion 35 / Open Case Back",
+          "url": "/nomos-glashutte/orion/309"
+        },
+        {
+          "slug": "352",
+          "text": "352 Orion 35 Rose / Open Case Back",
+          "url": "/nomos-glashutte/orion/352"
+        },
+        {
+          "slug": "321-s1",
+          "text": "321.S1 Orion 33 Friesennerz",
+          "url": "/nomos-glashutte/orion/321-s1"
+        },
+        {
+          "slug": "323",
+          "text": "323 Orion 33 White / Closed Case Back",
+          "url": "/nomos-glashutte/orion/323"
+        },
+        {
+          "slug": "381",
+          "text": "381 Orion 38 Date White / Open Case Back",
+          "url": "/nomos-glashutte/orion/381"
+        },
+        {
+          "slug": "321-zm",
+          "text": "321.ZM Orion 33 40 Jahre Zeit Magazin",
+          "url": "/nomos-glashutte/orion/321-zm"
+        },
+        {
+          "slug": "387",
+          "text": "387 Orion 38 / Closed Case Back",
+          "url": "/nomos-glashutte/orion/387"
+        },
+        {
+          "slug": "380",
+          "text": "380 Orion 38 Datum / Open Case Back",
+          "url": "/nomos-glashutte/orion/380"
+        },
+        {
+          "slug": "321",
+          "text": "321 Orion 33 / Closed Case Back",
+          "url": "/nomos-glashutte/orion/321"
+        },
+        {
+          "slug": "324",
+          "text": "324 Orion 33 White / Open Case Back",
+          "url": "/nomos-glashutte/orion/324"
+        },
+        {
+          "slug": "326",
+          "text": "326 Orion 33 1989 / Open Case Back",
+          "url": "/nomos-glashutte/orion/326"
+        },
+        {
+          "slug": "358",
+          "text": "358 Orion 33 Gold / Closed Case Back",
+          "url": "/nomos-glashutte/orion/358"
+        },
+        {
+          "slug": "320",
+          "text": "320 Orion 33 Duo / Open Case Back",
+          "url": "/nomos-glashutte/orion/320"
+        },
+        {
+          "slug": "386",
+          "text": "386 Orion 38 White / Open Case Back",
+          "url": "/nomos-glashutte/orion/386"
+        },
+        {
+          "slug": "383",
+          "text": "383 Orion 38 Gray / Open Case Back",
+          "url": "/nomos-glashutte/orion/383"
+        },
+        {
+          "slug": "313",
+          "text": "313 Orion 35 Gold",
+          "url": "/nomos-glashutte/orion/313"
+        },
+        {
+          "slug": "328",
+          "text": "328 Orion 33 Champagne / Open Case Back",
+          "url": "/nomos-glashutte/orion/328"
+        },
+        {
+          "slug": "327",
+          "text": "327 Orion 33 Champagne / Closed Case Back",
+          "url": "/nomos-glashutte/orion/327"
+        },
+        {
+          "slug": "343",
+          "text": "343 Orion Neomatik 39 Midnight Blue",
+          "url": "/nomos-glashutte/orion/343"
+        },
+        {
+          "slug": "384-t1",
+          "text": "384.T1 Orion 38 Midnight Edition",
+          "url": "/nomos-glashutte/orion/384-t1"
+        },
+        {
+          "slug": "384-t2",
+          "text": "384.T2 Orion 38 Midnight Edition",
+          "url": "/nomos-glashutte/orion/384-t2"
+        },
+        {
+          "slug": "340",
+          "text": "340 Orion Neomatik 39",
+          "url": "/nomos-glashutte/orion/340"
+        },
+        {
+          "slug": "384-s2",
+          "text": "384.S2 Orion 38 100 Years de Stijl",
+          "url": "/nomos-glashutte/orion/384-s2"
+        },
+        {
+          "slug": "332",
+          "text": "332 Orion 35 Anthracite / Closed Case Back",
+          "url": "/nomos-glashutte/orion/332"
+        }
+      ]
+    },
+    {
+      "name": "Ahoi watches28",
+      "slug": "ahoi",
+      "references": [
+        {
+          "slug": "527",
+          "text": "527 Ahoi Neomatik 38 Sand / Open Case Back",
+          "url": "/nomos-glashutte/ahoi/527"
+        },
+        {
+          "slug": "566",
+          "text": "566 Ahoi Neomatik Atlantik / Closed Back",
+          "url": "/nomos-glashutte/ahoi/566"
+        },
+        {
+          "slug": "516",
+          "text": "516 Ahoi Neomatik 38 Sky Blue / Closed Case Back",
+          "url": "/nomos-glashutte/ahoi/516"
+        },
+        {
+          "slug": "548",
+          "text": "548 Ahoi Atlantik Datum / Closed Back",
+          "url": "/nomos-glashutte/ahoi/548"
+        },
+        {
+          "slug": "552-s3",
+          "text": "552.S3 Ahoi Atlantik Bucherer",
+          "url": "/nomos-glashutte/ahoi/552-s3"
+        },
+        {
+          "slug": "550-dz",
+          "text": "550,DZ Ahoi ZEIT Sonderedition",
+          "url": "/nomos-glashutte/ahoi/550-dz"
+        },
+        {
+          "slug": "551-s2",
+          "text": "551.S2 Ahoi Datum Doctors without Borders Germany",
+          "url": "/nomos-glashutte/ahoi/551-s2"
+        },
+        {
+          "slug": "560",
+          "text": "560 Ahoi Neomatik",
+          "url": "/nomos-glashutte/ahoi/560"
+        },
+        {
+          "slug": "553",
+          "text": "553 Ahoi Atlantik Datum",
+          "url": "/nomos-glashutte/ahoi/553"
+        },
+        {
+          "slug": "562",
+          "text": "562 Ahoi Neomatik Signal Blue",
+          "url": "/nomos-glashutte/ahoi/562"
+        },
+        {
+          "slug": "555",
+          "text": "555 Ahoi",
+          "url": "/nomos-glashutte/ahoi/555"
+        },
+        {
+          "slug": "561-s1",
+          "text": "561.S1 Ahoi Neomatik Atlantik Bucherer",
+          "url": "/nomos-glashutte/ahoi/561-s1"
+        },
+        {
+          "slug": "526",
+          "text": "526 Ahoi Neomatik 38 Sky / Open Case Back",
+          "url": "/nomos-glashutte/ahoi/526"
+        },
+        {
+          "slug": "551-s1",
+          "text": "551.S1 Ahoi Datum Chronometer WatchTime",
+          "url": "/nomos-glashutte/ahoi/551-s1"
+        },
+        {
+          "slug": "550",
+          "text": "550 Ahoi",
+          "url": "/nomos-glashutte/ahoi/550"
+        },
+        {
+          "slug": "560-s1",
+          "text": "560.S1 Ahoi Neomatik Doctors without Borders Germany",
+          "url": "/nomos-glashutte/ahoi/560-s1"
+        },
+        {
+          "slug": "558",
+          "text": "558 Ahoi Atlantik Datum / Open Back",
+          "url": "/nomos-glashutte/ahoi/558"
+        },
+        {
+          "slug": "567",
+          "text": "567 Ahoi Neomatik Atlantik / Open Case Back",
+          "url": "/nomos-glashutte/ahoi/567"
+        },
+        {
+          "slug": "557",
+          "text": "557 Ahoi Atlantik / Open Back",
+          "url": "/nomos-glashutte/ahoi/557"
+        },
+        {
+          "slug": "564",
+          "text": "564 Ahoi Neomatik Atlantik Siren White",
+          "url": "/nomos-glashutte/ahoi/564"
+        },
+        {
+          "slug": "552-dz",
+          "text": "552.DZ Ahoi Atlantik ZEIT Sonderedition",
+          "url": "/nomos-glashutte/ahoi/552-dz"
+        },
+        {
+          "slug": "547",
+          "text": "547 Ahoi Atlantik / Closed Back",
+          "url": "/nomos-glashutte/ahoi/547"
+        },
+        {
+          "slug": "554",
+          "text": "554 Ahoi Datum Signal Blue",
+          "url": "/nomos-glashutte/ahoi/554"
+        },
+        {
+          "slug": "563",
+          "text": "563 Ahoi Neomatik Signal Red",
+          "url": "/nomos-glashutte/ahoi/563"
+        },
+        {
+          "slug": "561",
+          "text": "561 Ahoi Neomatik Atlantik",
+          "url": "/nomos-glashutte/ahoi/561"
+        },
+        {
+          "slug": "517",
+          "text": "517 Ahoi Neomatik 38 Sand / Closed Case Back",
+          "url": "/nomos-glashutte/ahoi/517"
+        },
+        {
+          "slug": "552",
+          "text": "552 Ahoi Atlantik",
+          "url": "/nomos-glashutte/ahoi/552"
+        },
+        {
+          "slug": "551",
+          "text": "551 Ahoi Datum",
+          "url": "/nomos-glashutte/ahoi/551"
+        }
+      ]
+    },
+    {
+      "name": "Ludwig watches47",
+      "slug": "ludwig",
+      "references": [
+        {
+          "slug": "211",
+          "text": "211 Ludwig Gold",
+          "url": "/nomos-glashutte/ludwig/211"
+        },
+        {
+          "slug": "241-s5",
+          "text": "241.S5 Ludwig 33 Duo Japan",
+          "url": "/nomos-glashutte/ludwig/241-s5"
+        },
+        {
+          "slug": "242",
+          "text": "242 Ludwig 33 Duo Enamel White",
+          "url": "/nomos-glashutte/ludwig/242"
+        },
+        {
+          "slug": "205-s5",
+          "text": "205.S5 Ludwig Japan",
+          "url": "/nomos-glashutte/ludwig/205-s5"
+        },
+        {
+          "slug": "205-s2",
+          "text": "205.S2 Ludwig 175 Years Watchmaking Glashütte",
+          "url": "/nomos-glashutte/ludwig/205-s2"
+        },
+        {
+          "slug": "261",
+          "text": "261 Ludwig Neomatik 41 Date",
+          "url": "/nomos-glashutte/ludwig/261"
+        },
+        {
+          "slug": "248",
+          "text": "248 Ludwig 33 Champagner Glasboden",
+          "url": "/nomos-glashutte/ludwig/248"
+        },
+        {
+          "slug": "272",
+          "text": "272 Ludwig Automatik Datum Anthrazit",
+          "url": "/nomos-glashutte/ludwig/272"
+        },
+        {
+          "slug": "234-s3",
+          "text": "234.S3 Ludwig 38 75 Jahre Grundgesetz",
+          "url": "/nomos-glashutte/ludwig/234-s3"
+        },
+        {
+          "slug": "237",
+          "text": "237 Ludwig 38 Enamel White See-Through",
+          "url": "/nomos-glashutte/ludwig/237"
+        },
+        {
+          "slug": "236",
+          "text": "236 Ludwig 38 Enamel White",
+          "url": "/nomos-glashutte/ludwig/236"
+        },
+        {
+          "slug": "281",
+          "text": "281 Ludwig Neomatik Champagner 1st Edition",
+          "url": "/nomos-glashutte/ludwig/281"
+        },
+        {
+          "slug": "226",
+          "text": "226 Ludwig 33 Noir / Steel Back",
+          "url": "/nomos-glashutte/ludwig/226"
+        },
+        {
+          "slug": "227",
+          "text": "227 Ludwig 33 Noir / See-Through Back",
+          "url": "/nomos-glashutte/ludwig/227"
+        },
+        {
+          "slug": "205-s3",
+          "text": "205.S3 Ludwig  75 Jahre Grundgesetz",
+          "url": "/nomos-glashutte/ludwig/205-s3"
+        },
+        {
+          "slug": "252",
+          "text": "252 Ludwig Automatik Anthazit",
+          "url": "/nomos-glashutte/ludwig/252"
+        },
+        {
+          "slug": "234",
+          "text": "234 Ludwig 38",
+          "url": "/nomos-glashutte/ludwig/234"
+        },
+        {
+          "slug": "241",
+          "text": "241 Ludwig 33 Duo See-Through",
+          "url": "/nomos-glashutte/ludwig/241"
+        },
+        {
+          "slug": "244-s3",
+          "text": "244.S3 Ludwig 33 75 Jahre Grundgesetz",
+          "url": "/nomos-glashutte/ludwig/244-s3"
+        },
+        {
+          "slug": "262",
+          "text": "262 Ludwig Neomatik 41 Date",
+          "url": "/nomos-glashutte/ludwig/262"
+        },
+        {
+          "slug": "250-s3",
+          "text": "250.S3 Ludwig neomatik 39 75 Jahre Grundgesetz",
+          "url": "/nomos-glashutte/ludwig/250-s3"
+        },
+        {
+          "slug": "282-s3",
+          "text": "282.S3 Ludwig neomatik 75 Jahre Grundgesetz",
+          "url": "/nomos-glashutte/ludwig/282-s3"
+        },
+        {
+          "slug": "262-s3",
+          "text": "262.S3 Ludwig neomatik 41 Datum 75 Jahre Grundgesetz",
+          "url": "/nomos-glashutte/ludwig/262-s3"
+        },
+        {
+          "slug": "249",
+          "text": "249 Ludwig 33 Duo Enamel White See-Through",
+          "url": "/nomos-glashutte/ludwig/249"
+        },
+        {
+          "slug": "271-s2",
+          "text": "271.S2 Ludwig Automatik Datum 150 Jahre Techel",
+          "url": "/nomos-glashutte/ludwig/271-s2"
+        },
+        {
+          "slug": "233-s2",
+          "text": "233.S2 Ludwig 38 Datum",
+          "url": "/nomos-glashutte/ludwig/233-s2"
+        },
+        {
+          "slug": "250",
+          "text": "250 Ludwig Neomatik 39",
+          "url": "/nomos-glashutte/ludwig/250"
+        },
+        {
+          "slug": "205-ol",
+          "text": "205.OL Ludwig Oberlehrer",
+          "url": "/nomos-glashutte/ludwig/205-ol"
+        },
+        {
+          "slug": "205",
+          "text": "205 Ludwig",
+          "url": "/nomos-glashutte/ludwig/205"
+        },
+        {
+          "slug": "243",
+          "text": "243 Ludwig 33",
+          "url": "/nomos-glashutte/ludwig/243"
+        },
+        {
+          "slug": "244",
+          "text": "244 Ludwig 33",
+          "url": "/nomos-glashutte/ludwig/244"
+        },
+        {
+          "slug": "231",
+          "text": "231 Ludwig 38 Datum",
+          "url": "/nomos-glashutte/ludwig/231"
+        },
+        {
+          "slug": "251",
+          "text": "251 Ludwig Automatik",
+          "url": "/nomos-glashutte/ludwig/251"
+        },
+        {
+          "slug": "271",
+          "text": "271 Ludwig Automatik Datum",
+          "url": "/nomos-glashutte/ludwig/271"
+        },
+        {
+          "slug": "246",
+          "text": "246 Ludwig 33 Anthrazit Glasboden",
+          "url": "/nomos-glashutte/ludwig/246"
+        },
+        {
+          "slug": "245",
+          "text": "245 Ludwig 33 Anthrazit",
+          "url": "/nomos-glashutte/ludwig/245"
+        },
+        {
+          "slug": "213",
+          "text": "213 Ludwig Gold mocca",
+          "url": "/nomos-glashutte/ludwig/213"
+        },
+        {
+          "slug": "250-s1",
+          "text": "250.S1 Ludwig Neomatik 39 175 Years Watchmaking Glashütte",
+          "url": "/nomos-glashutte/ludwig/250-s1"
+        },
+        {
+          "slug": "282",
+          "text": "282 Ludwig Neomatik",
+          "url": "/nomos-glashutte/ludwig/282"
+        },
+        {
+          "slug": "283",
+          "text": "283 Ludwig Neomatik Champagner",
+          "url": "/nomos-glashutte/ludwig/283"
+        },
+        {
+          "slug": "280",
+          "text": "280 Ludwig Neomatik 1st Edition",
+          "url": "/nomos-glashutte/ludwig/280"
+        },
+        {
+          "slug": "247",
+          "text": "247 Ludwig 33 Champagner",
+          "url": "/nomos-glashutte/ludwig/247"
+        },
+        {
+          "slug": "235",
+          "text": "235 Ludwig 38",
+          "url": "/nomos-glashutte/ludwig/235"
+        },
+        {
+          "slug": "240",
+          "text": "240 Ludwig 33 Duo",
+          "url": "/nomos-glashutte/ludwig/240"
+        },
+        {
+          "slug": "201",
+          "text": "201 Ludwig",
+          "url": "/nomos-glashutte/ludwig/201"
+        },
+        {
+          "slug": "260",
+          "text": "260 Ludwig Neomatik 41 Date",
+          "url": "/nomos-glashutte/ludwig/260"
+        },
+        {
+          "slug": "261-s1",
+          "text": "261.S1 Ludwig Neomatik 41 Date 175 Years Watchmaking Glashütte",
+          "url": "/nomos-glashutte/ludwig/261-s1"
+        }
+      ]
+    },
+    {
+      "name": "Zürich watches22",
+      "slug": "zurich",
+      "references": [
+        {
+          "slug": "805-s3",
+          "text": "805.S3 Zürich Weltzeit 5th Avenue",
+          "url": "/nomos-glashutte/zurich/805-s3"
+        },
+        {
+          "slug": "805-s28",
+          "text": "805.S28 Zürich Weltzeit Henne Jewelers",
+          "url": "/nomos-glashutte/zurich/805-s28"
+        },
+        {
+          "slug": "805-s26",
+          "text": "805.S26 Zürich Weltzeit Qatar / Al Zubarah Fort",
+          "url": "/nomos-glashutte/zurich/805-s26"
+        },
+        {
+          "slug": "805-s37",
+          "text": "805.S37 Zürich Weltzeit Sambal / Revolution Magazine",
+          "url": "/nomos-glashutte/zurich/805-s37"
+        },
+        {
+          "slug": "822",
+          "text": "822 Zürich Blaugold",
+          "url": "/nomos-glashutte/zurich/822"
+        },
+        {
+          "slug": "801-hw",
+          "text": "801.HW Zürich Hello Hannes",
+          "url": "/nomos-glashutte/zurich/801-hw"
+        },
+        {
+          "slug": "801-zm",
+          "text": "801.ZM Zurich 40 Jahre Zeit Magazin",
+          "url": "/nomos-glashutte/zurich/801-zm"
+        },
+        {
+          "slug": "802",
+          "text": "802 Zürich Datum",
+          "url": "/nomos-glashutte/zurich/802"
+        },
+        {
+          "slug": "807",
+          "text": "807 Zürich Weltzeit True Blue",
+          "url": "/nomos-glashutte/zurich/807"
+        },
+        {
+          "slug": "805-ma",
+          "text": "805.MA Zürich Weltzeit Manila",
+          "url": "/nomos-glashutte/zurich/805-ma"
+        },
+        {
+          "slug": "801",
+          "text": "801 Zürich",
+          "url": "/nomos-glashutte/zurich/801"
+        },
+        {
+          "slug": "805-s6",
+          "text": "805.S6 Zürich Weltzeit Red Dot Silver",
+          "url": "/nomos-glashutte/zurich/805-s6"
+        },
+        {
+          "slug": "805-s7",
+          "text": "805.S7 Zürich Weltzeit Red Dot Salmon",
+          "url": "/nomos-glashutte/zurich/805-s7"
+        },
+        {
+          "slug": "823",
+          "text": "823 Zürich Braungold",
+          "url": "/nomos-glashutte/zurich/823"
+        },
+        {
+          "slug": "805",
+          "text": "805 Zürich Weltzeit",
+          "url": "/nomos-glashutte/zurich/805"
+        },
+        {
+          "slug": "804",
+          "text": "804 Zürich Datum Anthrazit",
+          "url": "/nomos-glashutte/zurich/804"
+        },
+        {
+          "slug": "803",
+          "text": "803 Zürich Anthrazit",
+          "url": "/nomos-glashutte/zurich/803"
+        },
+        {
+          "slug": "805-to",
+          "text": "805.TO Zürich Weltzeit Topper Edition",
+          "url": "/nomos-glashutte/zurich/805-to"
+        },
+        {
+          "slug": "805-s21",
+          "text": "805.S21 Zürich Weltzeit Amsterdam",
+          "url": "/nomos-glashutte/zurich/805-s21"
+        },
+        {
+          "slug": "805-awc",
+          "text": "805.AWC Zürich Weltzeit Arab Watch Club",
+          "url": "/nomos-glashutte/zurich/805-awc"
+        },
+        {
+          "slug": "805-s34",
+          "text": "805.S34 Zürich Weltzeit DXM",
+          "url": "/nomos-glashutte/zurich/805-s34"
+        },
+        {
+          "slug": "806",
+          "text": "806 Zürich",
+          "url": "/nomos-glashutte/zurich/806"
+        }
+      ]
+    },
+    {
+      "name": "Metro watches21",
+      "slug": "metro",
+      "references": [
+        {
+          "slug": "1112",
+          "text": "1112 Metro 38 Stadschwartz",
+          "url": "/nomos-glashutte/metro/1112"
+        },
+        {
+          "slug": "1102",
+          "text": "1102 Metro 38 Datum",
+          "url": "/nomos-glashutte/metro/1102"
+        },
+        {
+          "slug": "1180",
+          "text": "1180 Metro Neomatik 39 Rose Gold",
+          "url": "/nomos-glashutte/metro/1180"
+        },
+        {
+          "slug": "1111",
+          "text": "1111 Metro 38 Stadschwartz",
+          "url": "/nomos-glashutte/metro/1111"
+        },
+        {
+          "slug": "1107",
+          "text": "1107 Metro Neomatik Champagner",
+          "url": "/nomos-glashutte/metro/1107"
+        },
+        {
+          "slug": "1101",
+          "text": "1101 Metro",
+          "url": "/nomos-glashutte/metro/1101"
+        },
+        {
+          "slug": "1103",
+          "text": "1103 Metro 38 Datum Urban Grey",
+          "url": "/nomos-glashutte/metro/1103"
+        },
+        {
+          "slug": "1106",
+          "text": "1106 Metro Neomatik",
+          "url": "/nomos-glashutte/metro/1106"
+        },
+        {
+          "slug": "1110",
+          "text": "1110 Metro Neomatik Nachtblau",
+          "url": "/nomos-glashutte/metro/1110"
+        },
+        {
+          "slug": "1109",
+          "text": "1109 Metro 38 Silver / Steel Back",
+          "url": "/nomos-glashutte/metro/1109"
+        },
+        {
+          "slug": "1104",
+          "text": "1104 Metro Neomatik 1st Edition",
+          "url": "/nomos-glashutte/metro/1104"
+        },
+        {
+          "slug": "1113",
+          "text": "1113 Metro Neomatik 39",
+          "url": "/nomos-glashutte/metro/1113"
+        },
+        {
+          "slug": "1105",
+          "text": "1105 Metro Neomatik Champagner 1st Edition",
+          "url": "/nomos-glashutte/metro/1105"
+        },
+        {
+          "slug": "1115",
+          "text": "1115 Metro Neomatik 39 Nachtblau",
+          "url": "/nomos-glashutte/metro/1115"
+        },
+        {
+          "slug": "1114",
+          "text": "1114 Metro Neomatik 39 Silvercut",
+          "url": "/nomos-glashutte/metro/1114"
+        },
+        {
+          "slug": "1108",
+          "text": "1108 Metro 38 Silver",
+          "url": "/nomos-glashutte/metro/1108"
+        },
+        {
+          "slug": "1170",
+          "text": "1170 Metro 33 Rose Gold",
+          "url": "/nomos-glashutte/metro/1170"
+        },
+        {
+          "slug": "1165",
+          "text": "1165 Metro Neomatik Update",
+          "url": "/nomos-glashutte/metro/1165"
+        },
+        {
+          "slug": "1106-s1",
+          "text": "1106.S1 Metro Neomatik Ace Jewelers",
+          "url": "/nomos-glashutte/metro/1106-s1"
+        },
+        {
+          "slug": "1113-s1",
+          "text": "1113.S1 Metro Neomatik 39 Ace Jewelers",
+          "url": "/nomos-glashutte/metro/1113-s1"
+        },
+        {
+          "slug": "1101-s1",
+          "text": "1101.S1 Metro Power Reserve Watches of Switzerland",
+          "url": "/nomos-glashutte/metro/1101-s1"
+        }
+      ]
+    },
+    {
+      "name": "Tangomat watches14",
+      "slug": "tangomat",
+      "references": [
+        {
+          "slug": "602-dis20",
+          "text": "602.DIS20 Tangomat Datum Dresden International School 20",
+          "url": "/nomos-glashutte/tangomat/602-dis20"
+        },
+        {
+          "slug": "603",
+          "text": "603 Tangomat Ruthenium",
+          "url": "/nomos-glashutte/tangomat/603"
+        },
+        {
+          "slug": "601-s12",
+          "text": "601.S12 Tangomat A Century of Bauhaus Yellow",
+          "url": "/nomos-glashutte/tangomat/601-s12"
+        },
+        {
+          "slug": "635",
+          "text": "635 Tangomat GMT",
+          "url": "/nomos-glashutte/tangomat/635"
+        },
+        {
+          "slug": "641-s1",
+          "text": "641.S1 Tangomat Glück Auf",
+          "url": "/nomos-glashutte/tangomat/641-s1"
+        },
+        {
+          "slug": "601",
+          "text": "601 Tangomat",
+          "url": "/nomos-glashutte/tangomat/601"
+        },
+        {
+          "slug": "602",
+          "text": "602 Tangomat Datum",
+          "url": "/nomos-glashutte/tangomat/602"
+        },
+        {
+          "slug": "601-s13",
+          "text": "601.S13 Tangomat für Ärzte ohne Grenzen",
+          "url": "/nomos-glashutte/tangomat/601-s13"
+        },
+        {
+          "slug": "601-s10",
+          "text": "601.S10 Tangomat A Century of Bauhaus Red",
+          "url": "/nomos-glashutte/tangomat/601-s10"
+        },
+        {
+          "slug": "604",
+          "text": "604 Tangomat Ruthenium Datum",
+          "url": "/nomos-glashutte/tangomat/604"
+        },
+        {
+          "slug": "629",
+          "text": "629 Tangomat Norma",
+          "url": "/nomos-glashutte/tangomat/629"
+        },
+        {
+          "slug": "637",
+          "text": "637 Tangomat GMT +",
+          "url": "/nomos-glashutte/tangomat/637"
+        },
+        {
+          "slug": "641",
+          "text": "641 Tangomat",
+          "url": "/nomos-glashutte/tangomat/641"
+        },
+        {
+          "slug": "601-s11",
+          "text": "601.S11 Tangomat A Century of Bauhaus Blue",
+          "url": "/nomos-glashutte/tangomat/601-s11"
+        }
+      ]
+    },
+    {
+      "name": "Lambda watches12",
+      "slug": "lambda",
+      "references": [
+        {
+          "slug": "933",
+          "text": "933 Lambda Weissgold Blue Hands",
+          "url": "/nomos-glashutte/lambda/933"
+        },
+        {
+          "slug": "932",
+          "text": "932 Lambda Roségold Blue Hands",
+          "url": "/nomos-glashutte/lambda/932"
+        },
+        {
+          "slug": "960-s1",
+          "text": "960.S1 Lambda 175 Stainless Steel / White",
+          "url": "/nomos-glashutte/lambda/960-s1"
+        },
+        {
+          "slug": "931",
+          "text": "931 Lambda Weissgold",
+          "url": "/nomos-glashutte/lambda/931"
+        },
+        {
+          "slug": "954",
+          "text": "954 Lambda 39 Samtschwarz",
+          "url": "/nomos-glashutte/lambda/954"
+        },
+        {
+          "slug": "930",
+          "text": "930 Lambda Roségold",
+          "url": "/nomos-glashutte/lambda/930"
+        },
+        {
+          "slug": "952",
+          "text": "952 Lambda 39 Roségold",
+          "url": "/nomos-glashutte/lambda/952"
+        },
+        {
+          "slug": "960-s2",
+          "text": "960.S2 Lambda 175 Stainless Steel / Black",
+          "url": "/nomos-glashutte/lambda/960-s2"
+        },
+        {
+          "slug": "960-s3",
+          "text": "960.S3 Lambda 175 Stainless Steel / Blue",
+          "url": "/nomos-glashutte/lambda/960-s3"
+        },
+        {
+          "slug": "935",
+          "text": "935 Lambda Tiefblau",
+          "url": "/nomos-glashutte/lambda/935"
+        },
+        {
+          "slug": "953",
+          "text": "953 Lambda 39 Roségold Blue Hands",
+          "url": "/nomos-glashutte/lambda/953"
+        },
+        {
+          "slug": "952-dz",
+          "text": "952.DZ Lambda 39 Roségold ZEIT Sonderedition",
+          "url": "/nomos-glashutte/lambda/952-dz"
+        }
+      ]
+    },
+    {
+      "name": "Autobahn watches6",
+      "slug": "autobahn",
+      "references": [
+        {
+          "slug": "1302",
+          "text": "1302 Autobahn Neomatik 41 Date Midnight Blue",
+          "url": "/nomos-glashutte/autobahn/1302"
+        },
+        {
+          "slug": "1301",
+          "text": "1301 Autobahn Neomatik 41 Date Silver",
+          "url": "/nomos-glashutte/autobahn/1301"
+        },
+        {
+          "slug": "1301-s2",
+          "text": "1301.S2 Autobahn Director's Cut Limited Edition A7",
+          "url": "/nomos-glashutte/autobahn/1301-s2"
+        },
+        {
+          "slug": "1303",
+          "text": "1303 Autobahn Neomatik 41 Date Sports Gray",
+          "url": "/nomos-glashutte/autobahn/1303"
+        },
+        {
+          "slug": "1301-s1",
+          "text": "1301.S1 Autobahn Director's Cut Limited Edition A3",
+          "url": "/nomos-glashutte/autobahn/1301-s1"
+        },
+        {
+          "slug": "1301-s3",
+          "text": "1301.S3 Autobahn Director's Cut Limited Edition A9",
+          "url": "/nomos-glashutte/autobahn/1301-s3"
+        }
+      ]
+    },
+    {
+      "name": "Lux watches5",
+      "slug": "lux",
+      "references": [
+        {
+          "slug": "940",
+          "text": "940 Lux Hermelin",
+          "url": "/nomos-glashutte/lux/940"
+        },
+        {
+          "slug": "941",
+          "text": "941 Lux Zikade",
+          "url": "/nomos-glashutte/lux/941"
+        },
+        {
+          "slug": "920",
+          "text": "920 Lux Weissgold",
+          "url": "/nomos-glashutte/lux/920"
+        },
+        {
+          "slug": "921",
+          "text": "921 Lux Weissgold Hell",
+          "url": "/nomos-glashutte/lux/921"
+        },
+        {
+          "slug": "942",
+          "text": "942 Lux Zobel",
+          "url": "/nomos-glashutte/lux/942"
+        }
+      ]
+    },
+    {
+      "name": "Minimatik watches5",
+      "slug": "minimatik",
+      "references": [
+        {
+          "slug": "1204",
+          "text": "1204 Minimatik Champagner",
+          "url": "/nomos-glashutte/minimatik/1204"
+        },
+        {
+          "slug": "1205",
+          "text": "1205 Minimatik Nachtblau",
+          "url": "/nomos-glashutte/minimatik/1205"
+        },
+        {
+          "slug": "1203",
+          "text": "1203 Minimatik",
+          "url": "/nomos-glashutte/minimatik/1203"
+        },
+        {
+          "slug": "1201",
+          "text": "1201 Minimatik",
+          "url": "/nomos-glashutte/minimatik/1201"
+        },
+        {
+          "slug": "1202",
+          "text": "1202 Minimatik Champagner 1st Edition",
+          "url": "/nomos-glashutte/minimatik/1202"
+        }
+      ]
+    }
+  ],
+  "total_references": 571
+}

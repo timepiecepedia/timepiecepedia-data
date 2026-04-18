@@ -1,0 +1,117 @@
+{
+  "brand_slug": "meistersinger",
+  "collections": [
+    {
+      "name": "Single-Hand Watches watches21",
+      "slug": "single-hand-watches",
+      "references": [
+        {
+          "slug": "bm1003",
+          "text": "BM1003 Perigraph Stainless Steel / Cream / Strap",
+          "url": "/meistersinger/single-hand-watches/bm1003"
+        },
+        {
+          "slug": "cc103",
+          "text": "CC103 Circularis Ivory",
+          "url": "/meistersinger/single-hand-watches/cc103"
+        },
+        {
+          "slug": "am6601g",
+          "text": "AM6601G N° 02",
+          "url": "/meistersinger/single-hand-watches/am6601g"
+        },
+        {
+          "slug": "cc108",
+          "text": "CC108 Circularis Blue",
+          "url": "/meistersinger/single-hand-watches/cc108"
+        },
+        {
+          "slug": "am-bf",
+          "text": "AM BF Benjamin Franklin",
+          "url": "/meistersinger/single-hand-watches/am-bf"
+        },
+        {
+          "slug": "am907",
+          "text": "AM907 N° 03",
+          "url": "/meistersinger/single-hand-watches/am907"
+        },
+        {
+          "slug": "am3301",
+          "text": "AM3301 N° 01",
+          "url": "/meistersinger/single-hand-watches/am3301"
+        },
+        {
+          "slug": "am6603",
+          "text": "AM6603 N° 02",
+          "url": "/meistersinger/single-hand-watches/am6603"
+        },
+        {
+          "slug": "am3303",
+          "text": "AM3303 N° 01",
+          "url": "/meistersinger/single-hand-watches/am3303"
+        },
+        {
+          "slug": "am6607",
+          "text": "AM6607 N° 02",
+          "url": "/meistersinger/single-hand-watches/am6607"
+        },
+        {
+          "slug": "am903",
+          "text": "AM903 N° 03",
+          "url": "/meistersinger/single-hand-watches/am903"
+        },
+        {
+          "slug": "am908",
+          "text": "AM908 N° 03",
+          "url": "/meistersinger/single-hand-watches/am908"
+        },
+        {
+          "slug": "pm903",
+          "text": "PM903 Pangea",
+          "url": "/meistersinger/single-hand-watches/pm903"
+        },
+        {
+          "slug": "pm908",
+          "text": "PM908 Pangea",
+          "url": "/meistersinger/single-hand-watches/pm908"
+        },
+        {
+          "slug": "cc101",
+          "text": "CC101 Circularis Silver",
+          "url": "/meistersinger/single-hand-watches/cc101"
+        },
+        {
+          "slug": "edat14",
+          "text": "EDAT14 Neo Ostarrichi",
+          "url": "/meistersinger/single-hand-watches/edat14"
+        },
+        {
+          "slug": "edat15",
+          "text": "EDAT15 N° 01 Ostarrichi",
+          "url": "/meistersinger/single-hand-watches/edat15"
+        },
+        {
+          "slug": "pm901",
+          "text": "PM901 Pangea",
+          "url": "/meistersinger/single-hand-watches/pm901"
+        },
+        {
+          "slug": "am3307",
+          "text": "AM3307 N° 01",
+          "url": "/meistersinger/single-hand-watches/am3307"
+        },
+        {
+          "slug": "pm907",
+          "text": "PM907 Pangea",
+          "url": "/meistersinger/single-hand-watches/pm907"
+        },
+        {
+          "slug": "am901",
+          "text": "AM901 N° 03",
+          "url": "/meistersinger/single-hand-watches/am901"
+        }
+      ]
+    }
+  ],
+  "total_references": 21
+}

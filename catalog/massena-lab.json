@@ -1,0 +1,37 @@
+{
+  "brand_slug": "massena-lab",
+  "collections": [
+    {
+      "name": "Uni-Racer watches5",
+      "slug": "uni-racer",
+      "references": [
+        {
+          "slug": "ur-002",
+          "text": "UR-002 Uni-Racer Black",
+          "url": "/massena-lab/uni-racer/ur-002"
+        },
+        {
+          "slug": "ur-001",
+          "text": "UR-001 Uni-Racer White",
+          "url": "/massena-lab/uni-racer/ur-001"
+        },
+        {
+          "slug": "ur-001-ral",
+          "text": "UR-001-RAL Uni-Racer Rally",
+          "url": "/massena-lab/uni-racer/ur-001-ral"
+        },
+        {
+          "slug": "ur-001-cru",
+          "text": "UR-001-CRU Uni-Racer Cruise",
+          "url": "/massena-lab/uni-racer/ur-001-cru"
+        },
+        {
+          "slug": "ur-001-saf",
+          "text": "UR-001-SAF Uni-Racer Safari",
+          "url": "/massena-lab/uni-racer/ur-001-saf"
+        }
+      ]
+    }
+  ],
+  "total_references": 5
+}

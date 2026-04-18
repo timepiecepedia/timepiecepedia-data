@@ -1,0 +1,17 @@
+{
+  "brand_slug": "lyrique",
+  "collections": [
+    {
+      "name": "Étude watches1",
+      "slug": "etude",
+      "references": [
+        {
+          "slug": "le50-1",
+          "text": "LE50-1 Étude No.1 Stainless Steel / Silver",
+          "url": "/lyrique/etude/le50-1"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

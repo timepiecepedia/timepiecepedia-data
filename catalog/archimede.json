@@ -1,0 +1,572 @@
+{
+  "brand_slug": "archimede",
+  "collections": [
+    {
+      "name": "Klassik watches34",
+      "slug": "klassik",
+      "references": [
+        {
+          "slug": "ua7939-c2-31",
+          "text": "UA7939-C2.31 Klassik Chronograph Stainless Steel / Black / Leather",
+          "url": "/archimede/klassik/ua7939-c2-31"
+        },
+        {
+          "slug": "ua4929-a3-21",
+          "text": "UA4929-A3.21 Klassik 36 Stainless Steel / Black / Black Leather",
+          "url": "/archimede/klassik/ua4929-a3-21"
+        },
+        {
+          "slug": "ua7939bm-c2-31",
+          "text": "UA7939BM-C2.31 Klassik Chronograph Stainless Steel / Black / Bracelet",
+          "url": "/archimede/klassik/ua7939bm-c2-31"
+        },
+        {
+          "slug": "ua7939-c2-41",
+          "text": "UA7939-C2.41 Klassik Chronograph Stainless Steel / Silver / Leather",
+          "url": "/archimede/klassik/ua7939-c2-41"
+        },
+        {
+          "slug": "ua4929-a3-32-eg5",
+          "text": "UA4929-A3.32-EG5 Klassik 36 TwoTone / Silver / Brown Leather",
+          "url": "/archimede/klassik/ua4929-a3-32-eg5"
+        },
+        {
+          "slug": "ua7929-a2-8-sw",
+          "text": "UA7929-A2.8-SW Klassik 42 TwoTone Stainless Steel / PVD / Black / Black Leather",
+          "url": "/archimede/klassik/ua7929-a2-8-sw"
+        },
+        {
+          "slug": "ua4929-a3-41-g5",
+          "text": "UA4929-A3.41-G5 Klassik 36 Gold PVD / Black / Black Leather",
+          "url": "/archimede/klassik/ua4929-a3-41-g5"
+        },
+        {
+          "slug": "ua7969-a3-10",
+          "text": "UA7969-A3.10 Klassik 39 Stainless Steel / Brown / Brown Leather",
+          "url": "/archimede/klassik/ua7969-a3-10"
+        },
+        {
+          "slug": "ua7969-a3-4",
+          "text": "UA7969-A3.4 Klassik 39 Stainless Steel / Silver / Brown Leather",
+          "url": "/archimede/klassik/ua7969-a3-4"
+        },
+        {
+          "slug": "ua4929-a3-41-eg5",
+          "text": "UA4929-A3.41-EG5 Klassik 36 TwoTone / Black / Black Leather",
+          "url": "/archimede/klassik/ua4929-a3-41-eg5"
+        },
+        {
+          "slug": "ua7939-c2-42",
+          "text": "UA7939-C2.42 Klassik Chronograph Stainless Steel / Silver / Leather",
+          "url": "/archimede/klassik/ua7939-c2-42"
+        },
+        {
+          "slug": "ua7969bm-a3-3",
+          "text": "UA7969BM-A3.3 Klassik 39 Stainless Steel / Silver / Mesh",
+          "url": "/archimede/klassik/ua7969bm-a3-3"
+        },
+        {
+          "slug": "ua7939-c2-32",
+          "text": "UA7939-C2.32 Klassik Chronograph Stainless Steel / Black / Leather",
+          "url": "/archimede/klassik/ua7939-c2-32"
+        },
+        {
+          "slug": "ua4929-a3-11",
+          "text": "UA4929-A3.11 Klassik 36 Stainless Steel / Silver / Black Leather",
+          "url": "/archimede/klassik/ua4929-a3-11"
+        },
+        {
+          "slug": "ua7939bm-c2-41",
+          "text": "UA7939BM-C2.41 Klassik Chronograph Stainless Steel / Silver / Bracelet",
+          "url": "/archimede/klassik/ua7939bm-c2-41"
+        },
+        {
+          "slug": "ua4929-a3-32",
+          "text": "UA4929-A3.32 Klassik 36 TwoTone / Silver / Brown Leather",
+          "url": "/archimede/klassik/ua4929-a3-32"
+        },
+        {
+          "slug": "ua7929-a2-7",
+          "text": "UA7929-A2.7 Klassik 42 TwoTone Stainless Steel / Silver / Brown Leather",
+          "url": "/archimede/klassik/ua7929-a2-7"
+        },
+        {
+          "slug": "ua7929-m2-12",
+          "text": "UA7929-M2.12 Klassik 42 Stainless Steel / Silver / Brown Leather",
+          "url": "/archimede/klassik/ua7929-m2-12"
+        },
+        {
+          "slug": "ua7969-a3-1",
+          "text": "UA7969-A3.1 Klassik 39 Stainless Steel / Black / Black Leather",
+          "url": "/archimede/klassik/ua7969-a3-1"
+        },
+        {
+          "slug": "ua7929-m2-50",
+          "text": "UA7929-M2.50 Klassik 42 Stainless Steel / Silver / Grey Suede",
+          "url": "/archimede/klassik/ua7929-m2-50"
+        },
+        {
+          "slug": "ua7969-a3-3",
+          "text": "UA7969-A3.3 Klassik 39 Stainless Steel / Silver / Black Leather",
+          "url": "/archimede/klassik/ua7969-a3-3"
+        },
+        {
+          "slug": "ua7929-m2-13",
+          "text": "UA7929-M2.13 Klassik 42 Stainless Steel / Silver / Blue Leather",
+          "url": "/archimede/klassik/ua7929-m2-13"
+        },
+        {
+          "slug": "ua7929-a2-1-sw",
+          "text": "UA7929-A2.1-SW Klassik 42 TwoTone Stainless Steel / PVD / Black / Black Leather",
+          "url": "/archimede/klassik/ua7929-a2-1-sw"
+        },
+        {
+          "slug": "ua7969b-a3-3",
+          "text": "UA7969B-A3.3 Klassik 39 Stainless Steel / Silver / Bracelet",
+          "url": "/archimede/klassik/ua7969b-a3-3"
+        },
+        {
+          "slug": "ua7929-a2-10",
+          "text": "UA7929-A2.10 Klassik 42 Stainless Steel / Brown / Brown Leather",
+          "url": "/archimede/klassik/ua7929-a2-10"
+        },
+        {
+          "slug": "ua4929-a3-19",
+          "text": "UA4929-A3.19 Klassik 36 Stainless Steel / Silver / Blue Suede",
+          "url": "/archimede/klassik/ua4929-a3-19"
+        },
+        {
+          "slug": "ua7929-a2-1",
+          "text": "UA7929-A2.1 Klassik 42 Stainless Steel / Black / Black Leather",
+          "url": "/archimede/klassik/ua7929-a2-1"
+        },
+        {
+          "slug": "ua4929-a3-37",
+          "text": "UA4929-A3.37 Klassik 36 TwoTone / Silver / Beige Suede",
+          "url": "/archimede/klassik/ua4929-a3-37"
+        },
+        {
+          "slug": "ua4929-a3-41",
+          "text": "UA4929-A3.41 Klassik 36 TwoTone / Black / Black Leather",
+          "url": "/archimede/klassik/ua4929-a3-41"
+        },
+        {
+          "slug": "ua7929-m2-11",
+          "text": "UA7929-M2.11 Klassik 42 Stainless Steel / Silver / Black Leather",
+          "url": "/archimede/klassik/ua7929-m2-11"
+        },
+        {
+          "slug": "ua7929-a2-6-sw",
+          "text": "UA7929-A2.6-SW Klassik 42 TwoTone Stainless Steel / PVD / Silver / Black Leather",
+          "url": "/archimede/klassik/ua7929-a2-6-sw"
+        },
+        {
+          "slug": "ua4929-a3-32-g5",
+          "text": "UA4929-A3.32-G5 Klassik 36 Gold PVD / Silver / Brown Leather",
+          "url": "/archimede/klassik/ua4929-a3-32-g5"
+        },
+        {
+          "slug": "ua4929-a3-37-g5",
+          "text": "UA4929-A3.37-G5 Klassik 36 Gold PVD / Silver / Beige Suede",
+          "url": "/archimede/klassik/ua4929-a3-37-g5"
+        },
+        {
+          "slug": "ua7929-a2-8",
+          "text": "UA7929-A2.8 Klassik 42 TwoTone Stainless Steel / Black / Black Leather",
+          "url": "/archimede/klassik/ua7929-a2-8"
+        }
+      ]
+    },
+    {
+      "name": "Outdoor watches20",
+      "slug": "outdoor",
+      "references": [
+        {
+          "slug": "ua8239b-a1-1-h",
+          "text": "UA8239B-A1.1-H OutDoor 39 Protect Stainless Steel / Lume / Bracelet",
+          "url": "/archimede/outdoor/ua8239b-a1-1-h"
+        },
+        {
+          "slug": "ua8239b-a4-1-h",
+          "text": "UA8239B-A4.1-H OutDoor 39 Protect Stainless Steel / Green / Bracelet",
+          "url": "/archimede/outdoor/ua8239b-a4-1-h"
+        },
+        {
+          "slug": "ua8239b-a3-1-h",
+          "text": "UA8239B-A3.1-H OutDoor 39 Protect Stainless Steel / Blue / Bracelet",
+          "url": "/archimede/outdoor/ua8239b-a3-1-h"
+        },
+        {
+          "slug": "ua8239s-a3-1-h",
+          "text": "UA8239S-A3.1-H OutDoor 39 Protect Stainless Steel / Blue / Rubber",
+          "url": "/archimede/outdoor/ua8239s-a3-1-h"
+        },
+        {
+          "slug": "ua8239b-a2-1-h",
+          "text": "UA8239B-A2.1-H OutDoor 39 Protect Stainless Steel / Black / Bracelet",
+          "url": "/archimede/outdoor/ua8239b-a2-1-h"
+        },
+        {
+          "slug": "ua8239-a6-1-h",
+          "text": "UA8239-A6.1-H OutDoor 39 Protect Stainless Steel / Red / Leather",
+          "url": "/archimede/outdoor/ua8239-a6-1-h"
+        },
+        {
+          "slug": "ua8239s-a6-1-h",
+          "text": "UA8239S-A6.1-H OutDoor 39 Protect Stainless Steel / Red / Rubber",
+          "url": "/archimede/outdoor/ua8239s-a6-1-h"
+        },
+        {
+          "slug": "ua8241b-a1",
+          "text": "UA8241B-A1 OutDoor 41 AntiMag Stainless Steel / Black / Bracelet",
+          "url": "/archimede/outdoor/ua8241b-a1"
+        },
+        {
+          "slug": "ua8239-a2-1-h",
+          "text": "UA8239-A2.1-H OutDoor 39 Protect Stainless Steel / Black / Leather",
+          "url": "/archimede/outdoor/ua8239-a2-1-h"
+        },
+        {
+          "slug": "ua8239b-a6-1-h",
+          "text": "UA8239B-A6.1-H OutDoor 39 Protect Stainless Steel / Red / Bracelet",
+          "url": "/archimede/outdoor/ua8239b-a6-1-h"
+        },
+        {
+          "slug": "ua8239f-a4-1-h",
+          "text": "UA8239F-A4.1-H OutDoor 39 Protect Stainless Steel / Green / Fixolex ®",
+          "url": "/archimede/outdoor/ua8239f-a4-1-h"
+        },
+        {
+          "slug": "ua8239-a4-1-h",
+          "text": "UA8239-A4.1-H OutDoor 39 Protect Stainless Steel / Green / Leather",
+          "url": "/archimede/outdoor/ua8239-a4-1-h"
+        },
+        {
+          "slug": "ua8239-a1-2-h",
+          "text": "UA8239-A1.2-H OutDoor 39 Protect Stainless Steel / Lume / Leather",
+          "url": "/archimede/outdoor/ua8239-a1-2-h"
+        },
+        {
+          "slug": "ua8239-a3-1-h",
+          "text": "UA8239-A3.1-H OutDoor 39 Protect Stainless Steel / Blue / Leather",
+          "url": "/archimede/outdoor/ua8239-a3-1-h"
+        },
+        {
+          "slug": "ua8239-a5-1-h",
+          "text": "UA8239-A5.1-H OutDoor 39 Protect Stainless Steel / Cream / Leather",
+          "url": "/archimede/outdoor/ua8239-a5-1-h"
+        },
+        {
+          "slug": "ua8239-a1-1-h",
+          "text": "UA8239-A1.1-H OutDoor 39 Protect Stainless Steel / Lume / Leather",
+          "url": "/archimede/outdoor/ua8239-a1-1-h"
+        },
+        {
+          "slug": "ua8239ca-a4-1-h",
+          "text": "UA8239CA-A4.1-H OutDoor 39 Protect Stainless Steel / Green / Canvas",
+          "url": "/archimede/outdoor/ua8239ca-a4-1-h"
+        },
+        {
+          "slug": "ua8239ca-a5-1-h",
+          "text": "UA8239CA-A5.1-H OutDoor 39 Protect Stainless Steel / Cream / Canvas",
+          "url": "/archimede/outdoor/ua8239ca-a5-1-h"
+        },
+        {
+          "slug": "ua8239s-a2-1-h",
+          "text": "UA8239S-A2.1-H OutDoor 39 Protect Stainless Steel / Black / Rubber",
+          "url": "/archimede/outdoor/ua8239s-a2-1-h"
+        },
+        {
+          "slug": "ua8239b-a5-1-h",
+          "text": "UA8239B-A5.1-H OutDoor 39 Protect Stainless Steel / Cream / Bracelet",
+          "url": "/archimede/outdoor/ua8239b-a5-1-h"
+        }
+      ]
+    },
+    {
+      "name": "Pilot watches16",
+      "slug": "pilot",
+      "references": [
+        {
+          "slug": "ua7949-a1-3",
+          "text": "UA7949-A1.3 Pilot 45 Automatic Stainless Steel / Black",
+          "url": "/archimede/pilot/ua7949-a1-3"
+        },
+        {
+          "slug": "ua7939-c1-1",
+          "text": "UA7939-C1.1 Pilot Chronograph Staineless Steel / Black",
+          "url": "/archimede/pilot/ua7939-c1-1"
+        },
+        {
+          "slug": "ua7949-a1-1",
+          "text": "UA7949-A1.1 Pilot 45 Automatic Stainless Steel / Black",
+          "url": "/archimede/pilot/ua7949-a1-1"
+        },
+        {
+          "slug": "ua7939-c1-3",
+          "text": "UA7939-C1.3 Pilot Chronograph Staineless Steel / Black",
+          "url": "/archimede/pilot/ua7939-c1-3"
+        },
+        {
+          "slug": "ua7949-h1-1",
+          "text": "UA7949-H1.1 Pilot 45 KS Stainless Steel / Black",
+          "url": "/archimede/pilot/ua7949-h1-1"
+        },
+        {
+          "slug": "ua7949-h1-2",
+          "text": "UA7949-H1.2 Pilot 45 KS Stainless Steel / Black",
+          "url": "/archimede/pilot/ua7949-h1-2"
+        },
+        {
+          "slug": "ua7949-a1-2",
+          "text": "UA7949-A1.2 Pilot 45 Automatic Stainless Steel / Black",
+          "url": "/archimede/pilot/ua7949-a1-2"
+        },
+        {
+          "slug": "ua7929-a7-3",
+          "text": "UA7929-A7.3 Pilot 42 H Stainless Steel / Black",
+          "url": "/archimede/pilot/ua7929-a7-3"
+        },
+        {
+          "slug": "ua7949-h1-3",
+          "text": "UA7949-H1.3 Pilot 45 KS Stainless Steel / Black",
+          "url": "/archimede/pilot/ua7949-h1-3"
+        },
+        {
+          "slug": "ua7949bm-h1-1",
+          "text": "UA7949BM-H1.1 Pilot 45 KS Stainless Steel / Black / Bracelet",
+          "url": "/archimede/pilot/ua7949bm-h1-1"
+        },
+        {
+          "slug": "ua7949-a1-1-l",
+          "text": "UA7949-A1.1-L Pilot 45 Automatic Stainless Steel / Black",
+          "url": "/archimede/pilot/ua7949-a1-1-l"
+        },
+        {
+          "slug": "ua7929-a7-1",
+          "text": "UA7929-A7.1 Pilot 42 H Stainless Steel / Black",
+          "url": "/archimede/pilot/ua7929-a7-1"
+        },
+        {
+          "slug": "ua7939-c1-2",
+          "text": "UA7939-C1.2 Pilot Chronograph Staineless Steel / Black",
+          "url": "/archimede/pilot/ua7939-c1-2"
+        },
+        {
+          "slug": "ua7939b-c1-1",
+          "text": "UA7939B-C1.1 Pilot Chronograph Staineless Steel / Black / Bracelet",
+          "url": "/archimede/pilot/ua7939b-c1-1"
+        },
+        {
+          "slug": "ua7939-c1-1-sw",
+          "text": "UA7939-C1.1-SW Pilot Chronograph PVD / Black",
+          "url": "/archimede/pilot/ua7939-c1-1-sw"
+        },
+        {
+          "slug": "ua7949bm-a1-1",
+          "text": "UA7949BM-A1.1 Pilot 45 Automatic Stainless Steel / Black / Bracelet",
+          "url": "/archimede/pilot/ua7949bm-a1-1"
+        }
+      ]
+    },
+    {
+      "name": "Sporttaucher watches14",
+      "slug": "sporttaucher",
+      "references": [
+        {
+          "slug": "ua8974-gs-a1-2",
+          "text": "UA8974-GS-A1.2 SportTaucher GMT Stainless Steel / Black / Rubber",
+          "url": "/archimede/sporttaucher/ua8974-gs-a1-2"
+        },
+        {
+          "slug": "ua8974b-ts-a4-1",
+          "text": "UA8974B-TS-A4.1 SportTaucher Stainless Steel / Black / Bracelet",
+          "url": "/archimede/sporttaucher/ua8974b-ts-a4-1"
+        },
+        {
+          "slug": "ua8974bm-tb-a5-5",
+          "text": "UA8974BM-TB-A5.5 SportTaucher Stainless Steel / Blue / Mesh",
+          "url": "/archimede/sporttaucher/ua8974bm-tb-a5-5"
+        },
+        {
+          "slug": "ua8974b-ts-a3-1",
+          "text": "UA8974B-TS-A3.1 SportTaucher Stainless Steel / White / Bracelet",
+          "url": "/archimede/sporttaucher/ua8974b-ts-a3-1"
+        },
+        {
+          "slug": "ua8974-ts-a1-5",
+          "text": "UA8974-TS-A1.5 SportTaucher Stainless Steel / Black / Black Leather",
+          "url": "/archimede/sporttaucher/ua8974-ts-a1-5"
+        },
+        {
+          "slug": "ua8974-ts-a4-2",
+          "text": "UA8974-TS-A4.2 SportTaucher Stainless Steel / Black / Rubber",
+          "url": "/archimede/sporttaucher/ua8974-ts-a4-2"
+        },
+        {
+          "slug": "ua8974-gs-a1-5",
+          "text": "UA8974-GS-A1.5 SportTaucher GMT Stainless Steel / Black / Leather",
+          "url": "/archimede/sporttaucher/ua8974-gs-a1-5"
+        },
+        {
+          "slug": "ua8974-tb-a5-5",
+          "text": "UA8974-TB-A5.5 SportTaucher Stainless Steel / Blue / Black Leather",
+          "url": "/archimede/sporttaucher/ua8974-tb-a5-5"
+        },
+        {
+          "slug": "ua8974-ts-a3-5",
+          "text": "UA8974-TS-A3.5 SportTaucher Stainless Steel / White / Black Leather",
+          "url": "/archimede/sporttaucher/ua8974-ts-a3-5"
+        },
+        {
+          "slug": "ua8974-ts-a4-5",
+          "text": "UA8974-TS-A4.5 SportTaucher Stainless Steel / Black / Black Leather",
+          "url": "/archimede/sporttaucher/ua8974-ts-a4-5"
+        },
+        {
+          "slug": "ua8974-ts-a1-2",
+          "text": "UA8974-TS-A1.2 SportTaucher Stainless Steel / Black / Rubber",
+          "url": "/archimede/sporttaucher/ua8974-ts-a1-2"
+        },
+        {
+          "slug": "ua8974-ts-a3-2",
+          "text": "UA8974-TS-A3.2 SportTaucher Stainless Steel / White / Rubber",
+          "url": "/archimede/sporttaucher/ua8974-ts-a3-2"
+        },
+        {
+          "slug": "ua8974b-ts-a1-1",
+          "text": "UA8974B-TS-A1.1 SportTaucher Stainless Steel / Black / Bracelet",
+          "url": "/archimede/sporttaucher/ua8974b-ts-a1-1"
+        },
+        {
+          "slug": "ua8974b-gs-a1-1",
+          "text": "UA8974B-GS-A1.1 SportTaucher GMT Stainless Steel / Black / Bracelet",
+          "url": "/archimede/sporttaucher/ua8974b-gs-a1-1"
+        }
+      ]
+    },
+    {
+      "name": "Deckwatch watches10",
+      "slug": "deckwatch",
+      "references": [
+        {
+          "slug": "ua7929-h1-1-br",
+          "text": "UA7929-H1.1-BR DeckWatch Bronze / Silver / Black Leather",
+          "url": "/archimede/deckwatch/ua7929-h1-1-br"
+        },
+        {
+          "slug": "ua7952-h4-1",
+          "text": "UA7952-H4.1 DeckWatch Stainless Steel / Black / Black Leather",
+          "url": "/archimede/deckwatch/ua7952-h4-1"
+        },
+        {
+          "slug": "ua7952-h2-1",
+          "text": "UA7952-H2.1 DeckWatch Stainless Steel / Black / Black Leather",
+          "url": "/archimede/deckwatch/ua7952-h2-1"
+        },
+        {
+          "slug": "ua7929-h1-4-br",
+          "text": "UA7929-H1.4-BR DeckWatch Bronze / Silver / Brown Leather",
+          "url": "/archimede/deckwatch/ua7929-h1-4-br"
+        },
+        {
+          "slug": "ua7929-h1-2",
+          "text": "UA7929-H1.2 DeckWatch Stainless Steel / Silver / Brown Leather",
+          "url": "/archimede/deckwatch/ua7929-h1-2"
+        },
+        {
+          "slug": "ua7929-h1-4",
+          "text": "UA7929-H1.4 DeckWatch Stainless Steel / Silver / Brown Leather",
+          "url": "/archimede/deckwatch/ua7929-h1-4"
+        },
+        {
+          "slug": "ua7929b-h1-1",
+          "text": "UA7929B-H1.1 DeckWatch Stainless Steel / Silver / Bracelet",
+          "url": "/archimede/deckwatch/ua7929b-h1-1"
+        },
+        {
+          "slug": "ua7929bm-h1-1",
+          "text": "UA7929BM-H1.1 DeckWatch Stainless Steel / Silver / Mesh",
+          "url": "/archimede/deckwatch/ua7929bm-h1-1"
+        },
+        {
+          "slug": "ua7929-h1-1",
+          "text": "UA7929-H1.1 DeckWatch Stainless Steel / Silver / Black Leather",
+          "url": "/archimede/deckwatch/ua7929-h1-1"
+        },
+        {
+          "slug": "ua7929-h1-2-br",
+          "text": "UA7929-H1.2-BR DeckWatch Bronze / Silver / Brown Leather",
+          "url": "/archimede/deckwatch/ua7929-h1-2-br"
+        }
+      ]
+    },
+    {
+      "name": "1950'S watches12",
+      "slug": "1950-s",
+      "references": [
+        {
+          "slug": "ua8069bm-a2-1",
+          "text": "UA8069BM-A2.1 1950-1 Stainless Steel / Black / Mesh",
+          "url": "/archimede/1950-s/ua8069bm-a2-1"
+        },
+        {
+          "slug": "ua8069-a2-1",
+          "text": "UA8069-A2.1 1950-1 Stainless Steel / Black / Black Leather",
+          "url": "/archimede/1950-s/ua8069-a2-1"
+        },
+        {
+          "slug": "ua8068p-a3-1",
+          "text": "UA8068P-A3.1 1950-2 Stainless Steel / Silver / Black Leather",
+          "url": "/archimede/1950-s/ua8068p-a3-1"
+        },
+        {
+          "slug": "ua8068p-a3-3",
+          "text": "UA8068P-A3.3 1950-2 Stainless Steel / Black / Brown Leather",
+          "url": "/archimede/1950-s/ua8068p-a3-3"
+        },
+        {
+          "slug": "ua8069-a1-2",
+          "text": "UA8069-A1.2 1950-1 Stainless Steel / Silver / Brown Leather",
+          "url": "/archimede/1950-s/ua8069-a1-2"
+        },
+        {
+          "slug": "ua8068p-a1-3",
+          "text": "UA8068P-A1.3 1950-2 Stainless Steel / Silver / Brown Leather",
+          "url": "/archimede/1950-s/ua8068p-a1-3"
+        },
+        {
+          "slug": "ua8069-a1-1",
+          "text": "UA8069-A1.1 1950-1 Stainless Steel / Silver / Black Leather",
+          "url": "/archimede/1950-s/ua8069-a1-1"
+        },
+        {
+          "slug": "ua8069-a2-2",
+          "text": "UA8069-A2.2 1950-1 Stainless Steel / Black / Black Leather",
+          "url": "/archimede/1950-s/ua8069-a2-2"
+        },
+        {
+          "slug": "ua8069bm-a1-1",
+          "text": "UA8069BM-A1.1 1950-1 Stainless Steel / Silver / Mesh",
+          "url": "/archimede/1950-s/ua8069bm-a1-1"
+        },
+        {
+          "slug": "ua8068p-a1-1",
+          "text": "UA8068P-A1.1 1950-2 Stainless Steel / Silver / Black Leather",
+          "url": "/archimede/1950-s/ua8068p-a1-1"
+        },
+        {
+          "slug": "ua8068bmp-a3-1",
+          "text": "UA8068BMP-A3.1 1950-2 Stainless Steel / Black / Mesh",
+          "url": "/archimede/1950-s/ua8068bmp-a3-1"
+        },
+        {
+          "slug": "ua8068bmp-a1-1",
+          "text": "UA8068BMP-A1.1 1950-2 Stainless Steel / Silver / Mesh",
+          "url": "/archimede/1950-s/ua8068bmp-a1-1"
+        }
+      ]
+    }
+  ],
+  "total_references": 106
+}

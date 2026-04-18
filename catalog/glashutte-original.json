@@ -1,0 +1,4119 @@
+{
+  "brand_slug": "glashutte-original",
+  "collections": [
+    {
+      "name": "Senator watches306",
+      "slug": "senator",
+      "references": [
+        {
+          "slug": "100-04-32-12-04",
+          "text": "100-04-32-12-04 Senator Panorama Date Moon Phase Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-04-32-12-04"
+        },
+        {
+          "slug": "1-94-03-04-04-02",
+          "text": "1-94-03-04-04-02 Senator Tourbillon White Gold / Grey / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-94-03-04-04-02"
+        },
+        {
+          "slug": "1-00-14-05-02-55",
+          "text": "1-00-14-05-02-55 Senator Observer Stainless Steel / Silver / Calf - Folding",
+          "url": "/glashutte-original/senator/1-00-14-05-02-55"
+        },
+        {
+          "slug": "1-89-02-05-02-30",
+          "text": "1-89-02-05-02-30 Senator Cosmopolite Stainless Steel / Blue / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-89-02-05-02-30"
+        },
+        {
+          "slug": "100-14-05-02-04",
+          "text": "100-14-05-02-04 Senator Observer Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-14-05-02-04"
+        },
+        {
+          "slug": "1-37-01-02-03-50",
+          "text": "1-37-01-02-03-50 Senator Chronograph Panorama Date Platinum / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-37-01-02-03-50"
+        },
+        {
+          "slug": "1-36-03-03-02-31",
+          "text": "1-36-03-03-02-31 Senator Excellence Panorama Date Stainless Steel / Grey / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-03-03-02-31"
+        },
+        {
+          "slug": "100-14-05-02-50",
+          "text": "100-14-05-02-50 Senator Observer Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-14-05-02-50"
+        },
+        {
+          "slug": "1-58-01-01-04-04",
+          "text": "1-58-01-01-04-04 Senator Chronometer White Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-01-01-04-04"
+        },
+        {
+          "slug": "100-14-07-02-70",
+          "text": "100-14-07-02-70 Senator Observer Stainless Steel / Black / Bracelet",
+          "url": "/glashutte-original/senator/100-14-07-02-70"
+        },
+        {
+          "slug": "100-14-02-02-05",
+          "text": "100-14-02-02-05 Senator Observer Stainless Steel / Grey / Calf / Folding",
+          "url": "/glashutte-original/senator/100-14-02-02-05"
+        },
+        {
+          "slug": "1-36-59-03-02-01",
+          "text": "1-36-59-03-02-01 Senator Excellence Stainless Steel / Black / Calf / Pin",
+          "url": "/glashutte-original/senator/1-36-59-03-02-01"
+        },
+        {
+          "slug": "1-89-02-01-40-50",
+          "text": "1-89-02-01-40-50 Senator Cosmopolite White Gold / Rainbow / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-89-02-01-40-50"
+        },
+        {
+          "slug": "1-00-14-07-02-50",
+          "text": "1-00-14-07-02-50 Senator Observer Stainless Steel / Black / Calf - Folding",
+          "url": "/glashutte-original/senator/1-00-14-07-02-50"
+        },
+        {
+          "slug": "1-36-24-02-02-61",
+          "text": "1-36-24-02-02-61 Senator Excellence Panorama Date Moonphase Stainless Steel / Grey / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-24-02-02-61"
+        },
+        {
+          "slug": "1-36-01-02-05-01",
+          "text": "1-36-01-02-05-01 Senator Excellence Red Gold / Silver / Alligator - Pin",
+          "url": "/glashutte-original/senator/1-36-01-02-05-01"
+        },
+        {
+          "slug": "1-49-13-15-04-01",
+          "text": "1-49-13-15-04-01 Senator Moon Phase White Gold / Skeleton / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-49-13-15-04-01"
+        },
+        {
+          "slug": "1-37-01-06-03-55",
+          "text": "1-37-01-06-03-55 Senator Chronograph Panorama Date Capital Edition Platinum / Silver  / Calf / Folding",
+          "url": "/glashutte-original/senator/1-37-01-06-03-55"
+        },
+        {
+          "slug": "1-36-03-05-02-31",
+          "text": "1-36-03-05-02-31 Senator Excellence Panorama Date Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-03-05-02-31"
+        },
+        {
+          "slug": "100-02-25-05-50",
+          "text": "100-02-25-05-50 Senator Perpetual Calendar Red Gold / Black / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-02-25-05-50"
+        },
+        {
+          "slug": "100-04-05-12-30",
+          "text": "100-04-05-12-30 Senator Panorama Date Moonphase Stainless Steel / Blue / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-04-05-12-30"
+        },
+        {
+          "slug": "1-37-01-03-02-33",
+          "text": "1-37-01-03-02-33 Senator Chronograph Panorama Date Stainless Steel / Black / Rubber - Folding",
+          "url": "/glashutte-original/senator/1-37-01-03-02-33"
+        },
+        {
+          "slug": "1-58-05-01-03-50",
+          "text": "1-58-05-01-03-50 Senator Chronometer Tourbillon Platinum / Blue / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-05-01-03-50"
+        },
+        {
+          "slug": "1-36-04-01-02-71",
+          "text": "1-36-04-01-02-71 Senator Excellence Panorama Date Moonphase Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/senator/1-36-04-01-02-71"
+        },
+        {
+          "slug": "1-89-02-01-05-61",
+          "text": "1-89-02-01-05-61 Senator Cosmopolite Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-89-02-01-05-61"
+        },
+        {
+          "slug": "1-36-02-04-02-33",
+          "text": "1-36-02-04-02-33 Senator Perpetual Calendar Bucherer Blue",
+          "url": "/glashutte-original/senator/1-36-02-04-02-33"
+        },
+        {
+          "slug": "1-36-04-03-02-71",
+          "text": "1-36-04-03-02-71 Senator Excellence Panorama Date Moonphase Stainless Steel / Grey / Bracelet",
+          "url": "/glashutte-original/senator/1-36-04-03-02-71"
+        },
+        {
+          "slug": "1-36-03-01-02-36",
+          "text": "1-36-03-01-02-36 Senator Excellence Panorama Date Stainless Steel / Silver / Synthetic - Folding",
+          "url": "/glashutte-original/senator/1-36-03-01-02-36"
+        },
+        {
+          "slug": "1-36-24-02-02-64",
+          "text": "1-36-24-02-02-64 Senator Excellence Panorama Date Moonphase Stainless Steel / Grey / Synthetic",
+          "url": "/glashutte-original/senator/1-36-24-02-02-64"
+        },
+        {
+          "slug": "100-13-04-04-04",
+          "text": "100-13-04-04-04 Senator Diary White Gold / Grey / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-13-04-04-04"
+        },
+        {
+          "slug": "100-13-02-02-14",
+          "text": "100-13-02-02-14 Senator Diary Stainless Steel Bracelet / Black / Bracelet",
+          "url": "/glashutte-original/senator/100-13-02-02-14"
+        },
+        {
+          "slug": "1-49-13-15-04-30",
+          "text": "1-49-13-15-04-30 Senator Moon Phase White Gold / Skeleton / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-49-13-15-04-30"
+        },
+        {
+          "slug": "1-36-04-01-02-70",
+          "text": "1-36-04-01-02-70 Senator Excellence Panorama Date Moonphase Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/senator/1-36-04-01-02-70"
+        },
+        {
+          "slug": "100-04-05-12-01",
+          "text": "100-04-05-12-01 Senator Panorama Date Moonphase Stainless Steel / Blue / Alligator / Pin",
+          "url": "/glashutte-original/senator/100-04-05-12-01"
+        },
+        {
+          "slug": "100-03-32-45-04",
+          "text": "100-03-32-45-04 Senator Panorama Date Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-03-32-45-04"
+        },
+        {
+          "slug": "100-03-32-42-14",
+          "text": "100-03-32-42-14 Senator Panorama Date Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/senator/100-03-32-42-14"
+        },
+        {
+          "slug": "1-89-02-01-05-01",
+          "text": "1-89-02-01-05-01 Senator Cosmopolite Red Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-89-02-01-05-01"
+        },
+        {
+          "slug": "1-37-01-05-02-55",
+          "text": "1-37-01-05-02-55 Senator Chronograph Panorama Date Stainless Steel / Silver / Calf / Folding",
+          "url": "/glashutte-original/senator/1-37-01-05-02-55"
+        },
+        {
+          "slug": "1-37-01-04-02-07",
+          "text": "1-37-01-04-02-07 Senator Chronograph Panorama Date Capital Edition Stainless Steel / Grey / Calf / Pin",
+          "url": "/glashutte-original/senator/1-37-01-04-02-07"
+        },
+        {
+          "slug": "1-36-02-01-02-50",
+          "text": "1-36-02-01-02-50 Senator Excellence Perpetual Calendar Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-02-01-02-50"
+        },
+        {
+          "slug": "1-36-01-03-02-30",
+          "text": "1-36-01-03-02-30 Senator Excellence Stainless Steel / Black / Calf / Folding",
+          "url": "/glashutte-original/senator/1-36-01-03-02-30"
+        },
+        {
+          "slug": "100-14-02-02-50",
+          "text": "100-14-02-02-50 Senator Observer Stainless Steel / Grey / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-14-02-02-50"
+        },
+        {
+          "slug": "100-02-25-12-14",
+          "text": "100-02-25-12-14 Senator Perpetual Calendar Stainless Steel / Black / Bracelet",
+          "url": "/glashutte-original/senator/100-02-25-12-14"
+        },
+        {
+          "slug": "1-36-04-03-02-70",
+          "text": "1-36-04-03-02-70 Senator Excellence Panorama Date Moonphase Stainless Steel / Grey / Bracelet",
+          "url": "/glashutte-original/senator/1-36-04-03-02-70"
+        },
+        {
+          "slug": "1-36-04-01-02-61",
+          "text": "1-36-04-01-02-61 Senator Excellence Panorama Date Moonphase Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-04-01-02-61"
+        },
+        {
+          "slug": "39-32-13-17-04",
+          "text": "39-32-13-17-04 Senator Chronograph Date Stainless Steel / Black",
+          "url": "/glashutte-original/senator/39-32-13-17-04"
+        },
+        {
+          "slug": "1-36-04-02-05-61",
+          "text": "1-36-04-02-05-61 Senator Excellence Panorama Date Moonphase Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-04-02-05-61"
+        },
+        {
+          "slug": "100-14-07-02-30",
+          "text": "100-14-07-02-30 Senator Observer Stainless Steel / Black / Calf - Folding",
+          "url": "/glashutte-original/senator/100-14-07-02-30"
+        },
+        {
+          "slug": "1-37-01-05-02-70",
+          "text": "1-37-01-05-02-70 Senator Chronograph Panorama Date Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/senator/1-37-01-05-02-70"
+        },
+        {
+          "slug": "1-36-04-05-02-31",
+          "text": "1-36-04-05-02-31 Senator Excellence Panorama Date Moonphase Stainless Steel / Silver / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-04-05-02-31"
+        },
+        {
+          "slug": "1-36-03-04-02-01",
+          "text": "1-36-03-04-02-01 Senator Excellence Panorama Date Stainless Steel / Blue / Alligator - Pin",
+          "url": "/glashutte-original/senator/1-36-03-04-02-01"
+        },
+        {
+          "slug": "1-58-01-01-04-50",
+          "text": "1-58-01-01-04-50 Senator Chronometer White Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-01-01-04-50"
+        },
+        {
+          "slug": "1-36-12-01-02-61",
+          "text": "1-36-12-01-02-61 Senator Perpetual Calendar Stainless Steel / Salmon  / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-12-01-02-61"
+        },
+        {
+          "slug": "1-36-24-02-05-02",
+          "text": "1-36-24-02-05-02 Senator Excellence Panorama Date Moonphase Red Gold / Silver / Nubuck - Pin",
+          "url": "/glashutte-original/senator/1-36-24-02-05-02"
+        },
+        {
+          "slug": "1-89-01-03-03-04",
+          "text": "1-89-01-03-03-04 Grande Cosmopolite Tourbillon Platinum / Silver",
+          "url": "/glashutte-original/senator/1-89-01-03-03-04"
+        },
+        {
+          "slug": "1-58-04-04-04-04",
+          "text": "1-58-04-04-04-04 Senator Chronometer Regulator White Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-04-04-04-04"
+        },
+        {
+          "slug": "100-02-25-05-05",
+          "text": "100-02-25-05-05 Senator Perpetual Calendar Red Gold / Black / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-02-25-05-05"
+        },
+        {
+          "slug": "100-02-25-12-05",
+          "text": "100-02-25-12-05 Senator Perpetual Calendar Stainless Steel / Black / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-02-25-12-05"
+        },
+        {
+          "slug": "1-39-59-01-05-04",
+          "text": "1-39-59-01-05-04 Senator Automatic Red Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-39-59-01-05-04"
+        },
+        {
+          "slug": "1-58-04-04-05-50",
+          "text": "1-58-04-04-05-50 Senator Chronometer Regulator Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-04-04-05-50"
+        },
+        {
+          "slug": "100-14-02-02-07",
+          "text": "100-14-02-02-07 Senator Observer Stainless Steel / Grey / Calf / Pin",
+          "url": "/glashutte-original/senator/100-14-02-02-07"
+        },
+        {
+          "slug": "1-89-02-01-40-30",
+          "text": "1-89-02-01-40-30 Senator Cosmopolite White Gold / Rainbow / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-89-02-01-40-30"
+        },
+        {
+          "slug": "1-58-06-01-03-61",
+          "text": "1-58-06-01-03-61 Senator Chronometer Flyback Tourbillon Platinum / Silver",
+          "url": "/glashutte-original/senator/1-58-06-01-03-61"
+        },
+        {
+          "slug": "1-36-24-02-02-01",
+          "text": "1-36-24-02-02-01 Senator Excellence Panorama Date Moonphase Stainless Steel / Grey / Alligator - Pin",
+          "url": "/glashutte-original/senator/1-36-24-02-02-01"
+        },
+        {
+          "slug": "1-36-01-03-02-36",
+          "text": "1-36-01-03-02-36 Senator Excellence Stainless Steel / Black / Fabric / Folding",
+          "url": "/glashutte-original/senator/1-36-01-03-02-36"
+        },
+        {
+          "slug": "1-36-02-01-02-61",
+          "text": "1-36-02-01-02-61 Senator Perpetual Calendar Stainless Steel / Silver / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-02-01-02-61"
+        },
+        {
+          "slug": "1-36-03-03-02-71",
+          "text": "1-36-03-03-02-71 Senator Excellence Panorama Date Stainless Steel / Grey / Bracelet",
+          "url": "/glashutte-original/senator/1-36-03-03-02-71"
+        },
+        {
+          "slug": "1-36-02-02-05-61",
+          "text": "1-36-02-02-05-61 Senator Excellence Perpetual Calendar Red Gold / Silver / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-02-02-05-61"
+        },
+        {
+          "slug": "1-94-03-04-04-04",
+          "text": "1-94-03-04-04-04 Senator Tourbillon White Gold / Grey / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-94-03-04-04-04"
+        },
+        {
+          "slug": "1-37-01-03-02-35",
+          "text": "1-37-01-03-02-35 Senator Chronograph Panorama Date Stainless Steel / Black / Calf - Folding",
+          "url": "/glashutte-original/senator/1-37-01-03-02-35"
+        },
+        {
+          "slug": "100-04-32-15-50",
+          "text": "100-04-32-15-50 Senator Panorama Date Moon Phase Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-04-32-15-50"
+        },
+        {
+          "slug": "1-58-01-01-01-04",
+          "text": "1-58-01-01-01-04 Senator Chronometer Rose Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-01-01-01-04"
+        },
+        {
+          "slug": "1-39-59-01-02-04",
+          "text": "1-39-59-01-02-04 Senator Automatic Stainless Steel / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-39-59-01-02-04"
+        },
+        {
+          "slug": "1-39-58-01-02-14",
+          "text": "1-39-58-01-02-14 Senator Hand Date Stainless Steel / Black / Bracelet",
+          "url": "/glashutte-original/senator/1-39-58-01-02-14"
+        },
+        {
+          "slug": "1-39-58-01-02-04",
+          "text": "1-39-58-01-02-04 Senator Hand Date Stainless Steel / Black / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-39-58-01-02-04"
+        },
+        {
+          "slug": "100-03-32-42-04",
+          "text": "100-03-32-42-04 Senator Panorama Date Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-03-32-42-04"
+        },
+        {
+          "slug": "1-36-03-02-05-30",
+          "text": "1-36-03-02-05-30 Senator Excellence Panorama Date Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-03-02-05-30"
+        },
+        {
+          "slug": "1-37-01-04-02-70",
+          "text": "1-37-01-04-02-70 Senator Chronograph Panorama Date Capital Edition Stainless Steel / Grey / Calf / Bracelet",
+          "url": "/glashutte-original/senator/1-37-01-04-02-70"
+        },
+        {
+          "slug": "100-14-07-02-50",
+          "text": "100-14-07-02-50 Senator Observer Stainless Steel / Black / Calf / Folding",
+          "url": "/glashutte-original/senator/100-14-07-02-50"
+        },
+        {
+          "slug": "1-36-04-05-02-71",
+          "text": "1-36-04-05-02-71 Senator Excellence Panorama Date Moonphase Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/senator/1-36-04-05-02-71"
+        },
+        {
+          "slug": "1-36-03-01-02-64",
+          "text": "1-36-03-01-02-64 Senator Excellence Panorama Date Stainless Steel / Silver / Synthetic - Folding",
+          "url": "/glashutte-original/senator/1-36-03-01-02-64"
+        },
+        {
+          "slug": "1-89-02-05-02-66",
+          "text": "1-89-02-05-02-66 Senator Cosmopolite Stainless Steel / Blue / Synthetic",
+          "url": "/glashutte-original/senator/1-89-02-05-02-66"
+        },
+        {
+          "slug": "1-58-03-01-04-50",
+          "text": "1-58-03-01-04-50 Senator Chronometer White Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-03-01-04-50"
+        },
+        {
+          "slug": "1-00-14-07-02-07",
+          "text": "1-00-14-07-02-07 Senator Observer Stainless Steel / Black / Calf - pin",
+          "url": "/glashutte-original/senator/1-00-14-07-02-07"
+        },
+        {
+          "slug": "1-89-02-05-02-70",
+          "text": "1-89-02-05-02-70 Senator Cosmopolite Stainless Steel / Blue / Bracelet",
+          "url": "/glashutte-original/senator/1-89-02-05-02-70"
+        },
+        {
+          "slug": "1-89-02-05-02-36",
+          "text": "1-89-02-05-02-36 Senator Cosmopolite Stainless Steel / Blue / Synthetic",
+          "url": "/glashutte-original/senator/1-89-02-05-02-36"
+        },
+        {
+          "slug": "1-36-12-03-02-71",
+          "text": "1-36-12-03-02-71 Senator Perpetual Calendar Stainless Steel / Grey / Bracelet",
+          "url": "/glashutte-original/senator/1-36-12-03-02-71"
+        },
+        {
+          "slug": "1-36-02-01-02-36",
+          "text": "1-36-02-01-02-36 Senator Perpetual Calendar Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/senator/1-36-02-01-02-36"
+        },
+        {
+          "slug": "1-36-03-05-02-71",
+          "text": "1-36-03-05-02-71 Senator Excellence Panorama Date Stainless Steel / White / Bracelet",
+          "url": "/glashutte-original/senator/1-36-03-05-02-71"
+        },
+        {
+          "slug": "100-02-22-05-04",
+          "text": "100-02-22-05-04 Senator Perpetual Calendar Red Gold / Silver / Rubber / Folding",
+          "url": "/glashutte-original/senator/100-02-22-05-04"
+        },
+        {
+          "slug": "100-02-22-12-04",
+          "text": "100-02-22-12-04 Senator Perpetual Calendar Stainless Steel / Silver / Rubber / Folding",
+          "url": "/glashutte-original/senator/100-02-22-12-04"
+        },
+        {
+          "slug": "1-39-58-02-02-04",
+          "text": "1-39-58-02-02-04 Senator Hand Date Stainless Steel / Silver Alligator / Pin",
+          "url": "/glashutte-original/senator/1-39-58-02-02-04"
+        },
+        {
+          "slug": "100-04-32-15-04",
+          "text": "100-04-32-15-04 Senator Panorama Date Moon Phase Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-04-32-15-04"
+        },
+        {
+          "slug": "100-02-07-12-30",
+          "text": "100-02-07-12-30 Senator Perpetual Calendar Stainless Steel / Blue / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-02-07-12-30"
+        },
+        {
+          "slug": "1-36-02-02-05-01",
+          "text": "1-36-02-02-05-01 Senator Excellence Perpetual Calendar Red Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-36-02-02-05-01"
+        },
+        {
+          "slug": "1-36-04-03-02-31",
+          "text": "1-36-04-03-02-31 Senator Excellence Panorama Date Moonphase Stainless Steel / Grey / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-04-03-02-31"
+        },
+        {
+          "slug": "100-13-02-02-50",
+          "text": "100-13-02-02-50 Senator Diary Stainless Steel / Black / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-13-02-02-50"
+        },
+        {
+          "slug": "100-13-01-01-04",
+          "text": "100-13-01-01-04 Senator Diary Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-13-01-01-04"
+        },
+        {
+          "slug": "100-02-22-05-05",
+          "text": "100-02-22-05-05 Senator Perpetual Calendar Red Gold / Silver / Alligator",
+          "url": "/glashutte-original/senator/100-02-22-05-05"
+        },
+        {
+          "slug": "100-02-22-12-14",
+          "text": "100-02-22-12-14 Senator Perpetual Calendar Stainless Steel / Silver/ Bracelet",
+          "url": "/glashutte-original/senator/100-02-22-12-14"
+        },
+        {
+          "slug": "1-37-01-01-05-30",
+          "text": "1-37-01-01-05-30 Senator Chronograph Panorama Date Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-37-01-01-05-30"
+        },
+        {
+          "slug": "100-14-02-02-04",
+          "text": "100-14-02-02-04 Senator Observer Stainless Steel / Grey / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-14-02-02-04"
+        },
+        {
+          "slug": "1-39-58-02-02-14",
+          "text": "1-39-58-02-02-14 Senator Hand Date Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/senator/1-39-58-02-02-14"
+        },
+        {
+          "slug": "100-04-32-12-14",
+          "text": "100-04-32-12-14 Senator Panorama Date Moon Phase Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/senator/100-04-32-12-14"
+        },
+        {
+          "slug": "1-58-01-05-34-30",
+          "text": "1-58-01-05-34-30 Senator Chronometer White Gold / Blue / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-01-05-34-30"
+        },
+        {
+          "slug": "1-58-01-02-05-50",
+          "text": "1-58-01-02-05-50 Senator Chronometer Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-01-02-05-50"
+        },
+        {
+          "slug": "1-58-04-04-05-01",
+          "text": "1-58-04-04-05-01 Senator Chronometer Regulator Red Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-58-04-04-05-01"
+        },
+        {
+          "slug": "1-37-01-05-02-35",
+          "text": "1-37-01-05-02-35 Senator Chronograph Panorama Date Stainless Steel / Silver / Calf / Folding",
+          "url": "/glashutte-original/senator/1-37-01-05-02-35"
+        },
+        {
+          "slug": "1-37-01-03-02-55",
+          "text": "1-37-01-03-02-55 Senator Chronograph Panorama Date Stainless Steel / Black / Calf - Folding",
+          "url": "/glashutte-original/senator/1-37-01-03-02-55"
+        },
+        {
+          "slug": "1-37-01-03-02-53",
+          "text": "1-37-01-03-02-53 Senator Chronograph Panorama Date Stainless Steel / Black / Rubber / Folding",
+          "url": "/glashutte-original/senator/1-37-01-03-02-53"
+        },
+        {
+          "slug": "1-37-01-04-05-55",
+          "text": "1-37-01-04-05-55 Senator Chronograph Panorama Date Capital Edition Red Gold / Grey / Calf / Folding",
+          "url": "/glashutte-original/senator/1-37-01-04-05-55"
+        },
+        {
+          "slug": "1-36-02-03-04-30",
+          "text": "1-36-02-03-04-30 Senator Excellence Perpetual Calendar White Gold / Black-Skeleton/ Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-02-03-04-30"
+        },
+        {
+          "slug": "1-36-02-01-02-01",
+          "text": "1-36-02-01-02-01 Senator Excellence Perpetual Calendar Stainless Steel / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-36-02-01-02-01"
+        },
+        {
+          "slug": "1-36-04-02-05-01",
+          "text": "1-36-04-02-05-01 Senator Excellence Panorama Date Moonphase Red Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-36-04-02-05-01"
+        },
+        {
+          "slug": "1-36-04-01-02-50",
+          "text": "1-36-04-01-02-50 Senator Excellence Panorama Date Moonphase Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-04-01-02-50"
+        },
+        {
+          "slug": "1-36-03-02-05-50",
+          "text": "1-36-03-02-05-50 Senator Excellence Panorama Date Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-03-02-05-50"
+        },
+        {
+          "slug": "100-13-02-02-01",
+          "text": "100-13-02-02-01 Senator Diary Stainless Steel / Black / Alligator / Pin",
+          "url": "/glashutte-original/senator/100-13-02-02-01"
+        },
+        {
+          "slug": "1-36-01-03-02-50",
+          "text": "1-36-01-03-02-50 Senator Excellence Stainless Steel / Black / Calf / Folding",
+          "url": "/glashutte-original/senator/1-36-01-03-02-50"
+        },
+        {
+          "slug": "100-02-25-12-01",
+          "text": "100-02-25-12-01 Senator Perpetual Calendar Stainless Steel / Black / Alligator / Pin",
+          "url": "/glashutte-original/senator/100-02-25-12-01"
+        },
+        {
+          "slug": "100-03-32-42-50",
+          "text": "100-03-32-42-50 Senator Panorama Date Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-03-32-42-50"
+        },
+        {
+          "slug": "100-14-05-02-55",
+          "text": "100-14-05-02-55 Senator Observer Stainless Steel / Silver / Calf / Folding",
+          "url": "/glashutte-original/senator/100-14-05-02-55"
+        },
+        {
+          "slug": "1-36-01-03-02-65",
+          "text": "1-36-01-03-02-65 Senator Excellence Stainless Steel / Black / Calf - Folding",
+          "url": "/glashutte-original/senator/1-36-01-03-02-65"
+        },
+        {
+          "slug": "1-37-01-03-02-36",
+          "text": "1-37-01-03-02-36 Senator Chronograph Panorama Date Stainless Steel / Black / Fabric / Folding",
+          "url": "/glashutte-original/senator/1-37-01-03-02-36"
+        },
+        {
+          "slug": "1-36-03-02-05-61",
+          "text": "1-36-03-02-05-61 Senator Excellence Panorama Date Red Gold / Silver / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-03-02-05-61"
+        },
+        {
+          "slug": "100-14-02-02-01",
+          "text": "100-14-02-02-01 Senator Observer Stainless Steel / Grey / Alligator / Pin",
+          "url": "/glashutte-original/senator/100-14-02-02-01"
+        },
+        {
+          "slug": "1-89-02-03-02-66",
+          "text": "1-89-02-03-02-66 Senator Cosmopolite Stainless Steel / Silver-Arabic / Synthetic",
+          "url": "/glashutte-original/senator/1-89-02-03-02-66"
+        },
+        {
+          "slug": "1-36-04-01-02-64",
+          "text": "1-36-04-01-02-64 Senator Excellence Panorama Date Moonphase Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/senator/1-36-04-01-02-64"
+        },
+        {
+          "slug": "1-36-12-01-02-71",
+          "text": "1-36-12-01-02-71 Senator Perpetual Calendar Stainless Steel / Salmon  / Bracelet",
+          "url": "/glashutte-original/senator/1-36-12-01-02-71"
+        },
+        {
+          "slug": "1-00-14-05-02-07",
+          "text": "1-00-14-05-02-07 Senator Observer Stainless Steel / Silver / Calf - Pin",
+          "url": "/glashutte-original/senator/1-00-14-05-02-07"
+        },
+        {
+          "slug": "1-36-24-02-05-62",
+          "text": "1-36-24-02-05-62 Senator Excellence Panorama Date Moonphase Red Gold / Silver / Nubuck - Folding",
+          "url": "/glashutte-original/senator/1-36-24-02-05-62"
+        },
+        {
+          "slug": "1-36-12-02-05-62",
+          "text": "1-36-12-02-05-62 Senator Perpetual Calendar Red Gold / Silver",
+          "url": "/glashutte-original/senator/1-36-12-02-05-62"
+        },
+        {
+          "slug": "1-36-12-03-02-64",
+          "text": "1-36-12-03-02-64 Senator Perpetual Calendar Stainless Steel / Grey / Synthetic",
+          "url": "/glashutte-original/senator/1-36-12-03-02-64"
+        },
+        {
+          "slug": "1-36-03-01-02-71",
+          "text": "1-36-03-01-02-71 Senator Excellence Panorama Date Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/senator/1-36-03-01-02-71"
+        },
+        {
+          "slug": "1-36-02-01-02-64",
+          "text": "1-36-02-01-02-64 Senator Perpetual Calendar Stainless Steel / Silver / Synthetic - Folding",
+          "url": "/glashutte-original/senator/1-36-02-01-02-64"
+        },
+        {
+          "slug": "1-37-01-05-02-71",
+          "text": "1-37-01-05-02-71 Senator Chronograph Panorama Date Stainless Steel / White / Bracelet",
+          "url": "/glashutte-original/senator/1-37-01-05-02-71"
+        },
+        {
+          "slug": "1-36-24-02-02-71",
+          "text": "1-36-24-02-02-71 Senator Excellence Panorama Date Moonphase Stainless Steel / Grey / Bracelet",
+          "url": "/glashutte-original/senator/1-36-24-02-02-71"
+        },
+        {
+          "slug": "1-58-03-01-04-01",
+          "text": "1-58-03-01-04-01 Senator Chronometer White Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-58-03-01-04-01"
+        },
+        {
+          "slug": "1-36-04-01-02-36",
+          "text": "1-36-04-01-02-36 Senator Excellence Panorama Date Moonphase Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/senator/1-36-04-01-02-36"
+        },
+        {
+          "slug": "1-37-01-03-02-71",
+          "text": "1-37-01-03-02-71 Senator Chronograph Panorama Date Stainless Steel / Black / Bracelet",
+          "url": "/glashutte-original/senator/1-37-01-03-02-71"
+        },
+        {
+          "slug": "1-36-01-01-02-66",
+          "text": "1-36-01-01-02-66 Senator Excellence Stainless Steel / Silver / Synthetic - Folding",
+          "url": "/glashutte-original/senator/1-36-01-01-02-66"
+        },
+        {
+          "slug": "1-89-02-05-02-01",
+          "text": "1-89-02-05-02-01 Senator Cosmopolite Stainless Steel / Blue / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-89-02-05-02-01"
+        },
+        {
+          "slug": "1-36-12-03-02-61",
+          "text": "1-36-12-03-02-61 Senator Perpetual Calendar Stainless Steel / Grey / Alligator",
+          "url": "/glashutte-original/senator/1-36-12-03-02-61"
+        },
+        {
+          "slug": "1-36-24-04-02-71",
+          "text": "1-36-24-04-02-71 Senator Excellence Panorama Date Moonphase Stainless Steel / Frosted Copper / Bracelet",
+          "url": "/glashutte-original/senator/1-36-24-04-02-71"
+        },
+        {
+          "slug": "1-58-03-01-04-30",
+          "text": "1-58-03-01-04-30 Senator Chronometer White Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-03-01-04-30"
+        },
+        {
+          "slug": "1-36-24-05-02-01",
+          "text": "1-36-24-05-02-01 Senator Excellence Panorama Date Moonphase Stainless Steel / Frosted Silver / Alligator - Pin",
+          "url": "/glashutte-original/senator/1-36-24-05-02-01"
+        },
+        {
+          "slug": "1-36-24-05-02-71",
+          "text": "1-36-24-05-02-71 Senator Excellence Panorama Date Moonphase Stainless Steel / Frosted Silver / Bracelet",
+          "url": "/glashutte-original/senator/1-36-24-05-02-71"
+        },
+        {
+          "slug": "1-54-01-01-01-01",
+          "text": "1-54-01-01-01-01 Alfred Helwig Tourbillon 1920",
+          "url": "/glashutte-original/senator/1-54-01-01-01-01"
+        },
+        {
+          "slug": "1-36-01-03-02-66",
+          "text": "1-36-01-03-02-66 Senator Excellence Stainless Steel / Black / Synthetic - Folding",
+          "url": "/glashutte-original/senator/1-36-01-03-02-66"
+        },
+        {
+          "slug": "1-36-04-04-02-71",
+          "text": "1-36-04-04-02-71 Senator Excellence Panorama Date Moonphase Stainless Steel / Blue / Bracelet",
+          "url": "/glashutte-original/senator/1-36-04-04-02-71"
+        },
+        {
+          "slug": "1-36-01-01-02-34",
+          "text": "1-36-01-01-02-34 Senator Excellence Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/senator/1-36-01-01-02-34"
+        },
+        {
+          "slug": "1-36-01-01-02-01",
+          "text": "1-36-01-01-02-01 Senator Excellence Stainless Steel / Silver / Alligator - Pin",
+          "url": "/glashutte-original/senator/1-36-01-01-02-01"
+        },
+        {
+          "slug": "1-36-01-01-02-61",
+          "text": "1-36-01-01-02-61 Senator Excellence Stainless Steel / Silver / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-01-01-02-61"
+        },
+        {
+          "slug": "1-36-04-01-02-66",
+          "text": "1-36-04-01-02-66 Senator Excellence Panorama Date Moonphase Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/senator/1-36-04-01-02-66"
+        },
+        {
+          "slug": "1-37-01-05-02-36",
+          "text": "1-37-01-05-02-36 Senator Chronograph Panorama Date Stainless Steel / Silver / Fabric - Folding",
+          "url": "/glashutte-original/senator/1-37-01-05-02-36"
+        },
+        {
+          "slug": "1-89-02-03-02-36",
+          "text": "1-89-02-03-02-36 Senator Cosmopolite Stainless Steel / Silver-Arabic / Synthetic",
+          "url": "/glashutte-original/senator/1-89-02-03-02-36"
+        },
+        {
+          "slug": "1-89-02-05-02-64",
+          "text": "1-89-02-05-02-64 Senator Cosmopolite Stainless Steel / Blue / Synthetic",
+          "url": "/glashutte-original/senator/1-89-02-05-02-64"
+        },
+        {
+          "slug": "1-36-03-04-02-71",
+          "text": "1-36-03-04-02-71 Senator Excellence Panorama Date Stainless Steel / Blue / Bracelet",
+          "url": "/glashutte-original/senator/1-36-03-04-02-71"
+        },
+        {
+          "slug": "1-89-02-03-02-64",
+          "text": "1-89-02-03-02-64 Senator Cosmopolite Stainless Steel / Silver-Arabic / Synthetic",
+          "url": "/glashutte-original/senator/1-89-02-03-02-64"
+        },
+        {
+          "slug": "1-58-08-01-04-61",
+          "text": "1-58-08-01-04-61 Senator Chronometer White Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-08-01-04-61"
+        },
+        {
+          "slug": "1-89-02-03-02-70",
+          "text": "1-89-02-03-02-70 Senator Cosmopolite Stainless Steel / Silver-Arabic / Bracelet",
+          "url": "/glashutte-original/senator/1-89-02-03-02-70"
+        },
+        {
+          "slug": "1-89-02-01-04-30",
+          "text": "1-89-02-01-04-30 Senator Cosmopolite White Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-89-02-01-04-30"
+        },
+        {
+          "slug": "100-02-25-05-04",
+          "text": "100-02-25-05-04 Senator Perpetual Calendar Red Gold / Black / Rubber / Folding",
+          "url": "/glashutte-original/senator/100-02-25-05-04"
+        },
+        {
+          "slug": "100-02-22-12-05",
+          "text": "100-02-22-12-05 Senator Perpetual Calendar Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-02-22-12-05"
+        },
+        {
+          "slug": "1-37-01-02-03-30",
+          "text": "1-37-01-02-03-30 Senator Chronograph Panorama Date Platinum / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-37-01-02-03-30"
+        },
+        {
+          "slug": "1-49-18-01-05-30",
+          "text": "1-49-18-01-05-30 Senator Manual Winding Red Gold / Skeleton / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-49-18-01-05-30"
+        },
+        {
+          "slug": "1-58-04-04-05-04",
+          "text": "1-58-04-04-05-04 Senator Chronometer Regulator Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-04-04-05-04"
+        },
+        {
+          "slug": "100-14-05-02-05",
+          "text": "100-14-05-02-05 Senator Observer Stainless Steel / Silver / Calf / Folding",
+          "url": "/glashutte-original/senator/100-14-05-02-05"
+        },
+        {
+          "slug": "1-39-34-20-42-04",
+          "text": "1-39-34-20-42-04 Senator Chronograph XL",
+          "url": "/glashutte-original/senator/1-39-34-20-42-04"
+        },
+        {
+          "slug": "1-39-34-21-42-04",
+          "text": "1-39-34-21-42-04 Senator Chronograph XL Silver",
+          "url": "/glashutte-original/senator/1-39-34-21-42-04"
+        },
+        {
+          "slug": "1-39-59-01-12-04",
+          "text": "1-39-59-01-12-04 Senator Automatic White Gold / Diamond / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-39-59-01-12-04"
+        },
+        {
+          "slug": "1-36-03-01-02-30",
+          "text": "1-36-03-01-02-30 Senator Excellence Panorama Date Stainless Steel / Silver / Alligator /  Folding",
+          "url": "/glashutte-original/senator/1-36-03-01-02-30"
+        },
+        {
+          "slug": "1-89-02-03-02-01",
+          "text": "1-89-02-03-02-01 Senator Cosmopolite Stainless Steel / Silver-Arabic / Alligator - Pin",
+          "url": "/glashutte-original/senator/1-89-02-03-02-01"
+        },
+        {
+          "slug": "1-89-02-01-04-50",
+          "text": "1-89-02-01-04-50 Senator Cosmopolite White Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-89-02-01-04-50"
+        },
+        {
+          "slug": "1-89-02-01-04-01",
+          "text": "1-89-02-01-04-01 Senator Cosmopolite White Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-89-02-01-04-01"
+        },
+        {
+          "slug": "1-94-03-04-04-50",
+          "text": "1-94-03-04-04-50 Senator Tourbillon White Gold / Grey / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-94-03-04-04-50"
+        },
+        {
+          "slug": "1-58-05-01-03-30",
+          "text": "1-58-05-01-03-30 Senator Chronometer Tourbillon Platinum / Blue / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-05-01-03-30"
+        },
+        {
+          "slug": "1-58-01-02-05-01",
+          "text": "1-58-01-02-05-01 Senator Chronometer Red Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-58-01-02-05-01"
+        },
+        {
+          "slug": "1-49-18-01-05-50",
+          "text": "1-49-18-01-05-50 Senator Manual Winding Red Gold / Skeleton / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-49-18-01-05-50"
+        },
+        {
+          "slug": "1-37-01-05-02-06",
+          "text": "1-37-01-05-02-06 Senator Chronograph Panorama Date Stainless Steel / Silver / Rubber / Pin",
+          "url": "/glashutte-original/senator/1-37-01-05-02-06"
+        },
+        {
+          "slug": "1-37-01-05-02-53",
+          "text": "1-37-01-05-02-53 Senator Chronograph Panorama Date Stainless Steel / Silver / Rubber / Folding",
+          "url": "/glashutte-original/senator/1-37-01-05-02-53"
+        },
+        {
+          "slug": "1-37-01-04-05-07",
+          "text": "1-37-01-04-05-07 Senator Chronograph Panorama Date Capital Edition Red Gold / Grey / Calf / Pin",
+          "url": "/glashutte-original/senator/1-37-01-04-05-07"
+        },
+        {
+          "slug": "1-37-01-06-03-35",
+          "text": "1-37-01-06-03-35 Senator Chronograph Panorama Date Capital Edition Platinum / Silver / Calf / Pin",
+          "url": "/glashutte-original/senator/1-37-01-06-03-35"
+        },
+        {
+          "slug": "1-36-02-02-05-30",
+          "text": "1-36-02-02-05-30 Senator Excellence Perpetual Calendar Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-02-02-05-30"
+        },
+        {
+          "slug": "1-36-04-04-02-30",
+          "text": "1-36-04-04-02-30 Senator Excellence Panorama Date Moonphase Stainless Steel / Blue / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-04-04-02-30"
+        },
+        {
+          "slug": "1-36-04-04-02-50",
+          "text": "1-36-04-04-02-50 Senator Excellence Panorama Date Moonphase Stainless Steel / Blue / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-04-04-02-50"
+        },
+        {
+          "slug": "1-36-04-04-02-70",
+          "text": "1-36-04-04-02-70 Senator Excellence Panorama Date Moonphase Stainless Steel / Blue / Bracelet",
+          "url": "/glashutte-original/senator/1-36-04-04-02-70"
+        },
+        {
+          "slug": "1-36-03-03-02-02",
+          "text": "1-36-03-03-02-02 Senator Excellence Panorama Date Stainless Steel / Grey / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-36-03-03-02-02"
+        },
+        {
+          "slug": "1-36-03-05-02-51",
+          "text": "1-36-03-05-02-51 Senator Excellence Panorama Date Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-03-05-02-51"
+        },
+        {
+          "slug": "1-36-03-02-05-01",
+          "text": "1-36-03-02-05-01 Senator Excellence Panorama Date Red Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-36-03-02-05-01"
+        },
+        {
+          "slug": "1-36-03-01-02-50",
+          "text": "1-36-03-01-02-50 Senator Excellence Panorama Date Stainless Steel / Silver / Alligator /  Folding",
+          "url": "/glashutte-original/senator/1-36-03-01-02-50"
+        },
+        {
+          "slug": "100-13-04-04-02",
+          "text": "100-13-04-04-02 Senator Diary White Gold / Grey / Alligator / Pin",
+          "url": "/glashutte-original/senator/100-13-04-04-02"
+        },
+        {
+          "slug": "1-36-01-01-02-30",
+          "text": "1-36-01-01-02-30 Senator Excellence Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-01-01-02-30"
+        },
+        {
+          "slug": "100-13-01-01-50",
+          "text": "100-13-01-01-50 Senator Diary Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-13-01-01-50"
+        },
+        {
+          "slug": "100-02-22-05-53",
+          "text": "100-02-22-05-53 Senator Perpetual Calendar Red Gold / Silver / Rubber / Folding",
+          "url": "/glashutte-original/senator/100-02-22-05-53"
+        },
+        {
+          "slug": "100-02-25-05-53",
+          "text": "100-02-25-05-53 Senator Perpetual Calendar Red Gold / Black / Rubber / Folding",
+          "url": "/glashutte-original/senator/100-02-25-05-53"
+        },
+        {
+          "slug": "100-02-25-05-06",
+          "text": "100-02-25-05-06 Senator Perpetual Calendar Red Gold / Black / Rubber / Pin",
+          "url": "/glashutte-original/senator/100-02-25-05-06"
+        },
+        {
+          "slug": "100-02-22-12-06",
+          "text": "100-02-22-12-06 Senator Perpetual Calendar Stainless Steel / Silver / Rubber / Pin",
+          "url": "/glashutte-original/senator/100-02-22-12-06"
+        },
+        {
+          "slug": "100-02-22-12-53",
+          "text": "100-02-22-12-53 Senator Perpetual Calendar Stainless Steel / Silver / Rubber / Folding",
+          "url": "/glashutte-original/senator/100-02-22-12-53"
+        },
+        {
+          "slug": "100-02-25-12-53",
+          "text": "100-02-25-12-53 Senator Perpetual Calendar Stainless Steel Black / Rubber / Folding",
+          "url": "/glashutte-original/senator/100-02-25-12-53"
+        },
+        {
+          "slug": "100-02-07-12-01",
+          "text": "100-02-07-12-01 Senator Perpetual Calendar Stainless Steel / Blue / Alligator / Pin",
+          "url": "/glashutte-original/senator/100-02-07-12-01"
+        },
+        {
+          "slug": "100-04-32-12-50",
+          "text": "100-04-32-12-50 Senator Panorama Date Moon Phase Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-04-32-12-50"
+        },
+        {
+          "slug": "100-04-32-12-01",
+          "text": "100-04-32-12-01 Senator Panorama Date Moon Phase Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-04-32-12-01"
+        },
+        {
+          "slug": "100-04-05-12-50",
+          "text": "100-04-05-12-50 Senator Panorama Date Moonphase Stainless Steel / Blue / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-04-05-12-50"
+        },
+        {
+          "slug": "100-04-05-12-70",
+          "text": "100-04-05-12-70 Senator Panorama Date Moonphase Stainless Steel / Blue / Bracelet",
+          "url": "/glashutte-original/senator/100-04-05-12-70"
+        },
+        {
+          "slug": "100-14-05-02-01",
+          "text": "100-14-05-02-01 Senator Observer Stainless Steel / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/100-14-05-02-01"
+        },
+        {
+          "slug": "1-89-02-01-05-30",
+          "text": "1-89-02-01-05-30 Senator Cosmopolite Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-89-02-01-05-30"
+        },
+        {
+          "slug": "100-13-02-02-04",
+          "text": "100-13-02-02-04 Senator Diary Stainless Steel / Black / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-13-02-02-04"
+        },
+        {
+          "slug": "100-02-25-12-04",
+          "text": "100-02-25-12-04 Senator Perpetual Calendar Stainless Steel Black / Rubber / Folding",
+          "url": "/glashutte-original/senator/100-02-25-12-04"
+        },
+        {
+          "slug": "100-14-02-02-14",
+          "text": "100-14-02-02-14 Senator Observer Stainless Steel / Grey / Bracelet",
+          "url": "/glashutte-original/senator/100-14-02-02-14"
+        },
+        {
+          "slug": "100-14-05-02-14",
+          "text": "100-14-05-02-14 Senator Observer Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/senator/100-14-05-02-14"
+        },
+        {
+          "slug": "1-39-59-01-15-04",
+          "text": "1-39-59-01-15-04 Senator Automatic Red Gold / Diamond / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-39-59-01-15-04"
+        },
+        {
+          "slug": "1-36-59-02-05-01",
+          "text": "1-36-59-02-05-01 Senator Excellence Red Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-36-59-02-05-01"
+        },
+        {
+          "slug": "1-36-59-01-02-01",
+          "text": "1-36-59-01-02-01 Senator Excellence Stainless Steel / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-36-59-01-02-01"
+        },
+        {
+          "slug": "1-36-04-02-05-30",
+          "text": "1-36-04-02-05-30 Senator Excellence Panorama Date Moonphase Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-04-02-05-30"
+        },
+        {
+          "slug": "1-36-04-01-02-30",
+          "text": "1-36-04-01-02-30 Senator Excellence Panorama Date Moonphase Stainless Steel / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-36-04-01-02-30"
+        },
+        {
+          "slug": "1-37-01-03-02-70",
+          "text": "1-37-01-03-02-70 Senator Chronograph Panorama Date Stainless Steel / Black / Bracelet",
+          "url": "/glashutte-original/senator/1-37-01-03-02-70"
+        },
+        {
+          "slug": "1-36-02-02-05-50",
+          "text": "1-36-02-02-05-50 Senator Excellence Perpetual Calendar Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-02-02-05-50"
+        },
+        {
+          "slug": "1-36-02-01-02-30",
+          "text": "1-36-02-01-02-30 Senator Excellence Perpetual Calendar Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-02-01-02-30"
+        },
+        {
+          "slug": "1-36-02-01-02-70",
+          "text": "1-36-02-01-02-70 Senator Excellence Perpetual Calendar Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/senator/1-36-02-01-02-70"
+        },
+        {
+          "slug": "1-89-02-03-02-30",
+          "text": "1-89-02-03-02-30 Senator Cosmopolite Stainless Steel / Silver-Arabic / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-89-02-03-02-30"
+        },
+        {
+          "slug": "1-89-02-03-02-50",
+          "text": "1-89-02-03-02-50 Senator Cosmopolite Stainless Steel / Silver-Arabic / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-89-02-03-02-50"
+        },
+        {
+          "slug": "1-89-02-01-05-50",
+          "text": "1-89-02-01-05-50 Senator Cosmopolite Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-89-02-01-05-50"
+        },
+        {
+          "slug": "1-94-03-05-04-30",
+          "text": "1-94-03-05-04-30 Senator Tourbillon Edition Alfred Helwig White Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-94-03-05-04-30"
+        },
+        {
+          "slug": "1-94-03-05-04-50",
+          "text": "1-94-03-05-04-50 Senator Tourbillon Edition Alfred Helwig White Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-94-03-05-04-50"
+        },
+        {
+          "slug": "1-94-03-05-04-01",
+          "text": "1-94-03-05-04-01 Senator Tourbillon Edition Alfred Helwig White Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-94-03-05-04-01"
+        },
+        {
+          "slug": "1-58-01-02-05-30",
+          "text": "1-58-01-02-05-30 Senator Chronometer Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-01-02-05-30"
+        },
+        {
+          "slug": "1-58-01-05-34-50",
+          "text": "1-58-01-05-34-50 Senator Chronometer White Gold / Blue / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-01-05-34-50"
+        },
+        {
+          "slug": "1-58-01-05-34-01",
+          "text": "1-58-01-05-34-01 Senator Chronometer White Gold / Blue / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-58-01-05-34-01"
+        },
+        {
+          "slug": "1-58-01-01-01-50",
+          "text": "1-58-01-01-01-50 Senator Chronometer Rose Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-01-01-01-50"
+        },
+        {
+          "slug": "1-58-01-01-01-01",
+          "text": "1-58-01-01-01-01 Senator Chronometer Rose Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-58-01-01-01-01"
+        },
+        {
+          "slug": "1-58-01-01-04-01",
+          "text": "1-58-01-01-04-01 Senator Chronometer White Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-58-01-01-04-01"
+        },
+        {
+          "slug": "1-58-04-04-04-50",
+          "text": "1-58-04-04-04-50 Senator Chronometer Regulator White Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-58-04-04-04-50"
+        },
+        {
+          "slug": "1-58-04-04-04-01",
+          "text": "1-58-04-04-04-01 Senator Chronometer Regulator White Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-58-04-04-04-01"
+        },
+        {
+          "slug": "1-49-13-15-04-50",
+          "text": "1-49-13-15-04-50 Senator Moon Phase White Gold / Skeleton / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-49-13-15-04-50"
+        },
+        {
+          "slug": "1-49-18-01-05-01",
+          "text": "1-49-18-01-05-01 Senator Manual Winding Red Gold / Skeleton / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-49-18-01-05-01"
+        },
+        {
+          "slug": "1-37-01-05-02-07",
+          "text": "1-37-01-05-02-07 Senator Chronograph Panorama Date Stainless Steel / Silver / Calf / Pin",
+          "url": "/glashutte-original/senator/1-37-01-05-02-07"
+        },
+        {
+          "slug": "1-37-01-05-02-33",
+          "text": "1-37-01-05-02-33 Senator Chronograph Panorama Date Stainless Steel / Silver / Rubber / Folding",
+          "url": "/glashutte-original/senator/1-37-01-05-02-33"
+        },
+        {
+          "slug": "1-37-01-03-02-07",
+          "text": "1-37-01-03-02-07 Senator Chronograph Panorama Date Stainless Steel / Black / Calf / Pin",
+          "url": "/glashutte-original/senator/1-37-01-03-02-07"
+        },
+        {
+          "slug": "1-37-01-03-02-06",
+          "text": "1-37-01-03-02-06 Senator Chronograph Panorama Date Stainless Steel / Black / Rubber / Pin",
+          "url": "/glashutte-original/senator/1-37-01-03-02-06"
+        },
+        {
+          "slug": "1-37-01-01-05-50",
+          "text": "1-37-01-01-05-50 Senator Chronograph Panorama Date Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-37-01-01-05-50"
+        },
+        {
+          "slug": "1-37-01-01-05-01",
+          "text": "1-37-01-01-05-01 Senator Chronograph Panorama Date Red Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-37-01-01-05-01"
+        },
+        {
+          "slug": "1-37-01-04-02-35",
+          "text": "1-37-01-04-02-35 Senator Chronograph Panorama Date Capital Edition Stainless Steel / Grey / Calf / Folding",
+          "url": "/glashutte-original/senator/1-37-01-04-02-35"
+        },
+        {
+          "slug": "1-37-01-04-02-55",
+          "text": "1-37-01-04-02-55 Senator Chronograph Panorama Date Capital Edition Stainless Steel / Grey / Calf / Folding",
+          "url": "/glashutte-original/senator/1-37-01-04-02-55"
+        },
+        {
+          "slug": "1-37-01-04-05-35",
+          "text": "1-37-01-04-05-35 Senator Chronograph Panorama Date Capital Edition Red Gold / Grey / Calf / Folding",
+          "url": "/glashutte-original/senator/1-37-01-04-05-35"
+        },
+        {
+          "slug": "1-36-02-03-04-01",
+          "text": "1-36-02-03-04-01 Senator Excellence Perpetual Calendar White Gold / Black-Skeleton/ Alligator / Pin",
+          "url": "/glashutte-original/senator/1-36-02-03-04-01"
+        },
+        {
+          "slug": "1-36-02-03-04-50",
+          "text": "1-36-02-03-04-50 Senator Excellence Perpetual Calendar White Gold / Black-Skeleton/ Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-02-03-04-50"
+        },
+        {
+          "slug": "1-36-04-03-02-02",
+          "text": "1-36-04-03-02-02 Senator Excellence Panorama Date Moonphase Stainless Steel / Grey / Alligator - Pin",
+          "url": "/glashutte-original/senator/1-36-04-03-02-02"
+        },
+        {
+          "slug": "1-36-04-03-02-51",
+          "text": "1-36-04-03-02-51 Senator Excellence Panorama Date Moonphase Stainless Steel / Grey / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-04-03-02-51"
+        },
+        {
+          "slug": "1-36-04-04-02-01",
+          "text": "1-36-04-04-02-01 Senator Excellence Panorama Date Moonphase Stainless Steel / Blue / Alligator - Pin",
+          "url": "/glashutte-original/senator/1-36-04-04-02-01"
+        },
+        {
+          "slug": "1-36-04-05-02-02",
+          "text": "1-36-04-05-02-02 Senator Excellence Panorama Date Moonphase Stainless Steel / Silver / Alligator - Pin",
+          "url": "/glashutte-original/senator/1-36-04-05-02-02"
+        },
+        {
+          "slug": "1-36-04-05-02-51",
+          "text": "1-36-04-05-02-51 Senator Excellence Panorama Date Moonphase Stainless Steel / Silver / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-04-05-02-51"
+        },
+        {
+          "slug": "1-36-04-05-02-70",
+          "text": "1-36-04-05-02-70 Senator Excellence Panorama Date Moonphase Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-04-05-02-70"
+        },
+        {
+          "slug": "1-36-04-02-05-50",
+          "text": "1-36-04-02-05-50 Senator Excellence Panorama Date Moonphase Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-04-02-05-50"
+        },
+        {
+          "slug": "1-36-04-01-02-01",
+          "text": "1-36-04-01-02-01 Senator Excellence Panorama Date Moonphase Stainless Steel / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-36-04-01-02-01"
+        },
+        {
+          "slug": "1-36-03-03-02-51",
+          "text": "1-36-03-03-02-51 Senator Excellence Panorama Date Stainless Steel / Grey / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-03-03-02-51"
+        },
+        {
+          "slug": "1-36-03-03-02-70",
+          "text": "1-36-03-03-02-70 Senator Excellence Panorama Date Stainless Steel / Grey / Bracelet",
+          "url": "/glashutte-original/senator/1-36-03-03-02-70"
+        },
+        {
+          "slug": "1-36-03-04-02-30",
+          "text": "1-36-03-04-02-30 Senator Excellence Panorama Date Stainless Steel / Blue / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-03-04-02-30"
+        },
+        {
+          "slug": "1-36-03-04-02-50",
+          "text": "1-36-03-04-02-50 Senator Excellence Panorama Date Stainless Steel / Blue / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-03-04-02-50"
+        },
+        {
+          "slug": "1-36-03-04-02-70",
+          "text": "1-36-03-04-02-70 Senator Excellence Panorama Date Stainless Steel / Blue / Bracelet",
+          "url": "/glashutte-original/senator/1-36-03-04-02-70"
+        },
+        {
+          "slug": "1-36-03-05-02-70",
+          "text": "1-36-03-05-02-70 Senator Excellence Panorama Date Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/senator/1-36-03-05-02-70"
+        },
+        {
+          "slug": "1-36-03-05-02-02",
+          "text": "1-36-03-05-02-02 Senator Excellence Panorama Date Stainless Steel / Silver / Alligator - Pin",
+          "url": "/glashutte-original/senator/1-36-03-05-02-02"
+        },
+        {
+          "slug": "1-36-03-01-02-01",
+          "text": "1-36-03-01-02-01 Senator Excellence Panorama Date Stainless Steel / Silver / Alligator -  Pin",
+          "url": "/glashutte-original/senator/1-36-03-01-02-01"
+        },
+        {
+          "slug": "1-36-03-01-02-70",
+          "text": "1-36-03-01-02-70 Senator Excellence Panorama Date Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/senator/1-36-03-01-02-70"
+        },
+        {
+          "slug": "100-13-04-04-50",
+          "text": "100-13-04-04-50 Senator Diary White Gold / Grey / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-13-04-04-50"
+        },
+        {
+          "slug": "1-36-01-01-02-50",
+          "text": "1-36-01-01-02-50 Senator Excellence Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-01-01-02-50"
+        },
+        {
+          "slug": "1-36-01-02-05-30",
+          "text": "1-36-01-02-05-30 Senator Excellence Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-01-02-05-30"
+        },
+        {
+          "slug": "1-36-01-02-05-50",
+          "text": "1-36-01-02-05-50 Senator Excellence Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-36-01-02-05-50"
+        },
+        {
+          "slug": "100-13-01-01-01",
+          "text": "100-13-01-01-01 Senator Diary Red Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/100-13-01-01-01"
+        },
+        {
+          "slug": "100-02-22-05-06",
+          "text": "100-02-22-05-06 Senator Perpetual Calendar Red Gold / Silver / Rubber / Pin",
+          "url": "/glashutte-original/senator/100-02-22-05-06"
+        },
+        {
+          "slug": "100-02-22-12-50",
+          "text": "100-02-22-12-50 Senator Perpetual Calendar Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-02-22-12-50"
+        },
+        {
+          "slug": "100-02-22-12-01",
+          "text": "100-02-22-12-01 Senator Perpetual Calendar Stainless Steel / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/100-02-22-12-01"
+        },
+        {
+          "slug": "100-02-25-12-50",
+          "text": "100-02-25-12-50 Senator Perpetual Calendar Stainless Steel / Black / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-02-25-12-50"
+        },
+        {
+          "slug": "100-02-25-12-06",
+          "text": "100-02-25-12-06 Senator Perpetual Calendar Stainless Steel Black / Rubber / Pin",
+          "url": "/glashutte-original/senator/100-02-25-12-06"
+        },
+        {
+          "slug": "100-02-07-12-50",
+          "text": "100-02-07-12-50 Senator Perpetual Calendar Stainless Steel / Blue / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-02-07-12-50"
+        },
+        {
+          "slug": "100-02-07-12-70",
+          "text": "100-02-07-12-70 Senator Perpetual Calendar Stainless Steel / Blue / Bracelet",
+          "url": "/glashutte-original/senator/100-02-07-12-70"
+        },
+        {
+          "slug": "100-04-32-15-01",
+          "text": "100-04-32-15-01 Senator Panorama Date Moon Phase Red Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/100-04-32-15-01"
+        },
+        {
+          "slug": "100-03-32-45-50",
+          "text": "100-03-32-45-50 Senator Panorama Date Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-03-32-45-50"
+        },
+        {
+          "slug": "100-03-32-45-01",
+          "text": "100-03-32-45-01 Senator Panorama Date Red Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/senator/100-03-32-45-01"
+        },
+        {
+          "slug": "100-03-32-42-01",
+          "text": "100-03-32-42-01 Senator Panorama Date Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/100-03-32-42-01"
+        },
+        {
+          "slug": "100-14-07-02-07",
+          "text": "100-14-07-02-07 Senator Observer Stainless Steel / Black / Calf / Pin",
+          "url": "/glashutte-original/senator/100-14-07-02-07"
+        },
+        {
+          "slug": "100-14-05-02-07",
+          "text": "100-14-05-02-07 Senator Observer Stainless Steel / Silver / Calf / Pin",
+          "url": "/glashutte-original/senator/100-14-05-02-07"
+        },
+        {
+          "slug": "1-36-24-05-02-61",
+          "text": "1-36-24-05-02-61 Senator Excellence Panorama Date Moonphase Stainless Steel / Frosted Silver / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-24-05-02-61"
+        },
+        {
+          "slug": "1-00-14-05-02-50",
+          "text": "1-00-14-05-02-50 Senator Observer Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-00-14-05-02-50"
+        },
+        {
+          "slug": "1-36-01-02-05-61",
+          "text": "1-36-01-02-05-61 Senator Excellence Red Gold / Silver / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-01-02-05-61"
+        },
+        {
+          "slug": "1-00-14-05-02-01",
+          "text": "1-00-14-05-02-01 Senator Observer Stainless Steel / Silver / Alligator - Pin",
+          "url": "/glashutte-original/senator/1-00-14-05-02-01"
+        },
+        {
+          "slug": "1-00-14-05-02-05",
+          "text": "1-00-14-05-02-05 Senator Observer Stainless Steel / Silver / Calf - Folding",
+          "url": "/glashutte-original/senator/1-00-14-05-02-05"
+        },
+        {
+          "slug": "1-89-02-03-02-61",
+          "text": "1-89-02-03-02-61 Senator Cosmopolite Stainless Steel / Silver-Arabic / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-89-02-03-02-61"
+        },
+        {
+          "slug": "100-14-02-02-55",
+          "text": "100-14-02-02-55 Senator Observer Stainless Steel / Grey / Calf / Folding",
+          "url": "/glashutte-original/senator/100-14-02-02-55"
+        },
+        {
+          "slug": "1-89-02-02-02-50",
+          "text": "1-89-02-02-02-50 Senator Cosmopolite Stainless Steel / China SKP / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-89-02-02-02-50"
+        },
+        {
+          "slug": "1-89-02-02-02-30",
+          "text": "1-89-02-02-02-30 Senator Cosmopolite Stainless Steel / China SKP / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-89-02-02-02-30"
+        },
+        {
+          "slug": "1-89-02-02-02-01",
+          "text": "1-89-02-02-02-01 Senator Cosmopolite Stainless Steel / China SKP / Alligator / Pin",
+          "url": "/glashutte-original/senator/1-89-02-02-02-01"
+        },
+        {
+          "slug": "1-94-03-06-40-50",
+          "text": "1-94-03-06-40-50 Senator Tourbillon White Gold / Paved / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-94-03-06-40-50"
+        },
+        {
+          "slug": "1-94-03-06-40-30",
+          "text": "1-94-03-06-40-30 Senator Tourbillon White Gold / Paved / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-94-03-06-40-30"
+        },
+        {
+          "slug": "1-36-04-01-02-34",
+          "text": "1-36-04-01-02-34 Senator Excellence Panorama Date Moonphase Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/senator/1-36-04-01-02-34"
+        },
+        {
+          "slug": "1-36-03-01-02-34",
+          "text": "1-36-03-01-02-34 Senator Excellence Panorama Date Stainless Steel / Silver / Synthetic - Folding",
+          "url": "/glashutte-original/senator/1-36-03-01-02-34"
+        },
+        {
+          "slug": "1-36-01-01-02-36",
+          "text": "1-36-01-01-02-36 Senator Excellence Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/senator/1-36-01-01-02-36"
+        },
+        {
+          "slug": "1-36-24-05-02-64",
+          "text": "1-36-24-05-02-64 Senator Excellence Panorama Date Moonphase Stainless Steel / Frosted Silver / Synthetic - Folding",
+          "url": "/glashutte-original/senator/1-36-24-05-02-64"
+        },
+        {
+          "slug": "1-89-02-05-02-61",
+          "text": "1-89-02-05-02-61 Senator Cosmopolite Stainless Steel / Blue / Alligator / Folding",
+          "url": "/glashutte-original/senator/1-89-02-05-02-61"
+        },
+        {
+          "slug": "1-36-02-01-02-66",
+          "text": "1-36-02-01-02-66 Senator Perpetual Calendar Stainless Steel / Silver / Synthetic - Folding",
+          "url": "/glashutte-original/senator/1-36-02-01-02-66"
+        },
+        {
+          "slug": "1-36-02-01-02-71",
+          "text": "1-36-02-01-02-71 Senator Excellence Perpetual Calendar Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/senator/1-36-02-01-02-71"
+        },
+        {
+          "slug": "1-36-03-01-02-61",
+          "text": "1-36-03-01-02-61 Senator Excellence Panorama Date Stainless Steel / Silver / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-03-01-02-61"
+        },
+        {
+          "slug": "1-36-01-01-02-64",
+          "text": "1-36-01-01-02-64 Senator Excellence Stainless Steel / Silver / Synthetic - Folding",
+          "url": "/glashutte-original/senator/1-36-01-01-02-64"
+        },
+        {
+          "slug": "1-36-01-03-02-01",
+          "text": "1-36-01-03-02-01 Senator Excellence Stainless Steel / Black / Calf - Pin",
+          "url": "/glashutte-original/senator/1-36-01-03-02-01"
+        },
+        {
+          "slug": "1-36-24-04-02-61",
+          "text": "1-36-24-04-02-61 Senator Excellence Panorama Date Moonphase Stainless Steel / Frosted Copper / Alligator - Folding",
+          "url": "/glashutte-original/senator/1-36-24-04-02-61"
+        },
+        {
+          "slug": "1-36-24-04-02-01",
+          "text": "1-36-24-04-02-01 Senator Excellence Panorama Date Moonphase Stainless Steel / Frosted Copper / Alligator - Pin",
+          "url": "/glashutte-original/senator/1-36-24-04-02-01"
+        },
+        {
+          "slug": "1-36-24-04-02-64",
+          "text": "1-36-24-04-02-64 Senator Excellence Panorama Date Moonphase Stainless Steel / Frosted Copper / Synthetic - Folding",
+          "url": "/glashutte-original/senator/1-36-24-04-02-64"
+        }
+      ]
+    },
+    {
+      "name": "Pano watches164",
+      "slug": "pano",
+      "references": [
+        {
+          "slug": "1-65-01-23-12-04",
+          "text": "1-65-01-23-12-04 PanoReserve Stainless Steel / Grey / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-65-01-23-12-04"
+        },
+        {
+          "slug": "1-66-06-04-22-05",
+          "text": "1-66-06-04-22-05 PanoInverse Stainless Steel / Black / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-66-06-04-22-05"
+        },
+        {
+          "slug": "1-93-02-05-05-04",
+          "text": "1-93-02-05-05-04 PanoLunar Tourbillon Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-93-02-05-05-04"
+        },
+        {
+          "slug": "1-90-02-23-35-50",
+          "text": "1-90-02-23-35-50 PanoMatic Lunar Red Gold / Green / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-23-35-50"
+        },
+        {
+          "slug": "1-65-01-29-15-01",
+          "text": "1-65-01-29-15-01 PanoReserve Red Gold / Black / Alligator - Pin",
+          "url": "/glashutte-original/pano/1-65-01-29-15-01"
+        },
+        {
+          "slug": "1-90-02-46-32-34",
+          "text": "1-90-02-46-32-34 PanoMatic Lunar Stainless Steel / Blue / Synthetic",
+          "url": "/glashutte-original/pano/1-90-02-46-32-34"
+        },
+        {
+          "slug": "1-92-10-01-03-62",
+          "text": "1-92-10-01-03-62) PanoMatic Calendar Platinum / Skeleton  / Folding",
+          "url": "/glashutte-original/pano/1-92-10-01-03-62"
+        },
+        {
+          "slug": "1-93-03-01-03-64",
+          "text": "1-93-03-01-03-64 PanoLunar Tourbillon Platinum / Salmon / Synthetic",
+          "url": "/glashutte-original/pano/1-93-03-01-03-64"
+        },
+        {
+          "slug": "1-90-02-45-35-01",
+          "text": "1-90-02-45-35-01 PanoMatic Lunar Red Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-90-02-45-35-01"
+        },
+        {
+          "slug": "1-90-02-43-32-66",
+          "text": "1-90-02-43-32-66 PanoMatic Lunar Stainless Steel / Grey / Synthetic",
+          "url": "/glashutte-original/pano/1-90-02-43-32-66"
+        },
+        {
+          "slug": "1-90-02-43-32-05",
+          "text": "1-90-02-43-32-05 PanoMatic Lunar Stainless Steel / Grey / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-43-32-05"
+        },
+        {
+          "slug": "1-90-02-46-32-30",
+          "text": "1-90-02-46-32-30 PanoMatic Lunar Stainless Steel / Blue / Alligator",
+          "url": "/glashutte-original/pano/1-90-02-46-32-30"
+        },
+        {
+          "slug": "1-65-01-04-15-61",
+          "text": "1-65-01-04-15-61) PanoReserve Red Gold / Blue / Alligator - Folding",
+          "url": "/glashutte-original/pano/1-65-01-04-15-61"
+        },
+        {
+          "slug": "1-66-08-01-03-30",
+          "text": "1-66-08-01-03-30 PanoInverse Platinum / Blue / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-66-08-01-03-30"
+        },
+        {
+          "slug": "1-65-01-04-15-50",
+          "text": "1-65-01-04-15-50 PanoReserve Red Gold / Blue / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-65-01-04-15-50"
+        },
+        {
+          "slug": "1-90-12-06-12-01",
+          "text": "1-90-12-06-12-01 PanoMatic Luna Stainless Steel / Diamond / MOP / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-90-12-06-12-01"
+        },
+        {
+          "slug": "1-90-12-01-12-02",
+          "text": "1-90-12-01-12-02 PanoMatic Luna Stainless Steel / Diamond / MOP / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-90-12-01-12-02"
+        },
+        {
+          "slug": "1-90-12-02-12-02",
+          "text": "1-90-12-02-12-02 PanoMatic Luna Stainless Steel / Diamond / Tahiti MOP / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-90-12-02-12-02"
+        },
+        {
+          "slug": "1-91-02-01-05-50",
+          "text": "1-91-02-01-05-50 PanoMaticInverse Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-91-02-01-05-50"
+        },
+        {
+          "slug": "1-65-01-26-12-55",
+          "text": "1-65-01-26-12-55 PanoReserve Stainless Steel / Blue / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-65-01-26-12-55"
+        },
+        {
+          "slug": "1-66-10-01-05-50",
+          "text": "1-66-10-01-05-50 PanoInverse Red Gold / China / Short Folding",
+          "url": "/glashutte-original/pano/1-66-10-01-05-50"
+        },
+        {
+          "slug": "1-91-02-02-02-64",
+          "text": "1-91-02-02-02-64 PanoMaticInverse Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/pano/1-91-02-02-02-64"
+        },
+        {
+          "slug": "1-90-02-42-32-61",
+          "text": "1-90-02-42-32-61 PanoMatic Lunar Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-42-32-61"
+        },
+        {
+          "slug": "1-61-03-25-15-04",
+          "text": "1-61-03-25-15-04 PanoGraph Red Gold / Silver / Alligator - Folding",
+          "url": "/glashutte-original/pano/1-61-03-25-15-04"
+        },
+        {
+          "slug": "1-90-02-46-32-35",
+          "text": "1-90-02-46-32-35 PanoMatic Lunar Stainless Steel / Blue / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-46-32-35"
+        },
+        {
+          "slug": "1-65-01-22-12-50",
+          "text": "1-65-01-22-12-50 PanoReserve Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-65-01-22-12-50"
+        },
+        {
+          "slug": "1-90-02-46-32-64",
+          "text": "1-90-02-46-32-64 PanoMatic Lunar Stainless Steel / Blue / Synthetic",
+          "url": "/glashutte-original/pano/1-90-02-46-32-64"
+        },
+        {
+          "slug": "1-90-02-11-35-01",
+          "text": "1-90-02-11-35-01 PanoMatic Lunar Red Gold / Blue / Alligator - Pin",
+          "url": "/glashutte-original/pano/1-90-02-11-35-01"
+        },
+        {
+          "slug": "1-66-10-01-05-01",
+          "text": "1-66-10-01-05-01 PanoInverse Red Gold / China / Pin",
+          "url": "/glashutte-original/pano/1-66-10-01-05-01"
+        },
+        {
+          "slug": "1-92-09-02-05-02",
+          "text": "1-92-09-02-05-02 PanoMatic Calendar Red Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-92-09-02-05-02"
+        },
+        {
+          "slug": "1-65-01-22-12-64",
+          "text": "1-65-01-22-12-64 PanoReserve Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/pano/1-65-01-22-12-64"
+        },
+        {
+          "slug": "1-90-02-49-35-50",
+          "text": "1-90-02-49-35-50 PanoMatic Lunar Red Gold / Black / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-49-35-50"
+        },
+        {
+          "slug": "1-90-02-43-32-02",
+          "text": "1-90-02-43-32-02 PanoMatic Lunar Stainless Steel / Grey / Alligator - Pin",
+          "url": "/glashutte-original/pano/1-90-02-43-32-02"
+        },
+        {
+          "slug": "1-65-01-04-15-01",
+          "text": "1-65-01-04-15-01 PanoReserve Red Gold / Blue / Alligator - Pin",
+          "url": "/glashutte-original/pano/1-65-01-04-15-01"
+        },
+        {
+          "slug": "1-66-09-01-03-50",
+          "text": "1-66-09-01-03-50 PanoInverse Platinum / Guilloche Limited Edition",
+          "url": "/glashutte-original/pano/1-66-09-01-03-50"
+        },
+        {
+          "slug": "1-65-01-25-15-62",
+          "text": "1-65-01-25-15-62 PanoReserve Red Gold / Silver / Nubuck - Folding",
+          "url": "/glashutte-original/pano/1-65-01-25-15-62"
+        },
+        {
+          "slug": "1-91-02-02-02-66",
+          "text": "1-91-02-02-02-66 PanoMaticInverse Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/pano/1-91-02-02-02-66"
+        },
+        {
+          "slug": "1-90-02-13-32-31",
+          "text": "1-90-02-13-32-31 PanoMatic Lunar Stainless Steel / Green / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-13-32-31"
+        },
+        {
+          "slug": "1-66-13-01-05-61",
+          "text": "1-66-13-01-05-61 PanoInverse Red Gold / Year of the Dragon",
+          "url": "/glashutte-original/pano/1-66-13-01-05-61"
+        },
+        {
+          "slug": "1-90-02-42-32-05",
+          "text": "1-90-02-42-32-05 PanoMatic Lunar Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-42-32-05"
+        },
+        {
+          "slug": "1-90-02-23-35-30",
+          "text": "1-90-02-23-35-30 PanoMatic Lunar Red Gold / Green / Alligator / Short Folding",
+          "url": "/glashutte-original/pano/1-90-02-23-35-30"
+        },
+        {
+          "slug": "1-90-02-42-32-24",
+          "text": "1-90-02-42-32-24 PanoMatic Lunar Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/pano/1-90-02-42-32-24"
+        },
+        {
+          "slug": "1-90-02-13-32-36",
+          "text": "1-90-02-13-32-36 PanoMatic Lunar Stainless Steel / Green / Synthetic",
+          "url": "/glashutte-original/pano/1-90-02-13-32-36"
+        },
+        {
+          "slug": "1-91-02-02-02-61",
+          "text": "1-91-02-02-02-61 PanoMaticInverse Stainless Steel / Silver / Alligator - Folding",
+          "url": "/glashutte-original/pano/1-91-02-02-02-61"
+        },
+        {
+          "slug": "1-65-01-23-12-50",
+          "text": "1-65-01-23-12-50 PanoReserve Stainless Steel / Grey / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-65-01-23-12-50"
+        },
+        {
+          "slug": "1-90-12-05-30-01",
+          "text": "1-90-12-05-30-01 PanoMatic Luna Stainless Steel / Diamond / MOP / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-90-12-05-30-01"
+        },
+        {
+          "slug": "1-90-02-42-32-36",
+          "text": "1-90-02-42-32-36 PanoMatic Lunar Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/pano/1-90-02-42-32-36"
+        },
+        {
+          "slug": "1-96-01-02-02-04",
+          "text": "1-96-01-02-02-04 PanoMatic Counter XL Stainless Steel / Black / Folding",
+          "url": "/glashutte-original/pano/1-96-01-02-02-04"
+        },
+        {
+          "slug": "1-90-02-46-32-01",
+          "text": "1-90-02-46-32-01 PanoMatic Lunar Stainless Steel / Blue / Alligator - Pin",
+          "url": "/glashutte-original/pano/1-90-02-46-32-01"
+        },
+        {
+          "slug": "1-66-07-01-05-30",
+          "text": "1-66-07-01-05-30 PanoInverse Red Gold / China",
+          "url": "/glashutte-original/pano/1-66-07-01-05-30"
+        },
+        {
+          "slug": "1-90-02-23-35-61",
+          "text": "1-90-02-23-35-61 PanoMatic Lunar Red Gold / Green / Alligator - Folding",
+          "url": "/glashutte-original/pano/1-90-02-23-35-61"
+        },
+        {
+          "slug": "1-61-03-25-15-01",
+          "text": "1-61-03-25-15-01 PanoGraph Red Gold / Silver / Alligator - Pin",
+          "url": "/glashutte-original/pano/1-61-03-25-15-01"
+        },
+        {
+          "slug": "1-90-02-12-32-30",
+          "text": "1-90-02-12-32-30 PanoMatic Lunar Stainless Steel / Rose / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-12-32-30"
+        },
+        {
+          "slug": "1-66-09-01-03-30",
+          "text": "1-66-09-01-03-30 PanoInverse Platinum / Guilloche Limited Edition",
+          "url": "/glashutte-original/pano/1-66-09-01-03-30"
+        },
+        {
+          "slug": "1-90-02-11-35-61",
+          "text": "1-90-02-11-35-61 PanoMatic Lunar Red Gold / Blue / Alligator - Folding",
+          "url": "/glashutte-original/pano/1-90-02-11-35-61"
+        },
+        {
+          "slug": "1-90-02-43-32-71",
+          "text": "1-90-02-43-32-71 PanoMatic Lunar Stainless Steel / Grey / Bracelet",
+          "url": "/glashutte-original/pano/1-90-02-43-32-71"
+        },
+        {
+          "slug": "1-65-01-22-12-61",
+          "text": "1-65-01-22-12-61 PanoReserve Stainless Steel / Silver / Alligator - Folding",
+          "url": "/glashutte-original/pano/1-65-01-22-12-61"
+        },
+        {
+          "slug": "1-90-02-45-35-05",
+          "text": "1-90-02-45-35-05 PanoMatic Lunar Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-45-35-05"
+        },
+        {
+          "slug": "1-90-02-45-35-04",
+          "text": "1-90-02-45-35-04 PanoMatic Lunar Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-45-35-04"
+        },
+        {
+          "slug": "1-90-02-49-35-31",
+          "text": "1-90-02-49-35-31 PanoMatic Lunar Red Gold / Black / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-49-35-31"
+        },
+        {
+          "slug": "1-65-01-25-15-50",
+          "text": "1-65-01-25-15-50 PanoReserve Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-65-01-25-15-50"
+        },
+        {
+          "slug": "1-66-06-04-22-36",
+          "text": "1-66-06-04-22-36 PanoInverse Stainless Steel / Black / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-66-06-04-22-36"
+        },
+        {
+          "slug": "1-90-02-42-32-34",
+          "text": "1-90-02-42-32-34 PanoMatic Lunar Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/pano/1-90-02-42-32-34"
+        },
+        {
+          "slug": "1-90-02-45-35-62",
+          "text": "1-90-02-45-35-62 PanoMatic Lunar Red Gold / Silver / Nubuck - Folding",
+          "url": "/glashutte-original/pano/1-90-02-45-35-62"
+        },
+        {
+          "slug": "1-90-02-43-32-62",
+          "text": "1-90-02-43-32-62 PanoMatic Lunar Stainless Steel / Grey / Alligator - Folding",
+          "url": "/glashutte-original/pano/1-90-02-43-32-62"
+        },
+        {
+          "slug": "1-90-02-43-32-24",
+          "text": "1-90-02-43-32-24 PanoMatic Lunar Stainless Steel / Grey / Bracelet",
+          "url": "/glashutte-original/pano/1-90-02-43-32-24"
+        },
+        {
+          "slug": "1-65-01-29-15-30",
+          "text": "1-65-01-29-15-30 PanoReserve Red Gold / Black / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-65-01-29-15-30"
+        },
+        {
+          "slug": "1-65-01-26-12-30",
+          "text": "1-65-01-26-12-30 PanoReserve Stainless Steel / Blue . Alligator / Folding",
+          "url": "/glashutte-original/pano/1-65-01-26-12-30"
+        },
+        {
+          "slug": "1-65-01-12-26-70",
+          "text": "1-65-01-12-26-70 PanoReserve Stainless Steel / Blue / Bracelet",
+          "url": "/glashutte-original/pano/1-65-01-12-26-70"
+        },
+        {
+          "slug": "1-90-02-49-35-30",
+          "text": "1-90-02-49-35-30 PanoMatic Lunar Red Gold / Black / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-49-35-30"
+        },
+        {
+          "slug": "1-66-06-04-22-50",
+          "text": "1-66-06-04-22-50 PanoInverse Stainless Steel / Black / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-66-06-04-22-50"
+        },
+        {
+          "slug": "1-90-02-42-32-50",
+          "text": "1-90-02-42-32-50 PanoMatic Lunar Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-42-32-50"
+        },
+        {
+          "slug": "1-65-01-25-15-01",
+          "text": "1-65-01-25-15-01 PanoReserve Red Gold / Silver / Alligator - Pin",
+          "url": "/glashutte-original/pano/1-65-01-25-15-01"
+        },
+        {
+          "slug": "1-65-01-29-15-50",
+          "text": "1-65-01-29-15-50 PanoReserve Red Gold / Black / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-65-01-29-15-50"
+        },
+        {
+          "slug": "1-65-01-22-12-01",
+          "text": "1-65-01-22-12-01 PanoReserve Stainless Steel / Silver / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-65-01-22-12-01"
+        },
+        {
+          "slug": "1-65-01-26-12-01",
+          "text": "1-65-01-26-12-01 PanoReserve Stainless Steel / Blue / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-65-01-26-12-01"
+        },
+        {
+          "slug": "1-65-01-04-15-30",
+          "text": "1-65-01-04-15-30 PanoReserve Red Gold / Blue / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-65-01-04-15-30"
+        },
+        {
+          "slug": "1-61-03-25-15-51",
+          "text": "1-61-03-25-15-51 PanoGraph Red Gold / Silver / Nubuck - Folding",
+          "url": "/glashutte-original/pano/1-61-03-25-15-51"
+        },
+        {
+          "slug": "1-90-12-01-12-01",
+          "text": "1-90-12-01-12-01 PanoMatic Luna Stainless Steel / Diamond / MOP / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-90-12-01-12-01"
+        },
+        {
+          "slug": "1-93-12-01-03-50",
+          "text": "1-93-12-01-03-50 PanoLunar Tourbillon Platinum / Hand-Engraved / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-93-12-01-03-50"
+        },
+        {
+          "slug": "1-93-02-05-50-50",
+          "text": "1-93-02-05-50-50 PanoLunar Tourbillon Red Gold / Baguette / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-93-02-05-50-50"
+        },
+        {
+          "slug": "1-92-09-02-05-62",
+          "text": "1-92-09-02-05-62 PanoMatic Calendar Red Gold / Silver / Nubuck - Foldiong",
+          "url": "/glashutte-original/pano/1-92-09-02-05-62"
+        },
+        {
+          "slug": "1-90-02-13-32-62",
+          "text": "1-90-02-13-32-62 PanoMatic Lunar Stainless Steel / Green / Nubuck - Folding",
+          "url": "/glashutte-original/pano/1-90-02-13-32-62"
+        },
+        {
+          "slug": "1-93-02-05-05-05",
+          "text": "1-93-02-05-05-05 PanoLunar Tourbillon Red Gold / Silver / Nubuck / Folding",
+          "url": "/glashutte-original/pano/1-93-02-05-05-05"
+        },
+        {
+          "slug": "1-65-01-25-15-04",
+          "text": "1-65-01-25-15-04 PanoReserve Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-65-01-25-15-04"
+        },
+        {
+          "slug": "1-65-01-25-15-05",
+          "text": "1-65-01-25-15-05 PanoReserve Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-65-01-25-15-05"
+        },
+        {
+          "slug": "1-65-01-22-12-24",
+          "text": "1-65-01-22-12-24 PanoReserve Stainless Steel / Silver /  Bracelet",
+          "url": "/glashutte-original/pano/1-65-01-22-12-24"
+        },
+        {
+          "slug": "1-65-01-23-12-24",
+          "text": "1-65-01-23-12-24 PanoReserve Stainless Steel / Grey / Bracelet",
+          "url": "/glashutte-original/pano/1-65-01-23-12-24"
+        },
+        {
+          "slug": "1-65-01-26-12-35",
+          "text": "1-65-01-26-12-35 PanoReserve Stainless Steel / Blue / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-65-01-26-12-35"
+        },
+        {
+          "slug": "1-91-02-01-05-30",
+          "text": "1-91-02-01-05-30 PanoMaticInverse Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-91-02-01-05-30"
+        },
+        {
+          "slug": "1-91-02-02-02-70",
+          "text": "1-91-02-02-02-70 PanoMaticInverse Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/pano/1-91-02-02-02-70"
+        },
+        {
+          "slug": "1-90-02-46-32-70",
+          "text": "1-90-02-46-32-70 PanoMatic Lunar Stainless Steel / Blue / Bracelet",
+          "url": "/glashutte-original/pano/1-90-02-46-32-70"
+        },
+        {
+          "slug": "1-90-12-01-12-04",
+          "text": "1-90-12-01-12-04 PanoMatic Luna Stainless Steel / Diamond / MOP / Rubber / Pin",
+          "url": "/glashutte-original/pano/1-90-12-01-12-04"
+        },
+        {
+          "slug": "1-90-12-02-12-04",
+          "text": "1-90-12-02-12-04 PanoMatic Luna Stainless Steel / Tahiti MOP /  Rubber / Pin",
+          "url": "/glashutte-original/pano/1-90-12-02-12-04"
+        },
+        {
+          "slug": "1-93-02-05-05-01",
+          "text": "1-93-02-05-05-01 PanoLunar Tourbillon Red Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-93-02-05-05-01"
+        },
+        {
+          "slug": "1-93-02-05-05-51",
+          "text": "1-93-02-05-05-51 PanoLunar Tourbillon Red Gold / Silver / Nubuck / Folding",
+          "url": "/glashutte-original/pano/1-93-02-05-05-51"
+        },
+        {
+          "slug": "1-66-08-01-03-50",
+          "text": "1-66-08-01-03-50 PanoInverse Platinum / Blue / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-66-08-01-03-50"
+        },
+        {
+          "slug": "1-91-02-01-05-02",
+          "text": "1-91-02-01-05-02 PanoMaticInverse Red Gold / Silver / Nubuck - Pin",
+          "url": "/glashutte-original/pano/1-91-02-01-05-02"
+        },
+        {
+          "slug": "1-91-02-02-02-50",
+          "text": "1-91-02-02-02-50 PanoMaticInverse Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-91-02-02-02-50"
+        },
+        {
+          "slug": "1-90-02-11-35-30",
+          "text": "1-90-02-11-35-30 PanoMatic Lunar Red Gold / Blue / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-11-35-30"
+        },
+        {
+          "slug": "1-90-02-11-35-50",
+          "text": "1-90-02-11-35-50 PanoMatic Lunar Red Gold / Blue / Alligator / Short Folding",
+          "url": "/glashutte-original/pano/1-90-02-11-35-50"
+        },
+        {
+          "slug": "1-90-02-42-32-01",
+          "text": "1-90-02-42-32-01 PanoMatic Lunar Stainless Steel / Silver / Alligator - Pin",
+          "url": "/glashutte-original/pano/1-90-02-42-32-01"
+        },
+        {
+          "slug": "1-90-02-46-32-55",
+          "text": "1-90-02-46-32-55 PanoMatic Lunar Stainless Steel / Blue / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-46-32-55"
+        },
+        {
+          "slug": "1-65-01-25-15-02",
+          "text": "1-65-01-25-15-02 PanoReserve Red Gold / Silver / Nubuck - Pin",
+          "url": "/glashutte-original/pano/1-65-01-25-15-02"
+        },
+        {
+          "slug": "1-65-01-23-12-02",
+          "text": "1-65-01-23-12-02 PanoReserve Stainless Steel / Grey / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-65-01-23-12-02"
+        },
+        {
+          "slug": "1-61-03-25-15-02",
+          "text": "1-61-03-25-15-02 PanoGraph Red Gold / Silver / Nubuck - Pin",
+          "url": "/glashutte-original/pano/1-61-03-25-15-02"
+        },
+        {
+          "slug": "1-90-12-03-12-02",
+          "text": "1-90-12-03-12-02 PanoMatic Luna Stainless Steel / Diamond / Blue MOP / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-90-12-03-12-02"
+        },
+        {
+          "slug": "1-90-02-12-32-01",
+          "text": "1-90-02-12-32-01 PanoMatic Lunar Stainless Steel / Rose / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-90-02-12-32-01"
+        },
+        {
+          "slug": "1-90-02-13-32-70",
+          "text": "1-90-02-13-32-70 PanoMatic Lunar Stainless Steel / Green / Bracelet",
+          "url": "/glashutte-original/pano/1-90-02-13-32-70"
+        },
+        {
+          "slug": "1-93-02-05-50-30",
+          "text": "1-93-02-05-50-30 PanoLunar Tourbillon Red Gold / Baguette / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-93-02-05-50-30"
+        },
+        {
+          "slug": "1-96-01-02-02-50",
+          "text": "1-96-01-02-02-50 PanoMatic Counter XL Stainless Steel / Black / Folding",
+          "url": "/glashutte-original/pano/1-96-01-02-02-50"
+        },
+        {
+          "slug": "1-96-01-02-02-01",
+          "text": "1-96-01-02-02-01 PanoMatic Counter XL Stainless Steel / Black / Pin",
+          "url": "/glashutte-original/pano/1-96-01-02-02-01"
+        },
+        {
+          "slug": "1-90-02-43-32-36",
+          "text": "1-90-02-43-32-36 PanoMatic Lunar Stainless Steel / Grey / Synthetic",
+          "url": "/glashutte-original/pano/1-90-02-43-32-36"
+        },
+        {
+          "slug": "1-65-01-22-12-36",
+          "text": "1-65-01-22-12-36 PanoReserve Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/pano/1-65-01-22-12-36"
+        },
+        {
+          "slug": "1-66-10-01-05-30",
+          "text": "1-66-10-01-05-30 PanoInverse Red Gold / China / Folding",
+          "url": "/glashutte-original/pano/1-66-10-01-05-30"
+        },
+        {
+          "slug": "1-66-06-04-22-66",
+          "text": "1-66-06-04-22-66 PanoInverse Stainless Steel / Black / Synthetic / Folding",
+          "url": "/glashutte-original/pano/1-66-06-04-22-66"
+        },
+        {
+          "slug": "1-91-03-01-03-61",
+          "text": "1-91-03-01-03-61 PanoMaticInverse Tribute to Dresden",
+          "url": "/glashutte-original/pano/1-91-03-01-03-61"
+        },
+        {
+          "slug": "1-93-03-01-03-61",
+          "text": "1-93-03-01-03-61 PanoLunar Tourbillon Platinum / Salmon / Alilgator",
+          "url": "/glashutte-original/pano/1-93-03-01-03-61"
+        },
+        {
+          "slug": "1-65-01-29-15-61",
+          "text": "1-65-01-29-15-61 PanoReserve Red Gold / Black / Alligator - Folding",
+          "url": "/glashutte-original/pano/1-65-01-29-15-61"
+        },
+        {
+          "slug": "1-61-03-25-15-05",
+          "text": "1-61-03-25-15-05 PanoGraph Red Gold / Silver / Nubuck - Folding",
+          "url": "/glashutte-original/pano/1-61-03-25-15-05"
+        },
+        {
+          "slug": "1-65-01-22-12-04",
+          "text": "1-65-01-22-12-04 PanoReserve Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-65-01-22-12-04"
+        },
+        {
+          "slug": "1-91-02-02-02-30",
+          "text": "1-91-02-02-02-30 PanoMaticInverse Stainless Steel / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-91-02-02-02-30"
+        },
+        {
+          "slug": "1-66-06-04-22-14",
+          "text": "1-66-06-04-22-14 PanoInverse Stainless Steel / Black / Bracelet",
+          "url": "/glashutte-original/pano/1-66-06-04-22-14"
+        },
+        {
+          "slug": "1-93-02-05-05-50",
+          "text": "1-93-02-05-05-50 PanoLunar Tourbillon Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-93-02-05-05-50"
+        },
+        {
+          "slug": "1-93-02-05-05-02",
+          "text": "1-93-02-05-05-02 PanoLunar Tourbillon Red Gold / Silver / Nubuck - Pin",
+          "url": "/glashutte-original/pano/1-93-02-05-05-02"
+        },
+        {
+          "slug": "1-66-06-04-22-02",
+          "text": "1-66-06-04-22-02 PanoInverse Stainless Steel / Black / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-66-06-04-22-02"
+        },
+        {
+          "slug": "1-91-02-02-02-01",
+          "text": "1-91-02-02-02-01 PanoMaticInverse Stainless Steel / Silver / Alligator - Pin",
+          "url": "/glashutte-original/pano/1-91-02-02-02-01"
+        },
+        {
+          "slug": "1-90-02-45-35-50",
+          "text": "1-90-02-45-35-50 PanoMatic Lunar Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-45-35-50"
+        },
+        {
+          "slug": "1-90-02-45-35-02",
+          "text": "1-90-02-45-35-02 PanoMatic Lunar Red Gold / Silver / Nubuck - Pin",
+          "url": "/glashutte-original/pano/1-90-02-45-35-02"
+        },
+        {
+          "slug": "1-90-02-45-35-51",
+          "text": "1-90-02-45-35-51 PanoMatic Lunar Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-45-35-51"
+        },
+        {
+          "slug": "1-90-02-49-35-01",
+          "text": "1-90-02-49-35-01 PanoMatic Lunar Red Gold / Black / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-90-02-49-35-01"
+        },
+        {
+          "slug": "1-90-02-43-32-50",
+          "text": "1-90-02-43-32-50 PanoMatic Lunar Stainless Steel / Grey / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-43-32-50"
+        },
+        {
+          "slug": "1-65-01-25-15-51",
+          "text": "1-65-01-25-15-51 PanoReserve Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-65-01-25-15-51"
+        },
+        {
+          "slug": "1-61-03-25-15-50",
+          "text": "1-61-03-25-15-50 PanoGraph Red Gold / Silver / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-61-03-25-15-50"
+        },
+        {
+          "slug": "1-90-02-12-32-50",
+          "text": "1-90-02-12-32-50 PanoMatic Lunar Stainless Steel / Rose / Alligator / Folding",
+          "url": "/glashutte-original/pano/1-90-02-12-32-50"
+        },
+        {
+          "slug": "1-90-02-13-32-02",
+          "text": "1-90-02-13-32-02 PanoMatic Lunar Stainless Steel / Green / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-90-02-13-32-02"
+        },
+        {
+          "slug": "1-93-12-01-03-30",
+          "text": "1-93-12-01-03-30 PanoLunar Tourbillon Platinum / Hand-Engraved / Alligator - Folding",
+          "url": "/glashutte-original/pano/1-93-12-01-03-30"
+        },
+        {
+          "slug": "1-90-02-23-35-01",
+          "text": "1-90-02-23-35-01) PanoMatic Lunar Red Gold / Green / Alligator / Pin",
+          "url": "/glashutte-original/pano/1-90-02-23-35-01"
+        },
+        {
+          "slug": "1-91-02-02-02-36",
+          "text": "1-91-02-02-02-36 PanoMaticInverse Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/pano/1-91-02-02-02-36"
+        },
+        {
+          "slug": "1-65-01-23-12-36",
+          "text": "1-65-01-23-12-36 PanoReserve Stainless Steel / Grey / Synthetic",
+          "url": "/glashutte-original/pano/1-65-01-23-12-36"
+        },
+        {
+          "slug": "1-66-12-01-03-62",
+          "text": "1-66-12-01-03-62 PanoInverse Platinum / Guilloche Limited Edition",
+          "url": "/glashutte-original/pano/1-66-12-01-03-62"
+        },
+        {
+          "slug": "1-66-06-04-22-62",
+          "text": "1-66-06-04-22-62 PanoInverse Stainless Steel / Black / Alligator - Folding",
+          "url": "/glashutte-original/pano/1-66-06-04-22-62"
+        },
+        {
+          "slug": "1-91-04-01-03-62",
+          "text": "1-91-04-01-03-62 PanoLunarInverse Platinum / Black / Nubuck - Folding",
+          "url": "/glashutte-original/pano/1-91-04-01-03-62"
+        },
+        {
+          "slug": "1-65-01-25-15-61",
+          "text": "1-65-01-25-15-61 PanoReserve Red Gold / Silver / Alligator - Folding",
+          "url": "/glashutte-original/pano/1-65-01-25-15-61"
+        },
+        {
+          "slug": "1-91-02-02-02-71",
+          "text": "1-91-02-02-02-71 PanoMaticInverse Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/pano/1-91-02-02-02-71"
+        },
+        {
+          "slug": "1-66-06-04-22-71",
+          "text": "1-66-06-04-22-71 PanoInverse Stainless Steel / Black / Bracelet",
+          "url": "/glashutte-original/pano/1-66-06-04-22-71"
+        },
+        {
+          "slug": "1-90-02-42-32-71",
+          "text": "1-90-02-42-32-71 PanoMatic Lunar Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/pano/1-90-02-42-32-71"
+        },
+        {
+          "slug": "1-65-01-23-12-71",
+          "text": "1-65-01-23-12-71 PanoReserve Stainless Steel / Grey /  Bracelet",
+          "url": "/glashutte-original/pano/1-65-01-23-12-71"
+        },
+        {
+          "slug": "1-65-01-26-12-71",
+          "text": "1-65-01-26-12-71 PanoReserve Stainless Steel / Blue /  Bracelet",
+          "url": "/glashutte-original/pano/1-65-01-26-12-71"
+        },
+        {
+          "slug": "1-90-02-46-32-61",
+          "text": "1-90-02-46-32-61 PanoMatic Lunar Stainless Steel / Blue / Alligator - Folding",
+          "url": "/glashutte-original/pano/1-90-02-46-32-61"
+        },
+        {
+          "slug": "1-65-01-23-12-66",
+          "text": "1-65-01-23-12-66 PanoReserve Stainless Steel / Grey / Synthetic",
+          "url": "/glashutte-original/pano/1-65-01-23-12-66"
+        },
+        {
+          "slug": "1-65-01-26-12-61",
+          "text": "1-65-01-26-12-61 PanoReserve Stainless Steel / Blue / Alligator - Folding",
+          "url": "/glashutte-original/pano/1-65-01-26-12-61"
+        },
+        {
+          "slug": "1-91-04-01-03-64",
+          "text": "1-91-04-01-03-64 PanoLunarInverse Platinum / Black / Synthetic - Folding",
+          "url": "/glashutte-original/pano/1-91-04-01-03-64"
+        },
+        {
+          "slug": "1-91-02-01-05-62",
+          "text": "1-91-02-01-05-62 PanoMaticInverse Red Gold / Silver / Nubuck - Folding",
+          "url": "/glashutte-original/pano/1-91-02-01-05-62"
+        },
+        {
+          "slug": "1-90-02-45-35-61",
+          "text": "1-90-02-45-35-61 PanoMatic Lunar Red Gold / Silver / Alligator - Folding",
+          "url": "/glashutte-original/pano/1-90-02-45-35-61"
+        },
+        {
+          "slug": "1-90-02-49-35-61",
+          "text": "1-90-02-49-35-61 PanoMatic Lunar Red Gold / Black / Alligator - Folding",
+          "url": "/glashutte-original/pano/1-90-02-49-35-61"
+        },
+        {
+          "slug": "1-90-02-46-32-71",
+          "text": "1-90-02-46-32-71 PanoMatic Lunar Stainless Steel / Blue / Bracelet",
+          "url": "/glashutte-original/pano/1-90-02-46-32-71"
+        },
+        {
+          "slug": "1-65-01-22-12-71",
+          "text": "1-65-01-22-12-71 PanoReserve Stainless Steel / Silver /  Bracelet",
+          "url": "/glashutte-original/pano/1-65-01-22-12-71"
+        },
+        {
+          "slug": "1-90-02-42-32-64",
+          "text": "1-90-02-42-32-64 PanoMatic Lunar Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/pano/1-90-02-42-32-64"
+        },
+        {
+          "slug": "1-90-02-42-32-66",
+          "text": "1-90-02-42-32-66 PanoMatic Lunar Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/pano/1-90-02-42-32-66"
+        },
+        {
+          "slug": "1-90-02-13-32-66",
+          "text": "1-90-02-13-32-66 PanoMatic Lunar Stainless Steel / Green / Synthetic",
+          "url": "/glashutte-original/pano/1-90-02-13-32-66"
+        },
+        {
+          "slug": "1-65-01-22-12-66",
+          "text": "1-65-01-22-12-66 PanoReserve Stainless Steel / Silver / Synthetic",
+          "url": "/glashutte-original/pano/1-65-01-22-12-66"
+        },
+        {
+          "slug": "1-65-01-23-12-62",
+          "text": "1-65-01-23-12-62 PanoReserve Stainless Steel / Grey / Nubuck - Folding",
+          "url": "/glashutte-original/pano/1-65-01-23-12-62"
+        },
+        {
+          "slug": "1-65-01-26-12-64",
+          "text": "1-65-01-26-12-64 PanoReserve Stainless Steel / Blue / Synthetic",
+          "url": "/glashutte-original/pano/1-65-01-26-12-64"
+        }
+      ]
+    },
+    {
+      "name": "SeaQ watches97",
+      "slug": "seaq",
+      "references": [
+        {
+          "slug": "1-37-23-02-81-36",
+          "text": "1-37-23-02-81-36 SeaQ Chronograph Stainless Steel / Blue / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-37-23-02-81-36"
+        },
+        {
+          "slug": "1-36-13-02-81-34",
+          "text": "1-36-13-02-81-34 SeaQ Panorama Date Stainless Steel / Blue / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-36-13-02-81-34"
+        },
+        {
+          "slug": "1-37-23-02-81-70",
+          "text": "1-37-23-02-81-70 SeaQ Chronograph Stainless Steel / Blue / Bracelet",
+          "url": "/glashutte-original/seaq/1-37-23-02-81-70"
+        },
+        {
+          "slug": "1-39-11-06-60-33",
+          "text": "1-39-11-06-60-33 SeaQ Date Stainless Steel / Black / Rubber - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-06-60-33"
+        },
+        {
+          "slug": "1-39-11-10-90-06",
+          "text": "1-39-11-10-90-06 SeaQ Date Stainless Steel / Blue / Rubber / Pin",
+          "url": "/glashutte-original/seaq/1-39-11-10-90-06"
+        },
+        {
+          "slug": "1-39-11-09-81-70",
+          "text": "1-39-11-09-81-70 SeaQ Date Stainless Steel / Blue / Bracelet",
+          "url": "/glashutte-original/seaq/1-39-11-09-81-70"
+        },
+        {
+          "slug": "1-39-11-06-60-70",
+          "text": "1-39-11-06-60-70 SeaQ Date Stainless Steel / Black / Bracelet",
+          "url": "/glashutte-original/seaq/1-39-11-06-60-70"
+        },
+        {
+          "slug": "1-37-23-02-81-08",
+          "text": "1-37-23-02-81-08 SeaQ Chronograph Stainless Steel / Blue / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-37-23-02-81-08"
+        },
+        {
+          "slug": "1-39-11-01-80-08",
+          "text": "1-39-11-01-80-08 SeaQ 1969 Date Stainless Steel / Black / Textile / Pin",
+          "url": "/glashutte-original/seaq/1-39-11-01-80-08"
+        },
+        {
+          "slug": "1-36-13-02-81-06",
+          "text": "1-36-13-02-81-06 SeaQ Panorama Date Stainless Steel / Blue / Rubber - Pin",
+          "url": "/glashutte-original/seaq/1-36-13-02-81-06"
+        },
+        {
+          "slug": "1-39-11-17-91-35",
+          "text": "1-39-11-17-91-35 SeaQ Date Red Gold / Black / Synthetic",
+          "url": "/glashutte-original/seaq/1-39-11-17-91-35"
+        },
+        {
+          "slug": "1-36-13-04-91-34",
+          "text": "1-36-13-04-91-34 SeaQ Panorama Date Stainless Steel / Red Gold / Grey / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-36-13-04-91-34"
+        },
+        {
+          "slug": "1-39-11-09-81-33",
+          "text": "1-39-11-09-81-33 SeaQ Date Stainless Steel / Blue / Rubber / Folding",
+          "url": "/glashutte-original/seaq/1-39-11-09-81-33"
+        },
+        {
+          "slug": "1-39-11-01-80-06",
+          "text": "1-39-11-01-80-06 SeaQ 1969 Date Stainless Steel / Black / Rubber / Pin",
+          "url": "/glashutte-original/seaq/1-39-11-01-80-06"
+        },
+        {
+          "slug": "1-36-13-07-83-08",
+          "text": "1-36-13-07-83-08 SeaQ Panorama Date Stainless Steel / Green / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-36-13-07-83-08"
+        },
+        {
+          "slug": "1-36-13-02-81-70",
+          "text": "1-36-13-02-81-70 SeaQ Panorama Date Stainless Steel / Blue / Bracelet",
+          "url": "/glashutte-original/seaq/1-36-13-02-81-70"
+        },
+        {
+          "slug": "1-36-13-07-83-70",
+          "text": "1-36-13-07-83-70 SeaQ Panorama Date Stainless Steel / Green / Bracelet",
+          "url": "/glashutte-original/seaq/1-36-13-07-83-70"
+        },
+        {
+          "slug": "1-36-13-04-91-06",
+          "text": "1-36-13-04-91-06 SeaQ Panorama Date Stainless Steel / Red Gold / Grey / Rubber - Pin",
+          "url": "/glashutte-original/seaq/1-36-13-04-91-06"
+        },
+        {
+          "slug": "1-39-11-01-80-34",
+          "text": "1-39-11-01-80-34 SeaQ 1969 Date Stainless Steel / Black / Textile / Folding",
+          "url": "/glashutte-original/seaq/1-39-11-01-80-34"
+        },
+        {
+          "slug": "1-39-11-06-80-34",
+          "text": "1-39-11-06-80-34 SeaQ Date Stainless Steel / Black / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-06-80-34"
+        },
+        {
+          "slug": "1-39-11-13-63-07",
+          "text": "1-39-11-13-63-07 SeaQ Date Stainless Steel / Green / Rubber - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-13-63-07"
+        },
+        {
+          "slug": "1-39-11-13-63-06",
+          "text": "1-39-11-13-63-06 SeaQ Date Stainless Steel / Green / Rubber - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-13-63-06"
+        },
+        {
+          "slug": "1-36-13-02-81-09",
+          "text": "1-36-13-02-81-09 SeaQ Panorama Date Stainless Steel / Blue / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-36-13-02-81-09"
+        },
+        {
+          "slug": "1-37-23-02-81-33",
+          "text": "1-37-23-02-81-33 SeaQ Chronograph Stainless Steel / Blue / Rubber - Folding",
+          "url": "/glashutte-original/seaq/1-37-23-02-81-33"
+        },
+        {
+          "slug": "1-37-23-02-81-09",
+          "text": "1-37-23-02-81-09 SeaQ Chronograph Stainless Steel / Blue / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-37-23-02-81-09"
+        },
+        {
+          "slug": "1-39-11-13-83-70",
+          "text": "1-39-11-13-83-70 SeaQ Date Stainless Steel / Green / Bracelet",
+          "url": "/glashutte-original/seaq/1-39-11-13-83-70"
+        },
+        {
+          "slug": "1-39-11-13-83-34",
+          "text": "1-39-11-13-83-34 SeaQ Date Stainless Steel / Green / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-13-83-34"
+        },
+        {
+          "slug": "1-39-11-09-61-70",
+          "text": "1-39-11-09-61-70 SeaQ Date Stainless Steel / Blue / Bracelet",
+          "url": "/glashutte-original/seaq/1-39-11-09-61-70"
+        },
+        {
+          "slug": "1-37-23-03-80-34",
+          "text": "1-37-23-03-80-34 SeaQ Chronograph Stainless Steel / Silver Screen / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-37-23-03-80-34"
+        },
+        {
+          "slug": "1-39-11-13-63-08",
+          "text": "1-39-11-13-63-08 SeaQ Date Stainless Steel / Green / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-13-63-08"
+        },
+        {
+          "slug": "1-37-23-02-81-34",
+          "text": "1-37-23-02-81-34 SeaQ Chronograph Stainless Steel / Blue / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-37-23-02-81-34"
+        },
+        {
+          "slug": "1-36-13-01-80-33",
+          "text": "1-36-13-01-80-33 SeaQ Panorama Date Stainless Steel / Black / Rubber - Folding",
+          "url": "/glashutte-original/seaq/1-36-13-01-80-33"
+        },
+        {
+          "slug": "1-39-11-10-70-33",
+          "text": "1-39-11-10-70-33 SeaQ Date Stainless Steel / Blue / Rubber - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-10-70-33"
+        },
+        {
+          "slug": "1-39-11-10-70-08",
+          "text": "1-39-11-10-70-08 SeaQ Date Stainless Steel / Blue / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-10-70-08"
+        },
+        {
+          "slug": "1-39-11-01-80-33",
+          "text": "1-39-11-01-80-33 SeaQ 1969 Date Stainless Steel / Black / Rubber / Folding",
+          "url": "/glashutte-original/seaq/1-39-11-01-80-33"
+        },
+        {
+          "slug": "1-39-11-09-81-34",
+          "text": "1-39-11-09-81-34 SeaQ Date Stainless Steel / Blue / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-09-81-34"
+        },
+        {
+          "slug": "1-36-13-03-90-34",
+          "text": "1-36-13-03-90-34 SeaQ Panorama Date Red Gold / Black / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-36-13-03-90-34"
+        },
+        {
+          "slug": "1-39-11-10-90-34",
+          "text": "1-39-11-10-90-34 SeaQ Date Stainless Steel / Blue / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-10-90-34"
+        },
+        {
+          "slug": "1-36-13-01-80-70",
+          "text": "1-36-13-01-80-70 SeaQ Panorama Date Stainless Steel / Black / Bracelet",
+          "url": "/glashutte-original/seaq/1-36-13-01-80-70"
+        },
+        {
+          "slug": "1-36-13-01-80-34",
+          "text": "1-36-13-01-80-34 SeaQ Panorama Date Stainless Steel / Black / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-36-13-01-80-34"
+        },
+        {
+          "slug": "1-37-23-03-80-70",
+          "text": "1-37-23-03-80-70 SeaQ Chronograph Stainless Steel / Silver Screen / Bracelet",
+          "url": "/glashutte-original/seaq/1-37-23-03-80-70"
+        },
+        {
+          "slug": "1-36-13-03-90-33",
+          "text": "1-36-13-03-90-33 SeaQ Panorama Date Red Gold / Black / Rubber -/ Folding",
+          "url": "/glashutte-original/seaq/1-36-13-03-90-33"
+        },
+        {
+          "slug": "1-39-11-09-62-08",
+          "text": "1-39-11-09-62-08 SeaQ Date Stainless Steel / Diamond / Blue / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-09-62-08"
+        },
+        {
+          "slug": "1-36-13-04-91-33",
+          "text": "1-36-13-04-91-33 SeaQ Panorama Date Stainless Steel / Red Gold / Grey / Rubber - Folding",
+          "url": "/glashutte-original/seaq/1-36-13-04-91-33"
+        },
+        {
+          "slug": "1-36-13-04-91-08",
+          "text": "1-36-13-04-91-08 SeaQ Panorama Date Stainless Steel / Red Gold / Grey / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-36-13-04-91-08"
+        },
+        {
+          "slug": "1-36-13-01-80-35",
+          "text": "1-36-13-01-80-35 SeaQ Panorama Date Stainless Steel / Black / Textile - Folding",
+          "url": "/glashutte-original/seaq/1-36-13-01-80-35"
+        },
+        {
+          "slug": "1-39-11-13-83-06",
+          "text": "1-39-11-13-83-06 SeaQ Date Stainless Steel / Green / Rubber - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-13-83-06"
+        },
+        {
+          "slug": "1-39-11-09-61-34",
+          "text": "1-39-11-09-61-34 SeaQ Date Stainless Steel / Blue / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-09-61-34"
+        },
+        {
+          "slug": "1-39-11-09-61-08",
+          "text": "1-39-11-09-61-08 SeaQ Date Stainless Steel / Blue / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-09-61-08"
+        },
+        {
+          "slug": "1-39-11-13-63-70",
+          "text": "1-39-11-13-63-70 SeaQ Date Stainless Steel / Green / Bracelet",
+          "url": "/glashutte-original/seaq/1-39-11-13-63-70"
+        },
+        {
+          "slug": "1-36-13-01-80-08",
+          "text": "1-36-13-01-80-08 SeaQ Panorama Date Stainless Steel / Black / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-36-13-01-80-08"
+        },
+        {
+          "slug": "1-39-11-06-80-08",
+          "text": "1-39-11-06-80-08 SeaQ Date Stainless Steel / Black / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-06-80-08"
+        },
+        {
+          "slug": "1-39-11-06-80-33",
+          "text": "1-39-11-06-80-33 SeaQ Date Stainless Steel / Black / Rubber - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-06-80-33"
+        },
+        {
+          "slug": "1-39-11-06-80-06",
+          "text": "1-39-11-06-80-06 SeaQ Date Stainless Steel / Black / Rubber / Pin",
+          "url": "/glashutte-original/seaq/1-39-11-06-80-06"
+        },
+        {
+          "slug": "1-39-11-06-80-05",
+          "text": "1-39-11-06-80-05 SeaQ Date Stainless Steel / Black / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-06-80-05"
+        },
+        {
+          "slug": "1-39-11-10-90-33",
+          "text": "1-39-11-10-90-33 SeaQ Date Stainless Steel / Blue / Rubber - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-10-90-33"
+        },
+        {
+          "slug": "1-39-11-09-81-08",
+          "text": "1-39-11-09-81-08 SeaQ Date Stainless Steel / Blue / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-09-81-08"
+        },
+        {
+          "slug": "1-39-11-17-91-33",
+          "text": "1-39-11-17-91-33 SeaQ Date Red Gold / Black / Rubber",
+          "url": "/glashutte-original/seaq/1-39-11-17-91-33"
+        },
+        {
+          "slug": "1-39-11-13-83-08",
+          "text": "1-39-11-13-83-08 SeaQ Date Stainless Steel / Green / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-13-83-08"
+        },
+        {
+          "slug": "1-39-11-13-83-07",
+          "text": "1-39-11-13-83-07 SeaQ Date Stainless Steel / Green / Rubber - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-13-83-07"
+        },
+        {
+          "slug": "1-39-11-09-82-08",
+          "text": "1-39-11-09-82-08 SeaQ Date Stainless Steel / Diamond / Blue / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-09-82-08"
+        },
+        {
+          "slug": "1-36-13-07-83-34",
+          "text": "1-36-13-07-83-34 SeaQ Panorama Date Stainless Steel / Green / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-36-13-07-83-34"
+        },
+        {
+          "slug": "1-36-13-07-83-33",
+          "text": "1-36-13-07-83-33 SeaQ Panorama Date Stainless Steel / Green / Rubber - Folding",
+          "url": "/glashutte-original/seaq/1-36-13-07-83-33"
+        },
+        {
+          "slug": "1-39-11-10-90-08",
+          "text": "1-39-11-10-90-08 SeaQ Date Stainless Steel / Blue / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-10-90-08"
+        },
+        {
+          "slug": "1-36-13-02-81-33",
+          "text": "1-36-13-02-81-33 SeaQ Panorama Date Stainless Steel / Blue / Rubber - Folding",
+          "url": "/glashutte-original/seaq/1-36-13-02-81-33"
+        },
+        {
+          "slug": "1-39-11-17-91-34",
+          "text": "1-39-11-17-91-34 SeaQ Date Red Gold / Black / Synthetic",
+          "url": "/glashutte-original/seaq/1-39-11-17-91-34"
+        },
+        {
+          "slug": "1-37-23-03-80-08",
+          "text": "1-37-23-03-80-08 SeaQ Chronograph Stainless Steel / Silver Screen / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-37-23-03-80-08"
+        },
+        {
+          "slug": "1-36-13-07-83-06",
+          "text": "1-36-13-07-83-06 SeaQ Panorama Date Stainless Steel / Green / Rubber - Pin",
+          "url": "/glashutte-original/seaq/1-36-13-07-83-06"
+        },
+        {
+          "slug": "1-39-11-06-80-70",
+          "text": "1-39-11-06-80-70 SeaQ Date Stainless Steel / Black / Bracelet",
+          "url": "/glashutte-original/seaq/1-39-11-06-80-70"
+        },
+        {
+          "slug": "1-39-11-13-83-37",
+          "text": "1-39-11-13-83-37 SeaQ Date Stainless Steel / Green / Rubber - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-13-83-37"
+        },
+        {
+          "slug": "1-39-11-06-60-34",
+          "text": "1-39-11-06-60-34 SeaQ Date Stainless Steel / Black / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-06-60-34"
+        },
+        {
+          "slug": "1-39-11-06-60-08",
+          "text": "1-39-11-06-60-08 SeaQ Date Stainless Steel / Black / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-06-60-08"
+        },
+        {
+          "slug": "1-39-11-06-60-35",
+          "text": "1-39-11-06-60-35 SeaQ Date Stainless Steel / Black / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-06-60-35"
+        },
+        {
+          "slug": "1-39-11-10-70-06",
+          "text": "1-39-11-10-70-06 SeaQ Date Stainless Steel / Blue / Rubber - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-10-70-06"
+        },
+        {
+          "slug": "1-37-23-03-80-33",
+          "text": "1-37-23-03-80-33 SeaQ Chronograph Stainless Steel / Silver Screen / Rubber - Folding",
+          "url": "/glashutte-original/seaq/1-37-23-03-80-33"
+        },
+        {
+          "slug": "1-37-23-03-80-06",
+          "text": "1-37-23-03-80-06 SeaQ Chronograph Stainless Steel / Silver Screen / Rubber - Pin",
+          "url": "/glashutte-original/seaq/1-37-23-03-80-06"
+        },
+        {
+          "slug": "1-36-13-03-90-35",
+          "text": "1-36-13-03-90-35 SeaQ Panorama Date Red Gold / Black / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-36-13-03-90-35"
+        },
+        {
+          "slug": "1-39-11-09-81-06",
+          "text": "1-39-11-09-81-06 SeaQ Date Stainless Steel / Blue / Rubber / Pin",
+          "url": "/glashutte-original/seaq/1-39-11-09-81-06"
+        },
+        {
+          "slug": "1-37-23-02-81-06",
+          "text": "1-37-23-02-81-06 SeaQ Chronograph Stainless Steel / Blue / Rubber - Pin",
+          "url": "/glashutte-original/seaq/1-37-23-02-81-06"
+        },
+        {
+          "slug": "1-36-13-01-80-06",
+          "text": "1-36-13-01-80-06 SeaQ Panorama Date Stainless Steel / Black / Rubber - Pin",
+          "url": "/glashutte-original/seaq/1-36-13-01-80-06"
+        },
+        {
+          "slug": "1-39-11-09-82-34",
+          "text": "1-39-11-09-82-34 SeaQ Date Stainless Steel / Diamond / Blue / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-09-82-34"
+        },
+        {
+          "slug": "1-39-11-09-82-70",
+          "text": "1-39-11-09-82-70 SeaQ Date Stainless Steel / Diamond / Blue / Bracelet",
+          "url": "/glashutte-original/seaq/1-39-11-09-82-70"
+        },
+        {
+          "slug": "1-39-11-13-83-33",
+          "text": "1-39-11-13-83-33 SeaQ Date Stainless Steel / Green / Rubber - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-13-83-33"
+        },
+        {
+          "slug": "1-36-13-01-80-05",
+          "text": "1-36-13-01-80-05 SeaQ Panorama Date Stainless Steel / Black / Textile - Folding",
+          "url": "/glashutte-original/seaq/1-36-13-01-80-05"
+        },
+        {
+          "slug": "1-36-13-02-81-08",
+          "text": "1-36-13-02-81-08 SeaQ Panorama Date Stainless Steel / Blue / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-36-13-02-81-08"
+        },
+        {
+          "slug": "1-36-13-02-81-36",
+          "text": "1-36-13-02-81-36 SeaQ Panorama Date Stainless Steel / Blue / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-36-13-02-81-36"
+        },
+        {
+          "slug": "1-39-11-13-63-33",
+          "text": "1-39-11-13-63-33 SeaQ Date Stainless Steel / Green / Rubber - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-13-63-33"
+        },
+        {
+          "slug": "1-39-11-10-70-34",
+          "text": "1-39-11-10-70-34 SeaQ Date Stainless Steel / Blue / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-10-70-34"
+        },
+        {
+          "slug": "1-39-11-13-63-34",
+          "text": "1-39-11-13-63-34 SeaQ Date Stainless Steel / Green / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-13-63-34"
+        },
+        {
+          "slug": "1-39-11-13-63-37",
+          "text": "1-39-11-13-63-37 SeaQ Date Stainless Steel / Green / Rubber - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-13-63-37"
+        },
+        {
+          "slug": "1-39-11-09-61-06",
+          "text": "1-39-11-09-61-06 SeaQ Date Stainless Steel / Blue / Rubber - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-09-61-06"
+        },
+        {
+          "slug": "1-39-11-09-62-34",
+          "text": "1-39-11-09-62-34 SeaQ Date Stainless Steel / Diamond / Blue / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-09-62-34"
+        },
+        {
+          "slug": "1-39-11-09-62-70",
+          "text": "1-39-11-09-62-70 SeaQ Date Stainless Steel / Diamond / Blue / Bracelet",
+          "url": "/glashutte-original/seaq/1-39-11-09-62-70"
+        },
+        {
+          "slug": "1-39-11-06-60-06",
+          "text": "1-39-11-06-60-06 SeaQ Date Stainless Steel / Black / Rubber - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-06-60-06"
+        },
+        {
+          "slug": "1-39-11-09-61-33",
+          "text": "1-39-11-09-61-33 SeaQ Date Stainless Steel / Blue / Rubber - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-09-61-33"
+        },
+        {
+          "slug": "1-39-11-06-60-05",
+          "text": "1-39-11-06-60-05 SeaQ Date Stainless Steel / Black / Synthetic - Pin",
+          "url": "/glashutte-original/seaq/1-39-11-06-60-05"
+        },
+        {
+          "slug": "1-39-11-06-80-35",
+          "text": "1-39-11-06-80-35 SeaQ Date Stainless Steel / Black / Synthetic - Folding",
+          "url": "/glashutte-original/seaq/1-39-11-06-80-35"
+        }
+      ]
+    },
+    {
+      "name": "Lady Serenade watches82",
+      "slug": "lady-serenade",
+      "references": [
+        {
+          "slug": "1-39-22-12-02-34",
+          "text": "1-39-22-12-02-34 Lady Serenade Stainless Steel / MOP - Index Line / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-12-02-34"
+        },
+        {
+          "slug": "1-39-22-08-02-04",
+          "text": "1-39-22-08-02-04 Lady Serenade Stainless Steel / MOP / Satin - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-08-02-04"
+        },
+        {
+          "slug": "1-39-22-03-22-44",
+          "text": "1-39-22-03-22-44 Lady Serenade Stainless Steel / Diamond / Pink / Calf / Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-03-22-44"
+        },
+        {
+          "slug": "1-39-22-09-16-34",
+          "text": "1-39-22-09-16-34 Lady Serenade Stainless Steel / Rose Gold / Diamond / MOP / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-09-16-34"
+        },
+        {
+          "slug": "1-39-22-20-02-04",
+          "text": "1-39-22-20-02-04 Lady Serenade Stainless Steel / Black / Alligator - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-20-02-04"
+        },
+        {
+          "slug": "1-39-22-20-22-34",
+          "text": "1-39-22-20-22-34 Lady Serenade Stainless Steel / Diamond / Black / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-20-22-34"
+        },
+        {
+          "slug": "1-39-22-09-06-34",
+          "text": "1-39-22-09-06-34 Lady Serenade Stainless Steel - Rose Gold / MOP / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-09-06-34"
+        },
+        {
+          "slug": "1-35-14-01-16-14",
+          "text": "1-35-14-01-16-14 Lady Serenade Luna Stainless Steel - Red Gold - Diamond / MOP / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-35-14-01-16-14"
+        },
+        {
+          "slug": "1-35-14-02-02-14",
+          "text": "1-35-14-02-02-14 Lady Serenade Luna Stainless Steel / MOP / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-35-14-02-02-14"
+        },
+        {
+          "slug": "1-39-22-02-02-44",
+          "text": "1-39-22-02-02-44 Lady Serenade Stainless Steel / Silver / Alligator - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-02-02-44"
+        },
+        {
+          "slug": "1-39-22-08-02-34",
+          "text": "1-39-22-08-02-34 Lady Serenade Stainless Steel / MOP / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-08-02-34"
+        },
+        {
+          "slug": "1-39-22-09-11-44",
+          "text": "1-39-22-09-11-44 Lady Serenade Rose Gold / Diamond / MOP / Calf - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-09-11-44"
+        },
+        {
+          "slug": "1-39-22-20-22-04",
+          "text": "1-39-22-20-22-04 Lady Serenade Stainless Steel / Diamond / Black / Alligator - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-20-22-04"
+        },
+        {
+          "slug": "1-39-22-14-02-44",
+          "text": "1-39-22-14-02-44 Lady Serenade Stainless Steel / MOP - Index Line / Alligator",
+          "url": "/glashutte-original/lady-serenade/1-39-22-14-02-44"
+        },
+        {
+          "slug": "1-39-22-12-01-04",
+          "text": "1-39-22-12-01-04 Lady Serenade Rose Gold / MOP - Index Line / Alligator - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-12-01-04"
+        },
+        {
+          "slug": "1-39-22-11-22-04",
+          "text": "1-39-22-11-22-04 Lady Serenade Stainless Steel / Diamond / Blue MOP - Index Line / Alligator - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-11-22-04"
+        },
+        {
+          "slug": "1-39-22-12-11-44",
+          "text": "1-39-22-12-11-44 Lady Serenade Rose Gold / Diamond / MOP - Index Line / Alligator / Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-12-11-44"
+        },
+        {
+          "slug": "1-39-22-11-02-04",
+          "text": "1-39-22-11-02-04 Lady Serenade Stainless Steel / Blue MOP - Index Line / Alligator - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-11-02-04"
+        },
+        {
+          "slug": "1-39-22-22-22-70",
+          "text": "1-39-22-22-22-70 Lady Serenade Stainless Steel - Diamond / MOP / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-22-22-70"
+        },
+        {
+          "slug": "1-39-22-11-02-44",
+          "text": "1-39-22-11-02-44 Lady Serenade Stainless Steel / Blue MOP - Index Line / Alligator - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-11-02-44"
+        },
+        {
+          "slug": "1-35-14-03-02-04",
+          "text": "1-35-14-03-02-04 Lady Serenade Luna Stainless Steel / Blue",
+          "url": "/glashutte-original/lady-serenade/1-35-14-03-02-04"
+        },
+        {
+          "slug": "1-39-22-02-22-34",
+          "text": "1-39-22-02-22-34 Lady Serenade Stainless Steel / Diamond / Silver / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-02-22-34"
+        },
+        {
+          "slug": "1-39-22-11-22-44",
+          "text": "1-39-22-11-22-44 Lady Serenade Stainless Steel / Diamond / Blue MOP - Index Line / Alligator / Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-11-22-44"
+        },
+        {
+          "slug": "1-39-22-14-11-44",
+          "text": "1-39-22-14-11-44 Lady Serenade Rose Gold / Diamond / MOP - Index Line / Alligator",
+          "url": "/glashutte-original/lady-serenade/1-39-22-14-11-44"
+        },
+        {
+          "slug": "1-35-14-01-06-04",
+          "text": "1-35-14-01-06-04 Lady Serenade Luna Stainless Steel - Red Gold / MOP",
+          "url": "/glashutte-original/lady-serenade/1-35-14-01-06-04"
+        },
+        {
+          "slug": "1-35-14-02-12-04",
+          "text": "1-35-14-02-12-04 Lady Serenade Luna Stainless Steel - Diamond / MOP",
+          "url": "/glashutte-original/lady-serenade/1-35-14-02-12-04"
+        },
+        {
+          "slug": "1-35-14-01-16-04",
+          "text": "1-35-14-01-16-04 Lady Serenade Luna Stainless Steel - Red Gold - Diamond / MOP",
+          "url": "/glashutte-original/lady-serenade/1-35-14-01-16-04"
+        },
+        {
+          "slug": "1-39-22-14-01-44",
+          "text": "1-39-22-14-01-44 Lady Serenade Rose Gold / MOP - Index Line / Alligator",
+          "url": "/glashutte-original/lady-serenade/1-39-22-14-01-44"
+        },
+        {
+          "slug": "1-39-22-11-02-34",
+          "text": "1-39-22-11-02-34 Lady Serenade Stainless Steel / Blue MOP - Index Line / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-11-02-34"
+        },
+        {
+          "slug": "1-39-22-13-11-44",
+          "text": "1-39-22-13-11-44 Lady Serenade Rose Gold / Diamond / Brown - Index Line",
+          "url": "/glashutte-original/lady-serenade/1-39-22-13-11-44"
+        },
+        {
+          "slug": "1-39-22-22-22-44",
+          "text": "1-39-22-22-22-44 Lady Serenade Stainless Steel - Diamond / MOP / Alligator - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-22-22-44"
+        },
+        {
+          "slug": "1-39-22-04-11-04",
+          "text": "1-39-22-04-11-04 Lady Serenade Rose Gold / Diamond / Silver / Calf - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-04-11-04"
+        },
+        {
+          "slug": "1-39-22-08-02-44",
+          "text": "1-39-22-08-02-44 Lady Serenade Stainless Steel / MOP / Satin - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-08-02-44"
+        },
+        {
+          "slug": "1-39-22-21-22-44",
+          "text": "1-39-22-21-22-44 Lady Serenade Stainless Steel / Diamond / Valentine's Day - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-21-22-44"
+        },
+        {
+          "slug": "1-39-22-12-11-04",
+          "text": "1-39-22-12-11-04 Lady Serenade Rose Gold / Diamond / MOP - Index Line / Alligator - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-12-11-04"
+        },
+        {
+          "slug": "1-35-14-06-15-04",
+          "text": "1-35-14-06-15-04 Lady Serenade Luna Red Gold - Diamond / Blue",
+          "url": "/glashutte-original/lady-serenade/1-35-14-06-15-04"
+        },
+        {
+          "slug": "1-35-14-01-15-04",
+          "text": "1-35-14-01-15-04 Lady Serenade Luna Red Gold - Diamond / MOP",
+          "url": "/glashutte-original/lady-serenade/1-35-14-01-15-04"
+        },
+        {
+          "slug": "1-35-14-05-15-04",
+          "text": "1-35-14-05-15-04 Lady Serenade Luna Red Gold - Diamond / Green",
+          "url": "/glashutte-original/lady-serenade/1-35-14-05-15-04"
+        },
+        {
+          "slug": "1-39-22-13-01-44",
+          "text": "1-39-22-13-01-44 Lady Serenade Rose Gold / Brown - Index Line",
+          "url": "/glashutte-original/lady-serenade/1-39-22-13-01-44"
+        },
+        {
+          "slug": "1-39-22-18-11-44",
+          "text": "1-39-22-18-11-44 Lady Serenade Rose Gold / Diamond / Black / Alligator - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-18-11-44"
+        },
+        {
+          "slug": "1-39-22-10-30-44",
+          "text": "1-39-22-10-30-44 Lady Serenade Stainless Steel / Ruby / MOP / Alligator / Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-10-30-44"
+        },
+        {
+          "slug": "1-39-22-12-01-44",
+          "text": "1-39-22-12-01-44 Lady Serenade Rose Gold / MOP - Index Line / Alligator - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-12-01-44"
+        },
+        {
+          "slug": "1-39-22-09-06-04",
+          "text": "1-39-22-09-06-04 Lady Serenade Stainless Steel / Rose Gold / MOP / Alligator - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-09-06-04"
+        },
+        {
+          "slug": "1-39-22-12-22-04",
+          "text": "1-39-22-12-22-04 Lady Serenade Stainless Steel / Diamond / MOP - Index Line / Satin - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-12-22-04"
+        },
+        {
+          "slug": "1-35-14-01-06-14",
+          "text": "1-35-14-01-06-14 Lady Serenade Luna Stainless Steel - Red Gold / MOP/ Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-35-14-01-06-14"
+        },
+        {
+          "slug": "1-35-14-02-12-14",
+          "text": "1-35-14-02-12-14 Lady Serenade Luna Stainless Steel - Diamond / MOP / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-35-14-02-12-14"
+        },
+        {
+          "slug": "1-39-22-18-11-04",
+          "text": "1-39-22-18-11-04 Lady Serenade Rose Gold / Diamond / Black / Alligator - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-18-11-04"
+        },
+        {
+          "slug": "1-39-22-02-22-44",
+          "text": "1-39-22-02-22-44 Lady Serenade Stainless Steel / Diamond / Silver / Alligator / Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-02-22-44"
+        },
+        {
+          "slug": "1-39-22-14-22-34",
+          "text": "1-39-22-14-22-34 Lady Serenade Stainless Steel / Diamond / MOP - Index Line / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-14-22-34"
+        },
+        {
+          "slug": "1-39-22-14-02-34",
+          "text": "1-39-22-14-02-34 Lady Serenade Stainless Steel / MOP - Index Line / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-14-02-34"
+        },
+        {
+          "slug": "1-39-22-02-02-34",
+          "text": "1-39-22-02-02-34 Lady Serenade Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-02-02-34"
+        },
+        {
+          "slug": "1-39-22-02-02-04",
+          "text": "1-39-22-02-02-04 Lady Serenade Stainless Steel / Silver / Alligator - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-02-02-04"
+        },
+        {
+          "slug": "1-39-22-03-22-04",
+          "text": "1-39-22-03-22-04 Lady Serenade Stainless Steel / Diamond / Pink / Calf / Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-03-22-04"
+        },
+        {
+          "slug": "1-39-22-04-01-04",
+          "text": "1-39-22-04-01-04 Lady Serenade Rose Gold / Silver / Calf / Calf - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-04-01-04"
+        },
+        {
+          "slug": "1-39-22-09-06-44",
+          "text": "1-39-22-09-06-44 Lady Serenade Stainless Steel / Rose Gold / MOP / Alligator - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-09-06-44"
+        },
+        {
+          "slug": "1-35-14-02-02-04",
+          "text": "1-35-14-02-02-04 Lady Serenade Luna Stainless Steel / MOP",
+          "url": "/glashutte-original/lady-serenade/1-35-14-02-02-04"
+        },
+        {
+          "slug": "1-35-14-03-02-14",
+          "text": "1-35-14-03-02-14 Lady Serenade Luna Stainless Steel / Blue / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-35-14-03-02-14"
+        },
+        {
+          "slug": "1-39-22-08-22-44",
+          "text": "1-39-22-08-22-44 Lady Serenade Stainless Steel / Diamond / MOP / Satin - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-08-22-44"
+        },
+        {
+          "slug": "1-39-22-09-16-04",
+          "text": "1-39-22-09-16-04 Lady Serenade Stainless Steel / Rose Gold / Diamond / MOP / Alligator / Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-09-16-04"
+        },
+        {
+          "slug": "1-39-22-09-01-04",
+          "text": "1-39-22-09-01-04 Lady Serenade Rose Gold / MOP / Calf - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-09-01-04"
+        },
+        {
+          "slug": "1-39-22-08-22-04",
+          "text": "1-39-22-08-22-04 Lady Serenade Stainless Steel / Diamond / MOP / Satin / Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-08-22-04"
+        },
+        {
+          "slug": "1-39-22-08-22-34",
+          "text": "1-39-22-08-22-34 Lady Serenade Stainless Steel / Diamond / MOP / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-08-22-34"
+        },
+        {
+          "slug": "1-39-22-14-22-44",
+          "text": "1-39-22-14-22-44 Lady Serenade Stainless Steel / Diamond / MOP - Index Line / Alligator",
+          "url": "/glashutte-original/lady-serenade/1-39-22-14-22-44"
+        },
+        {
+          "slug": "1-39-22-12-22-44",
+          "text": "1-39-22-12-22-44 Lady Serenade Stainless Steel / Diamond / MOP - Index Line / Satin / Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-12-22-44"
+        },
+        {
+          "slug": "1-39-22-18-01-04",
+          "text": "1-39-22-18-01-04 Lady Serenade Rose Gold / Black / Alligator - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-18-01-04"
+        },
+        {
+          "slug": "1-39-22-04-01-44",
+          "text": "1-39-22-04-01-44 Lady Serenade Rose Gold / Silver / Calf / Calf - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-04-01-44"
+        },
+        {
+          "slug": "1-39-22-02-22-04",
+          "text": "1-39-22-02-22-04 Lady Serenade Stainless Steel / Diamond / Silver / Alligator - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-02-22-04"
+        },
+        {
+          "slug": "1-39-22-12-22-34",
+          "text": "1-39-22-12-22-34 Lady Serenade Stainless Steel / MOP - Index Line / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-12-22-34"
+        },
+        {
+          "slug": "1-39-22-20-02-34",
+          "text": "1-39-22-20-02-34 Lady Serenade Stainless Steel / Black / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-20-02-34"
+        },
+        {
+          "slug": "1-39-22-10-30-04",
+          "text": "1-39-22-10-30-04 Lady Serenade Stainless Steel / Ruby / MOP / Alligator / Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-10-30-04"
+        },
+        {
+          "slug": "1-39-22-20-22-44",
+          "text": "1-39-22-20-22-44 Lady Serenade Stainless Steel / Diamond / Black / Alligator - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-20-22-44"
+        },
+        {
+          "slug": "1-39-22-20-02-44",
+          "text": "1-39-22-20-02-44 Lady Serenade Stainless Steel / Black / Alligator - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-20-02-44"
+        },
+        {
+          "slug": "1-39-22-09-16-44",
+          "text": "1-39-22-09-16-44 Lady Serenade Stainless Steel / Rose Gold / Diamond / MOP / Alligator / Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-09-16-44"
+        },
+        {
+          "slug": "1-39-22-12-02-44",
+          "text": "1-39-22-12-02-44 Lady Serenade Stainless Steel / MOP - Index Line / Satin - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-12-02-44"
+        },
+        {
+          "slug": "1-39-22-09-11-04",
+          "text": "1-39-22-09-11-04 Lady Serenade Rose Gold / Diamond / MOP / Calf - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-09-11-04"
+        },
+        {
+          "slug": "1-39-22-11-22-34",
+          "text": "1-39-22-11-22-34 Lady Serenade Stainless Steel / Diamond / Blue MOP - Index Line / Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-11-22-34"
+        },
+        {
+          "slug": "1-39-22-04-11-44",
+          "text": "1-39-22-04-11-44 Lady Serenade Rose Gold / Diamond / Silver / Calf - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-04-11-44"
+        },
+        {
+          "slug": "1-39-22-09-01-44",
+          "text": "1-39-22-09-01-44 Lady Serenade Rose Gold / MOP / Calf - Pin",
+          "url": "/glashutte-original/lady-serenade/1-39-22-09-01-44"
+        },
+        {
+          "slug": "1-39-22-21-22-04",
+          "text": "1-39-22-21-22-04 Lady Serenade Stainless Steel / Diamond / Valentine's Day - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-21-22-04"
+        },
+        {
+          "slug": "1-39-22-22-22-04",
+          "text": "1-39-22-22-22-04 Lady Serenade Stainless Steel - Diamond / MOP / Alligator - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-22-22-04"
+        },
+        {
+          "slug": "1-39-22-12-02-04",
+          "text": "1-39-22-12-02-04 Lady Serenade Stainless Steel / MOP - Index Line / Satin - Folding",
+          "url": "/glashutte-original/lady-serenade/1-39-22-12-02-04"
+        },
+        {
+          "slug": "1-39-22-21-22-70",
+          "text": "1-39-22-21-22-70 Lady Serenade Stainless Steel / Diamond / Valentine's Day - Bracelet",
+          "url": "/glashutte-original/lady-serenade/1-39-22-21-22-70"
+        }
+      ]
+    },
+    {
+      "name": "Seventies watches66",
+      "slug": "seventies",
+      "references": [
+        {
+          "slug": "2-39-47-13-12-06",
+          "text": "2-39-47-13-12-06 Seventies Panorama Date Blue / Rubber / Folding",
+          "url": "/glashutte-original/seventies/2-39-47-13-12-06"
+        },
+        {
+          "slug": "2-39-47-12-12-04",
+          "text": "2-39-47-12-12-04 Seventies Panorama Date Ruthenium/ Alligator / Folding",
+          "url": "/glashutte-original/seventies/2-39-47-12-12-04"
+        },
+        {
+          "slug": "2-39-47-11-12-50",
+          "text": "2-39-47-11-12-50 Seventies Panorama Date Silver / Alligator / Folding",
+          "url": "/glashutte-original/seventies/2-39-47-11-12-50"
+        },
+        {
+          "slug": "1-37-02-03-02-53",
+          "text": "1-37-02-03-02-53 Seventies Chronograph Panorama Date Blue / Rubber / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-03-02-53"
+        },
+        {
+          "slug": "1-37-02-04-02-35",
+          "text": "1-37-02-04-02-35 Seventies Chronograph Panorama Date Green / Nubuck / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-04-02-35"
+        },
+        {
+          "slug": "2-39-47-13-12-04",
+          "text": "2-39-47-13-12-04 Seventies Panorama Date Blue / Alligator / Folding",
+          "url": "/glashutte-original/seventies/2-39-47-13-12-04"
+        },
+        {
+          "slug": "1-37-02-01-02-70",
+          "text": "1-37-02-01-02-70 Seventies Chronograph Panorama Date Ruthenium / Bracelet",
+          "url": "/glashutte-original/seventies/1-37-02-01-02-70"
+        },
+        {
+          "slug": "1-37-02-20-02-70",
+          "text": "1-37-02-20-02-70 Seventies Chronograph Panorama Date Stainless Steel / Plasma / Bracelet",
+          "url": "/glashutte-original/seventies/1-37-02-20-02-70"
+        },
+        {
+          "slug": "1-37-02-15-02-70",
+          "text": "1-37-02-15-02-70 Seventies Chronograph Panorama Date Turquoise / Bracelet",
+          "url": "/glashutte-original/seventies/1-37-02-15-02-70"
+        },
+        {
+          "slug": "1-37-02-16-02-70",
+          "text": "1-37-02-16-02-70 Seventies Chronograph Panorama Date Swimming Pool",
+          "url": "/glashutte-original/seventies/1-37-02-16-02-70"
+        },
+        {
+          "slug": "2-39-47-12-12-06",
+          "text": "2-39-47-12-12-06 Seventies Panorama Date Ruthenium / Rubber / Folding",
+          "url": "/glashutte-original/seventies/2-39-47-12-12-06"
+        },
+        {
+          "slug": "2-39-47-12-12-14",
+          "text": "2-39-47-12-12-14 Seventies Panorama Date Ruthenium Bracelet",
+          "url": "/glashutte-original/seventies/2-39-47-12-12-14"
+        },
+        {
+          "slug": "1-37-02-11-02-70",
+          "text": "1-37-02-11-02-70 Seventies Chronograph Panorama Date Vibing Orange / Bracelet",
+          "url": "/glashutte-original/seventies/1-37-02-11-02-70"
+        },
+        {
+          "slug": "1-37-02-02-02-70",
+          "text": "1-37-02-02-02-70 Seventies Chronograph Panorama Date Silver / Bracelet",
+          "url": "/glashutte-original/seventies/1-37-02-02-02-70"
+        },
+        {
+          "slug": "1-37-02-03-02-50",
+          "text": "1-37-02-03-02-50 Seventies Chronograph Panorama Date Blue / Alligator / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-03-02-50"
+        },
+        {
+          "slug": "1-37-02-03-02-30",
+          "text": "1-37-02-03-02-30 Seventies Chronograph Panorama Date Blue / Alligator / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-03-02-30"
+        },
+        {
+          "slug": "1-37-02-03-02-33",
+          "text": "1-37-02-03-02-33 Seventies Chronograph Panorama Date Blue / Rubber / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-03-02-33"
+        },
+        {
+          "slug": "1-37-02-13-02-70",
+          "text": "1-37-02-13-02-70 Seventies Chronograph Panorama Date Ocean Breeze / Bracelet",
+          "url": "/glashutte-original/seventies/1-37-02-13-02-70"
+        },
+        {
+          "slug": "1-37-02-07-02-70",
+          "text": "1-37-02-07-02-70 Seventies Chronograph Panorama Date Yellow / Bracelet",
+          "url": "/glashutte-original/seventies/1-37-02-07-02-70"
+        },
+        {
+          "slug": "1-37-02-06-02-35",
+          "text": "1-37-02-06-02-35 Seventies Chronograph Panorama Date Turquoise / Nubuck / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-06-02-35"
+        },
+        {
+          "slug": "1-37-02-06-02-55",
+          "text": "1-37-02-06-02-55 Seventies Chronograph Panorama Date Turquoise / Nubuck / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-06-02-55"
+        },
+        {
+          "slug": "1-37-02-03-02-70",
+          "text": "1-37-02-03-02-70 Seventies Chronograph Panorama Date Blue / Bracelet",
+          "url": "/glashutte-original/seventies/1-37-02-03-02-70"
+        },
+        {
+          "slug": "1-37-02-17-02-63",
+          "text": "1-37-02-17-02-63 Seventies Chronograph Panorama Date Watermelon",
+          "url": "/glashutte-original/seventies/1-37-02-17-02-63"
+        },
+        {
+          "slug": "1-37-02-20-02-63",
+          "text": "1-37-02-20-02-63 Seventies Chronograph Panorama Date Stainless Steel / Plasma / Rubber",
+          "url": "/glashutte-original/seventies/1-37-02-20-02-63"
+        },
+        {
+          "slug": "1-37-02-10-02-63",
+          "text": "1-37-02-10-02-63 Seventies Chronograph Panorama Date Disco Blue / Rubber / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-10-02-63"
+        },
+        {
+          "slug": "1-37-02-01-02-50",
+          "text": "1-37-02-01-02-50 Seventies Chronograph Panorama Date Ruthenium / Alligator / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-01-02-50"
+        },
+        {
+          "slug": "1-37-02-02-02-53",
+          "text": "1-37-02-02-02-53 Seventies Chronograph Panorama Date Silver / Rubber / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-02-02-53"
+        },
+        {
+          "slug": "1-37-02-09-02-63",
+          "text": "1-37-02-09-02-63 Seventies Chronograph Panorama Date Green / Rubber - Folding",
+          "url": "/glashutte-original/seventies/1-37-02-09-02-63"
+        },
+        {
+          "slug": "2-39-47-13-12-14",
+          "text": "2-39-47-13-12-14 Seventies Panorama Date Blue / Bracelet",
+          "url": "/glashutte-original/seventies/2-39-47-13-12-14"
+        },
+        {
+          "slug": "1-37-02-15-02-50",
+          "text": "1-37-02-15-02-50 Seventies Chronograph Panorama Date Turquoise / Alligator / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-15-02-50"
+        },
+        {
+          "slug": "1-37-02-11-02-63",
+          "text": "1-37-02-11-02-63 Seventies Chronograph Panorama Date Vibing Orange / Rubber / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-11-02-63"
+        },
+        {
+          "slug": "2-39-47-12-12-53",
+          "text": "2-39-47-12-12-53 Seventies Panorama Date Ruthenium / Rubber / Folding",
+          "url": "/glashutte-original/seventies/2-39-47-12-12-53"
+        },
+        {
+          "slug": "1-37-02-07-02-55",
+          "text": "1-37-02-07-02-55 Seventies Chronograph Panorama Date Yellow / Nubuck / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-07-02-55"
+        },
+        {
+          "slug": "1-37-02-09-02-70",
+          "text": "1-37-02-09-02-70 Seventies Chronograph Panorama Date Green / Bracelet",
+          "url": "/glashutte-original/seventies/1-37-02-09-02-70"
+        },
+        {
+          "slug": "1-37-02-05-02-55",
+          "text": "1-37-02-05-02-55 Seventies Chronograph Panorama Date Grey / Nubuck / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-05-02-55"
+        },
+        {
+          "slug": "1-37-02-05-02-35",
+          "text": "1-37-02-05-02-35 Seventies Chronograph Panorama Date Grey / Nubuck / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-05-02-35"
+        },
+        {
+          "slug": "2-39-47-13-12-50",
+          "text": "2-39-47-13-12-50 Seventies Panorama Date Blue / Alligator / Folding",
+          "url": "/glashutte-original/seventies/2-39-47-13-12-50"
+        },
+        {
+          "slug": "2-39-47-13-12-53",
+          "text": "2-39-47-13-12-53 Seventies Panorama Date Blue / Rubber / Folding",
+          "url": "/glashutte-original/seventies/2-39-47-13-12-53"
+        },
+        {
+          "slug": "1-37-02-17-02-70",
+          "text": "1-37-02-17-02-70 Seventies Chronograph Panorama Date Watermelon",
+          "url": "/glashutte-original/seventies/1-37-02-17-02-70"
+        },
+        {
+          "slug": "1-37-02-02-02-50",
+          "text": "1-37-02-02-02-50 Seventies Chronograph Panorama Date Silver / Alligator / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-02-02-50"
+        },
+        {
+          "slug": "1-37-02-01-02-30",
+          "text": "1-37-02-01-02-30 Seventies Chronograph Panorama Date Ruthenium / Alligator / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-01-02-30"
+        },
+        {
+          "slug": "2-39-47-11-12-14",
+          "text": "2-39-47-11-12-14 Seventies Panorama Date Silver / Bracelet",
+          "url": "/glashutte-original/seventies/2-39-47-11-12-14"
+        },
+        {
+          "slug": "2-39-47-11-12-06",
+          "text": "2-39-47-11-12-06 Seventies Panorama Date Silver / Rubber / Folding",
+          "url": "/glashutte-original/seventies/2-39-47-11-12-06"
+        },
+        {
+          "slug": "1-37-02-04-02-55",
+          "text": "1-37-02-04-02-55 Seventies Chronograph Panorama Date Green / Nubuck / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-04-02-55"
+        },
+        {
+          "slug": "1-37-02-13-02-63",
+          "text": "1-37-02-13-02-63 Seventies Chronograph Panorama Date Ocean Breeze/ Rubber",
+          "url": "/glashutte-original/seventies/1-37-02-13-02-63"
+        },
+        {
+          "slug": "1-37-02-14-02-70",
+          "text": "1-37-02-14-02-70 Seventies Chronograph Panorama Date Golden Bay / Bracelet",
+          "url": "/glashutte-original/seventies/1-37-02-14-02-70"
+        },
+        {
+          "slug": "1-37-02-14-02-63",
+          "text": "1-37-02-14-02-63 Seventies Chronograph Panorama Date Golden Bay / Rubber",
+          "url": "/glashutte-original/seventies/1-37-02-14-02-63"
+        },
+        {
+          "slug": "1-37-02-08-02-61",
+          "text": "1-37-02-08-02-61 Seventies Chronograph Panorama Date Blue / Alligator - Folding",
+          "url": "/glashutte-original/seventies/1-37-02-08-02-61"
+        },
+        {
+          "slug": "1-37-02-16-02-63",
+          "text": "1-37-02-16-02-63 Seventies Chronograph Panorama Date Swimming Pool",
+          "url": "/glashutte-original/seventies/1-37-02-16-02-63"
+        },
+        {
+          "slug": "1-37-02-10-02-70",
+          "text": "1-37-02-10-02-70 Seventies Chronograph Panorama Date Disco Blue / Bracelet",
+          "url": "/glashutte-original/seventies/1-37-02-10-02-70"
+        },
+        {
+          "slug": "1-37-02-09-02-62",
+          "text": "1-37-02-09-02-62 Seventies Chronograph Panorama Date Green / Calf - Folding",
+          "url": "/glashutte-original/seventies/1-37-02-09-02-62"
+        },
+        {
+          "slug": "1-37-02-06-02-70",
+          "text": "1-37-02-06-02-70 Seventies Chronograph Panorama Date Turquoise / Bracelet",
+          "url": "/glashutte-original/seventies/1-37-02-06-02-70"
+        },
+        {
+          "slug": "1-37-02-07-02-35",
+          "text": "1-37-02-07-02-35 Seventies Chronograph Panorama Date Yellow / Nubuck / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-07-02-35"
+        },
+        {
+          "slug": "2-39-47-12-12-50",
+          "text": "2-39-47-12-12-50 Seventies Panorama Date Ruthenium/ Alligator / Folding",
+          "url": "/glashutte-original/seventies/2-39-47-12-12-50"
+        },
+        {
+          "slug": "2-39-47-11-12-53",
+          "text": "2-39-47-11-12-53 Seventies Panorama Date Silver / Rubber / Folding",
+          "url": "/glashutte-original/seventies/2-39-47-11-12-53"
+        },
+        {
+          "slug": "1-37-02-01-02-53",
+          "text": "1-37-02-01-02-53 Seventies Chronograph Panorama Date Ruthenium / Rubber / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-01-02-53"
+        },
+        {
+          "slug": "1-37-02-08-02-62",
+          "text": "1-37-02-08-02-62 Seventies Chronograph Panorama Date Blue / Calf - Folding",
+          "url": "/glashutte-original/seventies/1-37-02-08-02-62"
+        },
+        {
+          "slug": "2-39-47-11-12-04",
+          "text": "2-39-47-11-12-04 Seventies Panorama Date Silver / Alligator / Folding",
+          "url": "/glashutte-original/seventies/2-39-47-11-12-04"
+        },
+        {
+          "slug": "1-37-02-01-02-33",
+          "text": "1-37-02-01-02-33 Seventies Chronograph Panorama Date Ruthenium / Rubber / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-01-02-33"
+        },
+        {
+          "slug": "1-37-02-02-02-30",
+          "text": "1-37-02-02-02-30 Seventies Chronograph Panorama Date Silver / Alligator / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-02-02-30"
+        },
+        {
+          "slug": "1-37-02-02-02-33",
+          "text": "1-37-02-02-02-33 Seventies Chronograph Panorama Date Silver / Rubber / Folding",
+          "url": "/glashutte-original/seventies/1-37-02-02-02-33"
+        },
+        {
+          "slug": "1-37-02-08-02-70",
+          "text": "1-37-02-08-02-70 Seventies Chronograph Panorama Date Blue / Bracelet",
+          "url": "/glashutte-original/seventies/1-37-02-08-02-70"
+        },
+        {
+          "slug": "1-37-02-08-02-63",
+          "text": "1-37-02-08-02-63 Seventies Chronograph Panorama Date Blue / Rubbe r - Folding",
+          "url": "/glashutte-original/seventies/1-37-02-08-02-63"
+        },
+        {
+          "slug": "1-37-02-18-02-70",
+          "text": "1-37-02-18-02-70 Seventies 'X' Chronograph / North America",
+          "url": "/glashutte-original/seventies/1-37-02-18-02-70"
+        },
+        {
+          "slug": "1-37-02-19-02-63",
+          "text": "1-37-02-19-02-63 Seventies Chronograph Panorama Date Stainless Steel / Fusion / Rubber",
+          "url": "/glashutte-original/seventies/1-37-02-19-02-63"
+        },
+        {
+          "slug": "1-37-02-19-02-70",
+          "text": "1-37-02-19-02-70 Seventies Chronograph Panorama Date Stainless Steel / Fusion / Bracelet",
+          "url": "/glashutte-original/seventies/1-37-02-19-02-70"
+        }
+      ]
+    },
+    {
+      "name": "Pavonina watches61",
+      "slug": "pavonina",
+      "references": [
+        {
+          "slug": "1-03-01-27-06-14",
+          "text": "1-03-01-27-06-14 Pavonina Date Stainless Steel / Red Gold / Grey / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-01-27-06-14"
+        },
+        {
+          "slug": "1-03-01-28-05-14",
+          "text": "1-03-01-28-05-14 Pavonina Date Red Gold / Black / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-01-28-05-14"
+        },
+        {
+          "slug": "1-03-01-26-06-04",
+          "text": "1-03-01-26-06-04 Pavonina Date Stainless Steel / Red Gold / MOP",
+          "url": "/glashutte-original/pavonina/1-03-01-26-06-04"
+        },
+        {
+          "slug": "1-03-02-05-12-14",
+          "text": "1-03-02-05-12-14 Pavonina Stainless Steel / MOP / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-02-05-12-14"
+        },
+        {
+          "slug": "1-03-01-05-34-30",
+          "text": "1-03-01-05-34-30 Pavonina Date White Gold / Diamond / MOP - Diamond / Satin",
+          "url": "/glashutte-original/pavonina/1-03-01-05-34-30"
+        },
+        {
+          "slug": "1-03-01-26-06-34",
+          "text": "1-03-01-26-06-34 Pavonina Date Stainless Steel / Red Gold / MOP / Calf",
+          "url": "/glashutte-original/pavonina/1-03-01-26-06-34"
+        },
+        {
+          "slug": "1-03-01-04-15-01",
+          "text": "1-03-01-04-15-01 Pavonina Date Red Gold / Diamond / Cold Enamel Brown / Calf",
+          "url": "/glashutte-original/pavonina/1-03-01-04-15-01"
+        },
+        {
+          "slug": "1-03-02-05-02-14",
+          "text": "1-03-02-05-02-14 Pavonina Stainless Steel / MOP / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-02-05-02-14"
+        },
+        {
+          "slug": "1-03-01-15-02-14",
+          "text": "1-03-01-15-02-14 Pavonina Date Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-01-15-02-14"
+        },
+        {
+          "slug": "1-03-02-12-12-35",
+          "text": "1-03-02-12-12-35 Pavonina Stainless Steel / Diamond  / Silver / Calf",
+          "url": "/glashutte-original/pavonina/1-03-02-12-12-35"
+        },
+        {
+          "slug": "1-03-02-05-05-30",
+          "text": "1-03-02-05-05-30 Pavonina Red Gold / Diamond / MOP /  Alligator",
+          "url": "/glashutte-original/pavonina/1-03-02-05-05-30"
+        },
+        {
+          "slug": "1-03-02-05-05-14",
+          "text": "1-03-02-05-05-14 Pavonina Red Gold / MOP / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-02-05-05-14"
+        },
+        {
+          "slug": "1-03-02-05-16-30",
+          "text": "1-03-02-05-16-30 Pavonina Stainless Steel / Red Gold / Diamond / MOP / Alligator",
+          "url": "/glashutte-original/pavonina/1-03-02-05-16-30"
+        },
+        {
+          "slug": "1-03-01-28-05-02",
+          "text": "1-03-01-28-05-02 Pavonina Date Red Gold / Diamond / Black / Alligator",
+          "url": "/glashutte-original/pavonina/1-03-01-28-05-02"
+        },
+        {
+          "slug": "1-03-01-25-06-02",
+          "text": "1-03-01-25-06-02 Pavonina Date Stainless Steel / Red Gold / Diamond / Grey / Calf",
+          "url": "/glashutte-original/pavonina/1-03-01-25-06-02"
+        },
+        {
+          "slug": "1-03-01-15-02-34",
+          "text": "1-03-01-15-02-34 Pavonina Date Stainless Steel / Silver / Calf - Folding",
+          "url": "/glashutte-original/pavonina/1-03-01-15-02-34"
+        },
+        {
+          "slug": "1-03-02-05-16-31",
+          "text": "1-03-02-05-16-31 Pavonina Stainless Steel / Red Gold / Diamond / MOP / Alligator",
+          "url": "/glashutte-original/pavonina/1-03-02-05-16-31"
+        },
+        {
+          "slug": "1-03-02-04-05-14",
+          "text": "1-03-02-04-05-14 Pavonina Red Gold / MOP / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-02-04-05-14"
+        },
+        {
+          "slug": "1-03-02-09-05-14",
+          "text": "1-03-02-09-05-14 Pavonina Red Gold / Black / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-02-09-05-14"
+        },
+        {
+          "slug": "1-03-02-04-16-14",
+          "text": "1-03-02-04-16-14 Pavonina Stainless Steel / Red Gold / MOP / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-02-04-16-14"
+        },
+        {
+          "slug": "1-03-02-04-16-34",
+          "text": "1-03-02-04-16-34 Pavonina Stainless Steel / Red Gold / MOP / Calf",
+          "url": "/glashutte-original/pavonina/1-03-02-04-16-34"
+        },
+        {
+          "slug": "1-03-02-06-12-34",
+          "text": "1-03-02-06-12-34 Pavonina Stainless Steel / Diamond / Blue MOP / Calf",
+          "url": "/glashutte-original/pavonina/1-03-02-06-12-34"
+        },
+        {
+          "slug": "1-03-02-05-05-31",
+          "text": "1-03-02-05-05-31 Pavonina Red Gold / Diamond / MOP /  Alligator",
+          "url": "/glashutte-original/pavonina/1-03-02-05-05-31"
+        },
+        {
+          "slug": "1-03-01-10-12-34",
+          "text": "1-03-01-10-12-34 Pavonina Date Stainless Steel / Diamond / Silver / Alligator",
+          "url": "/glashutte-original/pavonina/1-03-01-10-12-34"
+        },
+        {
+          "slug": "1-03-01-14-02-34",
+          "text": "1-03-01-14-02-34 Pavonina Date Stainless Steel / Grey / Calf / Folding",
+          "url": "/glashutte-original/pavonina/1-03-01-14-02-34"
+        },
+        {
+          "slug": "1-03-02-05-02-30",
+          "text": "1-03-02-05-02-30 Pavonina Stainless Steel / MOP / Alligator",
+          "url": "/glashutte-original/pavonina/1-03-02-05-02-30"
+        },
+        {
+          "slug": "1-03-01-08-16-34",
+          "text": "1-03-01-08-16-34 Pavonina Date Stainless Steel / Red Gold / Diamond / MOP / Alligator",
+          "url": "/glashutte-original/pavonina/1-03-01-08-16-34"
+        },
+        {
+          "slug": "1-03-01-28-05-30",
+          "text": "1-03-01-28-05-30 Pavonina Date Red Gold / Diamond / Black / Alligator",
+          "url": "/glashutte-original/pavonina/1-03-01-28-05-30"
+        },
+        {
+          "slug": "1-03-02-05-16-35",
+          "text": "1-03-02-05-16-35 Pavonina Stainless Steel / Red Gold / Diamond / MOP / Calf",
+          "url": "/glashutte-original/pavonina/1-03-02-05-16-35"
+        },
+        {
+          "slug": "1-03-02-05-06-14",
+          "text": "1-03-02-05-06-14 Pavonina Stainless Steel / Red Gold / Diamond / MOP / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-02-05-06-14"
+        },
+        {
+          "slug": "1-03-02-05-12-30",
+          "text": "1-03-02-05-12-30 Pavonina Stainless Steel / Diamond / MOP / Alligator",
+          "url": "/glashutte-original/pavonina/1-03-02-05-12-30"
+        },
+        {
+          "slug": "1-03-02-05-12-31",
+          "text": "1-03-02-05-12-31 Pavonina Stainless Steel / Diamond / MOP / Alligator",
+          "url": "/glashutte-original/pavonina/1-03-02-05-12-31"
+        },
+        {
+          "slug": "1-03-01-08-05-34",
+          "text": "1-03-01-08-05-34 Pavonina Date Red Gold / Diamond / MOP / Alligator",
+          "url": "/glashutte-original/pavonina/1-03-01-08-05-34"
+        },
+        {
+          "slug": "1-03-01-03-15-34",
+          "text": "1-03-01-03-15-34 Pavonina Date Red Gold / Cold Enamel / Alligator - Folding",
+          "url": "/glashutte-original/pavonina/1-03-01-03-15-34"
+        },
+        {
+          "slug": "1-03-02-05-02-31",
+          "text": "1-03-02-05-02-31 Pavonina Stainless Steel / MOP / Alligator",
+          "url": "/glashutte-original/pavonina/1-03-02-05-02-31"
+        },
+        {
+          "slug": "1-03-02-06-12-14",
+          "text": "1-03-02-06-12-14 Pavonina Stainless Steel / Blue MOP / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-02-06-12-14"
+        },
+        {
+          "slug": "1-03-01-14-02-14",
+          "text": "1-03-01-14-02-14 Pavonina Date Stainless Steel / Grey / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-01-14-02-14"
+        },
+        {
+          "slug": "1-03-01-14-02-04",
+          "text": "1-03-01-14-02-04 Pavonina Date Stainless Steel / Grey / Calf / Pin",
+          "url": "/glashutte-original/pavonina/1-03-01-14-02-04"
+        },
+        {
+          "slug": "1-03-01-06-12-02",
+          "text": "1-03-01-06-12-02 Pavonina Date Stainless Steel / Diamond / Grey / Calf - Pin",
+          "url": "/glashutte-original/pavonina/1-03-01-06-12-02"
+        },
+        {
+          "slug": "1-03-01-06-12-14",
+          "text": "1-03-01-06-12-14 Pavonina Date Stainless Steel / Grey / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-01-06-12-14"
+        },
+        {
+          "slug": "1-03-01-10-12-14",
+          "text": "1-03-01-10-12-14 Pavonina Date Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-01-10-12-14"
+        },
+        {
+          "slug": "1-03-01-10-12-02",
+          "text": "1-03-01-10-12-02 Pavonina Date Stainless Steel / Diamond / Silver / Calf",
+          "url": "/glashutte-original/pavonina/1-03-01-10-12-02"
+        },
+        {
+          "slug": "1-03-01-26-06-14",
+          "text": "1-03-01-26-06-14 Pavonina Date Stainless Steel / Red Gold / MOP / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-01-26-06-14"
+        },
+        {
+          "slug": "1-03-01-27-06-04",
+          "text": "1-03-01-27-06-04 Pavonina Date Stainless Steel / Red Gold / Grey / Calf",
+          "url": "/glashutte-original/pavonina/1-03-01-27-06-04"
+        },
+        {
+          "slug": "1-03-01-08-06-02",
+          "text": "1-03-01-08-06-02 Pavonina Date Stainless Steel / Red Gold / Diamond / MOP / Satin",
+          "url": "/glashutte-original/pavonina/1-03-01-08-06-02"
+        },
+        {
+          "slug": "1-03-01-08-06-14",
+          "text": "1-03-01-08-06-14 Pavonina Bicolor MOP Diamond Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-01-08-06-14"
+        },
+        {
+          "slug": "1-03-01-25-06-14",
+          "text": "1-03-01-25-06-14 Pavonina Date Stainless Steel / Red Gold / Grey / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-01-25-06-14"
+        },
+        {
+          "slug": "1-03-01-08-05-14",
+          "text": "1-03-01-08-05-14 Pavonina Date Red Gold / MOP / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-01-08-05-14"
+        },
+        {
+          "slug": "1-03-01-08-05-02",
+          "text": "1-03-01-08-05-02 Pavonina Date Red Gold / Diamond / MOP / Satin",
+          "url": "/glashutte-original/pavonina/1-03-01-08-05-02"
+        },
+        {
+          "slug": "1-03-01-03-15-01",
+          "text": "1-03-01-03-15-01 Pavonina Date Red Gold / Cold Enamel / Alligator - Pin",
+          "url": "/glashutte-original/pavonina/1-03-01-03-15-01"
+        },
+        {
+          "slug": "1-03-01-03-15-11",
+          "text": "1-03-01-03-15-11 Pavonina Date Red Gold / Cold Enamel / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-01-03-15-11"
+        },
+        {
+          "slug": "1-03-01-04-15-11",
+          "text": "1-03-01-04-15-11 Pavonina  Date Red Gold / Diamond / Cold Enamel Brown / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-01-04-15-11"
+        },
+        {
+          "slug": "1-03-02-03-06-34",
+          "text": "1-03-02-03-06-34 Pavonina Stainless Steel / Red Gold / MOP / Calf",
+          "url": "/glashutte-original/pavonina/1-03-02-03-06-34"
+        },
+        {
+          "slug": "1-03-02-03-06-14",
+          "text": "1-03-02-03-06-14 Pavonina Stainless Steel / Red Gold / MOP / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-02-03-06-14"
+        },
+        {
+          "slug": "1-03-02-04-05-30",
+          "text": "1-03-02-04-05-30 Pavonina Red Gold / Diamond / MOP / Alligator",
+          "url": "/glashutte-original/pavonina/1-03-02-04-05-30"
+        },
+        {
+          "slug": "1-03-02-12-12-14",
+          "text": "1-03-02-12-12-14 Pavonina Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-02-12-12-14"
+        },
+        {
+          "slug": "1-03-02-10-02-14",
+          "text": "1-03-02-10-02-14 Pavonina Stainless Steel / Silver / Bracelet",
+          "url": "/glashutte-original/pavonina/1-03-02-10-02-14"
+        },
+        {
+          "slug": "1-03-01-15-02-04",
+          "text": "1-03-01-15-02-04 Pavonina Date Stainless Steel / Silver / Calf - Pin",
+          "url": "/glashutte-original/pavonina/1-03-01-15-02-04"
+        },
+        {
+          "slug": "1-03-02-10-02-34",
+          "text": "1-03-02-10-02-34 Pavonina Stainless Steel / Silver / Calf",
+          "url": "/glashutte-original/pavonina/1-03-02-10-02-34"
+        },
+        {
+          "slug": "1-03-02-09-05-30",
+          "text": "1-03-02-09-05-30 Pavonina Red Gold / Diamond / Black / Alligator",
+          "url": "/glashutte-original/pavonina/1-03-02-09-05-30"
+        },
+        {
+          "slug": "1-03-01-06-12-34",
+          "text": "1-03-01-06-12-34 Pavonina Date Stainless Steel / Diamond / Grey / Calf - Folding",
+          "url": "/glashutte-original/pavonina/1-03-01-06-12-34"
+        }
+      ]
+    },
+    {
+      "name": "Sixties watches33",
+      "slug": "sixties",
+      "references": [
+        {
+          "slug": "1-39-52-04-02-04",
+          "text": "1-39-52-04-02-04 Sixties Stainless Steel / Black / Alligator / Pin",
+          "url": "/glashutte-original/sixties/1-39-52-04-02-04"
+        },
+        {
+          "slug": "2-39-47-03-02-04",
+          "text": "2-39-47-03-02-04 Sixties Panorama Date Stainless Steel / Black / Alligator / Pin",
+          "url": "/glashutte-original/sixties/2-39-47-03-02-04"
+        },
+        {
+          "slug": "1-39-52-02-01-04",
+          "text": "1-39-52-02-01-04 Sixties Rose Gold / Black / Alligator / Pin",
+          "url": "/glashutte-original/sixties/1-39-52-02-01-04"
+        },
+        {
+          "slug": "1-39-52-07-02-01",
+          "text": "1-39-52-07-02-01 Sixties Stainless Steel / Iconic Red / Alligator",
+          "url": "/glashutte-original/sixties/1-39-52-07-02-01"
+        },
+        {
+          "slug": "1-39-52-06-02-04",
+          "text": "1-39-52-06-02-04 Sixties Stainless Steel / Blue / Alligator / Pin",
+          "url": "/glashutte-original/sixties/1-39-52-06-02-04"
+        },
+        {
+          "slug": "1-39-34-24-32-04",
+          "text": "1-39-34-24-32-04 Sixties Square Chronograph Stainless Steel / Fire",
+          "url": "/glashutte-original/sixties/1-39-34-24-32-04"
+        },
+        {
+          "slug": "1-39-34-22-32-04",
+          "text": "1-39-34-22-32-04 Sixties Square Chronograph Stainless Steel / Ocean",
+          "url": "/glashutte-original/sixties/1-39-34-22-32-04"
+        },
+        {
+          "slug": "2-39-47-01-02-04",
+          "text": "2-39-47-01-02-04 Sixties Panorama Date Stainless Steel / Silver / Alligator / Pin",
+          "url": "/glashutte-original/sixties/2-39-47-01-02-04"
+        },
+        {
+          "slug": "1-39-34-25-32-04",
+          "text": "1-39-34-25-32-04 Sixties Square Chronograph Stainless Steel / Rock",
+          "url": "/glashutte-original/sixties/1-39-34-25-32-04"
+        },
+        {
+          "slug": "1-39-52-14-02-04",
+          "text": "1-39-52-14-02-04 Sixties Stainless Steel / Glacier Blue / Pin / Annual Edition",
+          "url": "/glashutte-original/sixties/1-39-52-14-02-04"
+        },
+        {
+          "slug": "1-39-34-26-32-04",
+          "text": "1-39-34-26-32-04 Sixties Square Chronograph Stainless Steel / Tangerine",
+          "url": "/glashutte-original/sixties/1-39-34-26-32-04"
+        },
+        {
+          "slug": "1-39-34-23-32-04",
+          "text": "1-39-34-23-32-04 Sixties Square Chronograph Stainless Steel / Forest",
+          "url": "/glashutte-original/sixties/1-39-34-23-32-04"
+        },
+        {
+          "slug": "1-39-34-02-32-04",
+          "text": "1-39-34-02-32-04 Sixties Square Chronograph Stainless Steel / Black",
+          "url": "/glashutte-original/sixties/1-39-34-02-32-04"
+        },
+        {
+          "slug": "1-39-60-01-01-04",
+          "text": "1-39-60-01-01-04 Sixties Small Second Rose Gold / Silver",
+          "url": "/glashutte-original/sixties/1-39-60-01-01-04"
+        },
+        {
+          "slug": "1-39-52-13-02-04",
+          "text": "1-39-52-13-02-04 Sixties Stainless Steel / Orange / Calf / Alligator / Annual Edition",
+          "url": "/glashutte-original/sixties/1-39-52-13-02-04"
+        },
+        {
+          "slug": "1-39-34-03-32-04",
+          "text": "1-39-34-03-32-04 Sixties Square Chronograph Stainless Steel / Silver",
+          "url": "/glashutte-original/sixties/1-39-34-03-32-04"
+        },
+        {
+          "slug": "1-39-52-01-02-04",
+          "text": "1-39-52-01-02-04 Sixties Stainless Steel / Silver / Alligator / Pin",
+          "url": "/glashutte-original/sixties/1-39-52-01-02-04"
+        },
+        {
+          "slug": "1-39-34-03-22-04",
+          "text": "1-39-34-03-22-04 Sixties Chronograph Stainless Steel / Silver / Alligator / Pin",
+          "url": "/glashutte-original/sixties/1-39-34-03-22-04"
+        },
+        {
+          "slug": "1-39-34-02-22-04",
+          "text": "1-39-34-02-22-04 Sixties Chronograph Stainless Steel / Black / Alligator / Pin",
+          "url": "/glashutte-original/sixties/1-39-34-02-22-04"
+        },
+        {
+          "slug": "2-39-47-01-01-04",
+          "text": "2-39-47-01-01-04 Sixties Panorama Date Rose Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/sixties/2-39-47-01-01-04"
+        },
+        {
+          "slug": "1-39-52-11-02-01",
+          "text": "1-39-52-11-02-01 Sixties Stainless Steel / Iconic Grey / Alligator",
+          "url": "/glashutte-original/sixties/1-39-52-11-02-01"
+        },
+        {
+          "slug": "1-39-52-09-02-01",
+          "text": "1-39-52-09-02-01 Sixties Stainless Steel / Iconic Aqua / Alligator",
+          "url": "/glashutte-original/sixties/1-39-52-09-02-01"
+        },
+        {
+          "slug": "1-39-52-08-02-01",
+          "text": "1-39-52-08-02-01 Sixties Stainless Steel / Iconic Golden / Alligator",
+          "url": "/glashutte-original/sixties/1-39-52-08-02-01"
+        },
+        {
+          "slug": "2-39-47-09-02-04",
+          "text": "2-39-47-09-02-04 Sixties Panorama Date Stainless Steel / Orange / Alligator / Pin / Annual Edition",
+          "url": "/glashutte-original/sixties/2-39-47-09-02-04"
+        },
+        {
+          "slug": "2-39-47-02-01-04",
+          "text": "2-39-47-02-01-04 Sixties Panorama Date Rose Gold / Black / Alligator / Pin",
+          "url": "/glashutte-original/sixties/2-39-47-02-01-04"
+        },
+        {
+          "slug": "2-39-47-06-02-04",
+          "text": "2-39-47-06-02-04 Sixties Panorama Date Stainless Steel / Blue / Alligator / Pin",
+          "url": "/glashutte-original/sixties/2-39-47-06-02-04"
+        },
+        {
+          "slug": "1-39-34-05-22-04",
+          "text": "1-39-34-05-22-04 Sixties Chronograph Stainless Steel / Green / Annual Edition",
+          "url": "/glashutte-original/sixties/1-39-34-05-22-04"
+        },
+        {
+          "slug": "1-39-34-04-22-02",
+          "text": "1-39-34-04-22-02 Sixties Chronograph Stainless Steel / Glacier Blue / Pin / Annual Edition",
+          "url": "/glashutte-original/sixties/1-39-34-04-22-02"
+        },
+        {
+          "slug": "2-39-47-04-02-04",
+          "text": "2-39-47-04-02-04 Sixties Panorama Date Stainless Steel / Green / Calf / Pin / Annual Edition",
+          "url": "/glashutte-original/sixties/2-39-47-04-02-04"
+        },
+        {
+          "slug": "1-39-52-03-02-04",
+          "text": "1-39-52-03-02-04 Sixties Stainless Steel / Green / Calf / Pin / Annual Edition",
+          "url": "/glashutte-original/sixties/1-39-52-03-02-04"
+        },
+        {
+          "slug": "1-39-52-10-02-01",
+          "text": "1-39-52-10-02-01 Sixties Stainless Steel / Iconic Brown / Alligator",
+          "url": "/glashutte-original/sixties/1-39-52-10-02-01"
+        },
+        {
+          "slug": "1-39-52-01-01-04",
+          "text": "1-39-52-01-01-04 Sixties Rose Gold / Silver / Alligator / Pin",
+          "url": "/glashutte-original/sixties/1-39-52-01-01-04"
+        },
+        {
+          "slug": "1-39-34-06-22-04",
+          "text": "1-39-34-06-22-04 Sixties Chronograph Stainless Steel / Stone Grey / Annual Edition",
+          "url": "/glashutte-original/sixties/1-39-34-06-22-04"
+        }
+      ]
+    },
+    {
+      "name": "Karree watches4",
+      "slug": "karree",
+      "references": [
+        {
+          "slug": "39-31-06-04-0",
+          "text": "39-31-06-04-0 Karre Automatic Chronograph Stainless Steel / Silver",
+          "url": "/glashutte-original/karree/39-31-06-04-0"
+        },
+        {
+          "slug": "42-03-01-01-04",
+          "text": "42-03-01-01-04 Karree Manual Winding Power Reserve Moon Phase Stainless Steel / Silver",
+          "url": "/glashutte-original/karree/42-03-01-01-04"
+        },
+        {
+          "slug": "39-43-04-04-04",
+          "text": "39-43-04-04-04 Karree Automatic Panorama Date Moon Phase Stainless Steel / Silver",
+          "url": "/glashutte-original/karree/39-43-04-04-04"
+        },
+        {
+          "slug": "39-32-09-05-04",
+          "text": "39-32-09-05-04 Karre Automatic Chronograph Rose Gold /  Silver",
+          "url": "/glashutte-original/karree/39-32-09-05-04"
+        }
+      ]
+    }
+  ],
+  "total_references": 813
+}

@@ -1,0 +1,358 @@
+{
+  "brand_slug": "carl-f-bucherer",
+  "collections": [
+    {
+      "name": "Manero watches43",
+      "slug": "manero",
+      "references": [
+        {
+          "slug": "00-10919-08-53-21",
+          "text": "00.10919.08.53.21 Manero Flyback Stainless Steel / Blue / Bracelet",
+          "url": "/carl-f-bucherer/manero/00-10919-08-53-21"
+        },
+        {
+          "slug": "00-10919-03-13-01",
+          "text": "00.10919.03.13.01 Manero Flyback Rose Gold / Silver",
+          "url": "/carl-f-bucherer/manero/00-10919-03-13-01"
+        },
+        {
+          "slug": "00-10919-08-93-98",
+          "text": "00.10919.08.93.98 Manero Flyback Stainless Steel / Green",
+          "url": "/carl-f-bucherer/manero/00-10919-08-93-98"
+        },
+        {
+          "slug": "00-10927-08-13-03",
+          "text": "00.10927.08.13.03 Manero Flyback 40 Stainless Steel / Silver - Blue",
+          "url": "/carl-f-bucherer/manero/00-10927-08-13-03"
+        },
+        {
+          "slug": "00-10919-03-33-02",
+          "text": "00.10919.03.33.02 Manero Flyback Rose Gold / Black",
+          "url": "/carl-f-bucherer/manero/00-10919-03-33-02"
+        },
+        {
+          "slug": "00-10919-03-33-01",
+          "text": "00.10919.03.33.01 Manero Flyback Rose Gold / Black",
+          "url": "/carl-f-bucherer/manero/00-10919-03-33-01"
+        },
+        {
+          "slug": "00-10906-08-13-01",
+          "text": "00.10906.08.13.01 Manero Chronoperpetual Stainless Steel / Silver",
+          "url": "/carl-f-bucherer/manero/00-10906-08-13-01"
+        },
+        {
+          "slug": "00-10919-08-13-98",
+          "text": "00.10919.08.13.98 Manero Flyback Signature",
+          "url": "/carl-f-bucherer/manero/00-10919-08-13-98"
+        },
+        {
+          "slug": "00-10919-08-93-01",
+          "text": "00.10919.08.93.01 Manero Flyback Stainless Steel / Grey",
+          "url": "/carl-f-bucherer/manero/00-10919-08-93-01"
+        },
+        {
+          "slug": "00-10912-08-93-01",
+          "text": "00.10912.08.93.01 Manero PowerReserve Stainless Steel / Blue",
+          "url": "/carl-f-bucherer/manero/00-10912-08-93-01"
+        },
+        {
+          "slug": "00-10919-08-93-21",
+          "text": "00.10919.08.93.21 Manero Flyback Stainless Steel / Grey / Bracelet",
+          "url": "/carl-f-bucherer/manero/00-10919-08-93-21"
+        },
+        {
+          "slug": "00-10919-08-33-21",
+          "text": "00.10919.08.33.21 Manero Flyback Stainless Steel / Black / Bracelet",
+          "url": "/carl-f-bucherer/manero/00-10919-08-33-21"
+        },
+        {
+          "slug": "00-10918-03-93-01",
+          "text": "00.10918.03.93.01 Manero Tourbillon Rose Gold / Brown",
+          "url": "/carl-f-bucherer/manero/00-10918-03-93-01"
+        },
+        {
+          "slug": "00-10926-08-93-01",
+          "text": "00.10926.08.93.01 Manero Peripheral BigDate Stainless Steel / Grey",
+          "url": "/carl-f-bucherer/manero/00-10926-08-93-01"
+        },
+        {
+          "slug": "00-10927-08-13-01",
+          "text": "00.10927.08.13.01 Manero Flyback 40 Stainless Steel / White",
+          "url": "/carl-f-bucherer/manero/00-10927-08-13-01"
+        },
+        {
+          "slug": "00-10907-03-13-01",
+          "text": "00.10907.03.13.01 Manero Chronoperpetual Rose Gold / Silver",
+          "url": "/carl-f-bucherer/manero/00-10907-03-13-01"
+        },
+        {
+          "slug": "00-10920-03-93-01",
+          "text": "00.10920.03.93.01 Manero DoublePeripheral  Rose Gold / Brown",
+          "url": "/carl-f-bucherer/manero/00-10920-03-93-01"
+        },
+        {
+          "slug": "00-10920-01-13-01",
+          "text": "00.10920.01.13.01 Manero DoublePeripheral  Yellow Gold / Silver",
+          "url": "/carl-f-bucherer/manero/00-10920-01-13-01"
+        },
+        {
+          "slug": "00-10906-03-33-01",
+          "text": "00.10906.03.33.01 §Manero Chronoperpetual Rose Gold / Black",
+          "url": "/carl-f-bucherer/manero/00-10906-03-33-01"
+        },
+        {
+          "slug": "00-10912-08-33-01",
+          "text": "00.10912.08.33.01 Manero PowerReserve Stainless Steel / Black",
+          "url": "/carl-f-bucherer/manero/00-10912-08-33-01"
+        },
+        {
+          "slug": "00-10927-08-13-04",
+          "text": "00.10927.08.13.04 Manero Flyback 40 Stainless Steel / Silver - Red",
+          "url": "/carl-f-bucherer/manero/00-10927-08-13-04"
+        },
+        {
+          "slug": "00-10927-08-13-02",
+          "text": "00.10927.08.13.02 Manero Flyback 40 Stainless Steel / Silver - Green",
+          "url": "/carl-f-bucherer/manero/00-10927-08-13-02"
+        },
+        {
+          "slug": "00-10927-08-33-01",
+          "text": "00.10927.08.33.01 Manero Flyback 40 Stainless Steel / Black",
+          "url": "/carl-f-bucherer/manero/00-10927-08-33-01"
+        },
+        {
+          "slug": "00-10926-08-53-21",
+          "text": "00.10926.08.53.21 Manero Peripheral BigDate Stainless Steel / Light Blue / Bracelet",
+          "url": "/carl-f-bucherer/manero/00-10926-08-53-21"
+        },
+        {
+          "slug": "00-10920-03-13-01",
+          "text": "00.10920.03.13.01 Manero DoublePeripheral  Rose Gold / Silver",
+          "url": "/carl-f-bucherer/manero/00-10920-03-13-01"
+        },
+        {
+          "slug": "00-10919-03-43-01",
+          "text": "00.10919.03.43.01 Manero Flyback Rose Gold / Champagne",
+          "url": "/carl-f-bucherer/manero/00-10919-03-43-01"
+        },
+        {
+          "slug": "00-10919-08-33-02",
+          "text": "00.10919.08.33.02 Manero Flyback Stainless Steel / Black",
+          "url": "/carl-f-bucherer/manero/00-10919-08-33-02"
+        },
+        {
+          "slug": "00-10919-08-13-21",
+          "text": "00.10919.08.13.21 Manero Flyback Stainless Steel / Silver / Bracelet",
+          "url": "/carl-f-bucherer/manero/00-10919-08-13-21"
+        },
+        {
+          "slug": "00-10919-08-53-01",
+          "text": "00.10919.08.53.01 Manero Flyback Stainless Steel / Blue",
+          "url": "/carl-f-bucherer/manero/00-10919-08-53-01"
+        },
+        {
+          "slug": "00-10919-08-33-01",
+          "text": "00.10919.08.33.01 Manero Flyback Stainless Steel / Black",
+          "url": "/carl-f-bucherer/manero/00-10919-08-33-01"
+        },
+        {
+          "slug": "00-10919-08-13-01",
+          "text": "00.10919.08.13.01 Manero Flyback Stainless Steel / Silver",
+          "url": "/carl-f-bucherer/manero/00-10919-08-13-01"
+        },
+        {
+          "slug": "00-10912-08-33-21",
+          "text": "00.10912.08.33.21 Manero PowerReserve Stainless Steel / Black / Bracelet",
+          "url": "/carl-f-bucherer/manero/00-10912-08-33-21"
+        },
+        {
+          "slug": "00-10926-08-53-01",
+          "text": "00.10926.08.53.01 Manero Peripheral BigDate Stainless Steel / Light Blue",
+          "url": "/carl-f-bucherer/manero/00-10926-08-53-01"
+        },
+        {
+          "slug": "00-10926-08-93-21",
+          "text": "00.10926.08.93.21 Manero Peripheral BigDate Stainless Steel / Grey / Bracelet",
+          "url": "/carl-f-bucherer/manero/00-10926-08-93-21"
+        },
+        {
+          "slug": "00-10912-08-53-01",
+          "text": "00.10912.08.53.01 Manero PowerReserve Stainless Steel / Blue",
+          "url": "/carl-f-bucherer/manero/00-10912-08-53-01"
+        },
+        {
+          "slug": "00-10912-08-13-01",
+          "text": "00.10912.08.13.01 Manero PowerReserve Stainless Steel / Silver",
+          "url": "/carl-f-bucherer/manero/00-10912-08-13-01"
+        },
+        {
+          "slug": "00-10920-02-33-01",
+          "text": "00.10920.02.33.01 Manero DoublePeripheral  White Gold / Grey",
+          "url": "/carl-f-bucherer/manero/00-10920-02-33-01"
+        },
+        {
+          "slug": "00-10912-03-13-01",
+          "text": "00.10912.03.13.01 Manero PowerReserve Rose Gold / Silver",
+          "url": "/carl-f-bucherer/manero/00-10912-03-13-01"
+        },
+        {
+          "slug": "00-10912-03-33-01",
+          "text": "00.10912.03.33.01 Manero PowerReserve Rose Gold / Black",
+          "url": "/carl-f-bucherer/manero/00-10912-03-33-01"
+        },
+        {
+          "slug": "00-10925-03-63-01",
+          "text": "00.10925.03.63.01 Manero Minute Repeater Symphony Rose Gold / Silver",
+          "url": "/carl-f-bucherer/manero/00-10925-03-63-01"
+        },
+        {
+          "slug": "00-10918-03-13-01",
+          "text": "00.10918.03.13.01 Manero Tourbillon Rose Gold / Silver",
+          "url": "/carl-f-bucherer/manero/00-10918-03-13-01"
+        },
+        {
+          "slug": "00-10918-03-33-01",
+          "text": "00.10918.03.33.01 Manero Tourbillon Rose Gold / Black",
+          "url": "/carl-f-bucherer/manero/00-10918-03-33-01"
+        },
+        {
+          "slug": "00-10912-08-13-21",
+          "text": "00.10912.08.13.21 Manero PowerReserve Stainless Steel / Silver / Bracelet",
+          "url": "/carl-f-bucherer/manero/00-10912-08-13-21"
+        }
+      ]
+    },
+    {
+      "name": "Heritage watches25",
+      "slug": "heritage",
+      "references": [
+        {
+          "slug": "00-10803-08-32-01",
+          "text": "00.10803.08.32.01 Heritage Bicompax Annual Stainless Steel / Black",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-32-01"
+        },
+        {
+          "slug": "00-10803-08-92-97",
+          "text": "00.10803.08.92.97 Heritage Bicompax Annual Hometown Edition Geneva",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-92-97"
+        },
+        {
+          "slug": "00-10803-07-42-01",
+          "text": "00.10803.07.42.01 Heritage Bicompax Annual Stainless Steel - Rose Gold / Champagne",
+          "url": "/carl-f-bucherer/heritage/00-10803-07-42-01"
+        },
+        {
+          "slug": "00-10802-02-13-01",
+          "text": "00.10802.02.13.01 Heritage Tourbillon Double Peripheral White Gold / Silver",
+          "url": "/carl-f-bucherer/heritage/00-10802-02-13-01"
+        },
+        {
+          "slug": "00-10803-08-92-81",
+          "text": "00.10803.08.92.81 Heritage Bicompax Annual Hometown Edition New York",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-92-81"
+        },
+        {
+          "slug": "00-10803-08-92-82",
+          "text": "00.10803.08.92.82 Heritage Bicompax Annual Hometown Edition Tokyo",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-92-82"
+        },
+        {
+          "slug": "00-10805-08-13-21",
+          "text": "00.10805.08.13.21 Heritage Worldtimer Stainless Steel / Silver / Bracelet",
+          "url": "/carl-f-bucherer/heritage/00-10805-08-13-21"
+        },
+        {
+          "slug": "00-10803-08-92-86",
+          "text": "00.10803.08.92.86 Heritage Bicompax Annual Hometown Edition Berlin",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-92-86"
+        },
+        {
+          "slug": "00-10803-08-92-94",
+          "text": "00.10803.08.92.94 Heritage Bicompax Annual Hometown Edition St. Gallen",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-92-94"
+        },
+        {
+          "slug": "00-10803-08-52-99",
+          "text": "00.10803.08.52.99 Heritage Bicompax Annual Bucherer Blue",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-52-99"
+        },
+        {
+          "slug": "00-10803-08-12-01",
+          "text": "00.10803.08.12.01 Heritage Bicompax Annual Stainless Steel / Silver",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-12-01"
+        },
+        {
+          "slug": "00-10805-08-13-01",
+          "text": "00.10805.08.13.01 Heritage Worldtimer Stainless Steel / Silver",
+          "url": "/carl-f-bucherer/heritage/00-10805-08-13-01"
+        },
+        {
+          "slug": "00-10802-03-13-01",
+          "text": "00.10802.03.13.01 Heritage Tourbillon Double Peripheral Rose Gold / Silver",
+          "url": "/carl-f-bucherer/heritage/00-10802-03-13-01"
+        },
+        {
+          "slug": "00-10805-08-33-01",
+          "text": "00.10805.08.33.01 Heritage Worldtimer Stainless Steel / Black",
+          "url": "/carl-f-bucherer/heritage/00-10805-08-33-01"
+        },
+        {
+          "slug": "00-10805-08-33-21",
+          "text": "00.10805.08.33.21 Heritage Worldtimer Stainless Steel / Black / Bracelet",
+          "url": "/carl-f-bucherer/heritage/00-10805-08-33-21"
+        },
+        {
+          "slug": "00-10805-03-13-01",
+          "text": "00.10805.03.13.01 Heritage Worldtimer Rose Gold / Silver",
+          "url": "/carl-f-bucherer/heritage/00-10805-03-13-01"
+        },
+        {
+          "slug": "00-10803-08-92-85",
+          "text": "00.10803.08.92.85 Heritage Bicompax Annual Hometown Edition Lucerne",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-92-85"
+        },
+        {
+          "slug": "00-10803-08-92-99",
+          "text": "00.10803.08.92.99 Heritage Bicompax Annual Hometown Edition Zurich",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-92-99"
+        },
+        {
+          "slug": "00-10803-08-92-87",
+          "text": "00.10803.08.92.87 Heritage Bicompax Annual Hometown Edition Basel",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-92-87"
+        },
+        {
+          "slug": "00-10803-08-92-93",
+          "text": "00.10803.08.92.93 Heritage Bicompax Annual Hometown Edition Bern",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-92-93"
+        },
+        {
+          "slug": "00-10803-08-92-98",
+          "text": "00.10803.08.92.98 Heritage Bicompax Annual Hometown Edition Zermatt",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-92-98"
+        },
+        {
+          "slug": "00-10803-08-92-95",
+          "text": "00.10803.08.92.95 Heritage Bicompax Annual Hometown Edition Vienna",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-92-95"
+        },
+        {
+          "slug": "00-10803-08-92-96",
+          "text": "00.10803.08.92.96 Heritage Bicompax Annual Hometown Edition Munich",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-92-96"
+        },
+        {
+          "slug": "00-10803-08-92-89",
+          "text": "00.10803.08.92.89 Heritage Bicompax Annual Hometown Edition Mumbai",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-92-89"
+        },
+        {
+          "slug": "00-10803-08-12-22",
+          "text": "00.10803.08.12.22 Heritage Bicompax Annual Lucerne",
+          "url": "/carl-f-bucherer/heritage/00-10803-08-12-22"
+        }
+      ]
+    }
+  ],
+  "total_references": 68
+}

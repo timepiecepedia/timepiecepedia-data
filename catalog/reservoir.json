@@ -1,0 +1,62 @@
+{
+  "brand_slug": "reservoir",
+  "collections": [
+    {
+      "name": "Cars watches10",
+      "slug": "cars",
+      "references": [
+        {
+          "slug": "rsv01-lb-630-17",
+          "text": "RSV01.LB/630-17 Longbridge Club Rose Gold / Black",
+          "url": "/reservoir/cars/rsv01-lb-630-17"
+        },
+        {
+          "slug": "rsv01-lb-130-12s",
+          "text": "RSV01.LB/130-12s Longbridge Club Stainless Steel / Black",
+          "url": "/reservoir/cars/rsv01-lb-130-12s"
+        },
+        {
+          "slug": "rsv01-lb-730-36",
+          "text": "RSV01.LB/730-36 Longbridge Nightfall Palladium / Blue",
+          "url": "/reservoir/cars/rsv01-lb-730-36"
+        },
+        {
+          "slug": "rsv01-lb-130-13s",
+          "text": "RSV01.LB/130-13s Longbridge Royal Blue Stainless Steel / Black",
+          "url": "/reservoir/cars/rsv01-lb-130-13s"
+        },
+        {
+          "slug": "rsv01-lb-130-62s",
+          "text": "RSV01.LB/130-62s Longbridge British Racing Stainless Steel / Green",
+          "url": "/reservoir/cars/rsv01-lb-130-62s"
+        },
+        {
+          "slug": "rsv01-lb-130-62s-bpl02",
+          "text": "RSV01.LB/130-62s_BPL02 Longbridge British Racing Stainless Steel / Green",
+          "url": "/reservoir/cars/rsv01-lb-130-62s-bpl02"
+        },
+        {
+          "slug": "rsv01-bf-230-62",
+          "text": "RSV01.BF/230-62 Battlefield D-Day",
+          "url": "/reservoir/cars/rsv01-bf-230-62"
+        },
+        {
+          "slug": "rsv01-lb-130-12s-bpl03",
+          "text": "RSV01.LB/130-12s_BPL03 Longbridge Club Stainless Steel / Black",
+          "url": "/reservoir/cars/rsv01-lb-130-12s-bpl03"
+        },
+        {
+          "slug": "rsv01-lb-130-12s-bpl01",
+          "text": "RSV01.LB/130-12s_BPL01 Longbridge Club Stainless Steel / Black",
+          "url": "/reservoir/cars/rsv01-lb-130-12s-bpl01"
+        },
+        {
+          "slug": "rsv01-lb-130-21s",
+          "text": "RSV01.LB/130-21s Lady Longbridge Stainless Steel / Cream",
+          "url": "/reservoir/cars/rsv01-lb-130-21s"
+        }
+      ]
+    }
+  ],
+  "total_references": 10
+}

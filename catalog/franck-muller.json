@@ -1,0 +1,22 @@
+{
+  "brand_slug": "franck-muller",
+  "collections": [
+    {
+      "name": "Aeternitas watches2",
+      "slug": "aeternitas",
+      "references": [
+        {
+          "slug": "8888-gsw-t-ccr-qps",
+          "text": "8888 GSW T CCR QPS Aeternitas Mega 4",
+          "url": "/franck-muller/aeternitas/8888-gsw-t-ccr-qps"
+        },
+        {
+          "slug": "8888-gsw-t-ccr-qps-nr",
+          "text": "8888 GSW T CCR QPS NR Aeternitas Mega 4",
+          "url": "/franck-muller/aeternitas/8888-gsw-t-ccr-qps-nr"
+        }
+      ]
+    }
+  ],
+  "total_references": 2
+}

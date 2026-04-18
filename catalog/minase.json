@@ -1,0 +1,27 @@
+{
+  "brand_slug": "minase",
+  "collections": [
+    {
+      "name": "Divido watches3",
+      "slug": "divido",
+      "references": [
+        {
+          "slug": "vm04-r02sd",
+          "text": "VM04-R02SD Divido Stainless Steel / Silver / Rubber",
+          "url": "/minase/divido/vm04-r02sd"
+        },
+        {
+          "slug": "vm04-r01sd",
+          "text": "VM04-R01SD Divido Stainless Steel / Blue / Rubber",
+          "url": "/minase/divido/vm04-r01sd"
+        },
+        {
+          "slug": "vm04-r03kd",
+          "text": "VM04-R03KD Divido Stainless Steel / Black / Rubber",
+          "url": "/minase/divido/vm04-r03kd"
+        }
+      ]
+    }
+  ],
+  "total_references": 3
+}

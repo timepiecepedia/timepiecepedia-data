@@ -1,0 +1,17 @@
+{
+  "brand_slug": "richard-mille",
+  "collections": [
+    {
+      "name": "Tonneau watches1",
+      "slug": "tonneau",
+      "references": [
+        {
+          "slug": "501-04-91",
+          "text": "501.04.91 RM002 Red Gold",
+          "url": "/richard-mille/tonneau/501-04-91"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

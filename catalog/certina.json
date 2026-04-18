@@ -1,0 +1,4443 @@
+{
+  "brand_slug": "certina",
+  "collections": [
+    {
+      "name": "DS Podium watches183",
+      "slug": "ds-podium",
+      "references": [
+        {
+          "slug": "c034-417-36-057-00",
+          "text": "C034.417.36.057.00 DS Podium Chrono 1/10 PVD / Black /  Strap",
+          "url": "/certina/ds-podium/c034-417-36-057-00"
+        },
+        {
+          "slug": "c0016141605700",
+          "text": "C0016141605700 DS Podium Valgranges Black",
+          "url": "/certina/ds-podium/c0016141605700"
+        },
+        {
+          "slug": "c001-647-11-047-00",
+          "text": "C001.647.11.047.00 DS Podium Big Size Chrono 1/100 Sec Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-podium/c001-647-11-047-00"
+        },
+        {
+          "slug": "c034-417-11-047-00",
+          "text": "C034.417.11.047.00 DS Podium Chronograph 1/10 Sec Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-podium/c034-417-11-047-00"
+        },
+        {
+          "slug": "c0016391603700",
+          "text": "C0016391603700 DS Podium Big Size Chrono GMT Silver",
+          "url": "/certina/ds-podium/c0016391603700"
+        },
+        {
+          "slug": "c0016172220700",
+          "text": "C0016172220700 DS Podium Big Size Chrono PVD Carbon",
+          "url": "/certina/ds-podium/c0016172220700"
+        },
+        {
+          "slug": "c0252171605700",
+          "text": "C0252171605700 DS Podium Chrono Black",
+          "url": "/certina/ds-podium/c0252171605700"
+        },
+        {
+          "slug": "c0015071105700",
+          "text": "C0015071105700 DS Podium Square",
+          "url": "/certina/ds-podium/c0015071105700"
+        },
+        {
+          "slug": "c0252101629700",
+          "text": "C0252101629700 DS Podium Brown",
+          "url": "/certina/ds-podium/c0252101629700"
+        },
+        {
+          "slug": "c0016391103700",
+          "text": "C0016391103700 DS Podium Big Size Chrono GMT Silver",
+          "url": "/certina/ds-podium/c0016391103700"
+        },
+        {
+          "slug": "c034-210-22-097-00",
+          "text": "C034.210.22.097.00 DS Podium 33 Stainless Steel / Rose Gold PVD / Green / Bracelet",
+          "url": "/certina/ds-podium/c034-210-22-097-00"
+        },
+        {
+          "slug": "c034-453-36-057-10",
+          "text": "C034.453.36.057.10 DS Podium Lap Timer PVD / Black",
+          "url": "/certina/ds-podium/c034-453-36-057-10"
+        },
+        {
+          "slug": "c034-453-16-057-00",
+          "text": "C034.453.16.057.00 DS Podium Lap Timer Stainless Steel / Black",
+          "url": "/certina/ds-podium/c034-453-16-057-00"
+        },
+        {
+          "slug": "c0014071605700",
+          "text": "C0014071605700 DS Podium",
+          "url": "/certina/ds-podium/c0014071605700"
+        },
+        {
+          "slug": "c001-647-17-207-10",
+          "text": "C001.647.17.207.10 DS Podium Big Size Chrono 1/100 Sec WRC Limited Edition",
+          "url": "/certina/ds-podium/c001-647-17-207-10"
+        },
+        {
+          "slug": "c001-647-16-037-01",
+          "text": "C001.647.16.037.01 DS Podium Big Size Chrono 1/100 Sec Stainless Steel / Silver / Strap",
+          "url": "/certina/ds-podium/c001-647-16-037-01"
+        },
+        {
+          "slug": "c0016391705700",
+          "text": "C0016391705700 DS Podium Big Size Chrono GMT PVD",
+          "url": "/certina/ds-podium/c0016391705700"
+        },
+        {
+          "slug": "c0016399705701",
+          "text": "C0016399705701 DS Podium Big Size Chrono GMT AluminiumRed",
+          "url": "/certina/ds-podium/c0016399705701"
+        },
+        {
+          "slug": "c034-455-11-057-00",
+          "text": "C034.455.11.057.00 DS Podium GMT Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-podium/c034-455-11-057-00"
+        },
+        {
+          "slug": "c0014101103700",
+          "text": "C0014101103700 DS Podium 3 Hands Silver",
+          "url": "/certina/ds-podium/c0014101103700"
+        },
+        {
+          "slug": "c0014071108700",
+          "text": "C0014071108700 DS Podium",
+          "url": "/certina/ds-podium/c0014071108700"
+        },
+        {
+          "slug": "c0016399705703",
+          "text": "C0016399705703 DS Podium Big Size Chrono GMT Aluminium Green",
+          "url": "/certina/ds-podium/c0016399705703"
+        },
+        {
+          "slug": "c0015171605700",
+          "text": "C0015171605700 DS Podium Square Chronograph Black",
+          "url": "/certina/ds-podium/c0015171605700"
+        },
+        {
+          "slug": "c0015171605701",
+          "text": "C0015171605701 DS Podium Square Chronograph Black",
+          "url": "/certina/ds-podium/c0015171605701"
+        },
+        {
+          "slug": "c0014071608700",
+          "text": "C0014071608700 DS Podium",
+          "url": "/certina/ds-podium/c0014071608700"
+        },
+        {
+          "slug": "c0015141605700",
+          "text": "C0015141605700 DS Podium Square Chronograph",
+          "url": "/certina/ds-podium/c0015141605700"
+        },
+        {
+          "slug": "c034-427-36-037-00",
+          "text": "C034.427.36.037.00 DS Podium Chronograph Automatic Rose / Silver",
+          "url": "/certina/ds-podium/c034-427-36-037-00"
+        },
+        {
+          "slug": "c0252071105700",
+          "text": "C0252071105700 DS Podium",
+          "url": "/certina/ds-podium/c0252071105700"
+        },
+        {
+          "slug": "c0016399703700",
+          "text": "C0016399703700 DS Podium Big Size Chrono GMT Aluminium",
+          "url": "/certina/ds-podium/c0016399703700"
+        },
+        {
+          "slug": "c034-210-16-427-00",
+          "text": "C034.210.16.427.00 DS Podium 33 Stainless Steel / MOP / Strap",
+          "url": "/certina/ds-podium/c034-210-16-427-00"
+        },
+        {
+          "slug": "c034-417-44-087-00",
+          "text": "C034.417.44.087.00 DS Podium Chronograph 1/10 Sec Titanium / Grey / Bracelet",
+          "url": "/certina/ds-podium/c034-417-44-087-00"
+        },
+        {
+          "slug": "c0016391605701",
+          "text": "C0016391605701 DS Podium Big Size Chrono GMT PVD",
+          "url": "/certina/ds-podium/c0016391605701"
+        },
+        {
+          "slug": "c0016141105700",
+          "text": "C0016141105700 DS Podium Valgranges Inverted Panda",
+          "url": "/certina/ds-podium/c0016141105700"
+        },
+        {
+          "slug": "c0016472205700",
+          "text": "C0016472205700 DS Podium Big Size Chrono 1/100 Sec Half PVD",
+          "url": "/certina/ds-podium/c0016472205700"
+        },
+        {
+          "slug": "c034-453-11-057-00",
+          "text": "C034.453.11.057.00 DS Podium Lap Timer Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-podium/c034-453-11-057-00"
+        },
+        {
+          "slug": "c034-417-16-057-00",
+          "text": "C034.417.16.057.00 DS Podium Chronograph 1/10 Sec Stainless Steel / Black / Strap",
+          "url": "/certina/ds-podium/c034-417-16-057-00"
+        },
+        {
+          "slug": "c034-455-16-037-01",
+          "text": "C034.455.16.037.01 DS Podium GMT Stainless Steel / Silver",
+          "url": "/certina/ds-podium/c034-455-16-037-01"
+        },
+        {
+          "slug": "c034-455-44-087-00",
+          "text": "C034.455.44.087.00 DS Podium GMT Titanium / Grey / Bracelet",
+          "url": "/certina/ds-podium/c034-455-44-087-00"
+        },
+        {
+          "slug": "c001-007-36-116-00",
+          "text": "C001.007.36.116.00 DS Podium Automatic 29 Rose Gold PVD / MOP / Strap",
+          "url": "/certina/ds-podium/c001-007-36-116-00"
+        },
+        {
+          "slug": "c034-654-11-047-00",
+          "text": "C034.654.11.047.00 DS Podium Chronograph GMT Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-podium/c034-654-11-047-00"
+        },
+        {
+          "slug": "c001-007-22-113-00",
+          "text": "C001.007.22.113.00 DS Podium Automatic 29 Stainless Steel / Rose Gold PVD / MOP / Bracelet",
+          "url": "/certina/ds-podium/c001-007-22-113-00"
+        },
+        {
+          "slug": "c034-427-11-057-00",
+          "text": "C034.427.11.057.00 DS Podium Chronograph Automatic Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-podium/c034-427-11-057-00"
+        },
+        {
+          "slug": "c0016391605700",
+          "text": "C0016391605700 DS Podium Big Size Chrono GMT",
+          "url": "/certina/ds-podium/c0016391605700"
+        },
+        {
+          "slug": "c0016174408700",
+          "text": "C0016174408700 DS Podium Big Size Chrono Titanium",
+          "url": "/certina/ds-podium/c0016174408700"
+        },
+        {
+          "slug": "c0014271629700",
+          "text": "C0014271629700 DS Podium Chronograph Grey",
+          "url": "/certina/ds-podium/c0014271629700"
+        },
+        {
+          "slug": "c001-007-11-116-00",
+          "text": "C001.007.11.116.00 DS Podium Automatic 29 Stainless Steel / MOP / Bracelet",
+          "url": "/certina/ds-podium/c001-007-11-116-00"
+        },
+        {
+          "slug": "c034-417-22-087-00",
+          "text": "C034.417.22.087.00 DS Podium Chronograph 1/10 Sec Stainless Steel / Rose Gold PVD / Grey / Bracelet",
+          "url": "/certina/ds-podium/c034-417-22-087-00"
+        },
+        {
+          "slug": "c034-453-16-047-00",
+          "text": "C034.453.16.047.00 DS Podium Lap Timer Stainless Steel /  Monster Energy Yamaha Factory MXGP",
+          "url": "/certina/ds-podium/c034-453-16-047-00"
+        },
+        {
+          "slug": "c0016172205700",
+          "text": "C0016172205700 DS Podium Big Size Chrono PVD",
+          "url": "/certina/ds-podium/c0016172205700"
+        },
+        {
+          "slug": "c0016394408700",
+          "text": "C0016394408700 DS Podium Big Size Chrono GMT Titanium Grey",
+          "url": "/certina/ds-podium/c0016394408700"
+        },
+        {
+          "slug": "c0252171601801",
+          "text": "C0252171601801 DS Podium Chrono Roman",
+          "url": "/certina/ds-podium/c0252171601801"
+        },
+        {
+          "slug": "c0016141603700",
+          "text": "C0016141603700 DS Podium Valgranges Panda",
+          "url": "/certina/ds-podium/c0016141603700"
+        },
+        {
+          "slug": "c0014071603701",
+          "text": "C0014071603701 DS Podium",
+          "url": "/certina/ds-podium/c0014071603701"
+        },
+        {
+          "slug": "c0016399703701",
+          "text": "C0016399703701 DS Podium Big Size Chrono GMT Aluminium",
+          "url": "/certina/ds-podium/c0016399703701"
+        },
+        {
+          "slug": "c001-647-16-057-01",
+          "text": "C001.647.16.057.01 DS Podium Big Size Chrono 1/100 Sec Stainless Steel / Black / Strap",
+          "url": "/certina/ds-podium/c001-647-16-057-01"
+        },
+        {
+          "slug": "c001-647-44-047-00",
+          "text": "C001.647.44.047.00 DS Podium Big Size Chrono 1/100 Sec Titanium / Blue",
+          "url": "/certina/ds-podium/c001-647-44-047-00"
+        },
+        {
+          "slug": "c001-007-16-423-00",
+          "text": "C001.007.16.423.00 DS Podium Automatic 29 Stainless Steel / MOP / Strap",
+          "url": "/certina/ds-podium/c001-007-16-423-00"
+        },
+        {
+          "slug": "c034-210-36-117-00",
+          "text": "C034.210.36.117.00 DS Podium 33 Rose Gold PVD / MOP / Strap",
+          "url": "/certina/ds-podium/c034-210-36-117-00"
+        },
+        {
+          "slug": "c034-455-16-087-01",
+          "text": "C034.455.16.087.01 DS Podium GMT Stainless Steel / Brown",
+          "url": "/certina/ds-podium/c034-455-16-087-01"
+        },
+        {
+          "slug": "c034-654-36-057-00",
+          "text": "C034.654.36.057.00 DS Podium Chronograph GMT PVD",
+          "url": "/certina/ds-podium/c034-654-36-057-00"
+        },
+        {
+          "slug": "c001-647-22-057-00",
+          "text": "C001.647.22.057.00 DS Podium Big Size Chrono 1/100 Sec Stainless Steel / PVD / Black / Bracelet",
+          "url": "/certina/ds-podium/c001-647-22-057-00"
+        },
+        {
+          "slug": "c0016392220702",
+          "text": "C0016392220702 DS Podium Big Size Chrono GMT",
+          "url": "/certina/ds-podium/c0016392220702"
+        },
+        {
+          "slug": "c0016172603700",
+          "text": "C0016172603700 DS Podium Big Size Chrono Silver",
+          "url": "/certina/ds-podium/c0016172603700"
+        },
+        {
+          "slug": "c0016171629700",
+          "text": "C0016171629700 DS Podium Big Size Chrono Brown",
+          "url": "/certina/ds-podium/c0016171629700"
+        },
+        {
+          "slug": "c0014101629700",
+          "text": "C0014101629700 DS Podium 3 Hands Brown",
+          "url": "/certina/ds-podium/c0014101629700"
+        },
+        {
+          "slug": "c0014104408700",
+          "text": "C0014104408700 DS Podium 3 Hands Titanium",
+          "url": "/certina/ds-podium/c0014104408700"
+        },
+        {
+          "slug": "c0015171603701",
+          "text": "C0015171603701 DS Podium Square Chronograph Silver",
+          "url": "/certina/ds-podium/c0015171603701"
+        },
+        {
+          "slug": "c0014271105700",
+          "text": "C0014271105700 DS Podium Chronograph Black",
+          "url": "/certina/ds-podium/c0014271105700"
+        },
+        {
+          "slug": "c0014271605700",
+          "text": "C0014271605700 DS Podium Chronograph Black",
+          "url": "/certina/ds-podium/c0014271605700"
+        },
+        {
+          "slug": "c0014071603700",
+          "text": "C0014071603700 DS Podium",
+          "url": "/certina/ds-podium/c0014071603700"
+        },
+        {
+          "slug": "c0014071105700",
+          "text": "C0014071105700 DS Podium",
+          "url": "/certina/ds-podium/c0014071105700"
+        },
+        {
+          "slug": "c0015071603700",
+          "text": "C0015071603700 DS Podium Square",
+          "url": "/certina/ds-podium/c0015071603700"
+        },
+        {
+          "slug": "c0015141605701",
+          "text": "C0015141605701 DS Podium Square Chronograph",
+          "url": "/certina/ds-podium/c0015141605701"
+        },
+        {
+          "slug": "c0252103611800",
+          "text": "C0252103611800 DS Podium Pink",
+          "url": "/certina/ds-podium/c0252103611800"
+        },
+        {
+          "slug": "c0014273603700",
+          "text": "C0014273603700 DS Podium Chronograph Gold",
+          "url": "/certina/ds-podium/c0014273603700"
+        },
+        {
+          "slug": "c001-007-22-116-00",
+          "text": "C001.007.22.116.00 DS Podium Automatic 29 Stainless Steel / Rose Gold PVD / MOP / Bracelet",
+          "url": "/certina/ds-podium/c001-007-22-116-00"
+        },
+        {
+          "slug": "c034-210-22-037-00",
+          "text": "C034.210.22.037.00 DS Podium 33 Stainless Steel / Rose Gold PVD / Silver / Bracelet",
+          "url": "/certina/ds-podium/c034-210-22-037-00"
+        },
+        {
+          "slug": "c034-451-11-057-00",
+          "text": "C034.451.11.057.00 DS Podium 40 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-podium/c034-451-11-057-00"
+        },
+        {
+          "slug": "c034-210-22-427-00",
+          "text": "C034.210.22.427.00 DS Podium 33 Stainless Steel / Rose Gold PVD / Red / Bracelet",
+          "url": "/certina/ds-podium/c034-210-22-427-00"
+        },
+        {
+          "slug": "c034-654-16-057-00",
+          "text": "C034.654.16.057.00 DS Podium Chronograph GMT Stainless Steel / Black / Strap",
+          "url": "/certina/ds-podium/c034-654-16-057-00"
+        },
+        {
+          "slug": "c034-210-44-037-00",
+          "text": "C034.210.44.037.00 DS Podium 33 Titanium / Silver / Bracelet",
+          "url": "/certina/ds-podium/c034-210-44-037-00"
+        },
+        {
+          "slug": "c034-210-16-037-00",
+          "text": "C034.210.16.037.00 DS Podium 33 Stainless Steel / Silver / Strap",
+          "url": "/certina/ds-podium/c034-210-16-037-00"
+        },
+        {
+          "slug": "c034-453-36-057-02",
+          "text": "C034.453.36.057.02 DS Podium Lap Timer PVD / Black",
+          "url": "/certina/ds-podium/c034-453-36-057-02"
+        },
+        {
+          "slug": "c034-427-16-087-01",
+          "text": "C034.427.16.087.01 DS Podium Chronograph Automatic Stainless Steel / Grey",
+          "url": "/certina/ds-podium/c034-427-16-087-01"
+        },
+        {
+          "slug": "c001-617-11-057-00",
+          "text": "C001.617.11.057.00 DS Podium Big Size Chrono Black Bracelet",
+          "url": "/certina/ds-podium/c001-617-11-057-00"
+        },
+        {
+          "slug": "c0016172605700",
+          "text": "C0016172605700 DS Podium Big Size Chrono",
+          "url": "/certina/ds-podium/c0016172605700"
+        },
+        {
+          "slug": "c0016171103700",
+          "text": "C0016171103700 DS Podium Big Size Chrono Silver Bracelet",
+          "url": "/certina/ds-podium/c0016171103700"
+        },
+        {
+          "slug": "c0014171605700",
+          "text": "C0014171605700 DS Podium Chrono Black",
+          "url": "/certina/ds-podium/c0014171605700"
+        },
+        {
+          "slug": "c0014171104700",
+          "text": "C0014171104700 DS Podium Chrono Blue",
+          "url": "/certina/ds-podium/c0014171104700"
+        },
+        {
+          "slug": "c0014174408700",
+          "text": "C0014174408700 DS Podium Chrono Titanium",
+          "url": "/certina/ds-podium/c0014174408700"
+        },
+        {
+          "slug": "c0014101605700",
+          "text": "C0014101605700 DS Podium 3 Hands Black",
+          "url": "/certina/ds-podium/c0014101605700"
+        },
+        {
+          "slug": "c0255101608300",
+          "text": "C0255101608300 DS Podium Square Grey",
+          "url": "/certina/ds-podium/c0255101608300"
+        },
+        {
+          "slug": "c0252171601800",
+          "text": "C0252171601800 DS Podium Chrono Roman",
+          "url": "/certina/ds-podium/c0252171601800"
+        },
+        {
+          "slug": "c0252171105800",
+          "text": "C0252171105800 DS Podium Chrono Roman Black",
+          "url": "/certina/ds-podium/c0252171105800"
+        },
+        {
+          "slug": "c0016141608700",
+          "text": "C0016141608700 DS Podium Valgranges Grey",
+          "url": "/certina/ds-podium/c0016141608700"
+        },
+        {
+          "slug": "c0014271105701",
+          "text": "C0014271105701 DS Podium Chronograph Inverted Panda",
+          "url": "/certina/ds-podium/c0014271105701"
+        },
+        {
+          "slug": "c0014271603701",
+          "text": "C0014271603701 DS Podium Chronograph Panda",
+          "url": "/certina/ds-podium/c0014271603701"
+        },
+        {
+          "slug": "c0015071605701",
+          "text": "C0015071605701 DS Podium Square",
+          "url": "/certina/ds-podium/c0015071605701"
+        },
+        {
+          "slug": "c0015141603700",
+          "text": "C0015141603700 DS Podium Square Chronograph",
+          "url": "/certina/ds-podium/c0015141603700"
+        },
+        {
+          "slug": "c0015141105700",
+          "text": "C0015141105700 DS Podium Square Chronograph",
+          "url": "/certina/ds-podium/c0015141105700"
+        },
+        {
+          "slug": "c0252101611801",
+          "text": "C0252101611801 DS Podium MOP",
+          "url": "/certina/ds-podium/c0252101611801"
+        },
+        {
+          "slug": "c0252102211700",
+          "text": "C0252102211700 DS Podium Two Tone MOP",
+          "url": "/certina/ds-podium/c0252102211700"
+        },
+        {
+          "slug": "c0252072203800",
+          "text": "C0252072203800 DS Podium",
+          "url": "/certina/ds-podium/c0252072203800"
+        },
+        {
+          "slug": "c0252071629700",
+          "text": "C0252071629700 DS Podium",
+          "url": "/certina/ds-podium/c0252071629700"
+        },
+        {
+          "slug": "c0252073603800",
+          "text": "C0252073603800 DS Podium",
+          "url": "/certina/ds-podium/c0252073603800"
+        },
+        {
+          "slug": "c0252071103700",
+          "text": "C0252071103700 DS Podium",
+          "url": "/certina/ds-podium/c0252071103700"
+        },
+        {
+          "slug": "c0252071103800",
+          "text": "C0252071103800 DS Podium",
+          "url": "/certina/ds-podium/c0252071103800"
+        },
+        {
+          "slug": "c001-647-11-057-00",
+          "text": "C001.647.11.057.00 DS Podium Big Size Chrono 1/100 Sec Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-podium/c001-647-11-057-00"
+        },
+        {
+          "slug": "c0016471705700",
+          "text": "C0016471705700 DS Podium Big Size Chrono 1/100 Sec PVD",
+          "url": "/certina/ds-podium/c0016471705700"
+        },
+        {
+          "slug": "c001-647-16-057-00",
+          "text": "C001.647.16.057.00 DS Podium Big Size Chrono 1/100 Sec Stainless Steel / Black / Strap",
+          "url": "/certina/ds-podium/c001-647-16-057-00"
+        },
+        {
+          "slug": "c001-647-44-087-00",
+          "text": "C001.647.44.087.00 DS Podium Big Size Chrono 1/100 Sec Titanium / Grey",
+          "url": "/certina/ds-podium/c001-647-44-087-00"
+        },
+        {
+          "slug": "c001-647-36-057-00",
+          "text": "C001.647.36.057.00 DS Podium Big Size Chrono 1/100 Sec PVD",
+          "url": "/certina/ds-podium/c001-647-36-057-00"
+        },
+        {
+          "slug": "c034-417-16-037-01",
+          "text": "C034.417.16.037.01 DS Podium Chronograph 1/10 Sec Stainless Steel / Silver / Strap",
+          "url": "/certina/ds-podium/c034-417-16-037-01"
+        },
+        {
+          "slug": "c034-451-11-097-00",
+          "text": "C034.451.11.097.00 DS Podium 40 Stainless Steel / Green / Bracelet",
+          "url": "/certina/ds-podium/c034-451-11-097-00"
+        },
+        {
+          "slug": "c034-417-11-057-00",
+          "text": "C034.417.11.057.00 DS Podium Chronograph 1/10 Sec Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-podium/c034-417-11-057-00"
+        },
+        {
+          "slug": "c001-007-11-053-00",
+          "text": "C001.007.11.053.00 DS Podium Automatic 29 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-podium/c001-007-11-053-00"
+        },
+        {
+          "slug": "c034-455-11-047-00",
+          "text": "C034.455.11.047.00 DS Podium GMT Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-podium/c034-455-11-047-00"
+        },
+        {
+          "slug": "c034-654-16-087-01",
+          "text": "C034.654.16.087.01 DS Podium Chronograph GMT Stainless Steel / Grey / Strap",
+          "url": "/certina/ds-podium/c034-654-16-087-01"
+        },
+        {
+          "slug": "c034-210-11-057-00",
+          "text": "C034.210.11.057.00 DS Podium 33 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-podium/c034-210-11-057-00"
+        },
+        {
+          "slug": "c034-210-36-127-00",
+          "text": "C034.210.36.127.00 DS Podium 33 Rose Gold PVD / Black MOP / Strap",
+          "url": "/certina/ds-podium/c034-210-36-127-00"
+        },
+        {
+          "slug": "c034-417-22-047-00",
+          "text": "C034.417.22.047.00 DS Podium Chronograph 1/10 Sec Stainless Steel / Rose Gold PVD / Blue / Bracelet",
+          "url": "/certina/ds-podium/c034-417-22-047-00"
+        },
+        {
+          "slug": "c001-007-11-013-00",
+          "text": "C001.007.11.013.00 DS Podium Automatic 29 Stainless Steel / White / Bracelet",
+          "url": "/certina/ds-podium/c001-007-11-013-00"
+        },
+        {
+          "slug": "c034-654-44-087-00",
+          "text": "C034.654.44.087.00 DS Podium Chronograph GMT Titanium / Grey",
+          "url": "/certina/ds-podium/c034-654-44-087-00"
+        },
+        {
+          "slug": "c034-455-11-040-00",
+          "text": "C034.455.11.040.00 DS Podium GMT Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-podium/c034-455-11-040-00"
+        },
+        {
+          "slug": "c034-455-16-050-00",
+          "text": "C034.455.16.050.00 DS Podium GMT Stainless Steel / Black",
+          "url": "/certina/ds-podium/c034-455-16-050-00"
+        },
+        {
+          "slug": "c0016171605700",
+          "text": "C0016171605700 DS Podium Big Size Chrono Black Brown",
+          "url": "/certina/ds-podium/c0016171605700"
+        },
+        {
+          "slug": "c0016391605702",
+          "text": "C0016391605702 DS Podium Big Size Chrono GMT PVD",
+          "url": "/certina/ds-podium/c0016391605702"
+        },
+        {
+          "slug": "c0016392705700",
+          "text": "C0016392705700 DS Podium Big Size Chrono GMT",
+          "url": "/certina/ds-podium/c0016392705700"
+        },
+        {
+          "slug": "c0016391629700",
+          "text": "C0016391629700 DS Podium Big Size Chrono GMT",
+          "url": "/certina/ds-podium/c0016391629700"
+        },
+        {
+          "slug": "c0014171605701",
+          "text": "C0014171605701 DS Podium Chrono Inverted Panda",
+          "url": "/certina/ds-podium/c0014171605701"
+        },
+        {
+          "slug": "c0014103603701",
+          "text": "C0014103603701 DS Podium 3 Hands Gold Silver",
+          "url": "/certina/ds-podium/c0014103603701"
+        },
+        {
+          "slug": "c0014101605701",
+          "text": "C0014101605701 DS Podium 3 Hands Black",
+          "url": "/certina/ds-podium/c0014101605701"
+        },
+        {
+          "slug": "c0014101603701",
+          "text": "C0014101603701 DS Podium 3 Hands Silver",
+          "url": "/certina/ds-podium/c0014101603701"
+        },
+        {
+          "slug": "c0014101104700",
+          "text": "C0014101104700 DS Podium 3 Hands Blue",
+          "url": "/certina/ds-podium/c0014101104700"
+        },
+        {
+          "slug": "c0255101629700",
+          "text": "C0255101629700 DS Podium Square Brown",
+          "url": "/certina/ds-podium/c0255101629700"
+        },
+        {
+          "slug": "c0252172201700",
+          "text": "C0252172201700 DS Podium Chrono Two Tone",
+          "url": "/certina/ds-podium/c0252172201700"
+        },
+        {
+          "slug": "c0014071103700",
+          "text": "C0014071103700 DS Podium",
+          "url": "/certina/ds-podium/c0014071103700"
+        },
+        {
+          "slug": "c0015071605700",
+          "text": "C0015071605700 DS Podium Square",
+          "url": "/certina/ds-podium/c0015071605700"
+        },
+        {
+          "slug": "c0252171629700",
+          "text": "C0252171629700 DS Podium Chrono Brown",
+          "url": "/certina/ds-podium/c0252171629700"
+        },
+        {
+          "slug": "c0252101605700",
+          "text": "C0252101605700 DS Podium Black",
+          "url": "/certina/ds-podium/c0252101605700"
+        },
+        {
+          "slug": "c0252101611800",
+          "text": "C0252101611800 DS Podium MOP",
+          "url": "/certina/ds-podium/c0252101611800"
+        },
+        {
+          "slug": "c0252101611700",
+          "text": "C0252101611700 DS Podium MOP",
+          "url": "/certina/ds-podium/c0252101611700"
+        },
+        {
+          "slug": "c0252101105700",
+          "text": "C0252101105700 DS Podium",
+          "url": "/certina/ds-podium/c0252101105700"
+        },
+        {
+          "slug": "c0252101111800",
+          "text": "C0252101111800 DS Podium MOP Roman",
+          "url": "/certina/ds-podium/c0252101111800"
+        },
+        {
+          "slug": "c0252102211800",
+          "text": "C0252102211800 DS Podium Two Tone",
+          "url": "/certina/ds-podium/c0252102211800"
+        },
+        {
+          "slug": "c0252071603700",
+          "text": "C0252071603700 DS Podium",
+          "url": "/certina/ds-podium/c0252071603700"
+        },
+        {
+          "slug": "c0252071642700",
+          "text": "C0252071642700 DS Podium",
+          "url": "/certina/ds-podium/c0252071642700"
+        },
+        {
+          "slug": "c001-647-16-037-00",
+          "text": "C001.647.16.037.00 DS Podium Big Size Chrono 1/100 Sec Stainless Steel / Panda",
+          "url": "/certina/ds-podium/c001-647-16-037-00"
+        },
+        {
+          "slug": "c0016399705702",
+          "text": "C0016399705702 DS Podium Big Size Chrono GMT Aluminium Black",
+          "url": "/certina/ds-podium/c0016399705702"
+        },
+        {
+          "slug": "c034-210-22-087-00",
+          "text": "C034.210.22.087.00 DS Podium 33 Stainless Steel - Rose Gold / Grey / Bracelet",
+          "url": "/certina/ds-podium/c034-210-22-087-00"
+        },
+        {
+          "slug": "c034-417-11-097-00",
+          "text": "C034.417.11.097.00 DS Podium Chronograph 1/10 Sec Stainless Steel / Green / Bracelet",
+          "url": "/certina/ds-podium/c034-417-11-097-00"
+        },
+        {
+          "slug": "c034-654-16-037-01",
+          "text": "C034.654.16.037.01 DS Podium Chronograph GMT Stainless Steel / Silver / Strap",
+          "url": "/certina/ds-podium/c034-654-16-037-01"
+        },
+        {
+          "slug": "c001-007-36-113-00",
+          "text": "C001.007.36.113.00 DS Podium Automatic 29 Rose Gold PVD / MOP / Strap",
+          "url": "/certina/ds-podium/c001-007-36-113-00"
+        },
+        {
+          "slug": "c001-007-11-113-00",
+          "text": "C001.007.11.113.00 DS Podium Automatic 29 Stainless Steel / MOP / Bracelet",
+          "url": "/certina/ds-podium/c001-007-11-113-00"
+        },
+        {
+          "slug": "c001-007-22-013-00",
+          "text": "C001.007.22.013.00 DS Podium Automatic 29 Stainless Steel / Rose Gold PVD / White / Bracelet",
+          "url": "/certina/ds-podium/c001-007-22-013-00"
+        },
+        {
+          "slug": "c034-451-44-087-00",
+          "text": "C034.451.44.087.00 DS Podium 40 Titanium / Grey / Bracelet",
+          "url": "/certina/ds-podium/c034-451-44-087-00"
+        },
+        {
+          "slug": "c001-007-36-116-02",
+          "text": "C001.007.36.116.02 DS Podium Automatic 29 Rose Gold PVD / MOP / Strap",
+          "url": "/certina/ds-podium/c001-007-36-116-02"
+        },
+        {
+          "slug": "c034-417-38-057-10",
+          "text": "C034.417.38.057.10 DS Podium Chronograph 1/10 Sec PVD / Black / Strap",
+          "url": "/certina/ds-podium/c034-417-38-057-10"
+        },
+        {
+          "slug": "c001-007-16-013-00",
+          "text": "C001.007.16.013.00 DS Podium Automatic 29 Stainless Steel / White / Strap",
+          "url": "/certina/ds-podium/c001-007-16-013-00"
+        },
+        {
+          "slug": "c034-451-44-047-00",
+          "text": "C034.451.44.047.00 DS Podium 40 Titanium / Blue / Bracelet",
+          "url": "/certina/ds-podium/c034-451-44-047-00"
+        },
+        {
+          "slug": "c034-453-36-367-00",
+          "text": "C034.453.36.367.00 DS Podium Lap Timer PVD / Yellow",
+          "url": "/certina/ds-podium/c034-453-36-367-00"
+        },
+        {
+          "slug": "c034-453-38-097-00",
+          "text": "C034.453.38.097.00 DS Podium Lap Timer PVD / Monster Energy Yamaha Factory MXGP",
+          "url": "/certina/ds-podium/c034-453-38-097-00"
+        },
+        {
+          "slug": "c0016391105700",
+          "text": "C0016391105700 DS Podium Big Size Chrono GMT",
+          "url": "/certina/ds-podium/c0016391105700"
+        },
+        {
+          "slug": "c0016394404700",
+          "text": "C0016394404700 DS Podium Big Size Chrono GMT Titanium",
+          "url": "/certina/ds-podium/c0016394404700"
+        },
+        {
+          "slug": "c0014171629700",
+          "text": "C0014171629700 DS Podium Chrono Brown",
+          "url": "/certina/ds-podium/c0014171629700"
+        },
+        {
+          "slug": "c0014103605700",
+          "text": "C0014103605700 DS Podium 3 Hands Gold",
+          "url": "/certina/ds-podium/c0014103605700"
+        },
+        {
+          "slug": "c0014101605702",
+          "text": "C0014101605702 DS Podium 3 Hands PVD",
+          "url": "/certina/ds-podium/c0014101605702"
+        },
+        {
+          "slug": "c0014101105700",
+          "text": "C0014101105700 DS Podium 3 Hands Black",
+          "url": "/certina/ds-podium/c0014101105700"
+        },
+        {
+          "slug": "c0255101605700",
+          "text": "C0255101605700 DS Podium Square Black",
+          "url": "/certina/ds-podium/c0255101605700"
+        },
+        {
+          "slug": "c0255101603300",
+          "text": "C0255101603300 DS Podium Square",
+          "url": "/certina/ds-podium/c0255101603300"
+        },
+        {
+          "slug": "c0252171101700",
+          "text": "C0252171101700 DS Podium Chrono Silver",
+          "url": "/certina/ds-podium/c0252171101700"
+        },
+        {
+          "slug": "c0252171601700",
+          "text": "C0252171601700 DS Podium Chrono Silver",
+          "url": "/certina/ds-podium/c0252171601700"
+        },
+        {
+          "slug": "c001-647-27-057-00",
+          "text": "C001.647.27.057.00 DS Podium Big Size Chrono 1/100 Sec Stainless Steel / PVD / Black / Rubber",
+          "url": "/certina/ds-podium/c001-647-27-057-00"
+        },
+        {
+          "slug": "c034-210-16-297-00",
+          "text": "C034.210.16.297.00 DS Podium 33 Stainless Steel / Brown / Strap",
+          "url": "/certina/ds-podium/c034-210-16-297-00"
+        },
+        {
+          "slug": "c034-210-11-037-00",
+          "text": "C034.210.11.037.00 DS Podium 33 Stainless Steel / Silver / Bracelet",
+          "url": "/certina/ds-podium/c034-210-11-037-00"
+        },
+        {
+          "slug": "c034-654-11-057-00",
+          "text": "C034.654.11.057.00 DS Podium Chronograph GMT Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-podium/c034-654-11-057-00"
+        },
+        {
+          "slug": "c0016391603701",
+          "text": "C0016391603701 DS Podium Big Size Chrono GMT Silver",
+          "url": "/certina/ds-podium/c0016391603701"
+        },
+        {
+          "slug": "c0016392220701",
+          "text": "C0016392220701 DS Podium Big Size Chrono GMT",
+          "url": "/certina/ds-podium/c0016392220701"
+        },
+        {
+          "slug": "c0016171104700",
+          "text": "C0016171104700 DS Podium Big Size Chrono Blue",
+          "url": "/certina/ds-podium/c0016171104700"
+        },
+        {
+          "slug": "c0014171603701",
+          "text": "C0014171603701 DS Podium Chrono Silver",
+          "url": "/certina/ds-podium/c0014171603701"
+        },
+        {
+          "slug": "c0014171105700",
+          "text": "C0014171105700 DS Podium Chrono Black",
+          "url": "/certina/ds-podium/c0014171105700"
+        },
+        {
+          "slug": "c0255103603300",
+          "text": "C0255103603300 DS Podium Square",
+          "url": "/certina/ds-podium/c0255103603300"
+        },
+        {
+          "slug": "c0016391104700",
+          "text": "C0016391104700 DS Podium Big Size Chrono GMT Blue",
+          "url": "/certina/ds-podium/c0016391104700"
+        }
+      ]
+    },
+    {
+      "name": "DS Action watches135",
+      "slug": "ds-action",
+      "references": [
+        {
+          "slug": "c032-429-11-051-00",
+          "text": "C032.429.11.051.00 DS Action GMT Powermatic 80 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-action/c032-429-11-051-00"
+        },
+        {
+          "slug": "c032-851-16-057-01",
+          "text": "C032.851.16.057.01 DS Action 41 Quartz Stainless Steel / Black / Strap",
+          "url": "/certina/ds-action/c032-851-16-057-01"
+        },
+        {
+          "slug": "c032-807-44-081-00",
+          "text": "C032.807.44.081.00 DS Action Diver 38 Powermatic 80 Titanium / Grey / Bracelet",
+          "url": "/certina/ds-action/c032-807-44-081-00"
+        },
+        {
+          "slug": "c032-430-11-051-00",
+          "text": "C032.430.11.051.00 DS Action Powermatic 80 Day-Date Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-action/c032-430-11-051-00"
+        },
+        {
+          "slug": "c032-407-11-091-00",
+          "text": "C032.407.11.091.00 DS Action Diver Powermatic 80 43 Stainless Steel / Green / Bracelet",
+          "url": "/certina/ds-action/c032-407-11-091-00"
+        },
+        {
+          "slug": "c032-430-16-051-00",
+          "text": "C032.430.16.051.00 DS Action Powermatic 80 Day-Date Stainless Steel / Black / Leather",
+          "url": "/certina/ds-action/c032-430-16-051-00"
+        },
+        {
+          "slug": "c032-427-17-051-00",
+          "text": "C032.427.17.051.00 DS Action Diver Chronograph Automatic Stainless Steel / Black / Rubber",
+          "url": "/certina/ds-action/c032-427-17-051-00"
+        },
+        {
+          "slug": "c048-410-44-351-00",
+          "text": "C048.410.44.351.00 DS Action 40 Quartz Titanium / Light Blue",
+          "url": "/certina/ds-action/c048-410-44-351-00"
+        },
+        {
+          "slug": "c032-407-17-051-00",
+          "text": "C032.407.17.051.00 DS Action Diver Powermatic 80 43 Stainless Steel / Black / Rubber",
+          "url": "/certina/ds-action/c032-407-17-051-00"
+        },
+        {
+          "slug": "c032-951-22-031-01",
+          "text": "C032.951.22.031.01 DS Action Lady 29 Stainless Steel - Yellow Gold / Silver",
+          "url": "/certina/ds-action/c032-951-22-031-01"
+        },
+        {
+          "slug": "c032-051-22-126-00",
+          "text": "C032.051.22.126.00 DS Action Diamonds 33.8 Stainless Steel - Rose Gold / Black MOP",
+          "url": "/certina/ds-action/c032-051-22-126-00"
+        },
+        {
+          "slug": "c032-251-11-011-01",
+          "text": "C032.251.11.011.01 DS Action Lady Stainless Steel / Silver / Bracelet",
+          "url": "/certina/ds-action/c032-251-11-011-01"
+        },
+        {
+          "slug": "c032-251-11-051-09",
+          "text": "C032.251.11.051.09 DS Action Lady Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-action/c032-251-11-051-09"
+        },
+        {
+          "slug": "c032-827-11-051-00",
+          "text": "C032.827.11.051.00 DS Action Diver Chrono Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-action/c032-827-11-051-00"
+        },
+        {
+          "slug": "c032-051-33-046-00",
+          "text": "C032.051.33.046.00 DS Action Diamonds 33.8  Yellow Gold / Blue",
+          "url": "/certina/ds-action/c032-051-33-046-00"
+        },
+        {
+          "slug": "c048-407-11-051-01",
+          "text": "C048.407.11.051.01 DS Action Diver 40.5 Powermatic Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-action/c048-407-11-051-01"
+        },
+        {
+          "slug": "c048-210-11-121-00",
+          "text": "C048.210.11.121.00 DS Action Quartz 34.5 Stainless Steel / MOP / Bracelet",
+          "url": "/certina/ds-action/c048-210-11-121-00"
+        },
+        {
+          "slug": "c048-807-11-051-00",
+          "text": "C048.807.11.051.00 DS Action Diver 38 Powermatic 80 Stainless Steel / Black",
+          "url": "/certina/ds-action/c048-807-11-051-00"
+        },
+        {
+          "slug": "c032-007-22-126-00",
+          "text": "C032.007.22.126.00 DS Action Lady 34.5 Stainless Steel - Yellow Gold / Black MOP",
+          "url": "/certina/ds-action/c032-007-22-126-00"
+        },
+        {
+          "slug": "c032-407-44-081-00",
+          "text": "C032.407.44.081.00 DS Action Diver Powermatic 80 43 Titanium / Grey / Bracelet",
+          "url": "/certina/ds-action/c032-407-44-081-00"
+        },
+        {
+          "slug": "c048-407-44-041-00",
+          "text": "C048.407.44.041.00 DS Action Diver 40.5 Powermatic Titanium / Blue / Bracelet",
+          "url": "/certina/ds-action/c048-407-44-041-00"
+        },
+        {
+          "slug": "c048-807-44-051-00",
+          "text": "C048.807.44.051.00 DS Action Diver 38 Powermatic 80 Titanium / Black",
+          "url": "/certina/ds-action/c048-807-44-051-00"
+        },
+        {
+          "slug": "c032-807-11-051-00",
+          "text": "C032.807.11.051.00 DS Action Diver 38 Powermatic 80 Stainless Steel / Black",
+          "url": "/certina/ds-action/c032-807-11-051-00"
+        },
+        {
+          "slug": "c013-410-11-057-00",
+          "text": "C013.410.11.057.00 DS Action Black",
+          "url": "/certina/ds-action/c013-410-11-057-00"
+        },
+        {
+          "slug": "c013-407-11-051-00",
+          "text": "C013.407.11.051.00 DS Action Diver",
+          "url": "/certina/ds-action/c013-407-11-051-00"
+        },
+        {
+          "slug": "c032-410-11-051-00",
+          "text": "C032.410.11.051.00 DS Action Diver PreciDrive Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-action/c032-410-11-051-00"
+        },
+        {
+          "slug": "c032-851-22-087-00",
+          "text": "C032.851.22.087.00 DS Action 41 Quartz Two Tone / Grey",
+          "url": "/certina/ds-action/c032-851-22-087-00"
+        },
+        {
+          "slug": "c048-210-44-131-00",
+          "text": "C048.210.44.131.00 DS Action Quartz 34.5 Titanium / MOP / Bracelet",
+          "url": "/certina/ds-action/c048-210-44-131-00"
+        },
+        {
+          "slug": "c0324171104100",
+          "text": "C0324171104100 DS Action Chronograph Precidrive Blue",
+          "url": "/certina/ds-action/c0324171104100"
+        },
+        {
+          "slug": "c032-851-11-057-02",
+          "text": "C032.851.11.057.02 DS Action Chronometer Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-action/c032-851-11-057-02"
+        },
+        {
+          "slug": "c032-051-16-056-00",
+          "text": "C032.051.16.056.00 DS Action Diamonds 33.8 Stainless Steel / Black / Strap",
+          "url": "/certina/ds-action/c032-051-16-056-00"
+        },
+        {
+          "slug": "c032-807-11-041-00",
+          "text": "C032.807.11.041.00 DS Action Diver 38 Powermatic 80 Stainless Steel / Blue",
+          "url": "/certina/ds-action/c032-807-11-041-00"
+        },
+        {
+          "slug": "c032-807-22-041-10",
+          "text": "C032.807.22.041.10 DS Action Diver 38 Powermatic 80 Sea Turtle Conservancy Special Edition",
+          "url": "/certina/ds-action/c032-807-22-041-10"
+        },
+        {
+          "slug": "c032-607-11-051-00",
+          "text": "C032.607.11.051.00 DS Action Diver Powermatic 80 43 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-action/c032-607-11-051-00"
+        },
+        {
+          "slug": "c032-007-11-051-00",
+          "text": "C032.007.11.051.00 DS Action Lady 34.5 Stainless Steel / Black",
+          "url": "/certina/ds-action/c032-007-11-051-00"
+        },
+        {
+          "slug": "c013-417-44-087-00",
+          "text": "C013.417.44.087.00 DS Action Chronograph Titanium",
+          "url": "/certina/ds-action/c013-417-44-087-00"
+        },
+        {
+          "slug": "c013-410-17-057-00",
+          "text": "C013.410.17.057.00 DS Action Black Rubber",
+          "url": "/certina/ds-action/c013-410-17-057-00"
+        },
+        {
+          "slug": "c013-407-47-081-01",
+          "text": "C013.407.47.081.01 DS Action Diver",
+          "url": "/certina/ds-action/c013-407-47-081-01"
+        },
+        {
+          "slug": "c032-607-44-051-00",
+          "text": "C032.607.44.051.00 DS Action Diver Powermatic 80 43 Titanium / Black / Bracelet",
+          "url": "/certina/ds-action/c032-607-44-051-00"
+        },
+        {
+          "slug": "c032-929-26-051-00",
+          "text": "C032.929.26.051.00 DS Acition GMT Powermatic 80 Stainless Steel - Yellow Gold / Black",
+          "url": "/certina/ds-action/c032-929-26-051-00"
+        },
+        {
+          "slug": "c048-807-11-091-00",
+          "text": "C048.807.11.091.00 DS Action Diver 38 Powermatic 80 Stainless Steel / Green",
+          "url": "/certina/ds-action/c048-807-11-091-00"
+        },
+        {
+          "slug": "c048-417-11-051-00",
+          "text": "C048.417.11.051.00 DS Action Chrono Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-action/c048-417-11-051-00"
+        },
+        {
+          "slug": "c013-417-11-057-00",
+          "text": "C013.417.11.057.00 DS Action Chronograph Black",
+          "url": "/certina/ds-action/c013-417-11-057-00"
+        },
+        {
+          "slug": "c013-417-27-057-01",
+          "text": "C013.417.27.057.01 DS Action Chronograph Rubber",
+          "url": "/certina/ds-action/c013-417-27-057-01"
+        },
+        {
+          "slug": "c032-407-11-051-00",
+          "text": "C032.407.11.051.00 DS Action Diver Powermatic 80 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-action/c032-407-11-051-00"
+        },
+        {
+          "slug": "c032-430-18-041-01",
+          "text": "C032.430.18.041.01 DS Action Powermatic 80 Day-Date Stainless Steel / Blue",
+          "url": "/certina/ds-action/c032-430-18-041-01"
+        },
+        {
+          "slug": "c048-410-11-051-00",
+          "text": "C048.410.11.051.00 DS Action 40 Quartz Stainless Steel / Black",
+          "url": "/certina/ds-action/c048-410-11-051-00"
+        },
+        {
+          "slug": "c032-207-11-046-00",
+          "text": "C032.207.11.046.00 DS Action 34.5 Powermatic Stainless Steel / Light Blue",
+          "url": "/certina/ds-action/c032-207-11-046-00"
+        },
+        {
+          "slug": "c048-807-38-051-00",
+          "text": "C048.807.38.051.00 DS Action Diver 38 Powermatic 80 PVD / Black",
+          "url": "/certina/ds-action/c048-807-38-051-00"
+        },
+        {
+          "slug": "c013-417-21-057-01",
+          "text": "C013.417.21.057.01 DS Action Chronograph Orange",
+          "url": "/certina/ds-action/c013-417-21-057-01"
+        },
+        {
+          "slug": "c013-427-11-051-00",
+          "text": "C013.427.11.051.00 DS Action Diver Chronograph",
+          "url": "/certina/ds-action/c013-427-11-051-00"
+        },
+        {
+          "slug": "c0324174408100",
+          "text": "C0324174408100 DS Action Chronograph Precidrive Titanium",
+          "url": "/certina/ds-action/c0324174408100"
+        },
+        {
+          "slug": "c032-410-11-041-00",
+          "text": "C032.410.11.041.00 DS Action Diver PreciDrive Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-action/c032-410-11-041-00"
+        },
+        {
+          "slug": "c032-407-11-051-10",
+          "text": "C032.407.11.051.10 DS Action Diver Powermatic 80 Stainless Steel / Black / Bracelet / Sea Turtle Conservancy",
+          "url": "/certina/ds-action/c032-407-11-051-10"
+        },
+        {
+          "slug": "c032-851-44-087-00",
+          "text": "C032.851.44.087.00 DS Action 41 Quartz Titanium / Grey",
+          "url": "/certina/ds-action/c032-851-44-087-00"
+        },
+        {
+          "slug": "c032-407-11-051-02",
+          "text": "C032.407.11.051.02 DS Action Diver Powermatic 80 43 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-action/c032-407-11-051-02"
+        },
+        {
+          "slug": "c032-430-11-091-00",
+          "text": "C032.430.11.091.00 DS Action Powermatic 80 Day-Date Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-action/c032-430-11-091-00"
+        },
+        {
+          "slug": "c032-207-11-116-00",
+          "text": "C032.207.11.116.00 DS Action 34.5 Powermatic Stainless Steel / MOP",
+          "url": "/certina/ds-action/c032-207-11-116-00"
+        },
+        {
+          "slug": "c032-607-48-051-00",
+          "text": "C032.607.48.051.00 DS Action Diver Powermatic 80 43 Titanium / Black / NATO",
+          "url": "/certina/ds-action/c032-607-48-051-00"
+        },
+        {
+          "slug": "c032-251-11-091-09",
+          "text": "C032.251.11.091.09 DS Action Lady Stainless Steel / Green / Bracelet",
+          "url": "/certina/ds-action/c032-251-11-091-09"
+        },
+        {
+          "slug": "c048-407-11-011-00",
+          "text": "C048.407.11.011.00 DS Action Diver 40.5 Powermatic Stainless Steel / White / Bracelet",
+          "url": "/certina/ds-action/c048-407-11-011-00"
+        },
+        {
+          "slug": "c032-951-22-031-00",
+          "text": "C032.951.22.031.00 DS Action Lady 29 Stainless Steel - Rose Gold / Silver",
+          "url": "/certina/ds-action/c032-951-22-031-00"
+        },
+        {
+          "slug": "c0324171705100",
+          "text": "C0324171705100 DS Action Chronograph Precidrive Black / Rubber",
+          "url": "/certina/ds-action/c0324171705100"
+        },
+        {
+          "slug": "c032-427-11-051-00",
+          "text": "C032.427.11.051.00 DS Action Diver Chronograph Automatic Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-action/c032-427-11-051-00"
+        },
+        {
+          "slug": "c032-051-44-036-00",
+          "text": "C032.051.44.036.00 DS Action Diamonds 33.8 Titanium / Silver",
+          "url": "/certina/ds-action/c032-051-44-036-00"
+        },
+        {
+          "slug": "c032-851-11-047-00",
+          "text": "C032.851.11.047.00 DS Action 41 Quartz Stainless Steel / Blue",
+          "url": "/certina/ds-action/c032-851-11-047-00"
+        },
+        {
+          "slug": "c032-451-11-057-00",
+          "text": "C032.451.11.057.00 DS Action 43 Quartz Stainless Steel / Black",
+          "url": "/certina/ds-action/c032-451-11-057-00"
+        },
+        {
+          "slug": "c032-807-48-081-00",
+          "text": "C032.807.48.081.00 DS Action Diver 38 Powermatic 80 Titanium / Grey / NATO",
+          "url": "/certina/ds-action/c032-807-48-081-00"
+        },
+        {
+          "slug": "c032-929-11-051-00",
+          "text": "C032.929.11.051.00 DS Acition GMT Powermatic 80 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-action/c032-929-11-051-00"
+        },
+        {
+          "slug": "c013-417-11-047-00",
+          "text": "C013.417.11.047.00 DS Action Chronograph Blue",
+          "url": "/certina/ds-action/c013-417-11-047-00"
+        },
+        {
+          "slug": "c013-417-11-037-00",
+          "text": "C013.417.11.037.00 DS Action Chronograph Panda",
+          "url": "/certina/ds-action/c013-417-11-037-00"
+        },
+        {
+          "slug": "c013-407-11-041-00",
+          "text": "C013.407.11.041.00 DS Action Diver",
+          "url": "/certina/ds-action/c013-407-11-041-00"
+        },
+        {
+          "slug": "c032-407-11-041-00",
+          "text": "C032.407.11.041.00 DS Action Diver Powermatic 80 Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-action/c032-407-11-041-00"
+        },
+        {
+          "slug": "c032-407-17-051-60",
+          "text": "C032.407.17.051.60 DS Action Diver Powermatic 80 Stainless Steel / Black / Rubber / Sea Turtle Conservancy",
+          "url": "/certina/ds-action/c032-407-17-051-60"
+        },
+        {
+          "slug": "c032-427-11-041-00",
+          "text": "C032.427.11.041.00 DS Action Diver Chronograph Automatic Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-action/c032-427-11-041-00"
+        },
+        {
+          "slug": "c032-430-16-041-00",
+          "text": "C032.430.16.041.00 DS Action Powermatic 80 Day-Date Stainless Steel / Blue / Strap",
+          "url": "/certina/ds-action/c032-430-16-041-00"
+        },
+        {
+          "slug": "c032-051-16-296-00",
+          "text": "C032.051.16.296.00 DS Action Diamonds 33.8 Stainless Steel / Brown / Strap",
+          "url": "/certina/ds-action/c032-051-16-296-00"
+        },
+        {
+          "slug": "c032-430-11-041-00",
+          "text": "C032.430.11.041.00 DS Action Powermatic 80 Day-Date Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-action/c032-430-11-041-00"
+        },
+        {
+          "slug": "c032-007-22-116-00",
+          "text": "C032.007.22.116.00 DS Action Lady 34.5 Stainless Steel - Yellow Gold / MOP",
+          "url": "/certina/ds-action/c032-007-22-116-00"
+        },
+        {
+          "slug": "c032-929-11-041-00",
+          "text": "C032.929.11.041.00 DS Acition GMT Powermatic 80 Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-action/c032-929-11-041-00"
+        },
+        {
+          "slug": "c032-827-11-041-00",
+          "text": "C032.827.11.041.00 DS Action Diver Chrono Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-action/c032-827-11-041-00"
+        },
+        {
+          "slug": "c048-407-18-051-01",
+          "text": "C048.407.18.051.01 DS Action Diver 40.5 Powermatic Stainless Steel / Black / NATO",
+          "url": "/certina/ds-action/c048-407-18-051-01"
+        },
+        {
+          "slug": "c032-051-11-116-00",
+          "text": "C032.051.11.116.00 DS Action Diamonds 33.8 Stainless Steel / MOP",
+          "url": "/certina/ds-action/c032-051-11-116-00"
+        },
+        {
+          "slug": "c013-407-17-05-101",
+          "text": "C013.407.17.05.101 DS Action Diver",
+          "url": "/certina/ds-action/c013-407-17-05-101"
+        },
+        {
+          "slug": "c013-407-44-081-00",
+          "text": "C013.407.44.081.00 DS Action Diver",
+          "url": "/certina/ds-action/c013-407-44-081-00"
+        },
+        {
+          "slug": "c013-427-11-041-00",
+          "text": "C013.427.11.041.00 DS Action Diver Chronograph Stainless Steel / Blue",
+          "url": "/certina/ds-action/c013-427-11-041-00"
+        },
+        {
+          "slug": "c0324171105100",
+          "text": "C0324171105100 DS Action Chronograph Precidrive Black",
+          "url": "/certina/ds-action/c0324171105100"
+        },
+        {
+          "slug": "c032-410-11-091-00",
+          "text": "C032.410.11.091.00 DS Action Diver PreciDrive Stainless Steel / Green / Bracelet",
+          "url": "/certina/ds-action/c032-410-11-091-00"
+        },
+        {
+          "slug": "c032-430-22-031-00",
+          "text": "C032.430.22.031.00 DS Action Powermatic 80 Day-Date Stainless Steel / Rose Gold PVD / Silver / Bracelet",
+          "url": "/certina/ds-action/c032-430-22-031-00"
+        },
+        {
+          "slug": "c032-451-11-047-00",
+          "text": "C032.451.11.047.00 DS Action 43 Quartz Stainless Steel / Blue",
+          "url": "/certina/ds-action/c032-451-11-047-00"
+        },
+        {
+          "slug": "c032-807-11-091-00",
+          "text": "C032.807.11.091.00 DS Action Diver 38 Powermatic 80 Stainless Steel / Green",
+          "url": "/certina/ds-action/c032-807-11-091-00"
+        },
+        {
+          "slug": "c032-607-22-041-00",
+          "text": "C032.607.22.041.00 DS Action Diver Powermatic 80 43 Stainless Steel - Yellow Gold / Blue / Bracelet",
+          "url": "/certina/ds-action/c032-607-22-041-00"
+        },
+        {
+          "slug": "c032-007-11-041-00",
+          "text": "C032.007.11.041.00 DS Action Lady 34.5 Stainless Steel / Blue",
+          "url": "/certina/ds-action/c032-007-11-041-00"
+        },
+        {
+          "slug": "c032-827-18-271-00",
+          "text": "C032.827.18.271.00 DS Action Diver Chrono Stainless Steel / Sand / NATO",
+          "url": "/certina/ds-action/c032-827-18-271-00"
+        },
+        {
+          "slug": "c032-951-33-111-00",
+          "text": "C032.951.33.111.00 DS Action Lady 29 Yellow Gold / MOP",
+          "url": "/certina/ds-action/c032-951-33-111-00"
+        },
+        {
+          "slug": "c032-434-44-087-00",
+          "text": "C032.434.44.087.00 DS Action Chronograph Titanium / Grey / Bracelet",
+          "url": "/certina/ds-action/c032-434-44-087-00"
+        },
+        {
+          "slug": "c032-207-22-126-00",
+          "text": "C032.207.22.126.00 DS Action 34.5 Powermatic Stainless Steel - Yelllow Gold / Black MOP",
+          "url": "/certina/ds-action/c032-207-22-126-00"
+        },
+        {
+          "slug": "c013-410-11-047-00",
+          "text": "C013.410.11.047.00 DS Action Blue",
+          "url": "/certina/ds-action/c013-410-11-047-00"
+        },
+        {
+          "slug": "c013-410-44-087-00",
+          "text": "C013.410.44.087.00 DS Action Titanium",
+          "url": "/certina/ds-action/c013-410-44-087-00"
+        },
+        {
+          "slug": "c032-451-11-097-00",
+          "text": "C032.451.11.097.00 DS Action 43 Quartz Stainless Steel / Green",
+          "url": "/certina/ds-action/c032-451-11-097-00"
+        },
+        {
+          "slug": "c032-051-22-036-00",
+          "text": "C032.051.22.036.00 DS Action Diamonds 33.8 Stainless Steel - Rose Gold / Silver",
+          "url": "/certina/ds-action/c032-051-22-036-00"
+        },
+        {
+          "slug": "c032-207-11-056-00",
+          "text": "C032.207.11.056.00 DS Action 34.5 Powermatic Stainless Steel / Grey",
+          "url": "/certina/ds-action/c032-207-11-056-00"
+        },
+        {
+          "slug": "c032-207-22-116-00",
+          "text": "C032.207.22.116.00 DS Action 34.5 Powermatic Stainless Steel - Yelllow Gold / MOP",
+          "url": "/certina/ds-action/c032-207-22-116-00"
+        },
+        {
+          "slug": "c032-207-22-296-00",
+          "text": "C032.207.22.296.00 DS Action 34.5 Powermatic Stainless Steel - Yelllow Gold / Brown",
+          "url": "/certina/ds-action/c032-207-22-296-00"
+        },
+        {
+          "slug": "c032-607-38-051-00",
+          "text": "C032.607.38.051.00 DS Action Diver Powermatic 80 43 PVD / Black / Bracelet",
+          "url": "/certina/ds-action/c032-607-38-051-00"
+        },
+        {
+          "slug": "c032-007-11-011-00",
+          "text": "C032.007.11.011.00 DS Action Lady 34.5 Stainless Steel / White",
+          "url": "/certina/ds-action/c032-007-11-011-00"
+        },
+        {
+          "slug": "c032-430-11-081-01",
+          "text": "C032.430.11.081.01 DS Action Powermatic 80 Day-Date Stainless Steel / Grey / Bracelet",
+          "url": "/certina/ds-action/c032-430-11-081-01"
+        },
+        {
+          "slug": "c032-951-33-361-00",
+          "text": "C032.951.33.361.00 DS Action Lady 29 Yellow Gold / Champagne",
+          "url": "/certina/ds-action/c032-951-33-361-00"
+        },
+        {
+          "slug": "c013-407-17-041-00",
+          "text": "C013.407.17.041.00 DS Action Diver",
+          "url": "/certina/ds-action/c013-407-17-041-00"
+        },
+        {
+          "slug": "c013-417-17-057-00",
+          "text": "C013.417.17.057.00 DS Action Chronograph Quartz Stainless Steel / Black / Rubber",
+          "url": "/certina/ds-action/c013-417-17-057-00"
+        },
+        {
+          "slug": "c032-051-11-036-00",
+          "text": "C032.051.11.036.00 DS Action Diamonds 33.8 Stainless Steel / Silver",
+          "url": "/certina/ds-action/c032-051-11-036-00"
+        },
+        {
+          "slug": "c032-051-11-056-00",
+          "text": "C032.051.11.056.00 DS Action Diamonds 33.8 Stainless Steel / Black",
+          "url": "/certina/ds-action/c032-051-11-056-00"
+        },
+        {
+          "slug": "c032-851-22-037-00",
+          "text": "C032.851.22.037.00 DS Action 41 Quartz Two Tone / Silver",
+          "url": "/certina/ds-action/c032-851-22-037-00"
+        },
+        {
+          "slug": "c032-051-22-086-00",
+          "text": "C032.051.22.086.00 DS Action Diamonds 33.8 Stainless Steel - Rose Gold / Grey",
+          "url": "/certina/ds-action/c032-051-22-086-00"
+        },
+        {
+          "slug": "c032-251-21-031-00",
+          "text": "C032.251.21.031.00 DS Action Lady Stainless Steel - Yellow Gold / Silver / Bracelet",
+          "url": "/certina/ds-action/c032-251-21-031-00"
+        },
+        {
+          "slug": "c032-807-22-051-01",
+          "text": "C032.807.22.051.01 DS Action Diver 38 Powermatic 80 Stainless Steel - Yellow Gold / Black",
+          "url": "/certina/ds-action/c032-807-22-051-01"
+        },
+        {
+          "slug": "c032-807-22-051-00",
+          "text": "C032.807.22.051.00 DS Action Diver 38 Powermatic 80 Stainless Steel - Yellow Gold / Black",
+          "url": "/certina/ds-action/c032-807-22-051-00"
+        },
+        {
+          "slug": "c032-607-22-051-00",
+          "text": "C032.607.22.051.00 DS Action Diver Powermatic 80 43 Stainless Steel - Yellow Gold / Black / Bracelet",
+          "url": "/certina/ds-action/c032-607-22-051-00"
+        },
+        {
+          "slug": "c032-607-11-091-00",
+          "text": "C032.607.11.091.00 DS Action Diver Powermatic 80 43 Stainless Steel / Green / Bracelet",
+          "url": "/certina/ds-action/c032-607-11-091-00"
+        },
+        {
+          "slug": "c032-051-22-126-01",
+          "text": "C032.051.22.126.01 DS Action Diamonds 33.8 Stainless Steel - Yellow Gold / Black MOP",
+          "url": "/certina/ds-action/c032-051-22-126-01"
+        },
+        {
+          "slug": "c032-051-44-046-00",
+          "text": "C032.051.44.046.00 DS Action Diamonds 33.8 Titanium - Yellow Gold / Ice Blue",
+          "url": "/certina/ds-action/c032-051-44-046-00"
+        },
+        {
+          "slug": "c048-410-11-091-00",
+          "text": "C048.410.11.091.00 DS Action 40 Quartz Stainless Steel / Green",
+          "url": "/certina/ds-action/c048-410-11-091-00"
+        },
+        {
+          "slug": "c048-410-22-041-00",
+          "text": "C048.410.22.041.00 DS Action 40 Quartz Stainless Steel - Yellow Gold / Blue",
+          "url": "/certina/ds-action/c048-410-22-041-00"
+        },
+        {
+          "slug": "c048-210-22-131-00",
+          "text": "C048.210.22.131.00 DS Action Quartz 34.5 Stainless Steel - Yellow Gold / MOP / Bracelet",
+          "url": "/certina/ds-action/c048-210-22-131-00"
+        },
+        {
+          "slug": "c048-210-11-381-00",
+          "text": "C048.210.11.381.00 DS Action Quartz 34.5 Stainless Steel / MOP / Bracelet",
+          "url": "/certina/ds-action/c048-210-11-381-00"
+        },
+        {
+          "slug": "c032-607-11-041-00",
+          "text": "C032.607.11.041.00 DS Action Diver Powermatic 80 43 Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-action/c032-607-11-041-00"
+        },
+        {
+          "slug": "c032-251-11-041-09",
+          "text": "C032.251.11.041.09 DS Action Lady Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-action/c032-251-11-041-09"
+        },
+        {
+          "slug": "c032-251-11-041-00",
+          "text": "C032.251.11.041.00 DS Action Lady Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-action/c032-251-11-041-00"
+        },
+        {
+          "slug": "c032-434-11-047-00",
+          "text": "C032.434.11.047.00 DS Action Chronograph Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-action/c032-434-11-047-00"
+        },
+        {
+          "slug": "c032-434-11-057-00",
+          "text": "C032.434.11.057.00 DS Action Chronograph Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-action/c032-434-11-057-00"
+        },
+        {
+          "slug": "c048-417-33-201-00",
+          "text": "C048.417.33.201.00 DS Action Chrono PVD / Carbon / Bracelet",
+          "url": "/certina/ds-action/c048-417-33-201-00"
+        },
+        {
+          "slug": "c013-427-17-051-00",
+          "text": "C013.427.17.051.00 DS Action Diver Chronograph",
+          "url": "/certina/ds-action/c013-427-17-051-00"
+        },
+        {
+          "slug": "c048-417-44-041-00",
+          "text": "C048.417.44.041.00 DS Action Chrono Titanium / Blue / Bracelet",
+          "url": "/certina/ds-action/c048-417-44-041-00"
+        },
+        {
+          "slug": "c048-807-22-041-00",
+          "text": "C048.807.22.041.00 DS Action Diver 38 Powermatic 80 Stainless Steel - Yellow Gold / Blue",
+          "url": "/certina/ds-action/c048-807-22-041-00"
+        },
+        {
+          "slug": "c032-929-11-041-01",
+          "text": "C032.929.11.041.01 DS Acition GMT Powermatic 80 Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-action/c032-929-11-041-01"
+        }
+      ]
+    },
+    {
+      "name": "DS-1 watches69",
+      "slug": "ds-1",
+      "references": [
+        {
+          "slug": "c029-807-11-081-02",
+          "text": "C029.807.11.081.02 DS-1 Powermatic 80 40 Stainless Steel / Grey / Tide Ocean",
+          "url": "/certina/ds-1/c029-807-11-081-02"
+        },
+        {
+          "slug": "c0294071605100",
+          "text": "C0294071605100 DS-1 Powermatic 80",
+          "url": "/certina/ds-1/c0294071605100"
+        },
+        {
+          "slug": "c0064073603100",
+          "text": "C0064073603100 DS-1",
+          "url": "/certina/ds-1/c0064073603100"
+        },
+        {
+          "slug": "c0064071108800",
+          "text": "C0064071108800 DS-1 Roman",
+          "url": "/certina/ds-1/c0064071108800"
+        },
+        {
+          "slug": "c029-426-11-051-00",
+          "text": "C029.426.11.051.00 DS-1 Big Date Powermatic 80 Stainless Steel / Grey / Bracelet",
+          "url": "/certina/ds-1/c029-426-11-051-00"
+        },
+        {
+          "slug": "c029-207-16-091-00",
+          "text": "C029.207.16.091.00 DS-1 Powermatic 80 38 Stainless Steel / Green",
+          "url": "/certina/ds-1/c029-207-16-091-00"
+        },
+        {
+          "slug": "c029-462-16-011-00",
+          "text": "C029.462.16.011.00 DS-1 Chrono Stainless Steel / Silver",
+          "url": "/certina/ds-1/c029-462-16-011-00"
+        },
+        {
+          "slug": "c029-807-16-031-60",
+          "text": "C029.807.16.031.60 DS-1 Powermatic 80 Himalaya Special Edition",
+          "url": "/certina/ds-1/c029-807-16-031-60"
+        },
+        {
+          "slug": "c029-430-16-011-00",
+          "text": "C029.430.16.011.00 DS-1 Day Date Stainless Steel / Silver",
+          "url": "/certina/ds-1/c029-430-16-011-00"
+        },
+        {
+          "slug": "c029-807-11-031-00",
+          "text": "C029.807.11.031.00 DS-1 Powermatic 80 40 Stainless Steel / Silver / Bracelet",
+          "url": "/certina/ds-1/c029-807-11-031-00"
+        },
+        {
+          "slug": "c006-430-11-031-00",
+          "text": "C006.430.11.031.00 DS-1 Day-Date Stainless Steel / Silver / Bracelet",
+          "url": "/certina/ds-1/c006-430-11-031-00"
+        },
+        {
+          "slug": "c0064073608100",
+          "text": "C0064073608100 DS-1",
+          "url": "/certina/ds-1/c0064073608100"
+        },
+        {
+          "slug": "c029-807-11-031-02",
+          "text": "C029.807.11.031.02 DS-1 Powermatic 80 40 Stainless Steel / Silver / Mesh",
+          "url": "/certina/ds-1/c029-807-11-031-02"
+        },
+        {
+          "slug": "c029-207-11-041-00",
+          "text": "C029.207.11.041.00 DS-1 Powermatic 80 38 Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-1/c029-207-11-041-00"
+        },
+        {
+          "slug": "c029-207-11-051-00",
+          "text": "C029.207.11.051.00 DS-1 Powermatic 80 38 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-1/c029-207-11-051-00"
+        },
+        {
+          "slug": "c006-414-16-051-00",
+          "text": "C006.414.16.051.00 DS-1 Chronograph",
+          "url": "/certina/ds-1/c006-414-16-051-00"
+        },
+        {
+          "slug": "c029-462-26-051-00",
+          "text": "C029.462.26.051.00 DS-1 Chrono Stainless Steel - Yellow Gold / Black",
+          "url": "/certina/ds-1/c029-462-26-051-00"
+        },
+        {
+          "slug": "c0062071105100",
+          "text": "C0062071105100 DS 1 Lady",
+          "url": "/certina/ds-1/c0062071105100"
+        },
+        {
+          "slug": "c029-207-22-081-00",
+          "text": "C029.207.22.081.00 DS-1 Powermatic 80 38 Stainless Steel - Yellow Gold / Grey / Bracelet",
+          "url": "/certina/ds-1/c029-207-22-081-00"
+        },
+        {
+          "slug": "c0064071605100",
+          "text": "C0064071605100 DS-1",
+          "url": "/certina/ds-1/c0064071605100"
+        },
+        {
+          "slug": "c029-807-16-031-01",
+          "text": "C029.807.16.031.01 DS-1 Powermatic 80 40 Stainless Steel / Silver / Strap",
+          "url": "/certina/ds-1/c029-807-16-031-01"
+        },
+        {
+          "slug": "c029-807-16-051-00",
+          "text": "C029.807.16.051.00 DS-1 Powermatic 80 40 Stainless Steel / Black / Strap",
+          "url": "/certina/ds-1/c029-807-16-051-00"
+        },
+        {
+          "slug": "c029-807-22-031-00",
+          "text": "C029.807.22.031.00 DS-1 Powermatic 80 40 Stainless Steel / Rose Gold PVD / Silver / Bracelet",
+          "url": "/certina/ds-1/c029-807-22-031-00"
+        },
+        {
+          "slug": "c0064141605101",
+          "text": "C0064141605101 DS-1 Chronograph",
+          "url": "/certina/ds-1/c0064141605101"
+        },
+        {
+          "slug": "c0064141105100",
+          "text": "C0064141105100 DS-1 Chronograph",
+          "url": "/certina/ds-1/c0064141105100"
+        },
+        {
+          "slug": "c0064071105800",
+          "text": "C0064071105800 DS-1 Roman",
+          "url": "/certina/ds-1/c0064071105800"
+        },
+        {
+          "slug": "c029-807-11-041-02",
+          "text": "C029.807.11.041.02 DS-1 Powermatic 80 40 Stainless Steel / Blue / Tide Ocean",
+          "url": "/certina/ds-1/c029-807-11-041-02"
+        },
+        {
+          "slug": "c0064071105100",
+          "text": "C0064071105100 DS-1",
+          "url": "/certina/ds-1/c0064071105100"
+        },
+        {
+          "slug": "c029-807-33-051-00",
+          "text": "C029.807.33.051.00 DS-1 Powermatic 80 40 PVD / Black / Mesh",
+          "url": "/certina/ds-1/c029-807-33-051-00"
+        },
+        {
+          "slug": "c029-907-11-041-00",
+          "text": "C029.907.11.041.00 DS-1 Skeleton Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-1/c029-907-11-041-00"
+        },
+        {
+          "slug": "c029-807-11-291-02",
+          "text": "C029.807.11.291.02 DS-1 Powermatic 80 40 Stainless Steel / Brown / Mesh",
+          "url": "/certina/ds-1/c029-807-11-291-02"
+        },
+        {
+          "slug": "c0064141603100",
+          "text": "C0064141603100 DS-1 Chronograph",
+          "url": "/certina/ds-1/c0064141603100"
+        },
+        {
+          "slug": "c0064071608800",
+          "text": "C0064071608800 DS-1 Roman",
+          "url": "/certina/ds-1/c0064071608800"
+        },
+        {
+          "slug": "c0294071103100",
+          "text": "C0294071103100 DS-1 Powermatic 80",
+          "url": "/certina/ds-1/c0294071103100"
+        },
+        {
+          "slug": "c0064141105101",
+          "text": "C0064141105101 DS-1 Chronograph",
+          "url": "/certina/ds-1/c0064141105101"
+        },
+        {
+          "slug": "c0062071103100",
+          "text": "C0062071103100 DS 1 Lady",
+          "url": "/certina/ds-1/c0062071103100"
+        },
+        {
+          "slug": "c0064301608100",
+          "text": "C0064301608100 DS-1 Day-Date",
+          "url": "/certina/ds-1/c0064301608100"
+        },
+        {
+          "slug": "c0064071603801",
+          "text": "C0064071603801 DS-1 Roman",
+          "url": "/certina/ds-1/c0064071603801"
+        },
+        {
+          "slug": "c0064071629800",
+          "text": "C0064071629800 DS-1 Roman",
+          "url": "/certina/ds-1/c0064071629800"
+        },
+        {
+          "slug": "c029-426-33-051-00",
+          "text": "C029.426.33.051.00 DS-1 Big Date Powermatic 80 PVD / Black / Bracelet",
+          "url": "/certina/ds-1/c029-426-33-051-00"
+        },
+        {
+          "slug": "c029-426-16-051-00",
+          "text": "C029.426.16.051.00 DS-1 Big Date Powermatic 80 Stainless Steel / Grey",
+          "url": "/certina/ds-1/c029-426-16-051-00"
+        },
+        {
+          "slug": "c029-426-16-041-00",
+          "text": "C029.426.16.041.00 DS-1 Big Date Powermatic 80 Stainless Steel / Blue",
+          "url": "/certina/ds-1/c029-426-16-041-00"
+        },
+        {
+          "slug": "c0064071603100",
+          "text": "C0064071603100 DS-1",
+          "url": "/certina/ds-1/c0064071603100"
+        },
+        {
+          "slug": "c029-430-16-011-01",
+          "text": "C029.430.16.011.01 DS-1 Day Date Stainless Steel / White",
+          "url": "/certina/ds-1/c029-430-16-011-01"
+        },
+        {
+          "slug": "c029-807-22-081-00",
+          "text": "C029.807.22.081.00 DS-1 Powermatic 80 40 Stainless Steel / Rose Gold PVD / Grey / Bracelet",
+          "url": "/certina/ds-1/c029-807-22-081-00"
+        },
+        {
+          "slug": "c029-807-11-051-00",
+          "text": "C029.807.11.051.00 DS-1 Powermatic 80 40 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-1/c029-807-11-051-00"
+        },
+        {
+          "slug": "c029-807-33-361-00",
+          "text": "C029.807.33.361.00 DS-1 Powermatic 80 40 Yellow Gold / Champagne / Mesh",
+          "url": "/certina/ds-1/c029-807-33-361-00"
+        },
+        {
+          "slug": "c0062071605100",
+          "text": "C0062071605100 DS 1 Lady",
+          "url": "/certina/ds-1/c0062071605100"
+        },
+        {
+          "slug": "c0062072203100",
+          "text": "C0062072203100 DS 1 Lady",
+          "url": "/certina/ds-1/c0062072203100"
+        },
+        {
+          "slug": "c029-807-16-081-01",
+          "text": "C029.807.16.081.01 DS-1 Powermatic 80 40 Stainless Steel / Grey / Strap",
+          "url": "/certina/ds-1/c029-807-16-081-01"
+        },
+        {
+          "slug": "c0294071608100",
+          "text": "C0294071608100 DS-1 Powermatic 80",
+          "url": "/certina/ds-1/c0294071608100"
+        },
+        {
+          "slug": "c029-907-16-081-00",
+          "text": "C029.907.16.081.00 DS-1 Skeleton Stainless Steel / Grey",
+          "url": "/certina/ds-1/c029-907-16-081-00"
+        },
+        {
+          "slug": "c029-430-11-051-00",
+          "text": "C029.430.11.051.00 DS-1 Day Date Stainless Steel / Black / Mesh",
+          "url": "/certina/ds-1/c029-430-11-051-00"
+        },
+        {
+          "slug": "c0064074408100",
+          "text": "C0064074408100 DS-1",
+          "url": "/certina/ds-1/c0064074408100"
+        },
+        {
+          "slug": "c0064071103100",
+          "text": "C0064071103100 DS-1",
+          "url": "/certina/ds-1/c0064071103100"
+        },
+        {
+          "slug": "c0064074404100",
+          "text": "C0064074404100 DS-1",
+          "url": "/certina/ds-1/c0064074404100"
+        },
+        {
+          "slug": "c0064071108801",
+          "text": "C0064071108801 DS-1 Roman",
+          "url": "/certina/ds-1/c0064071108801"
+        },
+        {
+          "slug": "c0064071103801",
+          "text": "C0064071103801 DS-1 Roman",
+          "url": "/certina/ds-1/c0064071103801"
+        },
+        {
+          "slug": "c029-426-11-041-00",
+          "text": "C029.426.11.041.00 DS-1 Big Date Powermatic 80 Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-1/c029-426-11-041-00"
+        },
+        {
+          "slug": "c029-407-11-051-00",
+          "text": "C029.407.11.051.00 DS-1 Powermatic 80",
+          "url": "/certina/ds-1/c029-407-11-051-00"
+        },
+        {
+          "slug": "c0294072203100",
+          "text": "C0294072203100 DS-1 Powermatic 80",
+          "url": "/certina/ds-1/c0294072203100"
+        },
+        {
+          "slug": "c0064141603101",
+          "text": "C0064141603101 DS-1 Chronograph",
+          "url": "/certina/ds-1/c0064141603101"
+        },
+        {
+          "slug": "c0064072203100",
+          "text": "C0064072203100 DS-1",
+          "url": "/certina/ds-1/c0064072203100"
+        },
+        {
+          "slug": "c029-907-11-031-00",
+          "text": "C029.907.11.031.00 DS-1 Skeleton Stainless Steel / Silver / Mesh",
+          "url": "/certina/ds-1/c029-907-11-031-00"
+        },
+        {
+          "slug": "c029-426-36-041-00",
+          "text": "C029.426.36.041.00 DS-1 Big Date Powermatic 80 Rose Gold / Blue",
+          "url": "/certina/ds-1/c029-426-36-041-00"
+        },
+        {
+          "slug": "c0064301105100",
+          "text": "C0064301105100 DS-1 Day-Date",
+          "url": "/certina/ds-1/c0064301105100"
+        },
+        {
+          "slug": "c0062071603100",
+          "text": "C0062071603100 DS 1 Lady",
+          "url": "/certina/ds-1/c0062071603100"
+        },
+        {
+          "slug": "c029-426-11-091-60",
+          "text": "C029.426.11.091.60 DS-1 Big Date Powermatic 80 Special Edition",
+          "url": "/certina/ds-1/c029-426-11-091-60"
+        },
+        {
+          "slug": "c0294073608100",
+          "text": "C0294073608100 DS-1 Powermatic 80",
+          "url": "/certina/ds-1/c0294073608100"
+        }
+      ]
+    },
+    {
+      "name": "DS-8 watches72",
+      "slug": "ds-8",
+      "references": [
+        {
+          "slug": "c045-010-11-331-00",
+          "text": "C045.010.11.331.00 DS-8 Lady Quartz Stainless Steel / Pink / Mesh",
+          "url": "/certina/ds-8/c045-010-11-331-00"
+        },
+        {
+          "slug": "c033-851-11-057-01",
+          "text": "C033.851.11.057.01 DS-8 Chronometer 41.5 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-8/c033-851-11-057-01"
+        },
+        {
+          "slug": "c033-207-11-013-00",
+          "text": "C033.207.11.013.00 DS-8 Powermatic 80 Lady Stainless Steel / White / Bracelet",
+          "url": "/certina/ds-8/c033-207-11-013-00"
+        },
+        {
+          "slug": "c045-410-33-361-00",
+          "text": "C045.410.33.361.00 DS-8 Gent Quartz Yellow Gold / Champagne / Bracelet",
+          "url": "/certina/ds-8/c045-410-33-361-00"
+        },
+        {
+          "slug": "c033-450-16-081-00",
+          "text": "C033.450.16.081.00 DS-8 Chronograph Moon Phase Stainless Steel / Brown / Strap",
+          "url": "/certina/ds-8/c033-450-16-081-00"
+        },
+        {
+          "slug": "c033-051-11-118-01",
+          "text": "C033.051.11.118.01 DS-8 Lady Stainless Steel / MOP / Bracelet",
+          "url": "/certina/ds-8/c033-051-11-118-01"
+        },
+        {
+          "slug": "c033-450-22-031-00",
+          "text": "C033.450.22.031.00 DS-8 Chronograph Moon Phase Stainless Steel / Gold / Bracelet",
+          "url": "/certina/ds-8/c033-450-22-031-00"
+        },
+        {
+          "slug": "c033-051-22-118-01",
+          "text": "C033.051.22.118.01 DS-8 Lady Stainless Steel - Yellow Gold / MOP / Bracelet",
+          "url": "/certina/ds-8/c033-051-22-118-01"
+        },
+        {
+          "slug": "c045-410-26-031-00",
+          "text": "C045.410.26.031.00 DS-8 Gent Quartz Stainless Steel - Yellow Gold / Silver",
+          "url": "/certina/ds-8/c045-410-26-031-00"
+        },
+        {
+          "slug": "c033-051-36-128-00",
+          "text": "C033.051.36.128.00 DS-8 Lady Rose Gold / Black MOP",
+          "url": "/certina/ds-8/c033-051-36-128-00"
+        },
+        {
+          "slug": "c033-457-36-051-00",
+          "text": "C033.457.36.051.00 D8-8 Moon Phase Rose Gold / Black",
+          "url": "/certina/ds-8/c033-457-36-051-00"
+        },
+        {
+          "slug": "c033-457-16-031-00",
+          "text": "C033.457.16.031.00 DS-8 Moon Phase Stainless Steel / Silver",
+          "url": "/certina/ds-8/c033-457-16-031-00"
+        },
+        {
+          "slug": "c033-851-44-047-00",
+          "text": "C033.851.44.047.00 DS-8 Chronometer 41.5 Titanium / Blue / Bracelet",
+          "url": "/certina/ds-8/c033-851-44-047-00"
+        },
+        {
+          "slug": "c033-450-11-051-00",
+          "text": "C033.450.11.051.00 DS-8 Chronograph Moon Phase Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-8/c033-450-11-051-00"
+        },
+        {
+          "slug": "c045-417-44-011-00",
+          "text": "C045.417.44.011.00 DS-8 Chrono Titanium / White Tricolor / Bracelet",
+          "url": "/certina/ds-8/c045-417-44-011-00"
+        },
+        {
+          "slug": "c033-407-11-013-00",
+          "text": "C033.407.11.013.00 DS-8 Powermatic Stainless Steel / White / Bracelet",
+          "url": "/certina/ds-8/c033-407-11-013-00"
+        },
+        {
+          "slug": "c033-207-16-013-00",
+          "text": "C033.207.16.013.00 DS-8 Powermatic 80 Lady Stainless Steel / White / Strap",
+          "url": "/certina/ds-8/c033-207-16-013-00"
+        },
+        {
+          "slug": "c033-407-16-013-00",
+          "text": "C033.407.16.013.00 DS-8 Powermatic Stainless Steel / White / Strap",
+          "url": "/certina/ds-8/c033-407-16-013-00"
+        },
+        {
+          "slug": "c033-457-11-051-00",
+          "text": "C033.457.11.051.00 DS-8 Moon Phase Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-8/c033-457-11-051-00"
+        },
+        {
+          "slug": "c033-451-11-041-00",
+          "text": "C033.451.11.041.00 DS-8 Chronometer Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-8/c033-451-11-041-00"
+        },
+        {
+          "slug": "c033-407-22-013-00",
+          "text": "C033.407.22.013.00 DS-8 Powermatic Stainless Steel / Yellow Gold PVD / White / Bracelet",
+          "url": "/certina/ds-8/c033-407-22-013-00"
+        },
+        {
+          "slug": "c033-451-11-031-00",
+          "text": "C033.451.11.031.00 DS-8 Chronometer Stainless Steel / Silver / Bracelet",
+          "url": "/certina/ds-8/c033-451-11-031-00"
+        },
+        {
+          "slug": "c033-451-44-081-00",
+          "text": "C033.451.44.081.00 DS-8 Chronometer Titanium / Grey",
+          "url": "/certina/ds-8/c033-451-44-081-00"
+        },
+        {
+          "slug": "c045-417-11-051-00",
+          "text": "C045.417.11.051.00 DS-8 Chrono Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-8/c045-417-11-051-00"
+        },
+        {
+          "slug": "c033-207-11-053-00",
+          "text": "C033.207.11.053.00 DS-8 Powermatic 80 Lady Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-8/c033-207-11-053-00"
+        },
+        {
+          "slug": "c033-051-11-058-00",
+          "text": "C033.051.11.058.00 DS-8 Lady Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-8/c033-051-11-058-00"
+        },
+        {
+          "slug": "c045-410-44-041-00",
+          "text": "C045.410.44.041.00 DS-8 Gent Quartz Titanium / Blue / Bracelet",
+          "url": "/certina/ds-8/c045-410-44-041-00"
+        },
+        {
+          "slug": "c033-851-36-057-00",
+          "text": "C033.851.36.057.00 DS-8 Chronometer 41.5 PVD / Black",
+          "url": "/certina/ds-8/c033-851-36-057-00"
+        },
+        {
+          "slug": "c033-450-16-031-00",
+          "text": "C033.450.16.031.00 DS-8 Chronograph Moon Phase Stainless Steel / Silver / Strap",
+          "url": "/certina/ds-8/c033-450-16-031-00"
+        },
+        {
+          "slug": "c045-010-16-031-00",
+          "text": "C045.010.16.031.00 DS-8 Lady Quartz Stainless Steel / Silver",
+          "url": "/certina/ds-8/c045-010-16-031-00"
+        },
+        {
+          "slug": "c045-010-22-031-00",
+          "text": "C045.010.22.031.00 DS-8 Lady Quartz Stainless Steel - Yellow Gold / Silver / Bracelet",
+          "url": "/certina/ds-8/c045-010-22-031-00"
+        },
+        {
+          "slug": "c033-451-11-051-00",
+          "text": "C033.451.11.051.00 DS-8 Chronometer Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-8/c033-451-11-051-00"
+        },
+        {
+          "slug": "c045-223-22-111-00",
+          "text": "C045.223.22.111.00 DS-8 Moonphase Lady Quartz Stainless Steel - Yellow Gold / MOP / Bracelet",
+          "url": "/certina/ds-8/c045-223-22-111-00"
+        },
+        {
+          "slug": "c033-451-16-031-00",
+          "text": "C033.451.16.031.00 DS-8 Chronometer Stainless Steel / Silver / Strap",
+          "url": "/certina/ds-8/c033-451-16-031-00"
+        },
+        {
+          "slug": "c033-451-16-051-00",
+          "text": "C033.451.16.051.00 DS-8 Chronometer Stainless Steel / Black / Strap",
+          "url": "/certina/ds-8/c033-451-16-051-00"
+        },
+        {
+          "slug": "c045-010-44-081-00",
+          "text": "C045.010.44.081.00 DS-8 Lady Quartz Titanium / Grey / Bracelet",
+          "url": "/certina/ds-8/c045-010-44-081-00"
+        },
+        {
+          "slug": "c045-417-16-041-00",
+          "text": "C045.417.16.041.00 DS-8 Chrono Stainless Steel / Blue",
+          "url": "/certina/ds-8/c045-417-16-041-00"
+        },
+        {
+          "slug": "c045-010-33-361-00",
+          "text": "C045.010.33.361.00 DS-8 Lady Quartz Yellow Gold / Champagne / Bracelet",
+          "url": "/certina/ds-8/c045-010-33-361-00"
+        },
+        {
+          "slug": "c045-417-22-031-00",
+          "text": "C045.417.22.031.00 DS-8 Chrono Stainless Steel - Yellow Gold / Silver / BRacelet",
+          "url": "/certina/ds-8/c045-417-22-031-00"
+        },
+        {
+          "slug": "c033-460-16-087-00",
+          "text": "C033.460.16.087.00 DS-8 Chronograph Moon Phase Stainless Steel / Brown",
+          "url": "/certina/ds-8/c033-460-16-087-00"
+        },
+        {
+          "slug": "c033-460-16-037-00",
+          "text": "C033.460.16.037.00 DS-8 Chronograph Moon Phase Stainless Steel / Silver",
+          "url": "/certina/ds-8/c033-460-16-037-00"
+        },
+        {
+          "slug": "c045-010-11-051-00",
+          "text": "C045.010.11.051.00 DS-8 Lady Quartz Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-8/c045-010-11-051-00"
+        },
+        {
+          "slug": "c033-051-33-118-00",
+          "text": "C033.051.33.118.00 DS-8 Lady Yellow Gold / MOP / Bracelet",
+          "url": "/certina/ds-8/c033-051-33-118-00"
+        },
+        {
+          "slug": "c033-450-11-031-00",
+          "text": "C033.450.11.031.00 DS-8 Chronograph Moon Phase Stainless Steel / Silver / Bracelet",
+          "url": "/certina/ds-8/c033-450-11-031-00"
+        },
+        {
+          "slug": "c045-410-11-351-00",
+          "text": "C045.410.11.351.00 DS-8 Gent Quartz Stainless Steel / Light Blue / Mesh",
+          "url": "/certina/ds-8/c045-410-11-351-00"
+        },
+        {
+          "slug": "c045-410-11-011-00",
+          "text": "C045.410.11.011.00 DS-8 Gent Quartz Stainless Steel / White / Bracelet",
+          "url": "/certina/ds-8/c045-410-11-011-00"
+        },
+        {
+          "slug": "c033-460-16-047-00",
+          "text": "C033.460.16.047.00 DS-8 Chronograph Moon Phase Stainless Steel / Blue",
+          "url": "/certina/ds-8/c033-460-16-047-00"
+        },
+        {
+          "slug": "c033-407-11-053-00",
+          "text": "C033.407.11.053.00 DS-8 Powermatic Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-8/c033-407-11-053-00"
+        },
+        {
+          "slug": "c033-807-33-057-00",
+          "text": "C033.807.33.057.00 DS-8 Powermatic PVD - Rose Gold / Black / Bracelet",
+          "url": "/certina/ds-8/c033-807-33-057-00"
+        },
+        {
+          "slug": "c033-807-26-087-00",
+          "text": "C033.807.26.087.00 DS-8 Powermatic Stainless Steel - Rose Gold / Grey",
+          "url": "/certina/ds-8/c033-807-26-087-00"
+        },
+        {
+          "slug": "c033-807-11-057-00",
+          "text": "C033.807.11.057.00 DS-8 Powermatic Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-8/c033-807-11-057-00"
+        },
+        {
+          "slug": "c033-851-21-097-00",
+          "text": "C033.851.21.097.00 DS-8 Chronometer 41.5 Stainless Steel - Rose Gold / Green / Bracelet",
+          "url": "/certina/ds-8/c033-851-21-097-00"
+        },
+        {
+          "slug": "c033-450-11-041-00",
+          "text": "C033.450.11.041.00 DS-8 Chronograph Moon Phase Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-8/c033-450-11-041-00"
+        },
+        {
+          "slug": "c033-207-22-013-00",
+          "text": "C033.207.22.013.00 DS-8 Powermatic 80 Lady Stainless Steel / Yellow Gold PVD / White / Bracelet",
+          "url": "/certina/ds-8/c033-207-22-013-00"
+        },
+        {
+          "slug": "c033-051-22-088-00",
+          "text": "C033.051.22.088.00 DS-8 Lady Stainless Steel - Rose Gold / Grey / Bracelet",
+          "url": "/certina/ds-8/c033-051-22-088-00"
+        },
+        {
+          "slug": "c033-451-22-031-00",
+          "text": "C033.451.22.031.00 DS-8 Chronometer Stainless Steel / Yellow Gold PVD / Silver",
+          "url": "/certina/ds-8/c033-451-22-031-00"
+        },
+        {
+          "slug": "c033-051-11-118-00",
+          "text": "C033.051.11.118.00 DS-8 Lady Stainless Steel / MOP / Bracelet",
+          "url": "/certina/ds-8/c033-051-11-118-00"
+        },
+        {
+          "slug": "c045-423-16-051-00",
+          "text": "C045.423.16.051.00 DS-8 Moonphase Gent Quartz Stainless Steel / Black",
+          "url": "/certina/ds-8/c045-423-16-051-00"
+        },
+        {
+          "slug": "c033-051-22-118-00",
+          "text": "C033.051.22.118.00 DS-8 Lady Stainless Steel - Rose Gold / MOP / Bracelet",
+          "url": "/certina/ds-8/c033-051-22-118-00"
+        },
+        {
+          "slug": "c033-460-11-057-00",
+          "text": "C033.460.11.057.00 DS-8 Chronograph Moon Phase Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-8/c033-460-11-057-00"
+        },
+        {
+          "slug": "c033-457-16-081-00",
+          "text": "C033.457.16.081.00 DS-8 Moon Phase Stainless Steel / Anthracite / Strap",
+          "url": "/certina/ds-8/c033-457-16-081-00"
+        },
+        {
+          "slug": "c033-407-16-053-00",
+          "text": "C033.407.16.053.00 DS-8 Powermatic Stainless Steel / Black / Strap",
+          "url": "/certina/ds-8/c033-407-16-053-00"
+        },
+        {
+          "slug": "c033-051-22-128-00",
+          "text": "C033.051.22.128.00 DS-8 Lady Stainless Steel - Rose Gold / Black MOP / Bracelet",
+          "url": "/certina/ds-8/c033-051-22-128-00"
+        },
+        {
+          "slug": "c033-450-16-351-00",
+          "text": "C033.450.16.351.00 DS-8 Chronograph Moon Phase Stainless Steel / Grey / Strap",
+          "url": "/certina/ds-8/c033-450-16-351-00"
+        },
+        {
+          "slug": "c033-207-16-053-00",
+          "text": "C033.207.16.053.00 DS-8 Powermatic 80 Lady Stainless Steel / Black / Strap",
+          "url": "/certina/ds-8/c033-207-16-053-00"
+        },
+        {
+          "slug": "c033-851-11-057-00",
+          "text": "C033.851.11.057.00 DS-8 Chronometer 41.5 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-8/c033-851-11-057-00"
+        },
+        {
+          "slug": "c045-410-11-051-00",
+          "text": "C045.410.11.051.00 DS-8 Gent Quartz Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-8/c045-410-11-051-00"
+        },
+        {
+          "slug": "c033-807-44-047-00",
+          "text": "C033.807.44.047.00 DS-8 Powermatic Titanium / Blue / Bracelet",
+          "url": "/certina/ds-8/c033-807-44-047-00"
+        },
+        {
+          "slug": "c045-410-16-032-00",
+          "text": "C045.410.16.032.00 DS-8 Gent Quartz Stainless Steel / Silver",
+          "url": "/certina/ds-8/c045-410-16-032-00"
+        },
+        {
+          "slug": "c033-450-36-051-00",
+          "text": "C033.450.36.051.00 DS-8 Chronograph Moon Phase PVD Rose / Black / Strap",
+          "url": "/certina/ds-8/c033-450-36-051-00"
+        },
+        {
+          "slug": "c045-223-16-131-00",
+          "text": "C045.223.16.131.00 DS-8 Moonphase Lady Quartz Stainless Steel / MOP",
+          "url": "/certina/ds-8/c045-223-16-131-00"
+        },
+        {
+          "slug": "c045-423-11-041-00",
+          "text": "C045.423.11.041.00 DS-8 Moonphase Gent Quartz Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-8/c045-423-11-041-00"
+        }
+      ]
+    },
+    {
+      "name": "DS Caimano watches85",
+      "slug": "ds-caimano",
+      "references": [
+        {
+          "slug": "c035-410-11-037-00",
+          "text": "C035.410.11.037.00 DS Caimano 39 Stainless Steel / Silver / Bracelet",
+          "url": "/certina/ds-caimano/c035-410-11-037-00"
+        },
+        {
+          "slug": "c0174072203700",
+          "text": "C0174072203700 DS Caimano",
+          "url": "/certina/ds-caimano/c0174072203700"
+        },
+        {
+          "slug": "c0174071605700",
+          "text": "C0174071605700 DS Caimano",
+          "url": "/certina/ds-caimano/c0174071605700"
+        },
+        {
+          "slug": "c0172102203200",
+          "text": "C0172102203200 DS Caimano Lady Two Tone",
+          "url": "/certina/ds-caimano/c0172102203200"
+        },
+        {
+          "slug": "c035-207-16-037-00",
+          "text": "C035.207.16.037.00 DS Caimano Powermatic 80 Stainless Steel / Silver / Strap",
+          "url": "/certina/ds-caimano/c035-207-16-037-00"
+        },
+        {
+          "slug": "c035-207-11-057-00",
+          "text": "C035.207.11.057.00 DS Caimano Powermatic 80 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-caimano/c035-207-11-057-00"
+        },
+        {
+          "slug": "c0172101603200",
+          "text": "C0172101603200 DS Caimano Lady",
+          "url": "/certina/ds-caimano/c0172101603200"
+        },
+        {
+          "slug": "c0174103303200",
+          "text": "C0174103303200 DS Caimano Arabic PVD",
+          "url": "/certina/ds-caimano/c0174103303200"
+        },
+        {
+          "slug": "c0174072202700",
+          "text": "C0174072202700 DS Caimano",
+          "url": "/certina/ds-caimano/c0174072202700"
+        },
+        {
+          "slug": "c035-407-22-037-01",
+          "text": "C035.407.22.037.01 DS Caimano Powermatic 80 Stainless Steel / Rose Gold PVD / Silver / Bracelet",
+          "url": "/certina/ds-caimano/c035-407-22-037-01"
+        },
+        {
+          "slug": "c0174101603701",
+          "text": "C0174101603701 DS Caimano Silver / Gold Index",
+          "url": "/certina/ds-caimano/c0174101603701"
+        },
+        {
+          "slug": "c035-407-11-057-00",
+          "text": "C035.407.11.057.00 DS Caimano Powermatic 80 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-caimano/c035-407-11-057-00"
+        },
+        {
+          "slug": "c035-207-22-037-02",
+          "text": "C035.207.22.037.02 DS Caimano Powermatic 80 Stainless Steel / Yellow Gold PVD / Silver / Bracelet",
+          "url": "/certina/ds-caimano/c035-207-22-037-02"
+        },
+        {
+          "slug": "c035-410-11-012-00",
+          "text": "C035.410.11.012.00 DS Caimano 39 Stainless Steel / White / Bracelet",
+          "url": "/certina/ds-caimano/c035-410-11-012-00"
+        },
+        {
+          "slug": "c0174102203700",
+          "text": "C0174102203700 DS Caimano Two Tone Silver",
+          "url": "/certina/ds-caimano/c0174102203700"
+        },
+        {
+          "slug": "c0172071105300",
+          "text": "C0172071105300 DS Caimano",
+          "url": "/certina/ds-caimano/c0172071105300"
+        },
+        {
+          "slug": "c0172102203700",
+          "text": "C0172102203700 DS Caimano Lady Two Tone",
+          "url": "/certina/ds-caimano/c0172102203700"
+        },
+        {
+          "slug": "c035-407-16-037-01",
+          "text": "C035.407.16.037.01 DS Caimano Powermatic 80 Stainless Steel / Silver / Strap",
+          "url": "/certina/ds-caimano/c035-407-16-037-01"
+        },
+        {
+          "slug": "c0174072203300",
+          "text": "C0174072203300 DS Caimano",
+          "url": "/certina/ds-caimano/c0174072203300"
+        },
+        {
+          "slug": "c035-210-55-037-02",
+          "text": "C035.210.55.037.02 Ds Caimano Lady Titanium - Yellow Gold / Silver / Bracelet",
+          "url": "/certina/ds-caimano/c035-210-55-037-02"
+        },
+        {
+          "slug": "c0174101603700",
+          "text": "C0174101603700 DS Caimano Silver",
+          "url": "/certina/ds-caimano/c0174101603700"
+        },
+        {
+          "slug": "c035-407-22-037-02",
+          "text": "C035.407.22.037.02 DS Caimano Powermatic 80 Stainless Steel / Yellow Gold PVD / Silver / Bracelet",
+          "url": "/certina/ds-caimano/c035-407-22-037-02"
+        },
+        {
+          "slug": "c035-210-16-037-00",
+          "text": "C035.210.16.037.00 Ds Caimano Lady Stainless Steel / Silver",
+          "url": "/certina/ds-caimano/c035-210-16-037-00"
+        },
+        {
+          "slug": "c035-407-36-087-00",
+          "text": "C035.407.36.087.00 DS Caimano Powermatic 80 Rose Gold PVD / Grey / Strap",
+          "url": "/certina/ds-caimano/c035-407-36-087-00"
+        },
+        {
+          "slug": "c0174104408700",
+          "text": "C0174104408700 DS Caimano Titanium",
+          "url": "/certina/ds-caimano/c0174104408700"
+        },
+        {
+          "slug": "c035-410-22-037-02",
+          "text": "C035.410.22.037.02 DS Caimano 39 Stainless Steel / Yellow Gold PVD / Silver / Bracelet",
+          "url": "/certina/ds-caimano/c035-410-22-037-02"
+        },
+        {
+          "slug": "c035-410-22-037-01",
+          "text": "C035.410.22.037.01 DS Caimano 39 Stainless Steel / Rose Gold PVD / Silver / Bracelet",
+          "url": "/certina/ds-caimano/c035-410-22-037-01"
+        },
+        {
+          "slug": "c035-407-11-037-00",
+          "text": "C035.407.11.037.00 DS Caimano Powermatic 80 Stainless Steel / Silver / Bracelet",
+          "url": "/certina/ds-caimano/c035-407-11-037-00"
+        },
+        {
+          "slug": "c035-410-16-057-00",
+          "text": "C035.410.16.057.00 DS Caimano 39 Stainless Steel / Black / Strap",
+          "url": "/certina/ds-caimano/c035-410-16-057-00"
+        },
+        {
+          "slug": "c035-210-16-012-00",
+          "text": "C035.210.16.012.00 Ds Caimano Lady Stainless Steel / White",
+          "url": "/certina/ds-caimano/c035-210-16-012-00"
+        },
+        {
+          "slug": "c035-410-11-057-00",
+          "text": "C035.410.11.057.00 DS Caimano 39 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-caimano/c035-410-11-057-00"
+        },
+        {
+          "slug": "c035-210-16-037-01",
+          "text": "C035.210.16.037.01 Ds Caimano Lady Stainless Steel / Silver",
+          "url": "/certina/ds-caimano/c035-210-16-037-01"
+        },
+        {
+          "slug": "c0174073608700",
+          "text": "C0174073608700 DS Caimano",
+          "url": "/certina/ds-caimano/c0174073608700"
+        },
+        {
+          "slug": "c0172101103200",
+          "text": "C0172101103200 DS Caimano Lady",
+          "url": "/certina/ds-caimano/c0172101103200"
+        },
+        {
+          "slug": "c035-410-16-012-00",
+          "text": "C035.410.16.012.00 DS Caimano 39 Stainless Steel / White / Strap",
+          "url": "/certina/ds-caimano/c035-410-16-012-00"
+        },
+        {
+          "slug": "c0174101605700",
+          "text": "C0174101605700 DS Caimano Black",
+          "url": "/certina/ds-caimano/c0174101605700"
+        },
+        {
+          "slug": "c035-210-11-057-00",
+          "text": "C035.210.11.057.00 Ds Caimano Lady Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-caimano/c035-210-11-057-00"
+        },
+        {
+          "slug": "c035-210-11-037-00",
+          "text": "C035.210.11.037.00 Ds Caimano Lady Stainless Steel / Silver / Bracelet",
+          "url": "/certina/ds-caimano/c035-210-11-037-00"
+        },
+        {
+          "slug": "c035-207-22-037-01",
+          "text": "C035.207.22.037.01 DS Caimano Powermatic 80 Stainless Steel / Rose Gold PVD / Silver / Bracelet",
+          "url": "/certina/ds-caimano/c035-207-22-037-01"
+        },
+        {
+          "slug": "c0174102203200",
+          "text": "C0174102203200 DS Caimano Two Tone Arabic",
+          "url": "/certina/ds-caimano/c0174102203200"
+        },
+        {
+          "slug": "c0174101603200",
+          "text": "C0174101603200 DS Caimano Arabic Strap",
+          "url": "/certina/ds-caimano/c0174101603200"
+        },
+        {
+          "slug": "c035-207-36-087-00",
+          "text": "C035.207.36.087.00 DS Caimano Powermatic 80 Rose Gold PVD / Grey / Strap",
+          "url": "/certina/ds-caimano/c035-207-36-087-00"
+        },
+        {
+          "slug": "c035-007-27-127-00",
+          "text": "C035.007.27.127.00 DS Caimano Lady Automatic 29 Stainless Steel - Rose Gold / Black MOP",
+          "url": "/certina/ds-caimano/c035-007-27-127-00"
+        },
+        {
+          "slug": "c0172103303200",
+          "text": "C0172103303200 DS Caimano Lady Yellow",
+          "url": "/certina/ds-caimano/c0172103303200"
+        },
+        {
+          "slug": "c035-210-33-367-00",
+          "text": "C035.210.33.367.00 DS Caimano Yellow Gold / Champagne / Bracelet",
+          "url": "/certina/ds-caimano/c035-210-33-367-00"
+        },
+        {
+          "slug": "c035-407-16-037-00",
+          "text": "C035.407.16.037.00 DS Caimano Powermatic 80 Stainless Steel / Silver / Strap",
+          "url": "/certina/ds-caimano/c035-407-16-037-00"
+        },
+        {
+          "slug": "c035-410-33-367-00",
+          "text": "C035.410.33.367.00 DS Caimano 39 Yellow Gold / Champagne / Bracelet",
+          "url": "/certina/ds-caimano/c035-410-33-367-00"
+        },
+        {
+          "slug": "c035-207-11-037-00",
+          "text": "C035.207.11.037.00 DS Caimano Powermatic 80 Stainless Steel / Silver / Bracelet",
+          "url": "/certina/ds-caimano/c035-207-11-037-00"
+        },
+        {
+          "slug": "c035-407-16-057-00",
+          "text": "C035.407.16.057.00 DS Caimano Powermatic 80 Stainless Steel / Black / Strap",
+          "url": "/certina/ds-caimano/c035-407-16-057-00"
+        },
+        {
+          "slug": "c035-410-16-037-01",
+          "text": "C035.410.16.037.01 DS Caimano 39 Stainless Steel / Silver / Strap",
+          "url": "/certina/ds-caimano/c035-410-16-037-01"
+        },
+        {
+          "slug": "c035-210-22-037-01",
+          "text": "C035.210.22.037.01 DS Caimano Lady Stainless Steel - Rose Gold / Silver / Bracelet",
+          "url": "/certina/ds-caimano/c035-210-22-037-01"
+        },
+        {
+          "slug": "c0174101629700",
+          "text": "C0174101629700 DS Caimano Brown",
+          "url": "/certina/ds-caimano/c0174101629700"
+        },
+        {
+          "slug": "c0174103608700",
+          "text": "C0174103608700 DS Caimano Grey PVD",
+          "url": "/certina/ds-caimano/c0174103608700"
+        },
+        {
+          "slug": "c0174101103700",
+          "text": "C0174101103700 DS Caimano",
+          "url": "/certina/ds-caimano/c0174101103700"
+        },
+        {
+          "slug": "c0172101605700",
+          "text": "C0172101605700 DS Caimano Lady Black",
+          "url": "/certina/ds-caimano/c0172101605700"
+        },
+        {
+          "slug": "c0174071105300",
+          "text": "C0174071105300 DS Caimano",
+          "url": "/certina/ds-caimano/c0174071105300"
+        },
+        {
+          "slug": "c0172101103700",
+          "text": "C0172101103700 DS Caimano Lady Silver",
+          "url": "/certina/ds-caimano/c0172101103700"
+        },
+        {
+          "slug": "c0174071603700",
+          "text": "C0174071603700 DS Caimano",
+          "url": "/certina/ds-caimano/c0174071603700"
+        },
+        {
+          "slug": "c0172071603700",
+          "text": "C0172071603700 DS Caimano",
+          "url": "/certina/ds-caimano/c0172071603700"
+        },
+        {
+          "slug": "c0172073608700",
+          "text": "C0172073608700 DS Caimano",
+          "url": "/certina/ds-caimano/c0172073608700"
+        },
+        {
+          "slug": "c0172101603701",
+          "text": "C0172101603701 DS Caimano Lady",
+          "url": "/certina/ds-caimano/c0172101603701"
+        },
+        {
+          "slug": "c0172071105700",
+          "text": "C0172071105700 DS Caimano",
+          "url": "/certina/ds-caimano/c0172071105700"
+        },
+        {
+          "slug": "c0172072203700",
+          "text": "C0172072203700 DS Caimano",
+          "url": "/certina/ds-caimano/c0172072203700"
+        },
+        {
+          "slug": "c0172101629700",
+          "text": "C0172101629700 DS Caimano Lady Brown",
+          "url": "/certina/ds-caimano/c0172101629700"
+        },
+        {
+          "slug": "c0172105503700",
+          "text": "C0172105503700 DS Caimano Lady Two TOne",
+          "url": "/certina/ds-caimano/c0172105503700"
+        },
+        {
+          "slug": "c035-410-36-087-00",
+          "text": "C035.410.36.087.00 DS Caimano 39 Rose Gold PVD / Grey / Strap",
+          "url": "/certina/ds-caimano/c035-410-36-087-00"
+        },
+        {
+          "slug": "c0172101105700",
+          "text": "C0172101105700 DS Caimano Lady Black",
+          "url": "/certina/ds-caimano/c0172101105700"
+        },
+        {
+          "slug": "c035-007-11-117-00",
+          "text": "C035.007.11.117.00 DS Caimano Lady Automatic 29 Stainless Steel / MOP / Bracelet",
+          "url": "/certina/ds-caimano/c035-007-11-117-00"
+        },
+        {
+          "slug": "c035-007-17-117-00",
+          "text": "C035.007.17.117.00 DS Caimano Lady Automatic 29 Stainless Steel / MOP",
+          "url": "/certina/ds-caimano/c035-007-17-117-00"
+        },
+        {
+          "slug": "c035-207-16-037-01",
+          "text": "C035.207.16.037.01 DS Caimano Powermatic 80 Stainless Steel / Silver / Strap",
+          "url": "/certina/ds-caimano/c035-207-16-037-01"
+        },
+        {
+          "slug": "c0172101603700",
+          "text": "C0172101603700 DS Caimano Lady",
+          "url": "/certina/ds-caimano/c0172101603700"
+        },
+        {
+          "slug": "c035-407-22-087-01",
+          "text": "C035.407.22.087.01 DS Caimano Powermatic 80 Stainless Steel / Rose Gold PVD / Grey / Bracelet",
+          "url": "/certina/ds-caimano/c035-407-22-087-01"
+        },
+        {
+          "slug": "c0172103608700",
+          "text": "C0172103608700 DS Caimano Lady Yellow",
+          "url": "/certina/ds-caimano/c0172103608700"
+        },
+        {
+          "slug": "c035-207-22-087-01",
+          "text": "C035.207.22.087.01 DS Caimano Powermatic 80 Stainless Steel / Rose Gold PVD / Grey / Bracelet",
+          "url": "/certina/ds-caimano/c035-207-22-087-01"
+        },
+        {
+          "slug": "c0174101105700",
+          "text": "C0174101105700 DS Caimano Black",
+          "url": "/certina/ds-caimano/c0174101105700"
+        },
+        {
+          "slug": "c0174101103200",
+          "text": "C0174101103200 DS Caimano Arabic",
+          "url": "/certina/ds-caimano/c0174101103200"
+        },
+        {
+          "slug": "c0174071605701",
+          "text": "C0174071605701 DS Caimano",
+          "url": "/certina/ds-caimano/c0174071605701"
+        },
+        {
+          "slug": "c0174071603701",
+          "text": "C0174071603701 DS Caimano",
+          "url": "/certina/ds-caimano/c0174071603701"
+        },
+        {
+          "slug": "c035-210-11-012-00",
+          "text": "C035.210.11.012.00 Ds Caimano Lady Stainless Steel / White / Bracelet",
+          "url": "/certina/ds-caimano/c035-210-11-012-00"
+        },
+        {
+          "slug": "c0174073605300",
+          "text": "C0174073605300 DS Caimano",
+          "url": "/certina/ds-caimano/c0174073605300"
+        },
+        {
+          "slug": "c0172071605700",
+          "text": "C0172071605700 DS Caimano",
+          "url": "/certina/ds-caimano/c0172071605700"
+        },
+        {
+          "slug": "c035-410-44-087-00",
+          "text": "C035.410.44.087.00 DS Caimano 39 Titanium / Grey / Bracelet",
+          "url": "/certina/ds-caimano/c035-410-44-087-00"
+        },
+        {
+          "slug": "c0172071103700",
+          "text": "C0172071103700 DS Caimano",
+          "url": "/certina/ds-caimano/c0172071103700"
+        },
+        {
+          "slug": "c0172072203300",
+          "text": "C0172072203300 DS Caimano",
+          "url": "/certina/ds-caimano/c0172072203300"
+        },
+        {
+          "slug": "c035-210-22-037-02",
+          "text": "C035.210.22.037.02 DS Caimano Lady Stainless Steel - Yellow Gold / Silver / Bracelet",
+          "url": "/certina/ds-caimano/c035-210-22-037-02"
+        }
+      ]
+    },
+    {
+      "name": "DS First watches40",
+      "slug": "ds-first",
+      "references": [
+        {
+          "slug": "c0144101605100",
+          "text": "C0144101605100 DS First Ceramic Strap",
+          "url": "/certina/ds-first/c0144101605100"
+        },
+        {
+          "slug": "c0144171105100",
+          "text": "C0144171105100 DS First Ceramic Chronograph Bracelet",
+          "url": "/certina/ds-first/c0144171105100"
+        },
+        {
+          "slug": "c030-250-36-106-00",
+          "text": "C030.250.36.106.00 Ds First Lady Chronograph Moon Phase Rose Gold - Ceramic / MOP",
+          "url": "/certina/ds-first/c030-250-36-106-00"
+        },
+        {
+          "slug": "c0144104408100",
+          "text": "C0144104408100 DS First Ceramic Titanium",
+          "url": "/certina/ds-first/c0144104408100"
+        },
+        {
+          "slug": "c0142351705100",
+          "text": "C0142351705100 DS First Lady Ceramic Black",
+          "url": "/certina/ds-first/c0142351705100"
+        },
+        {
+          "slug": "c0144072203100",
+          "text": "C0144072203100 DS First Day-Date",
+          "url": "/certina/ds-first/c0144072203100"
+        },
+        {
+          "slug": "c0144171105101",
+          "text": "C0144171105101 DS First Ceramic Chronograph Inverted Panda",
+          "url": "/certina/ds-first/c0144171105101"
+        },
+        {
+          "slug": "c0144071105100",
+          "text": "C0144071105100 DS First Day-Date",
+          "url": "/certina/ds-first/c0144071105100"
+        },
+        {
+          "slug": "c0144101105100",
+          "text": "C0144101105100 DS First Ceramic Bracelet",
+          "url": "/certina/ds-first/c0144101105100"
+        },
+        {
+          "slug": "c0144171605100",
+          "text": "C0144171605100 DS First Ceramic Chronograph Leather",
+          "url": "/certina/ds-first/c0144171605100"
+        },
+        {
+          "slug": "c0142351701100",
+          "text": "C0142351701100 DS First Lady Ceramic White",
+          "url": "/certina/ds-first/c0142351701100"
+        },
+        {
+          "slug": "c0142351101101",
+          "text": "C0142351101101 DS First Lady Ceramic White Bracelet",
+          "url": "/certina/ds-first/c0142351101101"
+        },
+        {
+          "slug": "c0144071605100",
+          "text": "C0144071605100 DS First Day-Date",
+          "url": "/certina/ds-first/c0144071605100"
+        },
+        {
+          "slug": "c0142171101101",
+          "text": "c0142171101101 DS First Lady Ceramic Chrono White Bracelet",
+          "url": "/certina/ds-first/c0142171101101"
+        },
+        {
+          "slug": "c0142171105101",
+          "text": "C0142171105101 DS First Lady Ceramic Chrono Black",
+          "url": "/certina/ds-first/c0142171105101"
+        },
+        {
+          "slug": "c0144072608100",
+          "text": "C0144072608100 DS First Day-Date",
+          "url": "/certina/ds-first/c0144072608100"
+        },
+        {
+          "slug": "c0142353701100",
+          "text": "C0142353701100 DS First Lady Ceramic Rose",
+          "url": "/certina/ds-first/c0142353701100"
+        },
+        {
+          "slug": "c0142353301100",
+          "text": "C0142353301100 DS First Lady Ceramic Rose White Bracelet",
+          "url": "/certina/ds-first/c0142353301100"
+        },
+        {
+          "slug": "c0142353705100",
+          "text": "C0142353705100 DS First Lady Ceramic Rose",
+          "url": "/certina/ds-first/c0142353705100"
+        },
+        {
+          "slug": "c0142173705100",
+          "text": "C0142173705100 DS First Lady Ceramic Chrono Rose",
+          "url": "/certina/ds-first/c0142173705100"
+        },
+        {
+          "slug": "c0142353605100",
+          "text": "C0142353605100 DS First Lady Ceramic Rose Black",
+          "url": "/certina/ds-first/c0142353605100"
+        },
+        {
+          "slug": "c0142173605100",
+          "text": "C0142173605100 DS First Lady Ceramic Chrono Rose",
+          "url": "/certina/ds-first/c0142173605100"
+        },
+        {
+          "slug": "c0144174408100",
+          "text": "C0144174408100 DS First Ceramic Chronograph Titanium",
+          "url": "/certina/ds-first/c0144174408100"
+        },
+        {
+          "slug": "c0142171101100",
+          "text": "C0142171101100 DS First Lady Ceramic Chrono White Bracelet",
+          "url": "/certina/ds-first/c0142171101100"
+        },
+        {
+          "slug": "c0144101601100",
+          "text": "C0144101601100 DS First Ceramic White",
+          "url": "/certina/ds-first/c0144101601100"
+        },
+        {
+          "slug": "c030-250-11-056-00",
+          "text": "C030.250.11.056.00 Ds First Lady Chronograph Moon Phase Stainless Steel - Ceramic / Black / Bracelet",
+          "url": "/certina/ds-first/c030-250-11-056-00"
+        },
+        {
+          "slug": "c030-250-16-106-00",
+          "text": "C030.250.16.106.00 Ds First Lady Chronograph Moon Phase Stainless Steel - Ceramic / MOP",
+          "url": "/certina/ds-first/c030-250-16-106-00"
+        },
+        {
+          "slug": "c030-250-11-106-00",
+          "text": "C030.250.11.106.00 Ds First Lady Chronograph Moon Phase Stainless Steel - Ceramic / MOP / Bracelet",
+          "url": "/certina/ds-first/c030-250-11-106-00"
+        },
+        {
+          "slug": "c0142171701100",
+          "text": "C0142171701100 DS First Lady Ceramic Chrono White",
+          "url": "/certina/ds-first/c0142171701100"
+        },
+        {
+          "slug": "c0142353601100",
+          "text": "C0142353601100 DS First Lady Ceramic Rose",
+          "url": "/certina/ds-first/c0142353601100"
+        },
+        {
+          "slug": "c0142171705100",
+          "text": "C0142171705100 DS First Lady Ceramic Chrono",
+          "url": "/certina/ds-first/c0142171705100"
+        },
+        {
+          "slug": "c0142173701100",
+          "text": "C0142173701100 DS First Lady Ceramic Chrono Rose White",
+          "url": "/certina/ds-first/c0142173701100"
+        },
+        {
+          "slug": "c0142351105101",
+          "text": "C0142351105101 DS First Lady Ceramic Black Bracelet",
+          "url": "/certina/ds-first/c0142351105101"
+        },
+        {
+          "slug": "c0144071603100",
+          "text": "C0144071603100 DS First Day-Date",
+          "url": "/certina/ds-first/c0144071603100"
+        },
+        {
+          "slug": "c0144102205100",
+          "text": "C0144102205100 DS First Ceramic",
+          "url": "/certina/ds-first/c0144102205100"
+        },
+        {
+          "slug": "c0144071108101",
+          "text": "C0144071108101 DS First Day-Date",
+          "url": "/certina/ds-first/c0144071108101"
+        },
+        {
+          "slug": "c0144072208100",
+          "text": "C0144072208100 DS First Day-Date",
+          "url": "/certina/ds-first/c0144072208100"
+        },
+        {
+          "slug": "c030-250-36-056-00",
+          "text": "C030.250.36.056.00 Ds First Lady Chronograph Moon Phase Rose Gold - Ceramic / Black",
+          "url": "/certina/ds-first/c030-250-36-056-00"
+        },
+        {
+          "slug": "c0142173305100",
+          "text": "C0142173305100 DS First Lady Ceramic Chrono Rose Bracelet",
+          "url": "/certina/ds-first/c0142173305100"
+        },
+        {
+          "slug": "c0142173601100",
+          "text": "C0142173601100 DS First Lady Ceramic Chrono Rose White",
+          "url": "/certina/ds-first/c0142173601100"
+        }
+      ]
+    },
+    {
+      "name": "DS-2 watches27",
+      "slug": "ds-2",
+      "references": [
+        {
+          "slug": "c0244101105100",
+          "text": "C0244101105100 DS-2 Bracelet",
+          "url": "/certina/ds-2/c0244101105100"
+        },
+        {
+          "slug": "c0244471105102",
+          "text": "C0244471105102 DS 2 Chrono 1/100 Sec PreciDrive Green",
+          "url": "/certina/ds-2/c0244471105102"
+        },
+        {
+          "slug": "c0244471105100",
+          "text": "C0244471105100 DS 2 Chrono 1/100 Sec PreciDrive Inverted Panda",
+          "url": "/certina/ds-2/c0244471105100"
+        },
+        {
+          "slug": "c024-410-44-081-20",
+          "text": "C024.410.44.081.20 DS-2 Quartz Titanium / Grey / Bracelet",
+          "url": "/certina/ds-2/c024-410-44-081-20"
+        },
+        {
+          "slug": "c0244471605103",
+          "text": "C0244471605103 DS 2 Chrono 1/100 Sec PreciDrive Leather",
+          "url": "/certina/ds-2/c0244471605103"
+        },
+        {
+          "slug": "c024-410-16-041-20",
+          "text": "C024.410.16.041.20 DS-2 Quartz Stainless Steel / Blue",
+          "url": "/certina/ds-2/c024-410-16-041-20"
+        },
+        {
+          "slug": "c024-447-44-051-00",
+          "text": "C024.447.44.051.00 DS-2 Chronograph Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-2/c024-447-44-051-00"
+        },
+        {
+          "slug": "c0244471108100",
+          "text": "C0244471108100 DS 2 Chrono 1/100 Sec PreciDrive Grey",
+          "url": "/certina/ds-2/c0244471108100"
+        },
+        {
+          "slug": "c024-618-16-051-00",
+          "text": "C024.618.16.051.00 DS-2 Chronograph Flyback Stainless Steel / Black / Strap",
+          "url": "/certina/ds-2/c024-618-16-051-00"
+        },
+        {
+          "slug": "c024-447-11-081-00",
+          "text": "C024.447.11.081.00 DS-2 Chronograph Stainless Steel / Grey",
+          "url": "/certina/ds-2/c024-447-11-081-00"
+        },
+        {
+          "slug": "c024-447-22-051-00",
+          "text": "C024.447.22.051.00 DS-2 Chronograph Two Tone / Black / Bracelet",
+          "url": "/certina/ds-2/c024-447-22-051-00"
+        },
+        {
+          "slug": "c0244101605102",
+          "text": "C0244101605102 DS-2 Green",
+          "url": "/certina/ds-2/c0244101605102"
+        },
+        {
+          "slug": "c0244101605103",
+          "text": "C0244101605103 DS-2 Red",
+          "url": "/certina/ds-2/c0244101605103"
+        },
+        {
+          "slug": "c024-410-11-081-20",
+          "text": "C024.410.11.081.20 DS-2 Quartz Stainless Steel / Grey / Bracelet",
+          "url": "/certina/ds-2/c024-410-11-081-20"
+        },
+        {
+          "slug": "c024-618-11-051-01",
+          "text": "C024.618.11.051.01 DS-2 Chronograph Flyback Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-2/c024-618-11-051-01"
+        },
+        {
+          "slug": "c024-447-26-031-00",
+          "text": "C024.447.26.031.00 DS-2 Chronograph Two Tone / Silver",
+          "url": "/certina/ds-2/c024-447-26-031-00"
+        },
+        {
+          "slug": "c024-410-11-031-20",
+          "text": "C024.410.11.031.20 DS-2 Quartz Stainless Steel / Silver / Bracelet",
+          "url": "/certina/ds-2/c024-410-11-031-20"
+        },
+        {
+          "slug": "c024-410-11-041-20",
+          "text": "C024.410.11.041.20 DS-2 Quartz Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-2/c024-410-11-041-20"
+        },
+        {
+          "slug": "c0244101605101",
+          "text": "C0244101605101 DS-2 Yellow",
+          "url": "/certina/ds-2/c0244101605101"
+        },
+        {
+          "slug": "c0244471105101",
+          "text": "C0244471105101 DS 2 Chrono 1/100 Sec PreciDrive Yellow",
+          "url": "/certina/ds-2/c0244471105101"
+        },
+        {
+          "slug": "c024-447-11-051-02",
+          "text": "C024.447.11.051.02 DS-2 Chronograph Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-2/c024-447-11-051-02"
+        },
+        {
+          "slug": "c0244101105101",
+          "text": "C0244101105101 DS-2 Yellow",
+          "url": "/certina/ds-2/c0244101105101"
+        },
+        {
+          "slug": "c0244101105102",
+          "text": "C0244101105102 DS-2 Green Bracelet",
+          "url": "/certina/ds-2/c0244101105102"
+        },
+        {
+          "slug": "c024-618-26-031-00",
+          "text": "C024.618.26.031.00 DS 2 Chronograph Flyback Stainless Steel / Rose Gold PVD / Silver / Strap",
+          "url": "/certina/ds-2/c024-618-26-031-00"
+        },
+        {
+          "slug": "c024-410-16-031-21",
+          "text": "C024.410.16.031.21 DS-2 Quartz Stainless Steel / Silver / Strap",
+          "url": "/certina/ds-2/c024-410-16-031-21"
+        },
+        {
+          "slug": "c024-410-11-051-20",
+          "text": "C024.410.11.051.20 DS-2 Quartz Stainless Steel / Black / BRacelet",
+          "url": "/certina/ds-2/c024-410-11-051-20"
+        },
+        {
+          "slug": "c024-618-11-051-02",
+          "text": "C024.618.11.051.02 DS-2 Chronograph Flyback Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-2/c024-618-11-051-02"
+        }
+      ]
+    },
+    {
+      "name": "DS Prime watches33",
+      "slug": "ds-prime",
+      "references": [
+        {
+          "slug": "c0042106611600",
+          "text": "C0042106611600 DS Prime Lady White Diamond",
+          "url": "/certina/ds-prime/c0042106611600"
+        },
+        {
+          "slug": "c0283106111600",
+          "text": "C0283106111600 DS Prime Lady Shape Diamond",
+          "url": "/certina/ds-prime/c0283106111600"
+        },
+        {
+          "slug": "c0283101605600",
+          "text": "C0283101605600 DS Prime Lady Shape Black",
+          "url": "/certina/ds-prime/c0283101605600"
+        },
+        {
+          "slug": "c0042171105600",
+          "text": "C0042171105600 DS Prime Chronograph Black",
+          "url": "/certina/ds-prime/c0042171105600"
+        },
+        {
+          "slug": "c0042101629600",
+          "text": "C0042101629600 DS Prime Lady",
+          "url": "/certina/ds-prime/c0042101629600"
+        },
+        {
+          "slug": "c0043103303700",
+          "text": "C0043103303700 DS Prima Lady Shape Yellow",
+          "url": "/certina/ds-prime/c0043103303700"
+        },
+        {
+          "slug": "c0042106605600",
+          "text": "C0042106605600 DS Prime Lady Black Diamond",
+          "url": "/certina/ds-prime/c0042106605600"
+        },
+        {
+          "slug": "c0042171605600",
+          "text": "C0042171605600 DS Prime Chronograph Black",
+          "url": "/certina/ds-prime/c0042171605600"
+        },
+        {
+          "slug": "c0042101605600",
+          "text": "C0042101605600 DS Prime Lady Black",
+          "url": "/certina/ds-prime/c0042101605600"
+        },
+        {
+          "slug": "c0043101111701",
+          "text": "C0043101111701 DS Prima Lady Shape Diamond",
+          "url": "/certina/ds-prime/c0043101111701"
+        },
+        {
+          "slug": "c0042104408600",
+          "text": "C0042104408600 DS Prime Lady Titanium",
+          "url": "/certina/ds-prime/c0042104408600"
+        },
+        {
+          "slug": "c0283102211600",
+          "text": "C0283102211600 DS Prime Lady Shape Two Tone",
+          "url": "/certina/ds-prime/c0283102211600"
+        },
+        {
+          "slug": "c0283101629600",
+          "text": "C0283101629600 DS Prime Lady Shape Brown",
+          "url": "/certina/ds-prime/c0283101629600"
+        },
+        {
+          "slug": "c0283101111600",
+          "text": "C0283101111600 DS Prime Lady Shape Silver",
+          "url": "/certina/ds-prime/c0283101111600"
+        },
+        {
+          "slug": "c0042171603600",
+          "text": "C0042171603600 DS Prime Chronograph White",
+          "url": "/certina/ds-prime/c0042171603600"
+        },
+        {
+          "slug": "c0043101103700",
+          "text": "C0043101103700 DS Prima Lady Shape",
+          "url": "/certina/ds-prime/c0043101103700"
+        },
+        {
+          "slug": "c0043101129700",
+          "text": "C0043101129700 DS Prima Lady Shape Brown",
+          "url": "/certina/ds-prime/c0043101129700"
+        },
+        {
+          "slug": "c0043103603700",
+          "text": "C0043103603700 DS Prima Lady Shape",
+          "url": "/certina/ds-prime/c0043103603700"
+        },
+        {
+          "slug": "c0042102203600",
+          "text": "C0042102203600 DS Prime Lady Two Tone",
+          "url": "/certina/ds-prime/c0042102203600"
+        },
+        {
+          "slug": "c0042106111600",
+          "text": "C0042106111600 DS Prime Lady Silver Diamond Bracelet",
+          "url": "/certina/ds-prime/c0042106111600"
+        },
+        {
+          "slug": "c0042176603600",
+          "text": "C0042176603600 DS Prime Chronograph Diamond",
+          "url": "/certina/ds-prime/c0042176603600"
+        },
+        {
+          "slug": "c0043101629700",
+          "text": "C0043101629700 DS Prima Lady Shape",
+          "url": "/certina/ds-prime/c0043101629700"
+        },
+        {
+          "slug": "c0043101611700",
+          "text": "C0043101611700 DS Prima Lady Shape",
+          "url": "/certina/ds-prime/c0043101611700"
+        },
+        {
+          "slug": "c0042104403600",
+          "text": "C0042104403600 DS Prime Lady Silver",
+          "url": "/certina/ds-prime/c0042104403600"
+        },
+        {
+          "slug": "c0043101111700",
+          "text": "C0043101111700 DS Prima Lady Shape MOP",
+          "url": "/certina/ds-prime/c0043101111700"
+        },
+        {
+          "slug": "c0042101105600",
+          "text": "C0042101105600 DS Prime Lady Black Bracelet",
+          "url": "/certina/ds-prime/c0042101105600"
+        },
+        {
+          "slug": "c0042101103600",
+          "text": "C0042101103600 DS Prime Lady Silver Bracelet",
+          "url": "/certina/ds-prime/c0042101103600"
+        },
+        {
+          "slug": "c0283101611600",
+          "text": "C0283101611600 DS Prime Lady Shape Silver",
+          "url": "/certina/ds-prime/c0283101611600"
+        },
+        {
+          "slug": "c0042103611600",
+          "text": "C0042103611600 DS Prime Lady Plated",
+          "url": "/certina/ds-prime/c0042103611600"
+        },
+        {
+          "slug": "c0042101603600",
+          "text": "C0042101603600 DS Prime Lady White",
+          "url": "/certina/ds-prime/c0042101603600"
+        },
+        {
+          "slug": "c0042171103600",
+          "text": "C0042171103600 DS Prime Chronograph Silver",
+          "url": "/certina/ds-prime/c0042171103600"
+        },
+        {
+          "slug": "c0283101642600",
+          "text": "C0283101642600 DS Prime Lady Shape Silver",
+          "url": "/certina/ds-prime/c0283101642600"
+        },
+        {
+          "slug": "c0042171629600",
+          "text": "C0042171629600 DS Prime Chronograph Brown",
+          "url": "/certina/ds-prime/c0042171629600"
+        }
+      ]
+    },
+    {
+      "name": "DS-4 watches28",
+      "slug": "ds-4",
+      "references": [
+        {
+          "slug": "c0226102203100",
+          "text": "C0226102203100 DS 4 Big Size Two Tone Silver",
+          "url": "/certina/ds-4/c0226102203100"
+        },
+        {
+          "slug": "c0226101103101",
+          "text": "C0226101103101 DS 4 Big Size Silver Rose",
+          "url": "/certina/ds-4/c0226101103101"
+        },
+        {
+          "slug": "c0224302203100",
+          "text": "C0224302203100 DS-4 Day-Date",
+          "url": "/certina/ds-4/c0224302203100"
+        },
+        {
+          "slug": "c0224101105000",
+          "text": "C0224101105000 DS 4 Black",
+          "url": "/certina/ds-4/c0224101105000"
+        },
+        {
+          "slug": "c0224104408000",
+          "text": "C0224104408000 DS 4 Titanium",
+          "url": "/certina/ds-4/c0224104408000"
+        },
+        {
+          "slug": "c0226101603100",
+          "text": "C0226101603100 DS 4 Big Size Silver",
+          "url": "/certina/ds-4/c0226101603100"
+        },
+        {
+          "slug": "c0224101603000",
+          "text": "C0224101603000 DS 4 Silver",
+          "url": "/certina/ds-4/c0224101603000"
+        },
+        {
+          "slug": "c0224101603001",
+          "text": "C0224101603001 DS 4 Silver",
+          "url": "/certina/ds-4/c0224101603001"
+        },
+        {
+          "slug": "c0226101605100",
+          "text": "C0226101605100 DS 4 Big Size Black",
+          "url": "/certina/ds-4/c0226101605100"
+        },
+        {
+          "slug": "c0224281603100",
+          "text": "C0224281603100 DS-4 Small Second Silver",
+          "url": "/certina/ds-4/c0224281603100"
+        },
+        {
+          "slug": "c0224301603100",
+          "text": "C0224301603100 DS-4 Day-Date",
+          "url": "/certina/ds-4/c0224301603100"
+        },
+        {
+          "slug": "c0224101605000",
+          "text": "C0224101605000 DS 4 Black",
+          "url": "/certina/ds-4/c0224101605000"
+        },
+        {
+          "slug": "c0224301605100",
+          "text": "C0224301605100 DS-4 Day-Date",
+          "url": "/certina/ds-4/c0224301605100"
+        },
+        {
+          "slug": "c0224301103100",
+          "text": "C0224301103100 DS-4 Day-Date",
+          "url": "/certina/ds-4/c0224301103100"
+        },
+        {
+          "slug": "c0224281103100",
+          "text": "C0224281103100 DS-4 Small Second Silver Bracelet",
+          "url": "/certina/ds-4/c0224281103100"
+        },
+        {
+          "slug": "c0226101103100",
+          "text": "C0226101103100 DS 4 Big Size Silver",
+          "url": "/certina/ds-4/c0226101103100"
+        },
+        {
+          "slug": "c0226101105100",
+          "text": "C0226101105100 DS 4 Big Size Black",
+          "url": "/certina/ds-4/c0226101105100"
+        },
+        {
+          "slug": "c0224301608100",
+          "text": "C0224301608100 DS-4 Day-Date",
+          "url": "/certina/ds-4/c0224301608100"
+        },
+        {
+          "slug": "c0224282203100",
+          "text": "C0224282203100 DS-4 Small Second Two Tone",
+          "url": "/certina/ds-4/c0224282203100"
+        },
+        {
+          "slug": "c0226101603101",
+          "text": "C0226101603101 DS 4 Big Size Silver Rose",
+          "url": "/certina/ds-4/c0226101603101"
+        },
+        {
+          "slug": "c0224301105100",
+          "text": "C0224301105100 DS-4 Day-Date",
+          "url": "/certina/ds-4/c0224301105100"
+        },
+        {
+          "slug": "c0224101629000",
+          "text": "C0224101629000 DS 4 Brown",
+          "url": "/certina/ds-4/c0224101629000"
+        },
+        {
+          "slug": "c0226104408100",
+          "text": "C0226104408100 DS 4 Big Size Titanium",
+          "url": "/certina/ds-4/c0226104408100"
+        },
+        {
+          "slug": "c0224281105100",
+          "text": "C0224281105100 DS-4 Small Second Black",
+          "url": "/certina/ds-4/c0224281105100"
+        },
+        {
+          "slug": "c0226102205100",
+          "text": "C0226102205100 DS 4 Big Size Two Tone Black",
+          "url": "/certina/ds-4/c0226102205100"
+        },
+        {
+          "slug": "c022-410-22-031-00",
+          "text": "C022.410.22.031.00 DS 4 Two Tone / Silver / Bracelet",
+          "url": "/certina/ds-4/c022-410-22-031-00"
+        },
+        {
+          "slug": "c0224102203000",
+          "text": "C0224102203000 DS 4 Two Tone",
+          "url": "/certina/ds-4/c0224102203000"
+        },
+        {
+          "slug": "c0224101103000",
+          "text": "C0224101103000 DS 4 Silver",
+          "url": "/certina/ds-4/c0224101103000"
+        }
+      ]
+    },
+    {
+      "name": "DS Spel watches24",
+      "slug": "ds-spel",
+      "references": [
+        {
+          "slug": "c0124104406700",
+          "text": "C0124104406700 DS Spel Titanium",
+          "url": "/certina/ds-spel/c0124104406700"
+        },
+        {
+          "slug": "c0122094411700",
+          "text": "C0122094411700 DS Spel Lady Round Titanium",
+          "url": "/certina/ds-spel/c0122094411700"
+        },
+        {
+          "slug": "c0122093303700",
+          "text": "C0122093303700 DS Spel Lady Round Yellow",
+          "url": "/certina/ds-spel/c0122093303700"
+        },
+        {
+          "slug": "c0122091111600",
+          "text": "C0122091111600 DS Spel Lady Round",
+          "url": "/certina/ds-spel/c0122091111600"
+        },
+        {
+          "slug": "c0124171105700",
+          "text": "C0124171105700 DS Spel Chronograph Black",
+          "url": "/certina/ds-spel/c0124171105700"
+        },
+        {
+          "slug": "c0124171103700",
+          "text": "C0124171103700 DS Spel Chronograph Silver",
+          "url": "/certina/ds-spel/c0124171103700"
+        },
+        {
+          "slug": "c0124174406700",
+          "text": "C0124174406700 DS Spel Chronograph Titanium",
+          "url": "/certina/ds-spel/c0124174406700"
+        },
+        {
+          "slug": "c0122091105700",
+          "text": "C0122091105700 DS Spel Lady Round Black",
+          "url": "/certina/ds-spel/c0122091105700"
+        },
+        {
+          "slug": "c0124101103700",
+          "text": "C0124101103700 DS Spel Silver",
+          "url": "/certina/ds-spel/c0124101103700"
+        },
+        {
+          "slug": "c0124101105700",
+          "text": "C0124101105700 DS Spel Black",
+          "url": "/certina/ds-spel/c0124101105700"
+        },
+        {
+          "slug": "c0124172103700",
+          "text": "C0124172103700 DS Spel Chronograph Goldy",
+          "url": "/certina/ds-spel/c0124172103700"
+        },
+        {
+          "slug": "c0121091105100",
+          "text": "C0121091105100 DS Mini Spell Lady Shape",
+          "url": "/certina/ds-spel/c0121091105100"
+        },
+        {
+          "slug": "c0124102103700",
+          "text": "C0124102103700 DS Spel Goldy",
+          "url": "/certina/ds-spel/c0124102103700"
+        },
+        {
+          "slug": "c0122092211600",
+          "text": "C0122092211600 DS Spel Lady Round",
+          "url": "/certina/ds-spel/c0122092211600"
+        },
+        {
+          "slug": "c0122096111700",
+          "text": "C0122096111700 DS Spel Lady Round Diamond",
+          "url": "/certina/ds-spel/c0122096111700"
+        },
+        {
+          "slug": "c0121094411100",
+          "text": "C0121094411100 DS Mini Spell Lady Shape",
+          "url": "/certina/ds-spel/c0121094411100"
+        },
+        {
+          "slug": "c0121092203100",
+          "text": "C0121092203100 DS Mini Spell Lady Shape",
+          "url": "/certina/ds-spel/c0121092203100"
+        },
+        {
+          "slug": "c0122092203700",
+          "text": "C0122092203700 DS Spel Lady Round",
+          "url": "/certina/ds-spel/c0122092203700"
+        },
+        {
+          "slug": "c0122096111600",
+          "text": "C0122096111600 DS Spel Lady Round",
+          "url": "/certina/ds-spel/c0122096111600"
+        },
+        {
+          "slug": "c0122093302700",
+          "text": "C0122093302700 DS Spel Lady Round Yellow",
+          "url": "/certina/ds-spel/c0122093302700"
+        },
+        {
+          "slug": "c0122094408700",
+          "text": "C0122094408700 DS Spel Lady Round Titanium Grey",
+          "url": "/certina/ds-spel/c0122094408700"
+        },
+        {
+          "slug": "c0121096111100",
+          "text": "C0121096111100 DS Mini Spell Lady Shape",
+          "url": "/certina/ds-spel/c0121096111100"
+        },
+        {
+          "slug": "c0121093303100",
+          "text": "C0121093303100 DS Mini Spell Lady Shape",
+          "url": "/certina/ds-spel/c0121093303100"
+        },
+        {
+          "slug": "c0122091111700",
+          "text": "C0122091111700 DS Spel Lady Round",
+          "url": "/certina/ds-spel/c0122091111700"
+        }
+      ]
+    },
+    {
+      "name": "Heritage Collection watches24",
+      "slug": "heritage-collection",
+      "references": [
+        {
+          "slug": "c024-607-11-081-02",
+          "text": "C024.607.11.081.02 DS-2 Turning Bezel Powermatic 80 Stainless Steel / Grey / Bracelet",
+          "url": "/certina/heritage-collection/c024-607-11-081-02"
+        },
+        {
+          "slug": "c038-407-16-097-00",
+          "text": "C038.407.16.097.00 DS Powermatic 80 Stainless Steel / Green",
+          "url": "/certina/heritage-collection/c038-407-16-097-00"
+        },
+        {
+          "slug": "c024-407-18-031-00",
+          "text": "C024.407.18.031.00 DS-2 Powermatic 80 Stainless Steel / Silver",
+          "url": "/certina/heritage-collection/c024-407-18-031-00"
+        },
+        {
+          "slug": "c040-462-36-041-00",
+          "text": "C040.462.36.041.00 DS Chronograph Automatic 1968 PVD / Black",
+          "url": "/certina/heritage-collection/c040-462-36-041-00"
+        },
+        {
+          "slug": "c024-462-18-041-00",
+          "text": "C024.462.18.041.00 DS-2 Chronograph Automatic Stainless Steel / Blue",
+          "url": "/certina/heritage-collection/c024-462-18-041-00"
+        },
+        {
+          "slug": "c038-462-16-037-00",
+          "text": "C038.462.16.037.00 DS Chronograph Automatic Stainless Steel / Silver",
+          "url": "/certina/heritage-collection/c038-462-16-037-00"
+        },
+        {
+          "slug": "c038-407-38-037-00",
+          "text": "C038.407.38.037.00 DS Powermatic 80 Rose / White",
+          "url": "/certina/heritage-collection/c038-407-38-037-00"
+        },
+        {
+          "slug": "c024-407-17-421-00",
+          "text": "C024.407.17.421.00 DS-2 Powermatic 80 Stainless Steel / Red",
+          "url": "/certina/heritage-collection/c024-407-17-421-00"
+        },
+        {
+          "slug": "c040-462-18-051-00",
+          "text": "C040.462.18.051.00 DS Chronograph Automatic 1968 Stainless Steel / Black / NATO",
+          "url": "/certina/heritage-collection/c040-462-18-051-00"
+        },
+        {
+          "slug": "c038-407-18-037-00",
+          "text": "C038.407.18.037.00 DS Powermatic 80 Stainless Steel / White",
+          "url": "/certina/heritage-collection/c038-407-18-037-00"
+        },
+        {
+          "slug": "c024-607-48-051-10",
+          "text": "C024.607.48.051.10 DS-2 Turning Bezel Powermatic 80 Sea Turtle Conservancy",
+          "url": "/certina/heritage-collection/c024-607-48-051-10"
+        },
+        {
+          "slug": "c024-607-11-041-02",
+          "text": "C024.607.11.041.02 DS-2 Turning Bezel Powermatic 80 Stainless Steel / Blue / Bracelet",
+          "url": "/certina/heritage-collection/c024-607-11-041-02"
+        },
+        {
+          "slug": "c024-407-18-081-00",
+          "text": "C024.407.18.081.00 DS-2 Powermatic 80 Stainless Steel / Grey",
+          "url": "/certina/heritage-collection/c024-407-18-081-00"
+        },
+        {
+          "slug": "c038-407-18-047-00",
+          "text": "C038.407.18.047.00 DS Powermatic 80 Stainless Steel / Blue",
+          "url": "/certina/heritage-collection/c038-407-18-047-00"
+        },
+        {
+          "slug": "c024-407-37-361-00",
+          "text": "C024.407.37.361.00 DS-2 Powermatic 80 Red Gold / Grey",
+          "url": "/certina/heritage-collection/c024-407-37-361-00"
+        },
+        {
+          "slug": "c024-407-11-041-01",
+          "text": "C024.407.11.041.01 DS-2 Powermatic 80 Stainless Steel / Blue / Bracelet",
+          "url": "/certina/heritage-collection/c024-407-11-041-01"
+        },
+        {
+          "slug": "c038-407-36-087-00",
+          "text": "C038.407.36.087.00 DS Powermatic 80 Rose / Brown",
+          "url": "/certina/heritage-collection/c038-407-36-087-00"
+        },
+        {
+          "slug": "c038-407-36-367-00",
+          "text": "C038.407.36.367.00 DS Powermatic 80 Yellow / Champagne",
+          "url": "/certina/heritage-collection/c038-407-36-367-00"
+        },
+        {
+          "slug": "c024-462-36-091-00",
+          "text": "C024.462.36.091.00 DS-2 Chronograph Automatic Yellow Gold / Green",
+          "url": "/certina/heritage-collection/c024-462-36-091-00"
+        },
+        {
+          "slug": "c024-207-11-111-00",
+          "text": "C024.207.11.111.00 DS-2 Lady Stainless Steel / MOP / Mesh",
+          "url": "/certina/heritage-collection/c024-207-11-111-00"
+        },
+        {
+          "slug": "c024-207-33-111-00",
+          "text": "C024.207.33.111.00 DS-2 Lady Yellow Gold / MOP / Mesh",
+          "url": "/certina/heritage-collection/c024-207-33-111-00"
+        },
+        {
+          "slug": "c024-207-36-111-00",
+          "text": "C024.207.36.111.00 DS-2 Lady Yellow Gold / MOP",
+          "url": "/certina/heritage-collection/c024-207-36-111-00"
+        },
+        {
+          "slug": "c024-407-11-051-00",
+          "text": "C024.407.11.051.00 DS-2 Powermatic 80 Stainless Steel / Black / Bracelet",
+          "url": "/certina/heritage-collection/c024-407-11-051-00"
+        },
+        {
+          "slug": "c024-407-18-041-00",
+          "text": "C024.407.18.041.00 DS-2 Powermatic 80 Stainless Steel / Blue",
+          "url": "/certina/heritage-collection/c024-407-18-041-00"
+        }
+      ]
+    },
+    {
+      "name": "DS Stella watches20",
+      "slug": "ds-stella",
+      "references": [
+        {
+          "slug": "c0092103311200",
+          "text": "C0092103311200 DS  Stella Lady Yellow",
+          "url": "/certina/ds-stella/c0092103311200"
+        },
+        {
+          "slug": "c0092102211600",
+          "text": "C0092102211600 DS  Stella Lady Two Tone",
+          "url": "/certina/ds-stella/c0092102211600"
+        },
+        {
+          "slug": "c031-210-22-116-00",
+          "text": "C031.210.22.116.00 DS Stella Stainless Steel - Rose Gold / MOP / Bracelet",
+          "url": "/certina/ds-stella/c031-210-22-116-00"
+        },
+        {
+          "slug": "c0092102203200",
+          "text": "C0092102203200 DS  Stella Lady Two Tone",
+          "url": "/certina/ds-stella/c0092102203200"
+        },
+        {
+          "slug": "c0092101105200",
+          "text": "C0092101105200 DS  Stella Lady Black",
+          "url": "/certina/ds-stella/c0092101105200"
+        },
+        {
+          "slug": "c0092102211200",
+          "text": "C0092102211200 DS  Stella Lady Two Tone",
+          "url": "/certina/ds-stella/c0092102211200"
+        },
+        {
+          "slug": "c031-210-33-031-00",
+          "text": "C031.210.33.031.00 DS Stella Yellow Gold / Silver / Bracelet",
+          "url": "/certina/ds-stella/c031-210-33-031-00"
+        },
+        {
+          "slug": "c031-210-11-051-00",
+          "text": "C031.210.11.051.00 DS Stella Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-stella/c031-210-11-051-00"
+        },
+        {
+          "slug": "c031-210-11-031-00",
+          "text": "C031.210.11.031.00 DS Stella Stainless Steel / Silver / Bracelet",
+          "url": "/certina/ds-stella/c031-210-11-031-00"
+        },
+        {
+          "slug": "c031-210-22-031-00",
+          "text": "C031.210.22.031.00 DS Stella Stainless Steel - Yellow Gold / Silver / Bracelet",
+          "url": "/certina/ds-stella/c031-210-22-031-00"
+        },
+        {
+          "slug": "c031-210-44-113-00",
+          "text": "C031.210.44.113.00 DS Stella Titanium / MOP / Bracelet",
+          "url": "/certina/ds-stella/c031-210-44-113-00"
+        },
+        {
+          "slug": "c0092105511200",
+          "text": "C0092105511200 DS  Stella Lady Two Tone",
+          "url": "/certina/ds-stella/c0092105511200"
+        },
+        {
+          "slug": "c0092101111600",
+          "text": "C0092101111600 DS Stella Lady",
+          "url": "/certina/ds-stella/c0092101111600"
+        },
+        {
+          "slug": "c0092101111601",
+          "text": "C0092101111601 DS Stella Lady Diamond",
+          "url": "/certina/ds-stella/c0092101111601"
+        },
+        {
+          "slug": "c0092101115200",
+          "text": "C0092101115200 DS  Stella Lady Pink",
+          "url": "/certina/ds-stella/c0092101115200"
+        },
+        {
+          "slug": "c0092101111200",
+          "text": "C0092101111200 DS  Stella Lady",
+          "url": "/certina/ds-stella/c0092101111200"
+        },
+        {
+          "slug": "c0092101103200",
+          "text": "C0092101103200 DS  Stella Lady White",
+          "url": "/certina/ds-stella/c0092101103200"
+        },
+        {
+          "slug": "c0092101112600",
+          "text": "C0092101112600 DS  Stella Lady",
+          "url": "/certina/ds-stella/c0092101112600"
+        },
+        {
+          "slug": "c0092104408200",
+          "text": "C0092104408200 DS  Stella Lady Titanium Grey",
+          "url": "/certina/ds-stella/c0092104408200"
+        },
+        {
+          "slug": "c0092104411200",
+          "text": "C0092104411200 DS  Stella Lady Titanium",
+          "url": "/certina/ds-stella/c0092104411200"
+        }
+      ]
+    },
+    {
+      "name": "DS-7 watches21",
+      "slug": "ds-7",
+      "references": [
+        {
+          "slug": "c043-417-22-031-00",
+          "text": "C043.417.22.031.00 DS-7 Chronograph Stainless Steel - Yellow Gold / Silver / Bracelet",
+          "url": "/certina/ds-7/c043-417-22-031-00"
+        },
+        {
+          "slug": "c043-417-38-081-00",
+          "text": "C043.417.38.081.00 DS-7 Chronograph PVD / Black  / Bracelet",
+          "url": "/certina/ds-7/c043-417-38-081-00"
+        },
+        {
+          "slug": "c043-407-11-351-00",
+          "text": "C043.407.11.351.00 DS-7 Powermatic 80 Stainless Steel / Light Blue / Bracelet",
+          "url": "/certina/ds-7/c043-407-11-351-00"
+        },
+        {
+          "slug": "c043-410-33-051-00",
+          "text": "C043.410.33.051.00 DS-7 Quartz PVD / Black / Bracelet",
+          "url": "/certina/ds-7/c043-410-33-051-00"
+        },
+        {
+          "slug": "c043-410-11-041-00",
+          "text": "C043.410.11.041.00 DS-7 Quartz Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-7/c043-410-11-041-00"
+        },
+        {
+          "slug": "c043-417-44-041-00",
+          "text": "C043.417.44.041.00 DS-7 Chronograph Titanium / Blue / Bracelet",
+          "url": "/certina/ds-7/c043-417-44-041-00"
+        },
+        {
+          "slug": "c043-407-22-061-00",
+          "text": "C043.407.22.061.00 DS-7 Powermatic 80 Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-7/c043-407-22-061-00"
+        },
+        {
+          "slug": "c043-427-11-091-00",
+          "text": "C043.427.11.091.00 DS-7 Chrono Auto Stainless Steel / Green / Bracelet",
+          "url": "/certina/ds-7/c043-427-11-091-00"
+        },
+        {
+          "slug": "c043-410-11-091-00",
+          "text": "C043.410.11.091.00 DS-7 Quartz Stainless Steel / Green / Bracelet",
+          "url": "/certina/ds-7/c043-410-11-091-00"
+        },
+        {
+          "slug": "c043-417-38-201-10",
+          "text": "C043.417.38.201.10 DS-7 Chronograph Padel Edition by Marta Ortega",
+          "url": "/certina/ds-7/c043-417-38-201-10"
+        },
+        {
+          "slug": "c043-410-44-051-00",
+          "text": "C043.410.44.051.00 DS-7 Quartz Titanium / Black / Bracelet",
+          "url": "/certina/ds-7/c043-410-44-051-00"
+        },
+        {
+          "slug": "c043-407-44-041-00",
+          "text": "C043.407.44.041.00 DS-7 Powermatic 80 Titanium / Blue / Bracelet",
+          "url": "/certina/ds-7/c043-407-44-041-00"
+        },
+        {
+          "slug": "c043-410-16-041-00",
+          "text": "C043.410.16.041.00 DS-7 Quartz Stainless Steel / Blue / Strap",
+          "url": "/certina/ds-7/c043-410-16-041-00"
+        },
+        {
+          "slug": "c043-427-11-041-00",
+          "text": "C043.427.11.041.00 DS-7 Chrono Auto Stainless Steel / Blue / Bracelet",
+          "url": "/certina/ds-7/c043-427-11-041-00"
+        },
+        {
+          "slug": "c043-410-16-031-00",
+          "text": "C043.410.16.031.00 DS-7 Quartz Stainless Steel / Silver / Strap",
+          "url": "/certina/ds-7/c043-410-16-031-00"
+        },
+        {
+          "slug": "c043-427-44-041-00",
+          "text": "C043.427.44.041.00 DS-7 Chrono Auto Titanium PVD / Blue Gradient",
+          "url": "/certina/ds-7/c043-427-44-041-00"
+        },
+        {
+          "slug": "c043-427-21-051-00",
+          "text": "C043.427.21.051.00 DS-7 Chrono Auto Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-7/c043-427-21-051-00"
+        },
+        {
+          "slug": "c043-407-33-361-00",
+          "text": "C043.407.33.361.00 DS-7 Powermatic 80 Yellow Gold / Champagne / Bracelet",
+          "url": "/certina/ds-7/c043-407-33-361-00"
+        },
+        {
+          "slug": "c043-407-22-091-00",
+          "text": "C043.407.22.091.00 DS-7 Powermatic 80 Stainless Steel / Green / Bracelet",
+          "url": "/certina/ds-7/c043-407-22-091-00"
+        },
+        {
+          "slug": "c043-407-22-031-00",
+          "text": "C043.407.22.031.00 DS-7 Powermatic 80 Stainless Steel - Yellow Gold / Silver / Bracelet",
+          "url": "/certina/ds-7/c043-407-22-031-00"
+        },
+        {
+          "slug": "c043-417-22-051-00",
+          "text": "C043.417.22.051.00 DS-7 Chronograph Stainless Steel / Black / Bracelet",
+          "url": "/certina/ds-7/c043-417-22-051-00"
+        }
+      ]
+    },
+    {
+      "name": "DS PH watches21",
+      "slug": "ds-ph",
+      "references": [
+        {
+          "slug": "c036-407-11-050-00",
+          "text": "C036.407.11.050.00 DS PH200M Stainless Steel / Black / Mesh",
+          "url": "/certina/ds-ph/c036-407-11-050-00"
+        },
+        {
+          "slug": "c044-410-17-050-00",
+          "text": "C044.410.17.050.00 DS PH100M Stainless Steel / Black / Rubber",
+          "url": "/certina/ds-ph/c044-410-17-050-00"
+        },
+        {
+          "slug": "c036-407-16-050-00",
+          "text": "C036.407.16.050.00 DS PH200M Stainless Steel / Black / NATO",
+          "url": "/certina/ds-ph/c036-407-16-050-00"
+        },
+        {
+          "slug": "c044-210-26-051-00",
+          "text": "C044.210.26.051.00 DS PH100M Lady Stainless Steel - Yellow Gold / Black MOP / NATO",
+          "url": "/certina/ds-ph/c044-210-26-051-00"
+        },
+        {
+          "slug": "c036-407-36-050-00",
+          "text": "C036.407.36.050.00 DS PH200M PVD / Black / Calf",
+          "url": "/certina/ds-ph/c036-407-36-050-00"
+        },
+        {
+          "slug": "c037-407-17-280-10",
+          "text": "C037.407.17.280.10 DS Super PH500M Stainless Steel / Orange / Rubber",
+          "url": "/certina/ds-ph/c037-407-17-280-10"
+        },
+        {
+          "slug": "c044-210-18-051-00",
+          "text": "C044.210.18.051.00 DS PH100M Lady Stainless Steel / Black / NATO",
+          "url": "/certina/ds-ph/c044-210-18-051-00"
+        },
+        {
+          "slug": "c024-907-17-041-10",
+          "text": "C024.907.17.041.10 DS Super PH1000M Sea Turtle Conservancy",
+          "url": "/certina/ds-ph/c024-907-17-041-10"
+        },
+        {
+          "slug": "c024-907-17-281-10",
+          "text": "C024.907.17.281.10 DS Super PH1000M Stainless Steel / Orange / Rubber",
+          "url": "/certina/ds-ph/c024-907-17-281-10"
+        },
+        {
+          "slug": "c044-410-18-040-00",
+          "text": "C044.410.18.040.00 DS PH100M Stainless Steel / Blue / NATO",
+          "url": "/certina/ds-ph/c044-410-18-040-00"
+        },
+        {
+          "slug": "c024-907-18-051-00",
+          "text": "C024.907.18.051.00 DS Super PH1000M Stainless Steel / Black / TIDE",
+          "url": "/certina/ds-ph/c024-907-18-051-00"
+        },
+        {
+          "slug": "c044-410-21-030-00",
+          "text": "C044.410.21.030.00 DS PH100M Stainless Steel - Yellow Gold / Silver / Mesh",
+          "url": "/certina/ds-ph/c044-410-21-030-00"
+        },
+        {
+          "slug": "c037-407-18-040-10",
+          "text": "C037.407.18.040.10 DS Super PH500M Stainless Steel / Blue / Sea Turtle Conservancy",
+          "url": "/certina/ds-ph/c037-407-18-040-10"
+        },
+        {
+          "slug": "c036-207-18-126-00",
+          "text": "C036.207.18.126.00 DS PH200M 39 Stainless Steel / Black MOP",
+          "url": "/certina/ds-ph/c036-207-18-126-00"
+        },
+        {
+          "slug": "c036-407-11-050-01",
+          "text": "C036.407.11.050.01 DS PH200M Stainless Steel / Black / Mesh",
+          "url": "/certina/ds-ph/c036-407-11-050-01"
+        },
+        {
+          "slug": "c036-407-18-040-00",
+          "text": "C036.407.18.040.00 DS PH200M Stainless Steel / Blue / NATO",
+          "url": "/certina/ds-ph/c036-407-18-040-00"
+        },
+        {
+          "slug": "c036-207-18-116-00",
+          "text": "C036.207.18.116.00 DS PH200M 39 Stainless Steel / MOP",
+          "url": "/certina/ds-ph/c036-207-18-116-00"
+        },
+        {
+          "slug": "c036-207-11-296-00",
+          "text": "C036.207.11.296.00 DS PH200M 39 Stainless Steel / Brown Gradient / Mesh",
+          "url": "/certina/ds-ph/c036-207-11-296-00"
+        },
+        {
+          "slug": "c036-207-18-106-00",
+          "text": "C036.207.18.106.00 DS PH200M 39 Stainless Steel / MOP",
+          "url": "/certina/ds-ph/c036-207-18-106-00"
+        },
+        {
+          "slug": "c037-407-18-050-00",
+          "text": "C037.407.18.050.00 DS Super PH500M Stainless Steel / Black / NATO",
+          "url": "/certina/ds-ph/c037-407-18-050-00"
+        },
+        {
+          "slug": "c036-407-16-040-00",
+          "text": "C036.407.16.040.00 DS PH200M Stainless Steel / Blue / Calf",
+          "url": "/certina/ds-ph/c036-407-16-040-00"
+        }
+      ]
+    },
+    {
+      "name": "DS Rookie watches10",
+      "slug": "ds-rookie",
+      "references": [
+        {
+          "slug": "c0164101104700",
+          "text": "C0164101104700 DS Rookie Blue",
+          "url": "/certina/ds-rookie/c0164101104700"
+        },
+        {
+          "slug": "c0164171705700",
+          "text": "C0164171705700 DS Rookie Chronograph",
+          "url": "/certina/ds-rookie/c0164171705700"
+        },
+        {
+          "slug": "c0164171711700",
+          "text": "C0164171711700 DS Rookie Chronograph White",
+          "url": "/certina/ds-rookie/c0164171711700"
+        },
+        {
+          "slug": "c0164171705701",
+          "text": "C0164171705701 DS Rookie Chronograph Black",
+          "url": "/certina/ds-rookie/c0164171705701"
+        },
+        {
+          "slug": "c0164101705700",
+          "text": "C0164101705700 DS Rookie Black",
+          "url": "/certina/ds-rookie/c0164101705700"
+        },
+        {
+          "slug": "c0164101711700",
+          "text": "C0164101711700 DS Rookie MOP",
+          "url": "/certina/ds-rookie/c0164101711700"
+        },
+        {
+          "slug": "c0164101105700",
+          "text": "C0164101105700 DS Rookie Black Bracelet",
+          "url": "/certina/ds-rookie/c0164101105700"
+        },
+        {
+          "slug": "c0164171104700",
+          "text": "C0164171104700 DS Rookie Chronograph",
+          "url": "/certina/ds-rookie/c0164171104700"
+        },
+        {
+          "slug": "c0164171105700",
+          "text": "C0164171105700 DS Rookie Chronograph Bracelet",
+          "url": "/certina/ds-rookie/c0164171105700"
+        },
+        {
+          "slug": "c0164172205700",
+          "text": "C0164172205700 DS Rookie Chronograph SS / PVD",
+          "url": "/certina/ds-rookie/c0164172205700"
+        }
+      ]
+    },
+    {
+      "name": "DS-6 watches8",
+      "slug": "ds-6",
+      "references": [
+        {
+          "slug": "c039-251-11-017-00",
+          "text": "C039.251.11.017.00 DS-6 Lady Stainless Steel - Ceramic / White / Bracelet",
+          "url": "/certina/ds-6/c039-251-11-017-00"
+        },
+        {
+          "slug": "c039-251-33-367-00",
+          "text": "C039.251.33.367.00 DS-6 Lady Yellow Gold / Champagne / Bracelet",
+          "url": "/certina/ds-6/c039-251-33-367-00"
+        },
+        {
+          "slug": "c039-251-11-057-00",
+          "text": "C039.251.11.057.00 DS-6 Lady Stainless Steel - Ceramic  / Black / Bracelet",
+          "url": "/certina/ds-6/c039-251-11-057-00"
+        },
+        {
+          "slug": "c039-251-17-047-00",
+          "text": "C039.251.17.047.00 DS-6 Lady Stainless Steel / Blue / NATO",
+          "url": "/certina/ds-6/c039-251-17-047-00"
+        },
+        {
+          "slug": "c039-251-33-017-00",
+          "text": "C039.251.33.017.00 DS-6 Lady Yellow Gold - Ceramic / White / Bracelet",
+          "url": "/certina/ds-6/c039-251-33-017-00"
+        },
+        {
+          "slug": "c039-251-12-116-00",
+          "text": "C039.251.12.116.00 DS-6 Lady Stainless Steel - Yellow Gold / MOP / Bracelet",
+          "url": "/certina/ds-6/c039-251-12-116-00"
+        },
+        {
+          "slug": "c039-251-16-116-00",
+          "text": "C039.251.16.116.00 DS-6 Lady Stainless Steel  / MOP",
+          "url": "/certina/ds-6/c039-251-16-116-00"
+        },
+        {
+          "slug": "c039-251-17-017-01",
+          "text": "C039.251.17.017.01 DS-6 Lady Stainless Steel / White",
+          "url": "/certina/ds-6/c039-251-17-017-01"
+        }
+      ]
+    },
+    {
+      "name": "DS Sport watches7",
+      "slug": "ds-sport",
+      "references": [
+        {
+          "slug": "c0274171705702",
+          "text": "C0274171705702 DS Sport Chrono Black Rubber",
+          "url": "/certina/ds-sport/c0274171705702"
+        },
+        {
+          "slug": "c0274171705701",
+          "text": "C0274171705701 DS Sport Chrono Green Rubber",
+          "url": "/certina/ds-sport/c0274171705701"
+        },
+        {
+          "slug": "c0274171105700",
+          "text": "C0274171105700 DS Sport Chrono Stainless Bezel",
+          "url": "/certina/ds-sport/c0274171105700"
+        },
+        {
+          "slug": "c0274171105702",
+          "text": "C0274171105702 DS Sport Chrono Black",
+          "url": "/certina/ds-sport/c0274171105702"
+        },
+        {
+          "slug": "c0274171703700",
+          "text": "C0274171703700 DS Sport Chrono Silver Rubber",
+          "url": "/certina/ds-sport/c0274171703700"
+        },
+        {
+          "slug": "c0274171105701",
+          "text": "C0274171105701 DS Sport Chrono Green",
+          "url": "/certina/ds-sport/c0274171105701"
+        },
+        {
+          "slug": "c0274171105703",
+          "text": "C0274171105703 DS Sport Chrono Yellow",
+          "url": "/certina/ds-sport/c0274171105703"
+        }
+      ]
+    },
+    {
+      "name": "DS Eagle watches8",
+      "slug": "ds-eagle",
+      "references": [
+        {
+          "slug": "c0237101705100",
+          "text": "C0237101705100 DS Eagle PVD",
+          "url": "/certina/ds-eagle/c0237101705100"
+        },
+        {
+          "slug": "c0237391705100",
+          "text": "C0237391705100 DS Eagle Chrono GMT PVD",
+          "url": "/certina/ds-eagle/c0237391705100"
+        },
+        {
+          "slug": "c0237392705100",
+          "text": "C0237392705100 DS Eagle Chrono GMT",
+          "url": "/certina/ds-eagle/c0237392705100"
+        },
+        {
+          "slug": "c023-727-27-051-00",
+          "text": "C023.727.27.051.00 DS Eagle Chronograph Automatic",
+          "url": "/certina/ds-eagle/c023-727-27-051-00"
+        },
+        {
+          "slug": "c0237102705100",
+          "text": "C0237102705100 DS Eagle",
+          "url": "/certina/ds-eagle/c0237102705100"
+        },
+        {
+          "slug": "c0237393705100",
+          "text": "C0237393705100 DS Eagle Chrono GMT",
+          "url": "/certina/ds-eagle/c0237393705100"
+        },
+        {
+          "slug": "c023-727-37-051-00",
+          "text": "C023.727.37.051.00 DS Eagle Chronograph Automatic",
+          "url": "/certina/ds-eagle/c023-727-37-051-00"
+        },
+        {
+          "slug": "c0237103705100",
+          "text": "C0237103705100 DS Eagle Gold",
+          "url": "/certina/ds-eagle/c0237103705100"
+        }
+      ]
+    },
+    {
+      "name": "DS watches9",
+      "slug": "ds",
+      "references": [
+        {
+          "slug": "c0264071608701",
+          "text": "C0264071608701 DS Powermatic 80",
+          "url": "/certina/ds/c0264071608701"
+        },
+        {
+          "slug": "c0264071105700",
+          "text": "C0264071105700 DS Powermatic 80",
+          "url": "/certina/ds/c0264071105700"
+        },
+        {
+          "slug": "c042-407-56-081-10",
+          "text": "C042.407.56.081.10 DS Skeleton Titanium / Grey",
+          "url": "/certina/ds/c042-407-56-081-10"
+        },
+        {
+          "slug": "c0264071103700",
+          "text": "C0264071103700 DS Powermatic 80",
+          "url": "/certina/ds/c0264071103700"
+        },
+        {
+          "slug": "c0264071605710",
+          "text": "C0264071605710 DS Powermatic 80 125th Anniversary Limited Edition",
+          "url": "/certina/ds/c0264071605710"
+        },
+        {
+          "slug": "c0264072208700",
+          "text": "C0264072208700 DS Powermatic 80",
+          "url": "/certina/ds/c0264072208700"
+        },
+        {
+          "slug": "c0264072203700",
+          "text": "C0264072203700 DS Powermatic 80",
+          "url": "/certina/ds/c0264072203700"
+        },
+        {
+          "slug": "c026-407-16-037-00",
+          "text": "C026.407.16.037.00 DS Powermatic 80",
+          "url": "/certina/ds/c026-407-16-037-00"
+        },
+        {
+          "slug": "c026-407-16-087-00",
+          "text": "C026.407.16.087.00 DS Powermatic 80",
+          "url": "/certina/ds/c026-407-16-087-00"
+        }
+      ]
+    },
+    {
+      "name": "DS-X watches5",
+      "slug": "ds-x",
+      "references": [
+        {
+          "slug": "c047-452-17-011-00",
+          "text": "C047.452.17.011.00 DS-X GMT Stainless Steel / White / Rubber",
+          "url": "/certina/ds-x/c047-452-17-011-00"
+        },
+        {
+          "slug": "c047-452-11-081-00",
+          "text": "C047.452.11.081.00 DS-X GMT Stainless Steel / Grey / Bracelet",
+          "url": "/certina/ds-x/c047-452-11-081-00"
+        },
+        {
+          "slug": "c047-452-17-081-01",
+          "text": "C047.452.17.081.01 DS-X GMT Stainless Steel / Grey / Rubber",
+          "url": "/certina/ds-x/c047-452-17-081-01"
+        },
+        {
+          "slug": "c047-452-11-081-01",
+          "text": "C047.452.11.081.01 DS-X GMT Stainless Steel / Grey / Bracelet",
+          "url": "/certina/ds-x/c047-452-11-081-01"
+        },
+        {
+          "slug": "c047-452-17-081-00",
+          "text": "C047.452.17.081.00 DS-X GMT Stainless Steel / Grey / Rubber",
+          "url": "/certina/ds-x/c047-452-17-081-00"
+        }
+      ]
+    },
+    {
+      "name": "DS Dream watches8",
+      "slug": "ds-dream",
+      "references": [
+        {
+          "slug": "c0212101605600",
+          "text": "C0212101605600 DS Dream Lady Black",
+          "url": "/certina/ds-dream/c0212101605600"
+        },
+        {
+          "slug": "c0212106111600",
+          "text": "C0212106111600 DS Dream Lady Diamond",
+          "url": "/certina/ds-dream/c0212106111600"
+        },
+        {
+          "slug": "c0212101629600",
+          "text": "C0212101629600 DS Dream Lady Brown",
+          "url": "/certina/ds-dream/c0212101629600"
+        },
+        {
+          "slug": "c0212101611600",
+          "text": "C0212101611600 DS Dream Lady",
+          "url": "/certina/ds-dream/c0212101611600"
+        },
+        {
+          "slug": "c0212104408600",
+          "text": "C0212104408600 DS Dream Lady Titanium",
+          "url": "/certina/ds-dream/c0212104408600"
+        },
+        {
+          "slug": "c0212102211600",
+          "text": "C0212102211600 DS Dream Lady Two Tone",
+          "url": "/certina/ds-dream/c0212102211600"
+        },
+        {
+          "slug": "c0212101105600",
+          "text": "C0212101105600 DS Dream Lady Black",
+          "url": "/certina/ds-dream/c0212101105600"
+        },
+        {
+          "slug": "c0212101111600",
+          "text": "C0212101111600 DS Dream Lady MOP",
+          "url": "/certina/ds-dream/c0212101111600"
+        }
+      ]
+    },
+    {
+      "name": "DS Multi-8 watches5",
+      "slug": "ds-multi-8",
+      "references": [
+        {
+          "slug": "c020-419-16-052-00",
+          "text": "C020.419.16.052.00 DS Multi-8 PVD",
+          "url": "/certina/ds-multi-8/c020-419-16-052-00"
+        },
+        {
+          "slug": "c0204194408700",
+          "text": "C0204194408700 DS Multi-8 Titanium",
+          "url": "/certina/ds-multi-8/c0204194408700"
+        },
+        {
+          "slug": "c0204191603700",
+          "text": "C0204191603700 DS Multi-8 Silver",
+          "url": "/certina/ds-multi-8/c0204191603700"
+        },
+        {
+          "slug": "c0204191105700",
+          "text": "C0204191105700 DS Multi-8 Black",
+          "url": "/certina/ds-multi-8/c0204191105700"
+        },
+        {
+          "slug": "c0204191605700",
+          "text": "C0204191605700 DS Multi-8 Black Strap",
+          "url": "/certina/ds-multi-8/c0204191605700"
+        }
+      ]
+    },
+    {
+      "name": "DS Queen watches5",
+      "slug": "ds-queen",
+      "references": [
+        {
+          "slug": "c0182101601700",
+          "text": "C0182101601700 DS  Queen Lady",
+          "url": "/certina/ds-queen/c0182101601700"
+        },
+        {
+          "slug": "c0182101105700",
+          "text": "C0182101105700 DS  Queen Lady",
+          "url": "/certina/ds-queen/c0182101105700"
+        },
+        {
+          "slug": "c0182101642700",
+          "text": "C0182101642700 DS  Queen Lady",
+          "url": "/certina/ds-queen/c0182101642700"
+        },
+        {
+          "slug": "c0182101101700",
+          "text": "C0182101101700 DS  Queen Lady",
+          "url": "/certina/ds-queen/c0182101101700"
+        },
+        {
+          "slug": "c0182101605700",
+          "text": "C0182101605700 DS  Queen Lady",
+          "url": "/certina/ds-queen/c0182101605700"
+        }
+      ]
+    },
+    {
+      "name": "DS Jubilee watches4",
+      "slug": "ds-jubile",
+      "references": [
+        {
+          "slug": "c902-451-41-011-00",
+          "text": "C902.451.41.011.00 DS Jubile Quartz Stainless Steel - Yellow Gold / White / Bracelet",
+          "url": "/certina/ds-jubile/c902-451-41-011-00"
+        },
+        {
+          "slug": "c902-451-46-011-00",
+          "text": "C902.451.46.011.00 DS Jubile Quartz Stainless Steel - Yellow Gold / White",
+          "url": "/certina/ds-jubile/c902-451-46-011-00"
+        },
+        {
+          "slug": "c902-251-41-016-00",
+          "text": "C902.251.41.016.00 DS Jubile Lady Quartz Stainless Steel - Yellow Gold / MOP / Bracelet",
+          "url": "/certina/ds-jubile/c902-251-41-016-00"
+        },
+        {
+          "slug": "c902-251-46-016-00",
+          "text": "C902.251.46.016.00 DS Jubile Lady Quartz Stainless Steel - Yellow Gold / MOP",
+          "url": "/certina/ds-jubile/c902-251-46-016-00"
+        }
+      ]
+    },
+    {
+      "name": "DS Pilot watches2",
+      "slug": "ds-pilot",
+      "references": [
+        {
+          "slug": "c024-617-16-042-00",
+          "text": "C024.617.16.042.00 DS Pilot Stainless Steel / Blue",
+          "url": "/certina/ds-pilot/c024-617-16-042-00"
+        },
+        {
+          "slug": "c024-617-36-092-00",
+          "text": "C024.617.36.092.00 DS Pilot Rose Gold / Green",
+          "url": "/certina/ds-pilot/c024-617-36-092-00"
+        }
+      ]
+    },
+    {
+      "name": "C-Sport watches1",
+      "slug": "c-sport",
+      "references": [
+        {
+          "slug": "c260-7198-42-56",
+          "text": "C260.7198.42.56 C-Sport Stainless Steel / Bue / Bracelet",
+          "url": "/certina/c-sport/c260-7198-42-56"
+        }
+      ]
+    },
+    {
+      "name": "Cascadeur watches1",
+      "slug": "cascadeur",
+      "references": [
+        {
+          "slug": "c046-410-27-051-10",
+          "text": "C046.410.27.051.10 Cascadeur",
+          "url": "/certina/cascadeur/c046-410-27-051-10"
+        }
+      ]
+    }
+  ],
+  "total_references": 855
+}

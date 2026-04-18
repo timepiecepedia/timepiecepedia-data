@@ -1,0 +1,295 @@
+{
+  "brand_slug": "staudt",
+  "collections": [
+    {
+      "name": "Praeludium Hand Wound watches19",
+      "slug": "praeludium-hand-wound",
+      "references": [
+        {
+          "slug": "p11-031-a01",
+          "text": "P11.031-A01 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p11-031-a01"
+        },
+        {
+          "slug": "p12-011-a03",
+          "text": "P12.011-A03 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p12-011-a03"
+        },
+        {
+          "slug": "p11-011-a03",
+          "text": "P11.011-A03 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p11-011-a03"
+        },
+        {
+          "slug": "p12-031-a01",
+          "text": "P12.031-A01 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p12-031-a01"
+        },
+        {
+          "slug": "p11-022-a01",
+          "text": "P11.022-A01 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p11-022-a01"
+        },
+        {
+          "slug": "p11-011-a02",
+          "text": "P11.011-A02 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p11-011-a02"
+        },
+        {
+          "slug": "p12-072",
+          "text": "P12.072 Praeludium Guilloche",
+          "url": "/staudt/praeludium-hand-wound/p12-072"
+        },
+        {
+          "slug": "p11-011-a01",
+          "text": "P11.011-A01 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p11-011-a01"
+        },
+        {
+          "slug": "p12-022-a03",
+          "text": "P12.022-A03 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p12-022-a03"
+        },
+        {
+          "slug": "p12-022-a02",
+          "text": "P12.022-A02 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p12-022-a02"
+        },
+        {
+          "slug": "p12-011-a01",
+          "text": "P12.011-A01 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p12-011-a01"
+        },
+        {
+          "slug": "p12-031-a02",
+          "text": "P12.031-A02 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p12-031-a02"
+        },
+        {
+          "slug": "p11-031-a02",
+          "text": "P11.031-A02 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p11-031-a02"
+        },
+        {
+          "slug": "p12-022-a01",
+          "text": "P12.022-A01 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p12-022-a01"
+        },
+        {
+          "slug": "p11-031-a03",
+          "text": "P11.031-A03 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p11-031-a03"
+        },
+        {
+          "slug": "p11-022-a03",
+          "text": "P11.022-A03 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p11-022-a03"
+        },
+        {
+          "slug": "p12-011-a02",
+          "text": "P12.011-A02 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p12-011-a02"
+        },
+        {
+          "slug": "p12-031-a03",
+          "text": "P12.031-A03 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p12-031-a03"
+        },
+        {
+          "slug": "p11-022-a02",
+          "text": "P11.022-A02 Praeludium Hand Wound",
+          "url": "/staudt/praeludium-hand-wound/p11-022-a02"
+        }
+      ]
+    },
+    {
+      "name": "Praeludium Petit watches13",
+      "slug": "praeludium-petit",
+      "references": [
+        {
+          "slug": "p31-011-a02",
+          "text": "P31.011-A02 Praeludium Petit",
+          "url": "/staudt/praeludium-petit/p31-011-a02"
+        },
+        {
+          "slug": "p31-041-a02",
+          "text": "P31.041-A02 Praeludium Petit MOP",
+          "url": "/staudt/praeludium-petit/p31-041-a02"
+        },
+        {
+          "slug": "p31-022-a01",
+          "text": "P31.022-A01 Praeludium Petit",
+          "url": "/staudt/praeludium-petit/p31-022-a01"
+        },
+        {
+          "slug": "p31-031-a03",
+          "text": "P31.031-A03 Praeludium Petit",
+          "url": "/staudt/praeludium-petit/p31-031-a03"
+        },
+        {
+          "slug": "p31-022-a03",
+          "text": "P31.022-A03 Praeludium Petit",
+          "url": "/staudt/praeludium-petit/p31-022-a03"
+        },
+        {
+          "slug": "p31-041-a01",
+          "text": "P31.041-A01 Praeludium Petit MOP",
+          "url": "/staudt/praeludium-petit/p31-041-a01"
+        },
+        {
+          "slug": "p31-031-a02-1",
+          "text": "P31.031-A02-1 Praeludium Petit",
+          "url": "/staudt/praeludium-petit/p31-031-a02-1"
+        },
+        {
+          "slug": "p31-031-a01",
+          "text": "P31.031-A01 Praeludium Petit",
+          "url": "/staudt/praeludium-petit/p31-031-a01"
+        },
+        {
+          "slug": "p31-041-c04",
+          "text": "P31.041-C04 Praeludium Petit MOP",
+          "url": "/staudt/praeludium-petit/p31-041-c04"
+        },
+        {
+          "slug": "p31-022-a02-1",
+          "text": "P31.022-A02-1 Praeludium Petit",
+          "url": "/staudt/praeludium-petit/p31-022-a02-1"
+        },
+        {
+          "slug": "p31-011-a03",
+          "text": "P31.011-A03 Praeludium Petit",
+          "url": "/staudt/praeludium-petit/p31-011-a03"
+        },
+        {
+          "slug": "p31-011-a01",
+          "text": "P31.011-A01 Praeludium Petit",
+          "url": "/staudt/praeludium-petit/p31-011-a01"
+        },
+        {
+          "slug": "p31-041-a03",
+          "text": "P31.041-A03 Praeludium Petit MOP",
+          "url": "/staudt/praeludium-petit/p31-041-a03"
+        }
+      ]
+    },
+    {
+      "name": "Praeludium Chronograph watches12",
+      "slug": "praeludium-chronograph",
+      "references": [
+        {
+          "slug": "p41-022-a02",
+          "text": "P41.022-A02 Praeludium Chronograph",
+          "url": "/staudt/praeludium-chronograph/p41-022-a02"
+        },
+        {
+          "slug": "p41-031-m11",
+          "text": "P41.031-M11 Praeludium Chronograph",
+          "url": "/staudt/praeludium-chronograph/p41-031-m11"
+        },
+        {
+          "slug": "p41-011-a03",
+          "text": "P41.011-A03 Praeludium Chronograph",
+          "url": "/staudt/praeludium-chronograph/p41-011-a03"
+        },
+        {
+          "slug": "p41-031-a02",
+          "text": "P41.031-A02 Praeludium Chronograph",
+          "url": "/staudt/praeludium-chronograph/p41-031-a02"
+        },
+        {
+          "slug": "p41-022-a03",
+          "text": "P41.022-A03 Praeludium Chronograph",
+          "url": "/staudt/praeludium-chronograph/p41-022-a03"
+        },
+        {
+          "slug": "p41-031-a03",
+          "text": "P41.031-A03 Praeludium Chronograph",
+          "url": "/staudt/praeludium-chronograph/p41-031-a03"
+        },
+        {
+          "slug": "p41-011-m11",
+          "text": "P41.011-M11 Praeludium Chronograph",
+          "url": "/staudt/praeludium-chronograph/p41-011-m11"
+        },
+        {
+          "slug": "p41-022-m11",
+          "text": "P41.022-M11 Praeludium Chronograph",
+          "url": "/staudt/praeludium-chronograph/p41-022-m11"
+        },
+        {
+          "slug": "p41-011-a01",
+          "text": "P41.011-A01 Praeludium Chronograph",
+          "url": "/staudt/praeludium-chronograph/p41-011-a01"
+        },
+        {
+          "slug": "p41-011-a02",
+          "text": "P41.011-A02 Praeludium Chronograph",
+          "url": "/staudt/praeludium-chronograph/p41-011-a02"
+        },
+        {
+          "slug": "p41-022-a01",
+          "text": "P41.022-A01 Praeludium Chronograph",
+          "url": "/staudt/praeludium-chronograph/p41-022-a01"
+        },
+        {
+          "slug": "p41-031-a01",
+          "text": "P41.031-A01 Praeludium Chronograph",
+          "url": "/staudt/praeludium-chronograph/p41-031-a01"
+        }
+      ]
+    },
+    {
+      "name": "Praeludium Automatic watches9",
+      "slug": "praeludium-automatic",
+      "references": [
+        {
+          "slug": "p21-011-a02",
+          "text": "P21.011-A02 Praeludium Automatic",
+          "url": "/staudt/praeludium-automatic/p21-011-a02"
+        },
+        {
+          "slug": "p21-022-a01",
+          "text": "P21.022-A01 Praeludium Automatic",
+          "url": "/staudt/praeludium-automatic/p21-022-a01"
+        },
+        {
+          "slug": "p21-031-a02",
+          "text": "P21.031-A02 Praeludium Automatic",
+          "url": "/staudt/praeludium-automatic/p21-031-a02"
+        },
+        {
+          "slug": "p21-022-a02",
+          "text": "P21.022-A02 Praeludium Automatic",
+          "url": "/staudt/praeludium-automatic/p21-022-a02"
+        },
+        {
+          "slug": "p21-031-a03",
+          "text": "P21.031-A03 Praeludium Automatic",
+          "url": "/staudt/praeludium-automatic/p21-031-a03"
+        },
+        {
+          "slug": "p21-031-a01",
+          "text": "P21.031-A01 Praeludium Automatic",
+          "url": "/staudt/praeludium-automatic/p21-031-a01"
+        },
+        {
+          "slug": "p21-011-a01",
+          "text": "P21.011-A01 Praeludium Automatic",
+          "url": "/staudt/praeludium-automatic/p21-011-a01"
+        },
+        {
+          "slug": "p21-011-a03",
+          "text": "P21.011-A03 Praeludium Automatic",
+          "url": "/staudt/praeludium-automatic/p21-011-a03"
+        },
+        {
+          "slug": "p21-022-a03",
+          "text": "P21.022-A03 Praeludium Automatic",
+          "url": "/staudt/praeludium-automatic/p21-022-a03"
+        }
+      ]
+    }
+  ],
+  "total_references": 53
+}

@@ -1,0 +1,48 @@
+{
+  "brand_slug": "crafter-blue",
+  "collections": [
+    {
+      "name": "Mechanic Ocean watches4",
+      "slug": "mechanic-ocean",
+      "references": [
+        {
+          "slug": "moss008-o-rb",
+          "text": "MOSS008.O.RB Mechanic Ocean 45MM MOSS008.O.RB",
+          "url": "/crafter-blue/mechanic-ocean/moss008-o-rb"
+        },
+        {
+          "slug": "moss008-o-r",
+          "text": "MOSS008.O.R Mechanic Ocean 45MM MOSS008.O.R",
+          "url": "/crafter-blue/mechanic-ocean/moss008-o-r"
+        },
+        {
+          "slug": "moss002-sb-rb",
+          "text": "MOSS002.SB.RB Mechanic Ocean 45MM MOSS002.SB.RB",
+          "url": "/crafter-blue/mechanic-ocean/moss002-sb-rb"
+        },
+        {
+          "slug": "moss002-sb-r",
+          "text": "MOSS002.SB.R Mechanic Ocean 45MM MOSS002.SB.R",
+          "url": "/crafter-blue/mechanic-ocean/moss002-sb-r"
+        }
+      ]
+    },
+    {
+      "name": "Hyperion Ocean watches2",
+      "slug": "hyperion-ocean",
+      "references": [
+        {
+          "slug": "hoss001-b-r",
+          "text": "HOSS001.B.R Hyperion Ocean 45MM HOSS001.B.R",
+          "url": "/crafter-blue/hyperion-ocean/hoss001-b-r"
+        },
+        {
+          "slug": "hoss001b-b-r",
+          "text": "HOSS001B.B.R Hyperion Ocean 45MM HOSS001B.B.R",
+          "url": "/crafter-blue/hyperion-ocean/hoss001b-b-r"
+        }
+      ]
+    }
+  ],
+  "total_references": 6
+}

@@ -1,0 +1,42 @@
+{
+  "brand_slug": "roger-dubuis",
+  "collections": [
+    {
+      "name": "Excalibur watches6",
+      "slug": "excalibur",
+      "references": [
+        {
+          "slug": "dbex0861",
+          "text": "DBEX0861 Excalibur Blacklight Rose Gold / Rainbow",
+          "url": "/roger-dubuis/excalibur/dbex0861"
+        },
+        {
+          "slug": "dbex0819",
+          "text": "DBEX0819 Excalibur Double Flying Tourbillon White Gold / Grey",
+          "url": "/roger-dubuis/excalibur/dbex0819"
+        },
+        {
+          "slug": "rddbex0844",
+          "text": "RDDBEX0844 Excalibur Knights of the Round Table Chinese Zodiac 24h",
+          "url": "/roger-dubuis/excalibur/rddbex0844"
+        },
+        {
+          "slug": "dbex0945",
+          "text": "DBEX0945 Excalibur Double Flying Tourbillon Rose Gold / Blue",
+          "url": "/roger-dubuis/excalibur/dbex0945"
+        },
+        {
+          "slug": "dbex0920",
+          "text": "DBEX0920 Excalibur Double Flying Tourbillon Rose Gold / Pink",
+          "url": "/roger-dubuis/excalibur/dbex0920"
+        },
+        {
+          "slug": "dbex0822",
+          "text": "DBEX0822 Excalibur Double Flying Tourbillon Rose Gold / Grey / Diamond",
+          "url": "/roger-dubuis/excalibur/dbex0822"
+        }
+      ]
+    }
+  ],
+  "total_references": 6
+}

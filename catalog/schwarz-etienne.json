@@ -1,0 +1,245 @@
+{
+  "brand_slug": "schwarz-etienne",
+  "collections": [
+    {
+      "name": "Roma watches20",
+      "slug": "roma",
+      "references": [
+        {
+          "slug": "wro17ma27rb21aa",
+          "text": "WRO17MA27RB21AA Roma GMT Rose Gold / Silver",
+          "url": "/schwarz-etienne/roma/wro17ma27rb21aa"
+        },
+        {
+          "slug": "wrovma43sscubcltd-a",
+          "text": "WROVMA43SSCUBCLTD-A Roma Synergy by Kari Voutilainen Stainless Steel / Silver",
+          "url": "/schwarz-etienne/roma/wrovma43sscubcltd-a"
+        },
+        {
+          "slug": "wfi04ma01rbw01-a",
+          "text": "WFI04MA01RBW01-A Fiji Floral Seconds Serti Joaillerie",
+          "url": "/schwarz-etienne/roma/wfi04ma01rbw01-a"
+        },
+        {
+          "slug": "wro16ms24ss01aa",
+          "text": "WRO16MS24SS01AA Roma Power Reserve Stainless Steel / Silver",
+          "url": "/schwarz-etienne/roma/wro16ms24ss01aa"
+        },
+        {
+          "slug": "wfi01ma16ssw25-a",
+          "text": "WFI01MA16SSW25-A Fiji Floral Seconds Serti Couture",
+          "url": "/schwarz-etienne/roma/wfi01ma16ssw25-a"
+        },
+        {
+          "slug": "wro15ms26ss01aa",
+          "text": "WRO15MS26SS01AA Roma Small Seconds Stainless Steel / Black",
+          "url": "/schwarz-etienne/roma/wro15ms26ss01aa"
+        },
+        {
+          "slug": "wrovma03sscubcltd-a",
+          "text": "WROVMA03SSCUBCLTD-A Roma Synergy by Kari Voutilainen Stainless Steel / Royal Blue",
+          "url": "/schwarz-etienne/roma/wrovma03sscubcltd-a"
+        },
+        {
+          "slug": "wro15ma25ss01aa",
+          "text": "WRO15MA25SS01AA Roma Small Seconds Automatic Stainless Steel / Silver",
+          "url": "/schwarz-etienne/roma/wro15ma25ss01aa"
+        },
+        {
+          "slug": "wro17ma24ss01aa",
+          "text": "WRO17MA24SS01AA Roma GMT Stainless Steel / Silver",
+          "url": "/schwarz-etienne/roma/wro17ma24ss01aa"
+        },
+        {
+          "slug": "wro17ma31rb01aa",
+          "text": "WRO17MA31RB01AA Roma GMT Rose Gold / Black",
+          "url": "/schwarz-etienne/roma/wro17ma31rb01aa"
+        },
+        {
+          "slug": "wro15ms24ss01aa",
+          "text": "WRO15MS24SS01AA Roma Small Seconds Stainless Steel / Silver",
+          "url": "/schwarz-etienne/roma/wro15ms24ss01aa"
+        },
+        {
+          "slug": "wro16ms26ss01aa",
+          "text": "WRO16MS26SS01AA Roma Power Reserve Stainless Steel / Black",
+          "url": "/schwarz-etienne/roma/wro16ms26ss01aa"
+        },
+        {
+          "slug": "wro16ms27rb21aa",
+          "text": "WRO16MS27RB21AA Roma Power Reserve Rose Gold / Silver",
+          "url": "/schwarz-etienne/roma/wro16ms27rb21aa"
+        },
+        {
+          "slug": "wro16ms31rb01aa",
+          "text": "WRO16MS31RB01AA Roma Power Reserve Rose Gold / Black",
+          "url": "/schwarz-etienne/roma/wro16ms31rb01aa"
+        },
+        {
+          "slug": "wro15ms27rb21aa",
+          "text": "WRO15MS27RB21AA Roma Small Seconds Rose Gold / Silver",
+          "url": "/schwarz-etienne/roma/wro15ms27rb21aa"
+        },
+        {
+          "slug": "wfi15ma01ss01aa",
+          "text": "WFI15MA01SS01AA Fiji Floral Seconds Stainless Steel / Black",
+          "url": "/schwarz-etienne/roma/wfi15ma01ss01aa"
+        },
+        {
+          "slug": "wro17ma26ss01aa",
+          "text": "WRO17MA26SS01AA Roma GMT Stainless Steel / Black",
+          "url": "/schwarz-etienne/roma/wro17ma26ss01aa"
+        },
+        {
+          "slug": "wfi04ma16rb13-a",
+          "text": "WFI04MA16RB13-A Fiji Floral Seconds Serti Aurum",
+          "url": "/schwarz-etienne/roma/wfi04ma16rb13-a"
+        },
+        {
+          "slug": "wro15ma27rb21aa",
+          "text": "WRO15MA27RB21AA Roma Small Seconds Automatic Rose Gold / Silver",
+          "url": "/schwarz-etienne/roma/wro15ma27rb21aa"
+        },
+        {
+          "slug": "wfi15ma08ss04aa",
+          "text": "WFI15MA08SS04AA Fiji Floral Seconds Stainless Steel / Salmon",
+          "url": "/schwarz-etienne/roma/wfi15ma08ss04aa"
+        }
+      ]
+    },
+    {
+      "name": "Special Editions watches11",
+      "slug": "special-editions",
+      "references": [
+        {
+          "slug": "wcf09tseprwg10aa-a",
+          "text": "WCF09TSEPRWG10AA-A Ode au Printemps / White Gold",
+          "url": "/schwarz-etienne/special-editions/wcf09tseprwg10aa-a"
+        },
+        {
+          "slug": "wcf20tjturb21aa",
+          "text": "WCF20TJTURB21AA Ode à la Semaine / Tuesday",
+          "url": "/schwarz-etienne/special-editions/wcf20tjturb21aa"
+        },
+        {
+          "slug": "wrw20tjprrc01aa-a",
+          "text": "WRW20TJPRRC01AA-A Ode au Printemps / Red Gold",
+          "url": "/schwarz-etienne/special-editions/wrw20tjprrc01aa-a"
+        },
+        {
+          "slug": "wcf20tjmowg01aa",
+          "text": "WCF20TJMOWG01AA Ode à la Semaine / Monday",
+          "url": "/schwarz-etienne/special-editions/wcf20tjmowg01aa"
+        },
+        {
+          "slug": "wcf20tjwewg01aa",
+          "text": "WCF20TJWEWG01AA Ode à la Semaine / Wednesday",
+          "url": "/schwarz-etienne/special-editions/wcf20tjwewg01aa"
+        },
+        {
+          "slug": "wcf09tse70ieswg03aa-a",
+          "text": "WCF09TSE70IESWG03AA-A Ode to the 70's",
+          "url": "/schwarz-etienne/special-editions/wcf09tse70ieswg03aa-a"
+        },
+        {
+          "slug": "wcf22tseprrb21aa-a",
+          "text": "WCF22TSEPRRB21AA-A Ode au Printemps / Rose Gold",
+          "url": "/schwarz-etienne/special-editions/wcf22tseprrb21aa-a"
+        },
+        {
+          "slug": "wcf20tjthrb21aa",
+          "text": "WCF20TJTHRB21AA Ode à la Semaine / Thursday",
+          "url": "/schwarz-etienne/special-editions/wcf20tjthrb21aa"
+        },
+        {
+          "slug": "wcf20tjfrwg01aa",
+          "text": "WCF20TJFRWG01AA Ode à la Semaine / Friday",
+          "url": "/schwarz-etienne/special-editions/wcf20tjfrwg01aa"
+        },
+        {
+          "slug": "wcf20tjsunrb21aa",
+          "text": "WCF20TJSUNRB21AA Ode à la Semaine / Sunday",
+          "url": "/schwarz-etienne/special-editions/wcf20tjsunrb21aa"
+        },
+        {
+          "slug": "wcf20tjsarb21aa",
+          "text": "WCF20TJSARB21AA Ode à la Semaine / Saturday",
+          "url": "/schwarz-etienne/special-editions/wcf20tjsarb21aa"
+        }
+      ]
+    },
+    {
+      "name": "La Chaux-de-Fonds watches8",
+      "slug": "la-chaux-de-fonds",
+      "references": [
+        {
+          "slug": "wcf22tse06rb21aa",
+          "text": "WCF22TSE06RB21AA La Chaux-de-Fonds Petite Seconde Rétrograde Tourbillon Red Gold / Hermatite Specularite",
+          "url": "/schwarz-etienne/la-chaux-de-fonds/wcf22tse06rb21aa"
+        },
+        {
+          "slug": "wcf09tse16ss04aa",
+          "text": "WCF09TSE16SS04AA La Chaux-de-Fonds Flying Tourbillon Stainless Steel / Silver",
+          "url": "/schwarz-etienne/la-chaux-de-fonds/wcf09tse16ss04aa"
+        },
+        {
+          "slug": "wcf09tse06rb21aa",
+          "text": "WCF09TSE06RB21AA La Chaux-de-Fonds Flying Tourbillon Red Gold / Grey",
+          "url": "/schwarz-etienne/la-chaux-de-fonds/wcf09tse06rb21aa"
+        },
+        {
+          "slug": "wcf22tse03wg01aa",
+          "text": "WCF22TSE03WG01AA La Chaux-de-Fonds Petite Seconde Rétrograde Tourbillon White Gold / Blue Opal",
+          "url": "/schwarz-etienne/la-chaux-de-fonds/wcf22tse03wg01aa"
+        },
+        {
+          "slug": "wcf09tse06ss01aa",
+          "text": "WCF09TSE06SS01AA La Chaux-de-Fonds Flying Tourbillon Stainless Steel / Grey",
+          "url": "/schwarz-etienne/la-chaux-de-fonds/wcf09tse06ss01aa"
+        },
+        {
+          "slug": "wcf22tse06ss01aa",
+          "text": "WCF22TSE06SS01AA La Chaux-de-Fonds Petite Seconde Rétrograde Tourbillon Stainless Steel / Green Aventurine",
+          "url": "/schwarz-etienne/la-chaux-de-fonds/wcf22tse06ss01aa"
+        },
+        {
+          "slug": "wcf22tse03ss01aa",
+          "text": "WCF22TSE03SS01AA La Chaux-de-Fonds Petite Seconde Rétrograde Tourbillon White Gold / Turquoise Lapis Lazuli",
+          "url": "/schwarz-etienne/la-chaux-de-fonds/wcf22tse03ss01aa"
+        },
+        {
+          "slug": "wcf09tse06wg04aa",
+          "text": "WCF09TSE06WG04AA La Chaux-de-Fonds Flying Tourbillon White Gold / Grey",
+          "url": "/schwarz-etienne/la-chaux-de-fonds/wcf09tse06wg04aa"
+        }
+      ]
+    },
+    {
+      "name": "Roswell watches4",
+      "slug": "roswell",
+      "references": [
+        {
+          "slug": "wrw20tj01ss01aa",
+          "text": "WRW20TJ01SS01AA Roswell Stainless Steel / Black",
+          "url": "/schwarz-etienne/roswell/wrw20tj01ss01aa"
+        },
+        {
+          "slug": "wrw20tj40ss01aa",
+          "text": "WRW20TJ40SS01AA Roswell Voyage Stainless Steel / Black",
+          "url": "/schwarz-etienne/roswell/wrw20tj40ss01aa"
+        },
+        {
+          "slug": "wrw20tj16ss04aa",
+          "text": "WRW20TJ16SS04AA Roswell Stainless Steel / Silver",
+          "url": "/schwarz-etienne/roswell/wrw20tj16ss04aa"
+        },
+        {
+          "slug": "wrw11tj32ss21aa",
+          "text": "WRW11TJ32SS21AA Roswell 08 Stainless Steel / Tobacco",
+          "url": "/schwarz-etienne/roswell/wrw11tj32ss21aa"
+        }
+      ]
+    }
+  ],
+  "total_references": 43
+}

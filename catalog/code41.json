@@ -1,0 +1,468 @@
+{
+  "brand_slug": "code41",
+  "collections": [
+    {
+      "name": "Anomaly-02 watches45",
+      "slug": "anomaly-02",
+      "references": [
+        {
+          "slug": "an02-in-sil-st-br",
+          "text": "AN02-IN-SIL-ST-BR Anomaly-02 Stainless Steel / Silver",
+          "url": "/code41/anomaly-02/an02-in-sil-st-br"
+        },
+        {
+          "slug": "an02-in-sil-st-alig-bk",
+          "text": "AN02-IN-SIL-ST-ALIG-BK Anomaly-02 Stainless Steel / Silver",
+          "url": "/code41/anomaly-02/an02-in-sil-st-alig-bk"
+        },
+        {
+          "slug": "an02-bk-st-alig-bk",
+          "text": "AN02-BK-ST-ALIG-BK Anomaly-02 Black PVD / Black",
+          "url": "/code41/anomaly-02/an02-bk-st-alig-bk"
+        },
+        {
+          "slug": "an02-in-sil-st-met-in",
+          "text": "AN02-IN-SIL-ST-MET-IN Anomaly-02 Stainless Steel / Silver",
+          "url": "/code41/anomaly-02/an02-in-sil-st-met-in"
+        },
+        {
+          "slug": "an02-ca-st-bk",
+          "text": "AN02-CA-ST-BK Anomaly-02 Forged Carbon / Black",
+          "url": "/code41/anomaly-02/an02-ca-st-bk"
+        },
+        {
+          "slug": "an02-in-sil-st-lea-cou-sp",
+          "text": "AN02-IN-SIL-ST-LEA-COU-SP Anomaly-02 Stainless Steel / Silver",
+          "url": "/code41/anomaly-02/an02-in-sil-st-lea-cou-sp"
+        },
+        {
+          "slug": "an02-bk-st-met-bk",
+          "text": "AN02-BK-ST-MET-BK Anomaly-02 Black PVD / Black",
+          "url": "/code41/anomaly-02/an02-bk-st-met-bk"
+        },
+        {
+          "slug": "an02-ca-st-lea-cou-sp",
+          "text": "AN02-CA-ST-LEA-COU-SP Anomaly-02 Forged Carbon / Black",
+          "url": "/code41/anomaly-02/an02-ca-st-lea-cou-sp"
+        },
+        {
+          "slug": "an02-in-bk-st-met-in",
+          "text": "AN02-IN-BK-ST-MET-IN Anomaly-02 Stainless Steel / Black",
+          "url": "/code41/anomaly-02/an02-in-bk-st-met-in"
+        },
+        {
+          "slug": "an02-ca-st-lea-per-cou-sp",
+          "text": "AN02-CA-ST-LEA-PER-COU-SP Anomaly-02 Forged Carbon / Black",
+          "url": "/code41/anomaly-02/an02-ca-st-lea-per-cou-sp"
+        },
+        {
+          "slug": "an02-br-st-alig-br",
+          "text": "AN02-BR-ST-ALIG-BR Anomaly-02 Brown PVD / Brown",
+          "url": "/code41/anomaly-02/an02-br-st-alig-br"
+        },
+        {
+          "slug": "an02-in-bk-st-cou-vb",
+          "text": "AN02-IN-BK-ST-COU-VB Anomaly-02 Stainless Steel / Black",
+          "url": "/code41/anomaly-02/an02-in-bk-st-cou-vb"
+        },
+        {
+          "slug": "an02-bk-st-lea-cou-sp",
+          "text": "AN02-BK-ST-LEA-COU-SP Anomaly-02 Black PVD / Black",
+          "url": "/code41/anomaly-02/an02-bk-st-lea-cou-sp"
+        },
+        {
+          "slug": "an02-in-bk-st-bk",
+          "text": "AN02-IN-BK-ST-BK Anomaly-02 Stainless Steel / Black",
+          "url": "/code41/anomaly-02/an02-in-bk-st-bk"
+        },
+        {
+          "slug": "an02-br-st-br",
+          "text": "AN02-BR-ST-BR Anomaly-02 Brown PVD / Brown",
+          "url": "/code41/anomaly-02/an02-br-st-br"
+        },
+        {
+          "slug": "an02-in-sil-st-cou-vb",
+          "text": "AN02-IN-SIL-ST-COU-VB Anomaly-02 Stainless Steel / Silver",
+          "url": "/code41/anomaly-02/an02-in-sil-st-cou-vb"
+        },
+        {
+          "slug": "an02-in-sil-st-per-bk",
+          "text": "AN02-IN-SIL-ST-PER-BK Anomaly-02 Stainless Steel / Silver",
+          "url": "/code41/anomaly-02/an02-in-sil-st-per-bk"
+        },
+        {
+          "slug": "an02-br-st-per-be",
+          "text": "AN02-BR-ST-PER-BE Anomaly-02 Brown PVD / Brown",
+          "url": "/code41/anomaly-02/an02-br-st-per-be"
+        },
+        {
+          "slug": "an02-br-st-cou-vb",
+          "text": "AN02-BR-ST-COU-VB Anomaly-02 Brown PVD / Brown",
+          "url": "/code41/anomaly-02/an02-br-st-cou-vb"
+        },
+        {
+          "slug": "an02-br-st-per-bk",
+          "text": "AN02-BR-ST-PER-BK Anomaly-02 Brown PVD / Brown",
+          "url": "/code41/anomaly-02/an02-br-st-per-bk"
+        },
+        {
+          "slug": "an02-br-st-per-br",
+          "text": "AN02-BR-ST-PER-BR Anomaly-02 Brown PVD / Brown",
+          "url": "/code41/anomaly-02/an02-br-st-per-br"
+        },
+        {
+          "slug": "an02-bk-st-bk",
+          "text": "AN02-BK-ST-BK Anomaly-02 Black PVD / Black",
+          "url": "/code41/anomaly-02/an02-bk-st-bk"
+        },
+        {
+          "slug": "an02-br-st-met-br-1",
+          "text": "AN02-BR-ST-MET-BR-1 Anomaly-02 Brown PVD / Brown",
+          "url": "/code41/anomaly-02/an02-br-st-met-br-1"
+        },
+        {
+          "slug": "an02-ca-st-alig-bk",
+          "text": "AN02-CA-ST-ALIG-BK Anomaly-02 Forged Carbon / Black",
+          "url": "/code41/anomaly-02/an02-ca-st-alig-bk"
+        },
+        {
+          "slug": "an02-ca-st-per-bk",
+          "text": "AN02-CA-ST-PER-BK Anomaly-02 Forged Carbon / Black",
+          "url": "/code41/anomaly-02/an02-ca-st-per-bk"
+        },
+        {
+          "slug": "an02-ca-st-per-br",
+          "text": "AN02-CA-ST-PER-BR Anomaly-02 Forged Carbon / Black",
+          "url": "/code41/anomaly-02/an02-ca-st-per-br"
+        },
+        {
+          "slug": "an02-ca-st-per-be",
+          "text": "AN02-CA-ST-PER-BE Anomaly-02 Forged Carbon / Black",
+          "url": "/code41/anomaly-02/an02-ca-st-per-be"
+        },
+        {
+          "slug": "an02-ca-st-met-bk",
+          "text": "AN02-CA-ST-MET-BK Anomaly-02 Forged Carbon / Black",
+          "url": "/code41/anomaly-02/an02-ca-st-met-bk"
+        },
+        {
+          "slug": "an02-in-sil-st-bk",
+          "text": "AN02-IN-SIL-ST-BK Anomaly-02 Stainless Steel / Silver",
+          "url": "/code41/anomaly-02/an02-in-sil-st-bk"
+        },
+        {
+          "slug": "an02-in-bk-st-br",
+          "text": "AN02-IN-BK-ST-BR Anomaly-02 Stainless Steel / Black",
+          "url": "/code41/anomaly-02/an02-in-bk-st-br"
+        },
+        {
+          "slug": "an02-in-bk-st-alig-bk",
+          "text": "AN02-IN-BK-ST-ALIG-BK Anomaly-02 Stainless Steel / Black",
+          "url": "/code41/anomaly-02/an02-in-bk-st-alig-bk"
+        },
+        {
+          "slug": "an02-in-bk-st-alig-br",
+          "text": "AN02-IN-BK-ST-ALIG-BR Anomaly-02 Stainless Steel / Black",
+          "url": "/code41/anomaly-02/an02-in-bk-st-alig-br"
+        },
+        {
+          "slug": "an02-in-bk-st-lea-cou-sp",
+          "text": "AN02-IN-BK-ST-LEA-COU-SP Anomaly-02 Stainless Steel / Black",
+          "url": "/code41/anomaly-02/an02-in-bk-st-lea-cou-sp"
+        },
+        {
+          "slug": "an02-in-bk-st-per-bk",
+          "text": "AN02-IN-BK-ST-PER-BK Anomaly-02 Stainless Steel / Black",
+          "url": "/code41/anomaly-02/an02-in-bk-st-per-bk"
+        },
+        {
+          "slug": "an02-in-bk-st-per-br",
+          "text": "AN02-IN-BK-ST-PER-BR Anomaly-02 Stainless Steel / Black",
+          "url": "/code41/anomaly-02/an02-in-bk-st-per-br"
+        },
+        {
+          "slug": "an02-in-bk-st-per-be",
+          "text": "AN02-IN-BK-ST-PER-BE Anomaly-02 Stainless Steel / Black",
+          "url": "/code41/anomaly-02/an02-in-bk-st-per-be"
+        },
+        {
+          "slug": "an02-in-bk-st-lea-per-cou-sp",
+          "text": "AN02-IN-BK-ST-LEA-PER-COU-SP Anomaly-02 Stainless Steel / Black",
+          "url": "/code41/anomaly-02/an02-in-bk-st-lea-per-cou-sp"
+        },
+        {
+          "slug": "an02-bk-st-lea-per-cou-sp",
+          "text": "AN02-BK-ST-LEA-PER-COU-SP Anomaly-02 Black PVD / Black",
+          "url": "/code41/anomaly-02/an02-bk-st-lea-per-cou-sp"
+        },
+        {
+          "slug": "an02-in-sil-st-alig-br",
+          "text": "AN02-IN-SIL-ST-ALIG-BR Anomaly-02 Stainless Steel / Silver",
+          "url": "/code41/anomaly-02/an02-in-sil-st-alig-br"
+        },
+        {
+          "slug": "an02-in-sil-st-per-br",
+          "text": "AN02-IN-SIL-ST-PER-BR Anomaly-02 Stainless Steel / Silver",
+          "url": "/code41/anomaly-02/an02-in-sil-st-per-br"
+        },
+        {
+          "slug": "an02-in-sil-st-per-be",
+          "text": "AN02-IN-SIL-ST-PER-BE Anomaly-02 Stainless Steel / Silver",
+          "url": "/code41/anomaly-02/an02-in-sil-st-per-be"
+        },
+        {
+          "slug": "an02-in-sil-st-lea-per-cou-sp",
+          "text": "AN02-IN-SIL-ST-LEA-PER-COU-SP Anomaly-02 Stainless Steel / Silver",
+          "url": "/code41/anomaly-02/an02-in-sil-st-lea-per-cou-sp"
+        },
+        {
+          "slug": "an02-bk-st-per-bk",
+          "text": "AN02-BK-ST-PER-BK Anomaly-02 Black PVD / Black",
+          "url": "/code41/anomaly-02/an02-bk-st-per-bk"
+        },
+        {
+          "slug": "an02-bk-st-per-br",
+          "text": "AN02-BK-ST-PER-BR Anomaly-02 Black PVD / Black",
+          "url": "/code41/anomaly-02/an02-bk-st-per-br"
+        },
+        {
+          "slug": "an02-bk-st-per-be",
+          "text": "AN02-BK-ST-PER-BE Anomaly-02 Black PVD / Black",
+          "url": "/code41/anomaly-02/an02-bk-st-per-be"
+        }
+      ]
+    },
+    {
+      "name": "Anomaly-01 watches45",
+      "slug": "anomaly-01",
+      "references": [
+        {
+          "slug": "an01-bk-st-met-bk",
+          "text": "AN01-BK-ST-MET-BK Anomaly-01 Black PVD / Black",
+          "url": "/code41/anomaly-01/an01-bk-st-met-bk"
+        },
+        {
+          "slug": "an01-in-bk-st-met-in",
+          "text": "AN01-IN-BK-ST-MET-IN Anomaly-01 Stainless Steel / Black",
+          "url": "/code41/anomaly-01/an01-in-bk-st-met-in"
+        },
+        {
+          "slug": "an01-ca-st-alig-bk",
+          "text": "AN01-CA-ST-ALIG-BK Anomaly-01 Forged Carbon / Black",
+          "url": "/code41/anomaly-01/an01-ca-st-alig-bk"
+        },
+        {
+          "slug": "an01-br-st-cou-vb",
+          "text": "AN01-BR-ST-COU-VB Anomaly-01 Brown PVD / Brown",
+          "url": "/code41/anomaly-01/an01-br-st-cou-vb"
+        },
+        {
+          "slug": "an01-in-sil-st-br",
+          "text": "AN01-IN-SIL-ST-BR Anomaly-01 Stainless Steel / Silver",
+          "url": "/code41/anomaly-01/an01-in-sil-st-br"
+        },
+        {
+          "slug": "an01-ca-st-per-be",
+          "text": "AN01-CA-ST-PER-BE Anomaly-01 Forged Carbon / Black",
+          "url": "/code41/anomaly-01/an01-ca-st-per-be"
+        },
+        {
+          "slug": "an01-br-st-alig-br",
+          "text": "AN01-BR-ST-ALIG-BR Anomaly-01 Brown PVD / Brown",
+          "url": "/code41/anomaly-01/an01-br-st-alig-br"
+        },
+        {
+          "slug": "an01-bk-st-per-be",
+          "text": "AN01-BK-ST-PER-BE Anomaly-01 Black PVD / Black",
+          "url": "/code41/anomaly-01/an01-bk-st-per-be"
+        },
+        {
+          "slug": "an01-in-sil-st-per-bk",
+          "text": "AN01-IN-SIL-ST-PER-BK Anomaly-01 Stainless Steel / Silver",
+          "url": "/code41/anomaly-01/an01-in-sil-st-per-bk"
+        },
+        {
+          "slug": "an01-bk-st-lea-per-cou-sp",
+          "text": "AN01-BK-ST-LEA-PER-COU-SP Anomaly-01 Black PVD / Black",
+          "url": "/code41/anomaly-01/an01-bk-st-lea-per-cou-sp"
+        },
+        {
+          "slug": "an01-in-bk-st-per-br",
+          "text": "AN01-IN-BK-ST-PER-BR Anomaly-01 Stainless Steel / Black",
+          "url": "/code41/anomaly-01/an01-in-bk-st-per-br"
+        },
+        {
+          "slug": "an01-br-st-met-br",
+          "text": "AN01-BR-ST-MET-BR Anomaly-01 Brown PVD / Brown",
+          "url": "/code41/anomaly-01/an01-br-st-met-br"
+        },
+        {
+          "slug": "an01-bk-st-alig-bk",
+          "text": "AN01-BK-ST-ALIG-BK Anomaly-01 Black PVD / Black",
+          "url": "/code41/anomaly-01/an01-bk-st-alig-bk"
+        },
+        {
+          "slug": "an01-br-st-br",
+          "text": "AN01-BR-ST-BR Anomaly-01 Brown PVD / Brown",
+          "url": "/code41/anomaly-01/an01-br-st-br"
+        },
+        {
+          "slug": "an01-ca-st-per-bk",
+          "text": "AN01-CA-ST-PER-BK Anomaly-01 Forged Carbon / Black",
+          "url": "/code41/anomaly-01/an01-ca-st-per-bk"
+        },
+        {
+          "slug": "an01-in-bk-st-br",
+          "text": "AN01-IN-BK-ST-BR Anomaly-01 Stainless Steel / Black",
+          "url": "/code41/anomaly-01/an01-in-bk-st-br"
+        },
+        {
+          "slug": "an01-bk-st-lea-cou-sp",
+          "text": "AN01-BK-ST-LEA-COU-SP Anomaly-01 Black PVD / Black",
+          "url": "/code41/anomaly-01/an01-bk-st-lea-cou-sp"
+        },
+        {
+          "slug": "an01-br-st-per-br",
+          "text": "AN01-BR-ST-PER-BR Anomaly-01 Brown PVD / Brown",
+          "url": "/code41/anomaly-01/an01-br-st-per-br"
+        },
+        {
+          "slug": "an01-ca-st-per-br",
+          "text": "AN01-CA-ST-PER-BR Anomaly-01 Forged Carbon / Black",
+          "url": "/code41/anomaly-01/an01-ca-st-per-br"
+        },
+        {
+          "slug": "an01-ca-st-lea-per-cou-sp",
+          "text": "AN01-CA-ST-LEA-PER-COU-SP Anomaly-01 Forged Carbon / Black",
+          "url": "/code41/anomaly-01/an01-ca-st-lea-per-cou-sp"
+        },
+        {
+          "slug": "an01-bk-st-per-br-1",
+          "text": "AN01-BK-ST-PER-BR-1 Anomaly-01 Black PVD / Black",
+          "url": "/code41/anomaly-01/an01-bk-st-per-br-1"
+        },
+        {
+          "slug": "an01-ca-st-met-bk",
+          "text": "AN01-CA-ST-MET-BK Anomaly-01 Forged Carbon / Black",
+          "url": "/code41/anomaly-01/an01-ca-st-met-bk"
+        },
+        {
+          "slug": "an01-in-sil-st-met-in",
+          "text": "AN01-IN-SIL-ST-MET-IN Anomaly-01 Stainless Steel / Silver",
+          "url": "/code41/anomaly-01/an01-in-sil-st-met-in"
+        },
+        {
+          "slug": "an01-in-bk-st-alig-bk",
+          "text": "AN01-IN-BK-ST-ALIG-BK Anomaly-01 Stainless Steel / Black",
+          "url": "/code41/anomaly-01/an01-in-bk-st-alig-bk"
+        },
+        {
+          "slug": "an01-in-sil-st-lea-cou-sp",
+          "text": "AN01-IN-SIL-ST-LEA-COU-SP Anomaly-01 Stainless Steel / Silver",
+          "url": "/code41/anomaly-01/an01-in-sil-st-lea-cou-sp"
+        },
+        {
+          "slug": "an01-in-sil-st-cou-vb",
+          "text": "AN01-IN-SIL-ST-COU-VB Anomaly-01 Stainless Steel / Silver",
+          "url": "/code41/anomaly-01/an01-in-sil-st-cou-vb"
+        },
+        {
+          "slug": "an01-in-bk-st-lea-per-cou-sp",
+          "text": "AN01-IN-BK-ST-LEA-PER-COU-SP Anomaly-01 Stainless Steel / Black",
+          "url": "/code41/anomaly-01/an01-in-bk-st-lea-per-cou-sp"
+        },
+        {
+          "slug": "an01-in-bk-st-bk",
+          "text": "AN01-IN-BK-ST-BK. Anomaly-01 Stainless Steel / Black",
+          "url": "/code41/anomaly-01/an01-in-bk-st-bk"
+        },
+        {
+          "slug": "an01-bk-st-bk",
+          "text": "AN01-BK-ST-BK Anomaly-01 Black PVD / Black",
+          "url": "/code41/anomaly-01/an01-bk-st-bk"
+        },
+        {
+          "slug": "an01-ca-st-lea-cou-sp",
+          "text": "AN01-CA-ST-LEA-COU-SP Anomaly-01 Forged Carbon / Black",
+          "url": "/code41/anomaly-01/an01-ca-st-lea-cou-sp"
+        },
+        {
+          "slug": "an01-in-bk-st-alig-br",
+          "text": "AN01-IN-BK-ST-ALIG-BR Anomaly-01 Stainless Steel / Black",
+          "url": "/code41/anomaly-01/an01-in-bk-st-alig-br"
+        },
+        {
+          "slug": "an01-in-bk-st-cou-vb",
+          "text": "AN01-IN-BK-ST-COU-VB Anomaly-01 Stainless Steel / Black",
+          "url": "/code41/anomaly-01/an01-in-bk-st-cou-vb"
+        },
+        {
+          "slug": "an01-in-bk-st-lea-cou-sp",
+          "text": "AN01-IN-BK-ST-LEA-COU-SP Anomaly-01 Stainless Steel / Black",
+          "url": "/code41/anomaly-01/an01-in-bk-st-lea-cou-sp"
+        },
+        {
+          "slug": "an01-in-bk-st-per-bk",
+          "text": "AN01-IN-BK-ST-PER-BK Anomaly-01 Stainless Steel / Black",
+          "url": "/code41/anomaly-01/an01-in-bk-st-per-bk"
+        },
+        {
+          "slug": "an01-ca-st-bk",
+          "text": "AN01-CA-ST-BK Anomaly-01 Forged Carbon / Black",
+          "url": "/code41/anomaly-01/an01-ca-st-bk"
+        },
+        {
+          "slug": "an01-in-bk-st-per-be",
+          "text": "AN01-IN-BK-ST-PER-BE Anomaly-01 Stainless Steel / Black",
+          "url": "/code41/anomaly-01/an01-in-bk-st-per-be"
+        },
+        {
+          "slug": "an01-br-st-per-be",
+          "text": "AN01-BR-ST-PER-BE Anomaly-01 Brown PVD / Brown",
+          "url": "/code41/anomaly-01/an01-br-st-per-be"
+        },
+        {
+          "slug": "an01-br-st-per-bk",
+          "text": "AN01-BR-ST-PER-BK Anomaly-01 Brown PVD / Brown",
+          "url": "/code41/anomaly-01/an01-br-st-per-bk"
+        },
+        {
+          "slug": "an01-in-sil-st-bk",
+          "text": "AN01-IN-SIL-ST-BK Anomaly-01 Stainless Steel / Silver",
+          "url": "/code41/anomaly-01/an01-in-sil-st-bk"
+        },
+        {
+          "slug": "an01-in-sil-st-alig-bk",
+          "text": "AN01-IN-SIL-ST-ALIG-BK Anomaly-01 Stainless Steel / Silver",
+          "url": "/code41/anomaly-01/an01-in-sil-st-alig-bk"
+        },
+        {
+          "slug": "an01-in-sil-st-alig-br",
+          "text": "AN01-IN-SIL-ST-ALIG-BR Anomaly-01 Stainless Steel / Silver",
+          "url": "/code41/anomaly-01/an01-in-sil-st-alig-br"
+        },
+        {
+          "slug": "an01-bk-st-per-br",
+          "text": "AN01-BK-ST-PER-BR Anomaly-01 Black PVD / Black",
+          "url": "/code41/anomaly-01/an01-bk-st-per-br"
+        },
+        {
+          "slug": "an01-in-sil-st-per-br",
+          "text": "AN01-IN-SIL-ST-PER-BR Anomaly-01 Stainless Steel / Silver",
+          "url": "/code41/anomaly-01/an01-in-sil-st-per-br"
+        },
+        {
+          "slug": "an01-in-sil-st-per-be",
+          "text": "AN01-IN-SIL-ST-PER-BE Anomaly-01 Stainless Steel / Silver",
+          "url": "/code41/anomaly-01/an01-in-sil-st-per-be"
+        },
+        {
+          "slug": "an01-in-sil-st-lea-per-cou-sp",
+          "text": "AN01-IN-SIL-ST-LEA-PER-COU-SP Anomaly-01 Stainless Steel / Silver",
+          "url": "/code41/anomaly-01/an01-in-sil-st-lea-per-cou-sp"
+        }
+      ]
+    }
+  ],
+  "total_references": 90
+}

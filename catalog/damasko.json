@@ -1,0 +1,464 @@
+{
+  "brand_slug": "damasko",
+  "collections": [
+    {
+      "name": "Three-hand Models watches51",
+      "slug": "three-hand-models",
+      "references": [
+        {
+          "slug": "dh2-0",
+          "text": "DH2.0 DH2.0",
+          "url": "/damasko/three-hand-models/dh2-0"
+        },
+        {
+          "slug": "da343",
+          "text": "DA343 DA 343",
+          "url": "/damasko/three-hand-models/da343"
+        },
+        {
+          "slug": "ds30",
+          "text": "DS30 DS30",
+          "url": "/damasko/three-hand-models/ds30"
+        },
+        {
+          "slug": "dk10.black",
+          "text": "DK10 DK 10 Black",
+          "url": "/damasko/three-hand-models/dk10.black"
+        },
+        {
+          "slug": "da43-black",
+          "text": "DA43.black DA 43 Black",
+          "url": "/damasko/three-hand-models/da43-black"
+        },
+        {
+          "slug": "dk15.black",
+          "text": "DK15 DK 15 Black",
+          "url": "/damasko/three-hand-models/dk15.black"
+        },
+        {
+          "slug": "dk11",
+          "text": "DK11 DK 11",
+          "url": "/damasko/three-hand-models/dk11"
+        },
+        {
+          "slug": "ds30-blue",
+          "text": "DS30.blue DS30.blue",
+          "url": "/damasko/three-hand-models/ds30-blue"
+        },
+        {
+          "slug": "da45",
+          "text": "DA45 DA 45",
+          "url": "/damasko/three-hand-models/da45"
+        },
+        {
+          "slug": "da373",
+          "text": "DA373 DA 373",
+          "url": "/damasko/three-hand-models/da373"
+        },
+        {
+          "slug": "da34",
+          "text": "DA34 DA 34",
+          "url": "/damasko/three-hand-models/da34"
+        },
+        {
+          "slug": "da45-black",
+          "text": "DA45.black DA 45 Black",
+          "url": "/damasko/three-hand-models/da45-black"
+        },
+        {
+          "slug": "da47-black",
+          "text": "DA47.black DA 47 Black",
+          "url": "/damasko/three-hand-models/da47-black"
+        },
+        {
+          "slug": "da353-black",
+          "text": "DA353.black DA 353 Black",
+          "url": "/damasko/three-hand-models/da353-black"
+        },
+        {
+          "slug": "da37-black",
+          "text": "DA37.black DA 37 Black",
+          "url": "/damasko/three-hand-models/da37-black"
+        },
+        {
+          "slug": "da46",
+          "text": "DA46 DA 46",
+          "url": "/damasko/three-hand-models/da46"
+        },
+        {
+          "slug": "da43",
+          "text": "DA43 DA 43",
+          "url": "/damasko/three-hand-models/da43"
+        },
+        {
+          "slug": "dh1-0",
+          "text": "DH1.0 DH 1.0",
+          "url": "/damasko/three-hand-models/dh1-0"
+        },
+        {
+          "slug": "da37",
+          "text": "DA37 DA 37",
+          "url": "/damasko/three-hand-models/da37"
+        },
+        {
+          "slug": "ds30-green",
+          "text": "DS30.green DS30 Green",
+          "url": "/damasko/three-hand-models/ds30-green"
+        },
+        {
+          "slug": "da38-black",
+          "text": "DA38.black DA 38 Black",
+          "url": "/damasko/three-hand-models/da38-black"
+        },
+        {
+          "slug": "da36-black",
+          "text": "DA36.black DA 36 Black",
+          "url": "/damasko/three-hand-models/da36-black"
+        },
+        {
+          "slug": "da42",
+          "text": "DA42 DA 42",
+          "url": "/damasko/three-hand-models/da42"
+        },
+        {
+          "slug": "da363",
+          "text": "DA363 DA 363",
+          "url": "/damasko/three-hand-models/da363"
+        },
+        {
+          "slug": "dh3-0",
+          "text": "DH3.0 DH3.0",
+          "url": "/damasko/three-hand-models/dh3-0"
+        },
+        {
+          "slug": "da44",
+          "text": "DA44 DA 44",
+          "url": "/damasko/three-hand-models/da44"
+        },
+        {
+          "slug": "da20-black",
+          "text": "DA20.black DA 20 Black",
+          "url": "/damasko/three-hand-models/da20-black"
+        },
+        {
+          "slug": "ds30-ocean",
+          "text": "DS30.ocean DS30 Ocean",
+          "url": "/damasko/three-hand-models/ds30-ocean"
+        },
+        {
+          "slug": "da36",
+          "text": "DA36 DA 36",
+          "url": "/damasko/three-hand-models/da36"
+        },
+        {
+          "slug": "dk14.black",
+          "text": "DK14 DK 14 Black",
+          "url": "/damasko/three-hand-models/dk14.black"
+        },
+        {
+          "slug": "da44-black",
+          "text": "DA44.black DA 44 Black",
+          "url": "/damasko/three-hand-models/da44-black"
+        },
+        {
+          "slug": "dk10",
+          "text": "DK10 DK 10",
+          "url": "/damasko/three-hand-models/dk10"
+        },
+        {
+          "slug": "ds30-yellow",
+          "text": "DS30.yellow DS30 Yellow",
+          "url": "/damasko/three-hand-models/ds30-yellow"
+        },
+        {
+          "slug": "ds30-obo",
+          "text": "DS30.obo DS30.obo",
+          "url": "/damasko/three-hand-models/ds30-obo"
+        },
+        {
+          "slug": "da47",
+          "text": "DA47 DA 47",
+          "url": "/damasko/three-hand-models/da47"
+        },
+        {
+          "slug": "da353",
+          "text": "DA353 DA 353",
+          "url": "/damasko/three-hand-models/da353"
+        },
+        {
+          "slug": "da35-black",
+          "text": "DA35.black DA 35 Black",
+          "url": "/damasko/three-hand-models/da35-black"
+        },
+        {
+          "slug": "da34-black",
+          "text": "DA34.black DA 34 Black",
+          "url": "/damasko/three-hand-models/da34-black"
+        },
+        {
+          "slug": "da20",
+          "text": "DA20 DA 20",
+          "url": "/damasko/three-hand-models/da20"
+        },
+        {
+          "slug": "dk11.black",
+          "text": "DK11 DK 11 Black",
+          "url": "/damasko/three-hand-models/dk11.black"
+        },
+        {
+          "slug": "da46-black",
+          "text": "DA46.black DA 46 Black",
+          "url": "/damasko/three-hand-models/da46-black"
+        },
+        {
+          "slug": "dk15",
+          "text": "DK15 DK 15",
+          "url": "/damasko/three-hand-models/dk15"
+        },
+        {
+          "slug": "da42-black",
+          "text": "DA42.black DA 42 Black",
+          "url": "/damasko/three-hand-models/da42-black"
+        },
+        {
+          "slug": "da373-black",
+          "text": "DA373.black DA 373 Black",
+          "url": "/damasko/three-hand-models/da373-black"
+        },
+        {
+          "slug": "da363-black",
+          "text": "DA363.black DA 363 Black",
+          "url": "/damasko/three-hand-models/da363-black"
+        },
+        {
+          "slug": "dh2-0-black",
+          "text": "DH2.0.black DH2.0 Black",
+          "url": "/damasko/three-hand-models/dh2-0-black"
+        },
+        {
+          "slug": "dh3-0-black",
+          "text": "DH3.0.black DH3.0 Black",
+          "url": "/damasko/three-hand-models/dh3-0-black"
+        },
+        {
+          "slug": "da343-black",
+          "text": "DA343.black DA 343 Black",
+          "url": "/damasko/three-hand-models/da343-black"
+        },
+        {
+          "slug": "da38",
+          "text": "DA38 DA 38",
+          "url": "/damasko/three-hand-models/da38"
+        },
+        {
+          "slug": "da35",
+          "text": "DA35 DA 35",
+          "url": "/damasko/three-hand-models/da35"
+        },
+        {
+          "slug": "dk14",
+          "text": "DK14 DK 14",
+          "url": "/damasko/three-hand-models/dk14"
+        }
+      ]
+    },
+    {
+      "name": "Chronographs watches33",
+      "slug": "chronographs",
+      "references": [
+        {
+          "slug": "dc80",
+          "text": "DC80 DC80",
+          "url": "/damasko/chronographs/dc80"
+        },
+        {
+          "slug": "dc57-si-black",
+          "text": "DC57.si.black DC 57 Si Black",
+          "url": "/damasko/chronographs/dc57-si-black"
+        },
+        {
+          "slug": "dc66-si",
+          "text": "DC66.Si DC 66 Si",
+          "url": "/damasko/chronographs/dc66-si"
+        },
+        {
+          "slug": "dc80-yellow",
+          "text": "DC80.yellow DC80 Yellow",
+          "url": "/damasko/chronographs/dc80-yellow"
+        },
+        {
+          "slug": "dc67-si",
+          "text": "DC67.si DC 67 Si",
+          "url": "/damasko/chronographs/dc67-si"
+        },
+        {
+          "slug": "dc56-si-black",
+          "text": "DC56.si.black DC 56 Si Black",
+          "url": "/damasko/chronographs/dc56-si-black"
+        },
+        {
+          "slug": "dc80-green-black",
+          "text": "DC80.green.black DC80 Green Black",
+          "url": "/damasko/chronographs/dc80-green-black"
+        },
+        {
+          "slug": "dc82-black",
+          "text": "DC82.black DC82 Black",
+          "url": "/damasko/chronographs/dc82-black"
+        },
+        {
+          "slug": "dc56-si",
+          "text": "DC56.si DC 56 Si",
+          "url": "/damasko/chronographs/dc56-si"
+        },
+        {
+          "slug": "dc57-black",
+          "text": "DC57.black DC 57 Black",
+          "url": "/damasko/chronographs/dc57-black"
+        },
+        {
+          "slug": "dc57-si",
+          "text": "DC57.si DC 57 Si",
+          "url": "/damasko/chronographs/dc57-si"
+        },
+        {
+          "slug": "dc66",
+          "text": "DC66 DC 66",
+          "url": "/damasko/chronographs/dc66"
+        },
+        {
+          "slug": "dc66-black",
+          "text": "DC66.black DC 66 Black",
+          "url": "/damasko/chronographs/dc66-black"
+        },
+        {
+          "slug": "dc66-si-black",
+          "text": "DC66.si.black DC 66 Si Black",
+          "url": "/damasko/chronographs/dc66-si-black"
+        },
+        {
+          "slug": "dc58-black",
+          "text": "DC58.black DC 58 Black",
+          "url": "/damasko/chronographs/dc58-black"
+        },
+        {
+          "slug": "dc67-si-black",
+          "text": "DC67.si.black DC 67 Si Black",
+          "url": "/damasko/chronographs/dc67-si-black"
+        },
+        {
+          "slug": "dc57",
+          "text": "DC57 DC 57",
+          "url": "/damasko/chronographs/dc57"
+        },
+        {
+          "slug": "dc80-green",
+          "text": "DC80.green DC80 Green",
+          "url": "/damasko/chronographs/dc80-green"
+        },
+        {
+          "slug": "dc67-black",
+          "text": "DC67.black DC 67 Black",
+          "url": "/damasko/chronographs/dc67-black"
+        },
+        {
+          "slug": "dc67",
+          "text": "DC67 DC 67",
+          "url": "/damasko/chronographs/dc67"
+        },
+        {
+          "slug": "dc58",
+          "text": "DC58 DC 58",
+          "url": "/damasko/chronographs/dc58"
+        },
+        {
+          "slug": "dc56",
+          "text": "DC56 DC 56",
+          "url": "/damasko/chronographs/dc56"
+        },
+        {
+          "slug": "dc56-black",
+          "text": "DC56.black DC 56 Black",
+          "url": "/damasko/chronographs/dc56-black"
+        },
+        {
+          "slug": "dc80-black",
+          "text": "DC80.black DC80 Black",
+          "url": "/damasko/chronographs/dc80-black"
+        },
+        {
+          "slug": "dc80-bicolour",
+          "text": "DC80.bicolour DC80 Bicolour",
+          "url": "/damasko/chronographs/dc80-bicolour"
+        },
+        {
+          "slug": "dc80-green-bicolour",
+          "text": "DC80.green.bicolour DC80 Green Bicolour",
+          "url": "/damasko/chronographs/dc80-green-bicolour"
+        },
+        {
+          "slug": "dc80-green-orange",
+          "text": "DC80.green.orange DC80 Green Orange",
+          "url": "/damasko/chronographs/dc80-green-orange"
+        },
+        {
+          "slug": "dc80-orange-bicolour",
+          "text": "DC80.orange.bicolour DC80 Orange Bicolour",
+          "url": "/damasko/chronographs/dc80-orange-bicolour"
+        },
+        {
+          "slug": "dc80-orange-black",
+          "text": "DC80.orange.black DC80 Orange Black",
+          "url": "/damasko/chronographs/dc80-orange-black"
+        },
+        {
+          "slug": "dc80-yellow-bicolour",
+          "text": "DC80.yellow.bicolour DC80 Yellow Bicolour",
+          "url": "/damasko/chronographs/dc80-yellow-bicolour"
+        },
+        {
+          "slug": "dc80-yellow-black",
+          "text": "DC80.yellow.black DC80 Yellow Black",
+          "url": "/damasko/chronographs/dc80-yellow-black"
+        },
+        {
+          "slug": "dc82",
+          "text": "DC82 DC82",
+          "url": "/damasko/chronographs/dc82"
+        },
+        {
+          "slug": "dc82-green",
+          "text": "DC82.green DC82 Green",
+          "url": "/damasko/chronographs/dc82-green"
+        }
+      ]
+    },
+    {
+      "name": "Sporty Elegant Line watches4",
+      "slug": "sporty-elegant-line",
+      "references": [
+        {
+          "slug": "dk-105-anthracite",
+          "text": "DK 105.anthracite DK 105.anthracite",
+          "url": "/damasko/sporty-elegant-line/dk-105-anthracite"
+        },
+        {
+          "slug": "dk105-blue",
+          "text": "DK105.blue DK 105.blue",
+          "url": "/damasko/sporty-elegant-line/dk105-blue"
+        },
+        {
+          "slug": "dk201",
+          "text": "DK201 DK 201",
+          "url": "/damasko/sporty-elegant-line/dk201"
+        },
+        {
+          "slug": "dk200",
+          "text": "DK200 DK 200",
+          "url": "/damasko/sporty-elegant-line/dk200"
+        }
+      ]
+    }
+  ],
+  "total_references": 88
+}

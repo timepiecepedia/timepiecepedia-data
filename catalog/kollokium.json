@@ -1,0 +1,17 @@
+{
+  "brand_slug": "kollokium",
+  "collections": [
+    {
+      "name": "Projekt 01 watches1",
+      "slug": "projekt-01",
+      "references": [
+        {
+          "slug": "k-p-n-01-001",
+          "text": "K,P–n°01-001 Projekt 01 Friends & Family",
+          "url": "/kollokium/projekt-01/k-p-n-01-001"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

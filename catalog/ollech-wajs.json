@@ -1,0 +1,22 @@
+{
+  "brand_slug": "ollech-wajs",
+  "collections": [
+    {
+      "name": "Aviation watches2",
+      "slug": "aviation",
+      "references": [
+        {
+          "slug": "ow-p-101",
+          "text": "OW P-101 OW P-101",
+          "url": "/ollech-wajs/aviation/ow-p-101"
+        },
+        {
+          "slug": "ow-p-104",
+          "text": "OW P-104 OW P-104",
+          "url": "/ollech-wajs/aviation/ow-p-104"
+        }
+      ]
+    }
+  ],
+  "total_references": 2
+}

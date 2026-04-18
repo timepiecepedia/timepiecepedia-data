@@ -1,0 +1,38 @@
+{
+  "brand_slug": "lebois-co",
+  "collections": [
+    {
+      "name": "Avantgarde watches3",
+      "slug": "avantgarde",
+      "references": [
+        {
+          "slug": "112-422",
+          "text": "112.422 Avantgarde Date – Re-launch Edition Stainless Steel / Blue / Alligator",
+          "url": "/lebois-co/avantgarde/112-422"
+        },
+        {
+          "slug": "112-412",
+          "text": "112.412 Avantgarde Date – Re-launch Edition Stainless Steel / Silver / Alligator",
+          "url": "/lebois-co/avantgarde/112-412"
+        },
+        {
+          "slug": "112-433",
+          "text": "112.433 Avantgarde Date – Re-launch Edition Stainless Steel / Black / Buffalo",
+          "url": "/lebois-co/avantgarde/112-433"
+        }
+      ]
+    },
+    {
+      "name": "Venturist watches1",
+      "slug": "venturist",
+      "references": [
+        {
+          "slug": "241-435",
+          "text": "241.435 Venturist Observatoire Chronométrique+ Chronometer Stainless Steel / Black / NATO",
+          "url": "/lebois-co/venturist/241-435"
+        }
+      ]
+    }
+  ],
+  "total_references": 4
+}

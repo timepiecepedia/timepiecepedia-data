@@ -1,0 +1,57 @@
+{
+  "brand_slug": "victorinox",
+  "collections": [
+    {
+      "name": "I.N.O.X. watches9",
+      "slug": "i-n-o-x",
+      "references": [
+        {
+          "slug": "241724-1",
+          "text": "241724.1 I.N.O.X. Blue Bracelet",
+          "url": "/victorinox/i-n-o-x/241724-1"
+        },
+        {
+          "slug": "241727-1",
+          "text": "241727.1 I.N.O.X. Green Paracord",
+          "url": "/victorinox/i-n-o-x/241727-1"
+        },
+        {
+          "slug": "241725-1",
+          "text": "241725.1 I.N.O.X. Green Bracelet",
+          "url": "/victorinox/i-n-o-x/241725-1"
+        },
+        {
+          "slug": "241719",
+          "text": "241719 I.N.O.X. Red",
+          "url": "/victorinox/i-n-o-x/241719"
+        },
+        {
+          "slug": "241688-1",
+          "text": "241688.1 I.N.O.X. Blue Rubber",
+          "url": "/victorinox/i-n-o-x/241688-1"
+        },
+        {
+          "slug": "241723-1",
+          "text": "241723.1 I.N.O.X. Black Bracelet",
+          "url": "/victorinox/i-n-o-x/241723-1"
+        },
+        {
+          "slug": "241682-1",
+          "text": "241682.1 I.N.O.X. Black Rubber",
+          "url": "/victorinox/i-n-o-x/241682-1"
+        },
+        {
+          "slug": "241683-1",
+          "text": "241683.1 I.N.O.X. Green Rubber",
+          "url": "/victorinox/i-n-o-x/241683-1"
+        },
+        {
+          "slug": "241726-1",
+          "text": "241726.1 I.N.O.X. Black Paracord",
+          "url": "/victorinox/i-n-o-x/241726-1"
+        }
+      ]
+    }
+  ],
+  "total_references": 9
+}

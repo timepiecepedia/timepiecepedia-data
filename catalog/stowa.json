@@ -1,0 +1,67 @@
+{
+  "brand_slug": "stowa",
+  "collections": [
+    {
+      "name": "Flieger watches11",
+      "slug": "flieger",
+      "references": [
+        {
+          "slug": "flieger-sport-bm",
+          "text": "Flieger Sport BM Flieger Klassik Baumuster B",
+          "url": "/stowa/flieger/flieger-sport-bm"
+        },
+        {
+          "slug": "flieger-no-logo",
+          "text": "Flieger No Logo Flieger",
+          "url": "/stowa/flieger/flieger-no-logo"
+        },
+        {
+          "slug": "ikarus",
+          "text": "Ikarus Ikarus",
+          "url": "/stowa/flieger/ikarus"
+        },
+        {
+          "slug": "flieger-no-logo-date",
+          "text": "Flieger No Logo Date Flieger",
+          "url": "/stowa/flieger/flieger-no-logo-date"
+        },
+        {
+          "slug": "flieger-baumuster-b",
+          "text": "Flieger Baumuster B Flieger Baumuster B",
+          "url": "/stowa/flieger/flieger-baumuster-b"
+        },
+        {
+          "slug": "flieger-logo",
+          "text": "Flieger Logo Flieger",
+          "url": "/stowa/flieger/flieger-logo"
+        },
+        {
+          "slug": "flieger-sport-date",
+          "text": "Flieger Sport Date Flieger Klassik Sport Date",
+          "url": "/stowa/flieger/flieger-sport-date"
+        },
+        {
+          "slug": "flieger-logo-datum",
+          "text": "Flieger Logo Datum Flieger",
+          "url": "/stowa/flieger/flieger-logo-datum"
+        },
+        {
+          "slug": "flieger-sport-logo-date",
+          "text": "Flieger Sport Logo Date Flieger Klassik Sport Logo Date",
+          "url": "/stowa/flieger/flieger-sport-logo-date"
+        },
+        {
+          "slug": "flieger-sport",
+          "text": "Flieger Sport Flieger Klassik Sport No-Date",
+          "url": "/stowa/flieger/flieger-sport"
+        },
+        {
+          "slug": "flieger-sport-logo",
+          "text": "Flieger Sport Logo Flieger Klassik Sport Logo No-Date",
+          "url": "/stowa/flieger/flieger-sport-logo"
+        }
+      ]
+    }
+  ],
+  "total_references": 11
+}

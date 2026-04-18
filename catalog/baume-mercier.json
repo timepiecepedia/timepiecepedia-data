@@ -1,0 +1,857 @@
+{
+  "brand_slug": "baume-mercier",
+  "collections": [
+    {
+      "name": "Clifton watches48",
+      "slug": "clifton",
+      "references": [
+        {
+          "slug": "10342",
+          "text": "10342 Clifton Club Shelby Cobra 1964 Silver",
+          "url": "/baume-mercier/clifton/10342"
+        },
+        {
+          "slug": "10057",
+          "text": "10057 Clifton Complete Calendar Stainless Steel / Blue / Strap",
+          "url": "/baume-mercier/clifton/10057"
+        },
+        {
+          "slug": "10141",
+          "text": "10141 Clifton Automatic Silver",
+          "url": "/baume-mercier/clifton/10141"
+        },
+        {
+          "slug": "10400",
+          "text": "10400 Clifton Baumatic Stainless Steel / White / Bracelet",
+          "url": "/baume-mercier/clifton/10400"
+        },
+        {
+          "slug": "10469",
+          "text": "10469 Clifton Baumatic Red Gold / White / Strap / COSC",
+          "url": "/baume-mercier/clifton/10469"
+        },
+        {
+          "slug": "10060",
+          "text": "10060 Clifton 1830",
+          "url": "/baume-mercier/clifton/10060"
+        },
+        {
+          "slug": "10343",
+          "text": "10343 Clifton Club Shelby Cobra 1964 Blue",
+          "url": "/baume-mercier/clifton/10343"
+        },
+        {
+          "slug": "10211",
+          "text": "10211 Clifton Chronograph Black",
+          "url": "/baume-mercier/clifton/10211"
+        },
+        {
+          "slug": "10337",
+          "text": "10337 Clifton Club Stainless Steel / White / Sailcloth",
+          "url": "/baume-mercier/clifton/10337"
+        },
+        {
+          "slug": "10054",
+          "text": "10054 Clifton Automatic",
+          "url": "/baume-mercier/clifton/10054"
+        },
+        {
+          "slug": "10195",
+          "text": "10195 Clifton 1830 Eight Day Power Reserve",
+          "url": "/baume-mercier/clifton/10195"
+        },
+        {
+          "slug": "10139",
+          "text": "10139 Clifton Automatic Two Tone",
+          "url": "/baume-mercier/clifton/10139"
+        },
+        {
+          "slug": "10280",
+          "text": "10280 Clifton Chronograph Complete Calendar Stainless Steel / Red Gold / Silver / Strap",
+          "url": "/baume-mercier/clifton/10280"
+        },
+        {
+          "slug": "10104",
+          "text": "10104 Clifton Automatic",
+          "url": "/baume-mercier/clifton/10104"
+        },
+        {
+          "slug": "10055",
+          "text": "10055 Clifton Complete Calendar Stainless Steel / Silver / Strap",
+          "url": "/baume-mercier/clifton/10055"
+        },
+        {
+          "slug": "10123",
+          "text": "10123 Clifton Chronograph",
+          "url": "/baume-mercier/clifton/10123"
+        },
+        {
+          "slug": "10344",
+          "text": "10344 Clifton Club Shelby Cobra CSX2299",
+          "url": "/baume-mercier/clifton/10344"
+        },
+        {
+          "slug": "10140",
+          "text": "10140 Clifton Automatic Two Tone / Bracelet",
+          "url": "/baume-mercier/clifton/10140"
+        },
+        {
+          "slug": "10518",
+          "text": "10518 Clifton Baumatic Stainless Steel / White / Strap / COSC",
+          "url": "/baume-mercier/clifton/10518"
+        },
+        {
+          "slug": "10278",
+          "text": "10278 Clifton Chronograph Complete Calendar Stainless Steel / Silver / Strap",
+          "url": "/baume-mercier/clifton/10278"
+        },
+        {
+          "slug": "10436",
+          "text": "10436 Clifton Baumatic Stainless Steel / White / Alligator / COSC",
+          "url": "/baume-mercier/clifton/10436"
+        },
+        {
+          "slug": "10399",
+          "text": "10399 Clifton Baumatic Stainless Steel / Black / Alligator",
+          "url": "/baume-mercier/clifton/10399"
+        },
+        {
+          "slug": "10505",
+          "text": "10505 Clifton Baumatic Stainless Steel / White / Bracelet / COSC",
+          "url": "/baume-mercier/clifton/10505"
+        },
+        {
+          "slug": "m0a10316",
+          "text": "M0A10316 Clifton GMT Power Reserve",
+          "url": "/baume-mercier/clifton/m0a10316"
+        },
+        {
+          "slug": "10306",
+          "text": "10306 Clifton 1830 Perpetual Calendar",
+          "url": "/baume-mercier/clifton/10306"
+        },
+        {
+          "slug": "10053",
+          "text": "10053 Clifton Automatic Stainless Steel / Black / Strap",
+          "url": "/baume-mercier/clifton/10053"
+        },
+        {
+          "slug": "10279",
+          "text": "10279 Clifton Chronograph Complete Calendar Stainless Steel / Silver / Bracelet",
+          "url": "/baume-mercier/clifton/10279"
+        },
+        {
+          "slug": "10059",
+          "text": "10059 Clifton Automatic",
+          "url": "/baume-mercier/clifton/10059"
+        },
+        {
+          "slug": "10111",
+          "text": "10111 Clifton GMT Ardoise",
+          "url": "/baume-mercier/clifton/10111"
+        },
+        {
+          "slug": "10212",
+          "text": "10212 Clifton Chronograph Black Bracelet",
+          "url": "/baume-mercier/clifton/10212"
+        },
+        {
+          "slug": "10100",
+          "text": "10100 Clifton Automatic Stainless Steel / Black / Bracelet",
+          "url": "/baume-mercier/clifton/10100"
+        },
+        {
+          "slug": "10398",
+          "text": "10398 Clifton Baumatic Stainless Steel / White / Alligator",
+          "url": "/baume-mercier/clifton/10398"
+        },
+        {
+          "slug": "10340",
+          "text": "10340 Clifton Club Stainless Steel / Black / Bracelet",
+          "url": "/baume-mercier/clifton/10340"
+        },
+        {
+          "slug": "10401",
+          "text": "10401 Clifton Baumatic Stainless Steel / Yellow Gold / White / Alligator",
+          "url": "/baume-mercier/clifton/10401"
+        },
+        {
+          "slug": "10058",
+          "text": "10058 Clifton Automatic",
+          "url": "/baume-mercier/clifton/10058"
+        },
+        {
+          "slug": "10052",
+          "text": "10052 Clifton Automatic Stainless Steel / Silver / Strap",
+          "url": "/baume-mercier/clifton/10052"
+        },
+        {
+          "slug": "10468",
+          "text": "10468 Clifton Baumatic Stainless Steel / Blue / Bracelet / COSC",
+          "url": "/baume-mercier/clifton/10468"
+        },
+        {
+          "slug": "10378",
+          "text": "10378 Clifton Club Stainless Steel / Black / Bracelet",
+          "url": "/baume-mercier/clifton/10378"
+        },
+        {
+          "slug": "10112",
+          "text": "10112 Clifton GMT Silver",
+          "url": "/baume-mercier/clifton/10112"
+        },
+        {
+          "slug": "10339",
+          "text": "10339 Clifton Club ADLC / Black / Rubber",
+          "url": "/baume-mercier/clifton/10339"
+        },
+        {
+          "slug": "10450",
+          "text": "10450 Clifton Complete Calendar Stainless Steel / White / Strap",
+          "url": "/baume-mercier/clifton/10450"
+        },
+        {
+          "slug": "10519",
+          "text": "10519 Clifton Baumatic Stainless Steel / Red Gold / White / Strap / COSC",
+          "url": "/baume-mercier/clifton/10519"
+        },
+        {
+          "slug": "10467",
+          "text": "10467 Clifton Baumatic Stainless Steel / Blue / Strap / COSC",
+          "url": "/baume-mercier/clifton/10467"
+        },
+        {
+          "slug": "10129",
+          "text": "10129 Clifton Chronograph",
+          "url": "/baume-mercier/clifton/10129"
+        },
+        {
+          "slug": "10338",
+          "text": "10338 Clifton Club Stainless Steel / Black / Sailcloth",
+          "url": "/baume-mercier/clifton/10338"
+        },
+        {
+          "slug": "10130",
+          "text": "10130 Clifton Chronograph",
+          "url": "/baume-mercier/clifton/10130"
+        },
+        {
+          "slug": "10099",
+          "text": "10099 Clifton Automatic Stainless Steel / Silver / Bracelet",
+          "url": "/baume-mercier/clifton/10099"
+        },
+        {
+          "slug": "10175",
+          "text": "10175 Clifton Quartz Stainless Steel / Silver / Bracelet",
+          "url": "/baume-mercier/clifton/10175"
+        }
+      ]
+    },
+    {
+      "name": "Classima watches40",
+      "slug": "classima",
+      "references": [
+        {
+          "slug": "8688",
+          "text": "8688 Classima Executives Open Balance",
+          "url": "/baume-mercier/classima/8688"
+        },
+        {
+          "slug": "8791",
+          "text": "8791 Classima Executives Automatic 39",
+          "url": "/baume-mercier/classima/8791"
+        },
+        {
+          "slug": "8686",
+          "text": "8686 Classima Executives Automatic 39",
+          "url": "/baume-mercier/classima/8686"
+        },
+        {
+          "slug": "8787",
+          "text": "8787 Classima Executives",
+          "url": "/baume-mercier/classima/8787"
+        },
+        {
+          "slug": "8591",
+          "text": "8591 Clasima Executives Chronograph",
+          "url": "/baume-mercier/classima/8591"
+        },
+        {
+          "slug": "8462",
+          "text": "8462 Classima Executives GMT",
+          "url": "/baume-mercier/classima/8462"
+        },
+        {
+          "slug": "10075",
+          "text": "10075 Classima Executives Automatic 42",
+          "url": "/baume-mercier/classima/10075"
+        },
+        {
+          "slug": "8878",
+          "text": "8878 Classima Executives GMT Power Reserve",
+          "url": "/baume-mercier/classima/8878"
+        },
+        {
+          "slug": "10085",
+          "text": "10085 Classima Executives Automatic 42",
+          "url": "/baume-mercier/classima/10085"
+        },
+        {
+          "slug": "10037",
+          "text": "10037 Classima Executives Automatic 39",
+          "url": "/baume-mercier/classima/10037"
+        },
+        {
+          "slug": "10098",
+          "text": "10098 Classima Executives Quartz",
+          "url": "/baume-mercier/classima/10098"
+        },
+        {
+          "slug": "8786",
+          "text": "8786 Classima Executives",
+          "url": "/baume-mercier/classima/8786"
+        },
+        {
+          "slug": "8692",
+          "text": "8692 Classima Executives Chronograph",
+          "url": "/baume-mercier/classima/8692"
+        },
+        {
+          "slug": "10214",
+          "text": "10214 Classima Automatic 40 Stainless Steel / Silver / Alligator",
+          "url": "/baume-mercier/classima/10214"
+        },
+        {
+          "slug": "10330",
+          "text": "10330 Classima Chronograph Stainless Steel / Silver / Alligator",
+          "url": "/baume-mercier/classima/10330"
+        },
+        {
+          "slug": "8733",
+          "text": "8733 Classima Executives Chronograph",
+          "url": "/baume-mercier/classima/8733"
+        },
+        {
+          "slug": "8731",
+          "text": "8731 Classima Executives Automatic 42",
+          "url": "/baume-mercier/classima/8731"
+        },
+        {
+          "slug": "8837",
+          "text": "8837 Classima Executives Automatic 39",
+          "url": "/baume-mercier/classima/8837"
+        },
+        {
+          "slug": "10097",
+          "text": "10097 Classima Executives Quartz",
+          "url": "/baume-mercier/classima/10097"
+        },
+        {
+          "slug": "10040",
+          "text": "10040 Classima Executives GMT Power Reserve",
+          "url": "/baume-mercier/classima/10040"
+        },
+        {
+          "slug": "10333",
+          "text": "10333 Classima Executives Automatic 42 Stainless Steel / Silver / Alligator",
+          "url": "/baume-mercier/classima/10333"
+        },
+        {
+          "slug": "8789",
+          "text": "8789 Classima Executives",
+          "url": "/baume-mercier/classima/8789"
+        },
+        {
+          "slug": "8590",
+          "text": "8590 Classima Executives",
+          "url": "/baume-mercier/classima/8590"
+        },
+        {
+          "slug": "8691",
+          "text": "8691 Classima Executives",
+          "url": "/baume-mercier/classima/8691"
+        },
+        {
+          "slug": "8851",
+          "text": "8851 Classima Executives Chronograph GMT",
+          "url": "/baume-mercier/classima/8851"
+        },
+        {
+          "slug": "8592",
+          "text": "8592 Classima Executives Automatic 42",
+          "url": "/baume-mercier/classima/8592"
+        },
+        {
+          "slug": "8734",
+          "text": "8734 Classima Executives GMT",
+          "url": "/baume-mercier/classima/8734"
+        },
+        {
+          "slug": "8877",
+          "text": "8877 Classima Executives Big Date Power Reserve",
+          "url": "/baume-mercier/classima/8877"
+        },
+        {
+          "slug": "8070",
+          "text": "8070 Classima Executives 32",
+          "url": "/baume-mercier/classima/8070"
+        },
+        {
+          "slug": "8788",
+          "text": "8788 Classima Executives",
+          "url": "/baume-mercier/classima/8788"
+        },
+        {
+          "slug": "10215",
+          "text": "10215 Classima Automatic 40 Stainless Steel / Silver / Bracelet",
+          "url": "/baume-mercier/classima/10215"
+        },
+        {
+          "slug": "10223",
+          "text": "10223 Classima 36.5 Automatic Stainless Steel / Red Gold / White / Bracelet",
+          "url": "/baume-mercier/classima/10223"
+        },
+        {
+          "slug": "10272",
+          "text": "10272 Classima 40 Dual Time Stainless Steel / Silver / Alligator",
+          "url": "/baume-mercier/classima/10272"
+        },
+        {
+          "slug": "8689",
+          "text": "8689 Classima Executives Open Balance",
+          "url": "/baume-mercier/classima/8689"
+        },
+        {
+          "slug": "10131",
+          "text": "10131 Classima Executives Quartz",
+          "url": "/baume-mercier/classima/10131"
+        },
+        {
+          "slug": "8833",
+          "text": "8833 Classima Executives Open Balance",
+          "url": "/baume-mercier/classima/8833"
+        },
+        {
+          "slug": "8732",
+          "text": "8732 Classima Executives Chronograph",
+          "url": "/baume-mercier/classima/8732"
+        },
+        {
+          "slug": "8868",
+          "text": "8868 Classima Executives Automatic 42 Silver",
+          "url": "/baume-mercier/classima/8868"
+        },
+        {
+          "slug": "10222",
+          "text": "10222 Classima 36.5 Automatic Stainless Steel / Diamond / MOP / Alligator",
+          "url": "/baume-mercier/classima/10222"
+        },
+        {
+          "slug": "10263",
+          "text": "10263 Classima Automatic 40 Stainless Steel / Silver / Alligator",
+          "url": "/baume-mercier/classima/10263"
+        }
+      ]
+    },
+    {
+      "name": "Hampton watches31",
+      "slug": "hampton",
+      "references": [
+        {
+          "slug": "10018",
+          "text": "10018 Hampton Lady",
+          "url": "/baume-mercier/hampton/10018"
+        },
+        {
+          "slug": "8824",
+          "text": "8824 Hampton Classic XL Chronograph Quartz",
+          "url": "/baume-mercier/hampton/8824"
+        },
+        {
+          "slug": "10021",
+          "text": "10021 Hampton Lady Black / Bracelet",
+          "url": "/baume-mercier/hampton/10021"
+        },
+        {
+          "slug": "10024",
+          "text": "10024 Hampton Lady Black / Horizontal Diamonds",
+          "url": "/baume-mercier/hampton/10024"
+        },
+        {
+          "slug": "10020",
+          "text": "10020 Hampton Lady Silver / Bracelet",
+          "url": "/baume-mercier/hampton/10020"
+        },
+        {
+          "slug": "10048",
+          "text": "10048 Hampton Small Seconds",
+          "url": "/baume-mercier/hampton/10048"
+        },
+        {
+          "slug": "10030",
+          "text": "10030 Hampton Chronograph Black",
+          "url": "/baume-mercier/hampton/10030"
+        },
+        {
+          "slug": "8819",
+          "text": "8819 Hampton Classic XL Automatic",
+          "url": "/baume-mercier/hampton/8819"
+        },
+        {
+          "slug": "8810",
+          "text": "8810 Hampton Classic Midsize Quartz",
+          "url": "/baume-mercier/hampton/8810"
+        },
+        {
+          "slug": "8809",
+          "text": "8809 Hampton Classic Midsize Automatic",
+          "url": "/baume-mercier/hampton/8809"
+        },
+        {
+          "slug": "10032",
+          "text": "10032 Hampton Chronograph Roman",
+          "url": "/baume-mercier/hampton/10032"
+        },
+        {
+          "slug": "10022",
+          "text": "10022 Hampton Lady Black / Vertical Diamonds",
+          "url": "/baume-mercier/hampton/10022"
+        },
+        {
+          "slug": "8821",
+          "text": "8821 Hampton Classic Big Date Power Reserve",
+          "url": "/baume-mercier/hampton/8821"
+        },
+        {
+          "slug": "10023",
+          "text": "10023 Hampton Lady Silver / Vertical Diamonds",
+          "url": "/baume-mercier/hampton/10023"
+        },
+        {
+          "slug": "10029",
+          "text": "10029 Hampton Chronograph Silver",
+          "url": "/baume-mercier/hampton/10029"
+        },
+        {
+          "slug": "10019",
+          "text": "10019 Hampton Lady Black",
+          "url": "/baume-mercier/hampton/10019"
+        },
+        {
+          "slug": "10026",
+          "text": "10026 Hampton Small Seconds",
+          "url": "/baume-mercier/hampton/10026"
+        },
+        {
+          "slug": "8807",
+          "text": "8807 Hamton Classic Chronograph Quartz",
+          "url": "/baume-mercier/hampton/8807"
+        },
+        {
+          "slug": "10028",
+          "text": "10028 Hampton Small Seconds",
+          "url": "/baume-mercier/hampton/10028"
+        },
+        {
+          "slug": "8818",
+          "text": "8818 Hampton Classic XL Automatic Open Balance",
+          "url": "/baume-mercier/hampton/8818"
+        },
+        {
+          "slug": "8813",
+          "text": "8813 Hampton Classic Lady Bracelet",
+          "url": "/baume-mercier/hampton/8813"
+        },
+        {
+          "slug": "8808",
+          "text": "8808 Hampton Classic Midsize Automatic",
+          "url": "/baume-mercier/hampton/8808"
+        },
+        {
+          "slug": "8823",
+          "text": "8823 Hampton Classic Chronograph Quartz",
+          "url": "/baume-mercier/hampton/8823"
+        },
+        {
+          "slug": "10027",
+          "text": "10027 Hampton Small Seconds",
+          "url": "/baume-mercier/hampton/10027"
+        },
+        {
+          "slug": "8814",
+          "text": "8814 Hampton Classic Lady MOP",
+          "url": "/baume-mercier/hampton/8814"
+        },
+        {
+          "slug": "8812",
+          "text": "8812 Hampton Classic Lady",
+          "url": "/baume-mercier/hampton/8812"
+        },
+        {
+          "slug": "10031",
+          "text": "10031 Hampton Chronograph Bronze",
+          "url": "/baume-mercier/hampton/10031"
+        },
+        {
+          "slug": "8681",
+          "text": "8681 Hampton Classic Ladies Small",
+          "url": "/baume-mercier/hampton/8681"
+        },
+        {
+          "slug": "10047",
+          "text": "10047 Hampton Small Seconds",
+          "url": "/baume-mercier/hampton/10047"
+        },
+        {
+          "slug": "10025",
+          "text": "10025 Hampton Lady Diamond",
+          "url": "/baume-mercier/hampton/10025"
+        },
+        {
+          "slug": "8822",
+          "text": "8822 Hampton Classic XL Automatic",
+          "url": "/baume-mercier/hampton/8822"
+        }
+      ]
+    },
+    {
+      "name": "Capeland watches22",
+      "slug": "capeland",
+      "references": [
+        {
+          "slug": "10066",
+          "text": "10066 Capeland Chronograph 44 Blue / Bracelet",
+          "url": "/baume-mercier/capeland/10066"
+        },
+        {
+          "slug": "10064",
+          "text": "10064 Capeland Chronograph 44 Silver / Bracelet",
+          "url": "/baume-mercier/capeland/10064"
+        },
+        {
+          "slug": "10107",
+          "text": "10107 Capeland Worldtimer",
+          "url": "/baume-mercier/capeland/10107"
+        },
+        {
+          "slug": "10065",
+          "text": "10065 Capeland Chronograph 44 Blue / Alligator",
+          "url": "/baume-mercier/capeland/10065"
+        },
+        {
+          "slug": "10067",
+          "text": "10067 Capeland Chronograph 44 Black / Alligator",
+          "url": "/baume-mercier/capeland/10067"
+        },
+        {
+          "slug": "10232",
+          "text": "10232 Capeland Chronograph Shelby Cobra",
+          "url": "/baume-mercier/capeland/10232"
+        },
+        {
+          "slug": "10006",
+          "text": "10006 Capeland Flyback",
+          "url": "/baume-mercier/capeland/10006"
+        },
+        {
+          "slug": "10003",
+          "text": "10003 Capeland Chronograph",
+          "url": "/baume-mercier/capeland/10003"
+        },
+        {
+          "slug": "10135",
+          "text": "10135 Capeland Worldtimer Limited Edition",
+          "url": "/baume-mercier/capeland/10135"
+        },
+        {
+          "slug": "10001",
+          "text": "10001 Capeland Chronograph",
+          "url": "/baume-mercier/capeland/10001"
+        },
+        {
+          "slug": "10068",
+          "text": "10068 Capeland Flyback",
+          "url": "/baume-mercier/capeland/10068"
+        },
+        {
+          "slug": "10082",
+          "text": "10082 Capeland Chronograph",
+          "url": "/baume-mercier/capeland/10082"
+        },
+        {
+          "slug": "10083",
+          "text": "10083 Capeland Chronograph",
+          "url": "/baume-mercier/capeland/10083"
+        },
+        {
+          "slug": "10000",
+          "text": "10000 Capeland Chronograph",
+          "url": "/baume-mercier/capeland/10000"
+        },
+        {
+          "slug": "10007",
+          "text": "10007 Capeland Flyback",
+          "url": "/baume-mercier/capeland/10007"
+        },
+        {
+          "slug": "10062",
+          "text": "10062 Capeland Chronograph",
+          "url": "/baume-mercier/capeland/10062"
+        },
+        {
+          "slug": "10061",
+          "text": "10061 Capeland Chronograph",
+          "url": "/baume-mercier/capeland/10061"
+        },
+        {
+          "slug": "10005",
+          "text": "10005 Capeland Chronograph",
+          "url": "/baume-mercier/capeland/10005"
+        },
+        {
+          "slug": "10063",
+          "text": "10063 Capeland Chronograph 44 Silver / Alligator",
+          "url": "/baume-mercier/capeland/10063"
+        },
+        {
+          "slug": "10004",
+          "text": "10004 Capeland Chronograph",
+          "url": "/baume-mercier/capeland/10004"
+        },
+        {
+          "slug": "10084",
+          "text": "10084 Capeland Chronograph",
+          "url": "/baume-mercier/capeland/10084"
+        },
+        {
+          "slug": "10106",
+          "text": "10106 Capeland Worldtimer",
+          "url": "/baume-mercier/capeland/10106"
+        }
+      ]
+    },
+    {
+      "name": "Linea watches18",
+      "slug": "linea",
+      "references": [
+        {
+          "slug": "10071",
+          "text": "10071 Linea 32mm Quartz MOP",
+          "url": "/baume-mercier/linea/10071"
+        },
+        {
+          "slug": "10015",
+          "text": "10015 Linea 27mm Quartz Two Tone",
+          "url": "/baume-mercier/linea/10015"
+        },
+        {
+          "slug": "10072",
+          "text": "10072 Linea 32mm Quartz",
+          "url": "/baume-mercier/linea/10072"
+        },
+        {
+          "slug": "10092",
+          "text": "10092 Linea 27mm Quartz Diamond",
+          "url": "/baume-mercier/linea/10092"
+        },
+        {
+          "slug": "10036",
+          "text": "10036 Linea 27mm Quartz Double Strap",
+          "url": "/baume-mercier/linea/10036"
+        },
+        {
+          "slug": "10035",
+          "text": "10035 Linea 32mm Automatic",
+          "url": "/baume-mercier/linea/10035"
+        },
+        {
+          "slug": "10014",
+          "text": "10014 Linea 27mm Quartz Red Gold Bezel",
+          "url": "/baume-mercier/linea/10014"
+        },
+        {
+          "slug": "10073",
+          "text": "10073 Linea 32mm Automatic Two Tone",
+          "url": "/baume-mercier/linea/10073"
+        },
+        {
+          "slug": "10070",
+          "text": "10070 Linea 32mm Quartz Silver / Bracelet",
+          "url": "/baume-mercier/linea/10070"
+        },
+        {
+          "slug": "10010",
+          "text": "10010 Linea 27mm Quartz Black / Bracelet",
+          "url": "/baume-mercier/linea/10010"
+        },
+        {
+          "slug": "10011",
+          "text": "10011 Linea 27mm Quartz MOP / Bracelet",
+          "url": "/baume-mercier/linea/10011"
+        },
+        {
+          "slug": "10012",
+          "text": "10012 Linea Chronograph Quartz 32",
+          "url": "/baume-mercier/linea/10012"
+        },
+        {
+          "slug": "10013",
+          "text": "10013 Linea 27mm Quartz MOP / Diamond Bezel",
+          "url": "/baume-mercier/linea/10013"
+        },
+        {
+          "slug": "10008",
+          "text": "10008 Linea 27mm Quartz",
+          "url": "/baume-mercier/linea/10008"
+        },
+        {
+          "slug": "10017",
+          "text": "10017 Linea Chronograph Quartz 32 Diamond",
+          "url": "/baume-mercier/linea/10017"
+        },
+        {
+          "slug": "10016",
+          "text": "10016 Linea Chronograph Quartz 32",
+          "url": "/baume-mercier/linea/10016"
+        },
+        {
+          "slug": "10009",
+          "text": "10009 Linea 27mm Quartz Silver / Bracelet",
+          "url": "/baume-mercier/linea/10009"
+        },
+        {
+          "slug": "10074",
+          "text": "10074 Linea 32mm Automatic",
+          "url": "/baume-mercier/linea/10074"
+        }
+      ]
+    },
+    {
+      "name": "Riviera watches4",
+      "slug": "riviera",
+      "references": [
+        {
+          "slug": "10622",
+          "text": "10622 Riviera 42 Stainless Steel / Silver",
+          "url": "/baume-mercier/riviera/10622"
+        },
+        {
+          "slug": "10619",
+          "text": "10619 Riviera 42 Stainless Steel / Blue / Rubber",
+          "url": "/baume-mercier/riviera/10619"
+        },
+        {
+          "slug": "10621",
+          "text": "10621 Riviera 42 Stainless Steel / Black",
+          "url": "/baume-mercier/riviera/10621"
+        },
+        {
+          "slug": "10617",
+          "text": "10617 Riviera 42 ADLC / Black",
+          "url": "/baume-mercier/riviera/10617"
+        }
+      ]
+    }
+  ],
+  "total_references": 163
+}

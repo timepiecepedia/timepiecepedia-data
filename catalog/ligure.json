@@ -1,0 +1,47 @@
+{
+  "brand_slug": "ligure",
+  "collections": [
+    {
+      "name": "Tartaruga watches7",
+      "slug": "tartaruga",
+      "references": [
+        {
+          "slug": "lwt21002",
+          "text": "LWT21002 Tartaruga Scuba Diver GMT Stainless Steel / Blue  / Rubber",
+          "url": "/ligure/tartaruga/lwt21002"
+        },
+        {
+          "slug": "lwt21009",
+          "text": "LWT21009 Tartaruga Scuba Diver Stainless Steel / Blue  / Rubber",
+          "url": "/ligure/tartaruga/lwt21009"
+        },
+        {
+          "slug": "lwt210010",
+          "text": "LWT210010 Tartaruga Scuba Diver Stainless Steel / White / Bracelet",
+          "url": "/ligure/tartaruga/lwt210010"
+        },
+        {
+          "slug": "lwt21003",
+          "text": "LWT21003 Tartaruga Scuba Diver GMT Stainless Steel / White / Bracelet",
+          "url": "/ligure/tartaruga/lwt21003"
+        },
+        {
+          "slug": "lwt21001",
+          "text": "LWT21001 Tartaruga Scuba Diver Stainless Steel / Black / Rubber",
+          "url": "/ligure/tartaruga/lwt21001"
+        },
+        {
+          "slug": "lwt21004n",
+          "text": "LWT21004N Tartaruga Scuba Diver Nero di Seppia Sand",
+          "url": "/ligure/tartaruga/lwt21004n"
+        },
+        {
+          "slug": "lwt21005n",
+          "text": "LWT21005N Tartaruga Scuba Diver Nero di Seppia Red",
+          "url": "/ligure/tartaruga/lwt21005n"
+        }
+      ]
+    }
+  ],
+  "total_references": 7
+}

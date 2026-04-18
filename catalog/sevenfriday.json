@@ -1,0 +1,169 @@
+{
+  "brand_slug": "sevenfriday",
+  "collections": [
+    {
+      "name": "P-Series watches18",
+      "slug": "p-series",
+      "references": [
+        {
+          "slug": "p1b-02",
+          "text": "P1B/02 P1B/02 Bright Watch",
+          "url": "/sevenfriday/p-series/p1b-02"
+        },
+        {
+          "slug": "p3-01",
+          "text": "P3/01 P3/01 Industrial Engines",
+          "url": "/sevenfriday/p-series/p3-01"
+        },
+        {
+          "slug": "p1-01",
+          "text": "P1/01 P1/01 Industrial Essence",
+          "url": "/sevenfriday/p-series/p1-01"
+        },
+        {
+          "slug": "p3-01-priors-court",
+          "text": "P3/01-Priors-Court P3/01 Priors Court",
+          "url": "/sevenfriday/p-series/p3-01-priors-court"
+        },
+        {
+          "slug": "p3-03",
+          "text": "P3/03 P3/03 Bully",
+          "url": "/sevenfriday/p-series/p3-03"
+        },
+        {
+          "slug": "p2b-03-w",
+          "text": "P2B/03-W P2B/03-W Woody 2",
+          "url": "/sevenfriday/p-series/p2b-03-w"
+        },
+        {
+          "slug": "p2-01",
+          "text": "P2/01 P2/01 Industrial Revolution",
+          "url": "/sevenfriday/p-series/p2-01"
+        },
+        {
+          "slug": "p1-04",
+          "text": "P1/04 P1/04 Industrial Essence Blue",
+          "url": "/sevenfriday/p-series/p1-04"
+        },
+        {
+          "slug": "p3-bb",
+          "text": "P3/BB P3/BB Big Block",
+          "url": "/sevenfriday/p-series/p3-bb"
+        },
+        {
+          "slug": "p2-02",
+          "text": "P2/02 P2/02 Industrial Revolution",
+          "url": "/sevenfriday/p-series/p2-02"
+        },
+        {
+          "slug": "p3b-01",
+          "text": "P3B/01 P3B/01 The Racer",
+          "url": "/sevenfriday/p-series/p3b-01"
+        },
+        {
+          "slug": "p1-03",
+          "text": "P1/03 P1/03 Industrial Essence Orange",
+          "url": "/sevenfriday/p-series/p1-03"
+        },
+        {
+          "slug": "p3-04",
+          "text": "P3/04 P3/04 KUKA",
+          "url": "/sevenfriday/p-series/p3-04"
+        },
+        {
+          "slug": "p1-05",
+          "text": "P1/05 P1/05 Industrial Essence Green",
+          "url": "/sevenfriday/p-series/p1-05"
+        },
+        {
+          "slug": "p3-01-micahs-voice",
+          "text": "P3/01-Micahs-Voice P3/01 Micah's Voice",
+          "url": "/sevenfriday/p-series/p3-01-micahs-voice"
+        },
+        {
+          "slug": "p1-02",
+          "text": "P1/02 P1/02 Bright Watch",
+          "url": "/sevenfriday/p-series/p1-02"
+        },
+        {
+          "slug": "p1b-01",
+          "text": "P1B/01 P1B/01 Industrial Essence",
+          "url": "/sevenfriday/p-series/p1b-01"
+        },
+        {
+          "slug": "p3-02",
+          "text": "P3/02 P3/02 Riviera",
+          "url": "/sevenfriday/p-series/p3-02"
+        }
+      ]
+    },
+    {
+      "name": "M-Series watches8",
+      "slug": "m-series",
+      "references": [
+        {
+          "slug": "m2-02gr",
+          "text": "M2/02GR M2/01 Gulf Run X",
+          "url": "/sevenfriday/m-series/m2-02gr"
+        },
+        {
+          "slug": "m2-01",
+          "text": "M2/01 M2/01",
+          "url": "/sevenfriday/m-series/m2-01"
+        },
+        {
+          "slug": "m2-02",
+          "text": "M2/02 M2/02",
+          "url": "/sevenfriday/m-series/m2-02"
+        },
+        {
+          "slug": "m1-01",
+          "text": "M1/01 M1/01",
+          "url": "/sevenfriday/m-series/m1-01"
+        },
+        {
+          "slug": "m1-03",
+          "text": "M1/03 M1/03",
+          "url": "/sevenfriday/m-series/m1-03"
+        },
+        {
+          "slug": "m1-02-uaee",
+          "text": "M1/02-UAEE M1/02 UAE Edition",
+          "url": "/sevenfriday/m-series/m1-02-uaee"
+        },
+        {
+          "slug": "m2-02ab",
+          "text": "M2/02AB M2/02 Al Boom",
+          "url": "/sevenfriday/m-series/m2-02ab"
+        },
+        {
+          "slug": "m1-04",
+          "text": "M1/04 M1/04 Punk",
+          "url": "/sevenfriday/m-series/m1-04"
+        }
+      ]
+    },
+    {
+      "name": "V-Series watches3",
+      "slug": "v-series",
+      "references": [
+        {
+          "slug": "v1-01",
+          "text": "V1/01 V1/01",
+          "url": "/sevenfriday/v-series/v1-01"
+        },
+        {
+          "slug": "v3-01",
+          "text": "V3-01 V3-01",
+          "url": "/sevenfriday/v-series/v3-01"
+        },
+        {
+          "slug": "v2-01",
+          "text": "V2-01 V2-01",
+          "url": "/sevenfriday/v-series/v2-01"
+        }
+      ]
+    }
+  ],
+  "total_references": 29
+}

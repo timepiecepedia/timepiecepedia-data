@@ -1,0 +1,17 @@
+{
+  "brand_slug": "ophion",
+  "collections": [
+    {
+      "name": "OPH 960 watches1",
+      "slug": "oph-960",
+      "references": [
+        {
+          "slug": "oph960-a",
+          "text": "OPH960-A OPH 960 Anthracite",
+          "url": "/ophion/oph-960/oph960-a"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

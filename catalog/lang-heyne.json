@@ -1,0 +1,32 @@
+{
+  "brand_slug": "lang-heyne",
+  "collections": [
+    {
+      "name": "Friedrich August 1. watches4",
+      "slug": "friedrich-august-1",
+      "references": [
+        {
+          "slug": "fa1-variation-2",
+          "text": "FA1 Variation 2 Friedrich August 1.",
+          "url": "/lang-heyne/friedrich-august-1/fa1-variation-2"
+        },
+        {
+          "slug": "fa1-variation-1",
+          "text": "FA1 Variation 1 Friedrich August 1.",
+          "url": "/lang-heyne/friedrich-august-1/fa1-variation-1"
+        },
+        {
+          "slug": "fa1-variation-4",
+          "text": "FA1 Variation 4 Friedrich August 1.",
+          "url": "/lang-heyne/friedrich-august-1/fa1-variation-4"
+        },
+        {
+          "slug": "fa1-variation-5",
+          "text": "FA1 Variation 5 Friedrich August 1.",
+          "url": "/lang-heyne/friedrich-august-1/fa1-variation-5"
+        }
+      ]
+    }
+  ],
+  "total_references": 4
+}

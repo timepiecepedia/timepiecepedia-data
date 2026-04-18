@@ -1,0 +1,454 @@
+{
+  "brand_slug": "swatch",
+  "collections": [
+    {
+      "name": "Sistem 51 watches44",
+      "slug": "sistem-51",
+      "references": [
+        {
+          "slug": "yis402",
+          "text": "YIS402 Sistem Soul",
+          "url": "/swatch/sistem-51/yis402"
+        },
+        {
+          "slug": "yis401g",
+          "text": "YIS401G Sistem Boreal",
+          "url": "/swatch/sistem-51/yis401g"
+        },
+        {
+          "slug": "yib400",
+          "text": "YIB400 Sistem Slate",
+          "url": "/swatch/sistem-51/yib400"
+        },
+        {
+          "slug": "yis415",
+          "text": "YIS415 Sistem Polaire",
+          "url": "/swatch/sistem-51/yis415"
+        },
+        {
+          "slug": "yis405g",
+          "text": "YIS405G Sistem Tux",
+          "url": "/swatch/sistem-51/yis405g"
+        },
+        {
+          "slug": "yis404",
+          "text": "YIS404 Sistem Fly",
+          "url": "/swatch/sistem-51/yis404"
+        },
+        {
+          "slug": "sutn403",
+          "text": "SUTN403 Sistem Sea",
+          "url": "/swatch/sistem-51/sutn403"
+        },
+        {
+          "slug": "yis406",
+          "text": "YIS406 Sistem Snow",
+          "url": "/swatch/sistem-51/yis406"
+        },
+        {
+          "slug": "yis414",
+          "text": "YIS414 Sistem Solaire",
+          "url": "/swatch/sistem-51/yis414"
+        },
+        {
+          "slug": "sutr403",
+          "text": "SUTR403 Sistem Corrida",
+          "url": "/swatch/sistem-51/sutr403"
+        },
+        {
+          "slug": "sutw403",
+          "text": "SUTW403 Sistem Polka",
+          "url": "/swatch/sistem-51/sutw403"
+        },
+        {
+          "slug": "sutc401",
+          "text": "SUTC401 Sistem Fudge",
+          "url": "/swatch/sistem-51/sutc401"
+        },
+        {
+          "slug": "sutw404",
+          "text": "SUTW404 Sistem Planet",
+          "url": "/swatch/sistem-51/sutw404"
+        },
+        {
+          "slug": "sutw402",
+          "text": "SUTW402 Sistem Arlequin",
+          "url": "/swatch/sistem-51/sutw402"
+        },
+        {
+          "slug": "suto401",
+          "text": "SUTO401 Sistem Tangerine",
+          "url": "/swatch/sistem-51/suto401"
+        },
+        {
+          "slug": "suts401",
+          "text": "SUTS401 Sistem Blue",
+          "url": "/swatch/sistem-51/suts401"
+        },
+        {
+          "slug": "sutb400",
+          "text": "SUTB400 Sistem Black",
+          "url": "/swatch/sistem-51/sutb400"
+        },
+        {
+          "slug": "yis403",
+          "text": "YIS403 Sistem Arrow",
+          "url": "/swatch/sistem-51/yis403"
+        },
+        {
+          "slug": "sutm401",
+          "text": "SUTM401 Sistem Ash",
+          "url": "/swatch/sistem-51/sutm401"
+        },
+        {
+          "slug": "sutg400",
+          "text": "SUTG400 Sistem Green",
+          "url": "/swatch/sistem-51/sutg400"
+        },
+        {
+          "slug": "sutr400",
+          "text": "SUTR400 Sistem Red",
+          "url": "/swatch/sistem-51/sutr400"
+        },
+        {
+          "slug": "yis412g",
+          "text": "YIS412G Sistem Check",
+          "url": "/swatch/sistem-51/yis412g"
+        },
+        {
+          "slug": "yis413",
+          "text": "YIS413 Sistem Dark",
+          "url": "/swatch/sistem-51/yis413"
+        },
+        {
+          "slug": "yis408",
+          "text": "YIS408 Sistem Puzzle",
+          "url": "/swatch/sistem-51/yis408"
+        },
+        {
+          "slug": "sutn401",
+          "text": "SUTN401 Sistem Grid",
+          "url": "/swatch/sistem-51/sutn401"
+        },
+        {
+          "slug": "sutm400",
+          "text": "SUTM400 Sistem Cream",
+          "url": "/swatch/sistem-51/sutm400"
+        },
+        {
+          "slug": "sutb402",
+          "text": "SUTB402 Sistem Chic",
+          "url": "/swatch/sistem-51/sutb402"
+        },
+        {
+          "slug": "sutf400",
+          "text": "SUTF400 Sistem Gentleman",
+          "url": "/swatch/sistem-51/sutf400"
+        },
+        {
+          "slug": "sutt400",
+          "text": "SUTT400 Sistem Incognito",
+          "url": "/swatch/sistem-51/sutt400"
+        },
+        {
+          "slug": "sutn402",
+          "text": "SUTN402 Sistem Aqua",
+          "url": "/swatch/sistem-51/sutn402"
+        },
+        {
+          "slug": "sutw400",
+          "text": "SUTW400 Sistem White",
+          "url": "/swatch/sistem-51/sutw400"
+        },
+        {
+          "slug": "sutn400",
+          "text": "SUTN400 Sistem Navy",
+          "url": "/swatch/sistem-51/sutn400"
+        },
+        {
+          "slug": "suta401",
+          "text": "SUTA401 Sistem Clouds",
+          "url": "/swatch/sistem-51/suta401"
+        },
+        {
+          "slug": "sutb403",
+          "text": "SUTB403 Sistem Notte",
+          "url": "/swatch/sistem-51/sutb403"
+        },
+        {
+          "slug": "suts402",
+          "text": "SUTS402 Sistem Class",
+          "url": "/swatch/sistem-51/suts402"
+        },
+        {
+          "slug": "yis410g",
+          "text": "YIS410G Sistem Nugget",
+          "url": "/swatch/sistem-51/yis410g"
+        },
+        {
+          "slug": "sutg401",
+          "text": "SUTG401 Sistem Frog",
+          "url": "/swatch/sistem-51/sutg401"
+        },
+        {
+          "slug": "sutn403c",
+          "text": "SUTN403C Sistem Sea Flex",
+          "url": "/swatch/sistem-51/sutn403c"
+        },
+        {
+          "slug": "sutb404",
+          "text": "SUTB404 Sistem Schwiiz",
+          "url": "/swatch/sistem-51/sutb404"
+        },
+        {
+          "slug": "yis400",
+          "text": "YIS400 Sistem Earth",
+          "url": "/swatch/sistem-51/yis400"
+        },
+        {
+          "slug": "yis411",
+          "text": "YIS411 Sistem Sand",
+          "url": "/swatch/sistem-51/yis411"
+        },
+        {
+          "slug": "yis409",
+          "text": "YIS409 Sistem Navy",
+          "url": "/swatch/sistem-51/yis409"
+        },
+        {
+          "slug": "sutr401",
+          "text": "SUTR401 Sistem Pink",
+          "url": "/swatch/sistem-51/sutr401"
+        },
+        {
+          "slug": "yis407g",
+          "text": "YIS407G Sistem Khaki",
+          "url": "/swatch/sistem-51/yis407g"
+        }
+      ]
+    },
+    {
+      "name": "MoonSwatch watches31",
+      "slug": "moonswatch",
+      "references": [
+        {
+          "slug": "so33a100",
+          "text": "SO33A100 MoonSwatch Mission to Mercury",
+          "url": "/swatch/moonswatch/so33a100"
+        },
+        {
+          "slug": "so33m100",
+          "text": "SO33M100 MoonSwatch Mission to the Moon",
+          "url": "/swatch/moonswatch/so33m100"
+        },
+        {
+          "slug": "so33p700",
+          "text": "SO33P700 MoonSwatch Mission to the Pink Moonphase",
+          "url": "/swatch/moonswatch/so33p700"
+        },
+        {
+          "slug": "so33m102-110",
+          "text": "SO33M102-110 MoonSwatch Mission to the Moon Moonshine Gold Lollipop",
+          "url": "/swatch/moonswatch/so33m102-110"
+        },
+        {
+          "slug": "so33w700",
+          "text": "SO33W700 MoonSwatch Mission to Moonphase Full Moon",
+          "url": "/swatch/moonswatch/so33w700"
+        },
+        {
+          "slug": "so33j100",
+          "text": "SO33J100 MoonSwatch Mission to the Sun",
+          "url": "/swatch/moonswatch/so33j100"
+        },
+        {
+          "slug": "so33b700",
+          "text": "SO33B700 MoonSwatch Mission to Moonphase New Moon",
+          "url": "/swatch/moonswatch/so33b700"
+        },
+        {
+          "slug": "so33p100",
+          "text": "SO33P100 MoonSwatch Mission to Venus",
+          "url": "/swatch/moonswatch/so33p100"
+        },
+        {
+          "slug": "so33t100",
+          "text": "SO33T100 MoonSwatch Mission to Saturn",
+          "url": "/swatch/moonswatch/so33t100"
+        },
+        {
+          "slug": "so33g100",
+          "text": "SO33G100 MoonSwatch Mission on Earth",
+          "url": "/swatch/moonswatch/so33g100"
+        },
+        {
+          "slug": "so33n100",
+          "text": "SO33N100 MoonSwatch Mission to Neptune",
+          "url": "/swatch/moonswatch/so33n100"
+        },
+        {
+          "slug": "so33m106",
+          "text": "SO33M106 MoonSwatch 1965",
+          "url": "/swatch/moonswatch/so33m106"
+        },
+        {
+          "slug": "so33o100",
+          "text": "SO33O100 MoonSwatch Mission on Earth Lava",
+          "url": "/swatch/moonswatch/so33o100"
+        },
+        {
+          "slug": "so33m101",
+          "text": "SO33M101 MoonSwatch Mission to Pluto",
+          "url": "/swatch/moonswatch/so33m101"
+        },
+        {
+          "slug": "so33m102-104",
+          "text": "SO33M102-104 MoonSwatch Mission to the Moon Moonshine Gold",
+          "url": "/swatch/moonswatch/so33m102-104"
+        },
+        {
+          "slug": "so33n700",
+          "text": "SO33N700 MoonSwatch Mission to the Super Blue Moonphase",
+          "url": "/swatch/moonswatch/so33n700"
+        },
+        {
+          "slug": "so33m102-109",
+          "text": "SO33M102-109 MoonSwatch Mission to the Moon Moonshine Gold Harvest Moon",
+          "url": "/swatch/moonswatch/so33m102-109"
+        },
+        {
+          "slug": "so33m102-112",
+          "text": "SO33M102-112 MoonSwatch Mission to the Moon Moonshine Gold Snow Flake",
+          "url": "/swatch/moonswatch/so33m102-112"
+        },
+        {
+          "slug": "so33m700",
+          "text": "SO33M700 MoonSwatch Mission to Earthphase",
+          "url": "/swatch/moonswatch/so33m700"
+        },
+        {
+          "slug": "so33m102-107",
+          "text": "SO33M102-107 MoonSwatch Mission to the Moon Moonshine Gold Strawberry Moon",
+          "url": "/swatch/moonswatch/so33m102-107"
+        },
+        {
+          "slug": "so33l100",
+          "text": "SO33L100 MoonSwatch Mission to Uranus",
+          "url": "/swatch/moonswatch/so33l100"
+        },
+        {
+          "slug": "so33c100",
+          "text": "SO33C100 MoonSwatch Mission to Jupiter",
+          "url": "/swatch/moonswatch/so33c100"
+        },
+        {
+          "slug": "so33r100",
+          "text": "SO33R100 MoonSwatch Mission to Mars",
+          "url": "/swatch/moonswatch/so33r100"
+        },
+        {
+          "slug": "so33m102-111",
+          "text": "SO33M102-111 MoonSwatch Mission to the Moon Moonshine Gold Beaver Moon",
+          "url": "/swatch/moonswatch/so33m102-111"
+        },
+        {
+          "slug": "so33m102-108",
+          "text": "SO33M102-108 MoonSwatch Mission to the Moon Moonshine Gold Swiss National Day",
+          "url": "/swatch/moonswatch/so33m102-108"
+        },
+        {
+          "slug": "so33m102-106",
+          "text": "SO33M102-106 MoonSwatch Mission to the Moon Moonshine Gold Flower Moon",
+          "url": "/swatch/moonswatch/so33m102-106"
+        },
+        {
+          "slug": "so33m102-105",
+          "text": "SO33M102-105 MoonSwatch Mission to the Moon Moonshine Gold Pink Moon",
+          "url": "/swatch/moonswatch/so33m102-105"
+        },
+        {
+          "slug": "so33n101-108",
+          "text": "SO33N101-108 MoonSwatch Mission to Neptune Moonshine Gold",
+          "url": "/swatch/moonswatch/so33n101-108"
+        },
+        {
+          "slug": "so33m102",
+          "text": "SO33M102 MoonSwatch Mission to Moonshine Gold",
+          "url": "/swatch/moonswatch/so33m102"
+        },
+        {
+          "slug": "so33t103",
+          "text": "SO33T103 MoonSwatch Mission on Earth Desert",
+          "url": "/swatch/moonswatch/so33t103"
+        },
+        {
+          "slug": "so33l103",
+          "text": "SO33L103 MoonSwatch Mission on Earth Polar Lights",
+          "url": "/swatch/moonswatch/so33l103"
+        }
+      ]
+    },
+    {
+      "name": "Scuba Fifty Fathoms watches11",
+      "slug": "scuba-fifty-fathoms",
+      "references": [
+        {
+          "slug": "so35i100c",
+          "text": "SO35I100C Scuba Fifty Fathoms Indian Ocean",
+          "url": "/swatch/scuba-fifty-fathoms/so35i100c"
+        },
+        {
+          "slug": "so35p400",
+          "text": "SO35P400 Scuba Fifty Fathoms Pink Ocean",
+          "url": "/swatch/scuba-fifty-fathoms/so35p400"
+        },
+        {
+          "slug": "so35i100",
+          "text": "SO35I100 Scuba Fifty Fathoms Indian Ocean",
+          "url": "/swatch/scuba-fifty-fathoms/so35i100"
+        },
+        {
+          "slug": "so35b400",
+          "text": "SO35B400 Scuba Fifty Fathoms Ocean of Storms",
+          "url": "/swatch/scuba-fifty-fathoms/so35b400"
+        },
+        {
+          "slug": "so35p100",
+          "text": "SO35P100 Scuba Fifty Fathoms Pacific Ocean",
+          "url": "/swatch/scuba-fifty-fathoms/so35p100"
+        },
+        {
+          "slug": "so35a100",
+          "text": "SO35A100 Scuba Fifty Fathoms Atlantic Ocean",
+          "url": "/swatch/scuba-fifty-fathoms/so35a100"
+        },
+        {
+          "slug": "so35l400",
+          "text": "SO35L400 Scuba Fifty Fathoms Blue Lagoon",
+          "url": "/swatch/scuba-fifty-fathoms/so35l400"
+        },
+        {
+          "slug": "so35n100",
+          "text": "SO35N100 Scuba Fifty Fathoms Arctic Ocean",
+          "url": "/swatch/scuba-fifty-fathoms/so35n100"
+        },
+        {
+          "slug": "so35p100c",
+          "text": "SO35P100C Scuba Fifty Fathoms Pacific Ocean",
+          "url": "/swatch/scuba-fifty-fathoms/so35p100c"
+        },
+        {
+          "slug": "so35s100",
+          "text": "SO35S100 Scuba Fifty Fathoms Antarctic Ocean",
+          "url": "/swatch/scuba-fifty-fathoms/so35s100"
+        },
+        {
+          "slug": "so35g100",
+          "text": "SO35G100 Scuba Fifty Fathoms Green Abyss",
+          "url": "/swatch/scuba-fifty-fathoms/so35g100"
+        }
+      ]
+    }
+  ],
+  "total_references": 86
+}

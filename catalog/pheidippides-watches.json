@@ -1,0 +1,17 @@
+{
+  "brand_slug": "pheidippides-watches",
+  "collections": [
+    {
+      "name": "The Porthole watches1",
+      "slug": "the-porthole",
+      "references": [
+        {
+          "slug": "pw-ph-01-001",
+          "text": "PW.PH.01.001 The Porthole",
+          "url": "/pheidippides-watches/the-porthole/pw-ph-01-001"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

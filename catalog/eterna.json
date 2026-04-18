@@ -1,0 +1,454 @@
+{
+  "brand_slug": "eterna",
+  "collections": [
+    {
+      "name": "Adventure watches43",
+      "slug": "adventure",
+      "references": [
+        {
+          "slug": "1273-41-46-1364",
+          "text": "1273.41.46.1364 Super KonTiki NATO",
+          "url": "/eterna/adventure/1273-41-46-1364"
+        },
+        {
+          "slug": "2947-50-61-1293",
+          "text": "2947.50.61.1293 Tangaroa Three-Hands Lady Diamond / White Strap",
+          "url": "/eterna/adventure/2947-50-61-1293"
+        },
+        {
+          "slug": "1250-41-81-1303",
+          "text": "1250.41.81.1303 KonTiki Quartz Chronograph Blue",
+          "url": "/eterna/adventure/1250-41-81-1303"
+        },
+        {
+          "slug": "7740-40-11-1289",
+          "text": "7740.40.11.1289 Royal KonTiki GMT Silver",
+          "url": "/eterna/adventure/7740-40-11-1289"
+        },
+        {
+          "slug": "2948-41-51-0277",
+          "text": "2948.41.51.0277 Tangaroa Three-Hands Grey / Bracelet",
+          "url": "/eterna/adventure/2948-41-51-0277"
+        },
+        {
+          "slug": "7740-43-41-1289",
+          "text": "7740.43.41.1289 Royal KonTiki GMT Full Black",
+          "url": "/eterna/adventure/7740-43-41-1289"
+        },
+        {
+          "slug": "1250-41-11-0217",
+          "text": "1250.41.11.0217 KonTiki Quartz Chronograph Silver / Bracelet",
+          "url": "/eterna/adventure/1250-41-11-0217"
+        },
+        {
+          "slug": "1598-43-41-1306",
+          "text": "1598.43.41.1306 KonTiki Four-Hands Full Black / Strap",
+          "url": "/eterna/adventure/1598-43-41-1306"
+        },
+        {
+          "slug": "1273-41-40-1718",
+          "text": "1273.41.40.1718 Super KonTiki Milanese",
+          "url": "/eterna/adventure/1273-41-40-1718"
+        },
+        {
+          "slug": "1250-41-41-0217",
+          "text": "1250.41.41.0217 KonTiki Quartz Chronograph Black / Bracelet",
+          "url": "/eterna/adventure/1250-41-41-0217"
+        },
+        {
+          "slug": "1250-41-50-1360",
+          "text": "1250.41.50.1360 KonTiki Quartz Chronograph Khaki",
+          "url": "/eterna/adventure/1250-41-50-1360"
+        },
+        {
+          "slug": "1598-33-41-1722",
+          "text": "1598.33.41.1722 KonTiki Four-Hands Full Black / Bracelet",
+          "url": "/eterna/adventure/1598-33-41-1722"
+        },
+        {
+          "slug": "1598-41-41-0217",
+          "text": "1598.41.41.0217 KonTiki Four-Hands Black / Bracelet",
+          "url": "/eterna/adventure/1598-41-41-0217"
+        },
+        {
+          "slug": "2948-41-41-1261",
+          "text": "2948.41.41.1261 Tangaroa Three-Hands Black / Strap",
+          "url": "/eterna/adventure/2948-41-41-1261"
+        },
+        {
+          "slug": "1273-41-49-1363",
+          "text": "1273.41.49.1363 Super KonTiki Leather",
+          "url": "/eterna/adventure/1273-41-49-1363"
+        },
+        {
+          "slug": "1592-41-41-0217",
+          "text": "1592.41.41.0217 KonTiki Four-Hands Vintage Black",
+          "url": "/eterna/adventure/1592-41-41-0217"
+        },
+        {
+          "slug": "7740-40-41-1289",
+          "text": "7740.40.41.1289 Royal KonTiki GMT Black / Rubber",
+          "url": "/eterna/adventure/7740-40-41-1289"
+        },
+        {
+          "slug": "2947-50-61-0285",
+          "text": "2947.50.61.0285 Tangaroa Three-Hands Lady Diamond / Bracelet",
+          "url": "/eterna/adventure/2947-50-61-0285"
+        },
+        {
+          "slug": "1241-41-41-0217",
+          "text": "1241.41.41.0217 KonTiki Chronograph Black / Bracelet",
+          "url": "/eterna/adventure/1241-41-41-0217"
+        },
+        {
+          "slug": "1241-43-41-1306",
+          "text": "1241.43.41.1306 KonTiki Chronograph Full Black",
+          "url": "/eterna/adventure/1241-43-41-1306"
+        },
+        {
+          "slug": "2947-41-61-1292",
+          "text": "2947.41.61.1292 Tangaroa Three-Hands Lady Strap",
+          "url": "/eterna/adventure/2947-41-61-1292"
+        },
+        {
+          "slug": "7755-40-50-1289",
+          "text": "7755.40.50.1289 Royal KonTiki Chronograph Strap",
+          "url": "/eterna/adventure/7755-40-50-1289"
+        },
+        {
+          "slug": "1250-43-41-1308",
+          "text": "1250.43.41.1308 KonTiki Quartz Chronograph Full Black",
+          "url": "/eterna/adventure/1250-43-41-1308"
+        },
+        {
+          "slug": "7755-43-40-1289",
+          "text": "7755.43.40.1289 Royal KonTiki Chronograph Full Black",
+          "url": "/eterna/adventure/7755-43-40-1289"
+        },
+        {
+          "slug": "7740-41-41-0280",
+          "text": "7740.41.41.0280 Royal KonTiki GMT Black / Bracelet",
+          "url": "/eterna/adventure/7740-41-41-0280"
+        },
+        {
+          "slug": "7760-42-80-0280",
+          "text": "7760.42.80.0280 Royal KonTiki Chronograph GMT",
+          "url": "/eterna/adventure/7760-42-80-0280"
+        },
+        {
+          "slug": "2947-50-61-1292",
+          "text": "2947.50.61.1292 Tangaroa Three-Hands Lady Diamond / Strap",
+          "url": "/eterna/adventure/2947-50-61-1292"
+        },
+        {
+          "slug": "2947-41-61-1293",
+          "text": "2947.41.61.1293 Tangaroa Three-Hands Lady White Strap",
+          "url": "/eterna/adventure/2947-41-61-1293"
+        },
+        {
+          "slug": "2947-41-61-0285",
+          "text": "2947.41.61.0285 Tangaroa Three-Hands Lady Bracelet",
+          "url": "/eterna/adventure/2947-41-61-0285"
+        },
+        {
+          "slug": "7755-40-50-0280",
+          "text": "7755.40.50.0280 Royal KonTiki Chronograph  Bracelet",
+          "url": "/eterna/adventure/7755-40-50-0280"
+        },
+        {
+          "slug": "2948-41-51-1261",
+          "text": "2948.41.51.1261 Tangaroa Three-Hands Grey / Strap",
+          "url": "/eterna/adventure/2948-41-51-1261"
+        },
+        {
+          "slug": "1592-41-11-0217",
+          "text": "1592.41.11.0217 KonTiki Four-Hands Silver / Bracelet",
+          "url": "/eterna/adventure/1592-41-11-0217"
+        },
+        {
+          "slug": "1273-43-41-1365",
+          "text": "1273.43.41.1365 Super KonTiki Black Limited Edition",
+          "url": "/eterna/adventure/1273-43-41-1365"
+        },
+        {
+          "slug": "1241-41-41-1307",
+          "text": "1241.41.41.1307 KonTiki Chronograph Black / Strap",
+          "url": "/eterna/adventure/1241-41-41-1307"
+        },
+        {
+          "slug": "1222-43-41-1302",
+          "text": "1222.43.41.1302 KonTiki Date Full Black",
+          "url": "/eterna/adventure/1222-43-41-1302"
+        },
+        {
+          "slug": "1222-53-51-1362",
+          "text": "1222.53.51.1362 KonTiki Date Grey / Strap",
+          "url": "/eterna/adventure/1222-53-51-1362"
+        },
+        {
+          "slug": "1222-41-11-1302",
+          "text": "1222.41.11.1302 KonTiki Date Silver / Strap",
+          "url": "/eterna/adventure/1222-41-11-1302"
+        },
+        {
+          "slug": "2948-41-41-0277",
+          "text": "2948.41.41.0277 Tangaroa Three-Hands Black / Bracelet",
+          "url": "/eterna/adventure/2948-41-41-0277"
+        },
+        {
+          "slug": "1222-41-11-0217",
+          "text": "1222.41.11.0217 KonTiki Date Silver / Bracelet",
+          "url": "/eterna/adventure/1222-41-11-0217"
+        },
+        {
+          "slug": "1222-41-41-1301",
+          "text": "1222.41.41.1301 KonTiki Date Black / Strap",
+          "url": "/eterna/adventure/1222-41-41-1301"
+        },
+        {
+          "slug": "1598-41-41-1305",
+          "text": "1598.41.41.1305 KonTiki Four-Hands Black / Strap",
+          "url": "/eterna/adventure/1598-41-41-1305"
+        },
+        {
+          "slug": "1222-41-41-0217",
+          "text": "1222.41.41.0217 KonTiki Date Black / Bracelet",
+          "url": "/eterna/adventure/1222-41-41-0217"
+        },
+        {
+          "slug": "1222-53-51-1723",
+          "text": "1222.53.51.1723 KonTiki Date Grey / Bracelet",
+          "url": "/eterna/adventure/1222-53-51-1723"
+        }
+      ]
+    },
+    {
+      "name": "Contemporary watches33",
+      "slug": "contemporary",
+      "references": [
+        {
+          "slug": "7661-41-66-1324",
+          "text": "7661.41.66.1324 Adventic GMT Silver / Strap",
+          "url": "/eterna/contemporary/7661-41-66-1324"
+        },
+        {
+          "slug": "2945-41-50-1338",
+          "text": "2945.41.50.1338 Avant-Garde Date Black / Strap",
+          "url": "/eterna/contemporary/2945-41-50-1338"
+        },
+        {
+          "slug": "2545-53-61-1339",
+          "text": "2545.53.61.1339 Avant-Garde Quartz Big Date Two Tone / White / Strap",
+          "url": "/eterna/contemporary/2545-53-61-1339"
+        },
+        {
+          "slug": "7661-41-66-1702",
+          "text": "7661.41.66.1702 Adventic GMT Silver / Bracelet",
+          "url": "/eterna/contemporary/7661-41-66-1702"
+        },
+        {
+          "slug": "7720-41-43-1228",
+          "text": "7720.41.43.1228 Madison Eight-Days Black",
+          "url": "/eterna/contemporary/7720-41-43-1228"
+        },
+        {
+          "slug": "7661-41-56-1352",
+          "text": "7661.41.56.1352 Adventic GMT Anthracite",
+          "url": "/eterna/contemporary/7661-41-56-1352"
+        },
+        {
+          "slug": "2545-41-40-1715",
+          "text": "2545.41.40.1715 Avant-Garde Quartz Big Date Black / Bracelet",
+          "url": "/eterna/contemporary/2545-41-40-1715"
+        },
+        {
+          "slug": "2945-53-61-1716",
+          "text": "2945.53.61.1716 Avant-Garde Date Two Tone / Silver / Bracelet",
+          "url": "/eterna/contemporary/2945-53-61-1716"
+        },
+        {
+          "slug": "2970-41-42-1704",
+          "text": "2970.41.42.1704 Adventic Date Black / Bracelet",
+          "url": "/eterna/contemporary/2970-41-42-1704"
+        },
+        {
+          "slug": "7661-41-46-1702",
+          "text": "7661.41.46.1702 Adventic GMT Black / Bracelet",
+          "url": "/eterna/contemporary/7661-41-46-1702"
+        },
+        {
+          "slug": "7661-41-46-1324",
+          "text": "7661.41.46.1324 Adventic GMT Black / Strap",
+          "url": "/eterna/contemporary/7661-41-46-1324"
+        },
+        {
+          "slug": "2971-41-66-1327",
+          "text": "2971.41.66.1327 Adventic Quartz Big Date Silver / Strap",
+          "url": "/eterna/contemporary/2971-41-66-1327"
+        },
+        {
+          "slug": "2971-41-46-1704",
+          "text": "2971.41.46.1704 Adventic Quartz Big Date Black / Bracelet",
+          "url": "/eterna/contemporary/2971-41-46-1704"
+        },
+        {
+          "slug": "2945-53-41-1337",
+          "text": "2945.53.41.1337 Avant-Garde Date Two Tone / Black / Strap",
+          "url": "/eterna/contemporary/2945-53-41-1337"
+        },
+        {
+          "slug": "2945-41-40-1715",
+          "text": "2945.41.40.1715 Avant-Garde Date Black / Bracelet",
+          "url": "/eterna/contemporary/2945-41-40-1715"
+        },
+        {
+          "slug": "2545-53-41-1714",
+          "text": "2545.53.41.1714 Avant-Garde Quartz Big Date Two Tone / Black / Bracelet",
+          "url": "/eterna/contemporary/2545-53-41-1714"
+        },
+        {
+          "slug": "7720-41-53-1231",
+          "text": "7720.41.53.1231 Madison Eight-Days Grey",
+          "url": "/eterna/contemporary/7720-41-53-1231"
+        },
+        {
+          "slug": "2570-41-60-1710",
+          "text": "2570.41.60.1710 Avant-Garde Quartz Lady White / Bracelet",
+          "url": "/eterna/contemporary/2570-41-60-1710"
+        },
+        {
+          "slug": "2545-41-60-1340",
+          "text": "2545.41.60.1340 Avant-Garde Quartz Big Date White / Strap",
+          "url": "/eterna/contemporary/2545-41-60-1340"
+        },
+        {
+          "slug": "2970-43-42-1353",
+          "text": "2970.43.42.1353 Adventic Date Full Black",
+          "url": "/eterna/contemporary/2970-43-42-1353"
+        },
+        {
+          "slug": "2970-41-62-1326",
+          "text": "2970.41.62.1326 Adventic Date Silver / Strap",
+          "url": "/eterna/contemporary/2970-41-62-1326"
+        },
+        {
+          "slug": "2970-53-17-1703",
+          "text": "2970.53.17.1703 Adventic Date Two Tone / Bracelet",
+          "url": "/eterna/contemporary/2970-53-17-1703"
+        },
+        {
+          "slug": "2945-53-66-1716",
+          "text": "2945.53.66.1716 Avant-Garde Date Two Tone / MOP / Bracelet",
+          "url": "/eterna/contemporary/2945-53-66-1716"
+        },
+        {
+          "slug": "2970-53-17-1325",
+          "text": "2970.53.17.1325 Adventic Date Two Tone / Strap",
+          "url": "/eterna/contemporary/2970-53-17-1325"
+        },
+        {
+          "slug": "2971-41-46-1327",
+          "text": "2971.41.46.1327 Adventic Quartz Big Date Black / Strap",
+          "url": "/eterna/contemporary/2971-41-46-1327"
+        },
+        {
+          "slug": "2971-41-66-1704",
+          "text": "2971.41.66.1704 Adventic Quartz Big Date Silver / Bracelet",
+          "url": "/eterna/contemporary/2971-41-66-1704"
+        },
+        {
+          "slug": "2970-41-62-1704",
+          "text": "2970.41.62.1704 Adventic Date Silver / Bracelet",
+          "url": "/eterna/contemporary/2970-41-62-1704"
+        },
+        {
+          "slug": "2970-41-42-1326",
+          "text": "2970.41.42.1326 Adventic Date Black / Strap",
+          "url": "/eterna/contemporary/2970-41-42-1326"
+        },
+        {
+          "slug": "2946-53-66-1709",
+          "text": "2946.53.66.1709 Avant-Garde Date Lady Two Tone / MOP/ Bracelet",
+          "url": "/eterna/contemporary/2946-53-66-1709"
+        },
+        {
+          "slug": "2940-41-40-1357",
+          "text": "2940.41.40.1357 Avant-Garde Date Lady Black MOP / Strap",
+          "url": "/eterna/contemporary/2940-41-40-1357"
+        },
+        {
+          "slug": "2940-53-61-1356",
+          "text": "2940.53.61.1356 Avant-Garde Date Lady Two Tone / MOP / Strap",
+          "url": "/eterna/contemporary/2940-53-61-1356"
+        },
+        {
+          "slug": "2940-56-41-1357",
+          "text": "2940.56.41.1357 Avant-Garde Date Lady Two Tone / Black MOP / Strap",
+          "url": "/eterna/contemporary/2940-56-41-1357"
+        },
+        {
+          "slug": "7720-41-13-1229",
+          "text": "7720.41.13.1229 Madison Eight-Days Silver",
+          "url": "/eterna/contemporary/7720-41-13-1229"
+        }
+      ]
+    },
+    {
+      "name": "Heritage watches10",
+      "slug": "heritage",
+      "references": [
+        {
+          "slug": "1939-41-46-1298",
+          "text": "1939.41.46.1298 Military Limited Edition 1939",
+          "url": "/eterna/heritage/1939-41-46-1298"
+        },
+        {
+          "slug": "2961-69-11-1295",
+          "text": "2961.69.11.1295 Centenaire Date 32mm",
+          "url": "/eterna/heritage/2961-69-11-1295"
+        },
+        {
+          "slug": "1973-41-41-1230",
+          "text": "1973.41.41.1230 Super Kontiki Limited Edition 1973",
+          "url": "/eterna/heritage/1973-41-41-1230"
+        },
+        {
+          "slug": "1942-41-64-1177",
+          "text": "1942.41.64.1177 Pulsometer Limited Edition 1942",
+          "url": "/eterna/heritage/1942-41-64-1177"
+        },
+        {
+          "slug": "7630-41-61-1185",
+          "text": "7630.41.61.1185 Vaughan Big Date Silver",
+          "url": "/eterna/heritage/7630-41-61-1185"
+        },
+        {
+          "slug": "1938-41-45-1250",
+          "text": "1938.41.45.1250 Chronograph Limited Edition 1938",
+          "url": "/eterna/heritage/1938-41-45-1250"
+        },
+        {
+          "slug": "2960-69-11-1272",
+          "text": "2960.69.11.1272 Centenaire Date 40mm",
+          "url": "/eterna/heritage/2960-69-11-1272"
+        },
+        {
+          "slug": "7630-69-10-1185",
+          "text": "7630.69.10.1185 Vaughan Big Date Rose Gold",
+          "url": "/eterna/heritage/7630-69-10-1185"
+        },
+        {
+          "slug": "7630-41-50-1186",
+          "text": "7630.41.50.1186 Vaughan Big Date Black",
+          "url": "/eterna/heritage/7630-41-50-1186"
+        },
+        {
+          "slug": "1939-43-46-1299",
+          "text": "1939.43.46.1299 Military Limited Edition 1939 PVD",
+          "url": "/eterna/heritage/1939-43-46-1299"
+        }
+      ]
+    }
+  ],
+  "total_references": 86
+}

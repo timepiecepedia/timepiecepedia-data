@@ -1,0 +1,188 @@
+{
+  "brand_slug": "van-der-gang-watches",
+  "collections": [
+    {
+      "name": "Gents watches25",
+      "slug": "gents",
+      "references": [
+        {
+          "slug": "20025",
+          "text": "20025 20025 Rose Gold / Black",
+          "url": "/van-der-gang-watches/gents/20025"
+        },
+        {
+          "slug": "20019",
+          "text": "20019 20019 Stainless Steel / Silver",
+          "url": "/van-der-gang-watches/gents/20019"
+        },
+        {
+          "slug": "20024",
+          "text": "20024 20024 Rose Gold / Silver",
+          "url": "/van-der-gang-watches/gents/20024"
+        },
+        {
+          "slug": "20002",
+          "text": "20002 20002 Stainless Steel / Silver",
+          "url": "/van-der-gang-watches/gents/20002"
+        },
+        {
+          "slug": "20015",
+          "text": "20015 20015 Rose Gold / Silver",
+          "url": "/van-der-gang-watches/gents/20015"
+        },
+        {
+          "slug": "20003",
+          "text": "20003 20003 Stainless Steel / Black",
+          "url": "/van-der-gang-watches/gents/20003"
+        },
+        {
+          "slug": "20044b",
+          "text": "20044B 20044B Stainless Steel / Anthracite Grey",
+          "url": "/van-der-gang-watches/gents/20044b"
+        },
+        {
+          "slug": "20026",
+          "text": "20026 20026 Rose Gold / Black",
+          "url": "/van-der-gang-watches/gents/20026"
+        },
+        {
+          "slug": "20029",
+          "text": "20029 20029 Rose Gold / Black",
+          "url": "/van-der-gang-watches/gents/20029"
+        },
+        {
+          "slug": "20021",
+          "text": "20021 20021 Stainless Steel / Black",
+          "url": "/van-der-gang-watches/gents/20021"
+        },
+        {
+          "slug": "20044z",
+          "text": "20044Z 20044Z Stainless Steel DLC / Anthracite Grey",
+          "url": "/van-der-gang-watches/gents/20044z"
+        },
+        {
+          "slug": "20030",
+          "text": "20030 20030 Rose Gold / Black",
+          "url": "/van-der-gang-watches/gents/20030"
+        },
+        {
+          "slug": "20020",
+          "text": "20020 20020 Stainless Steel / Silver",
+          "url": "/van-der-gang-watches/gents/20020"
+        },
+        {
+          "slug": "20027",
+          "text": "20027 20027 Stainless steel / Blue",
+          "url": "/van-der-gang-watches/gents/20027"
+        },
+        {
+          "slug": "20004",
+          "text": "20004 20004 Stainless Steel / Blue",
+          "url": "/van-der-gang-watches/gents/20004"
+        },
+        {
+          "slug": "20018",
+          "text": "20018 20018 Rose Gold / Black",
+          "url": "/van-der-gang-watches/gents/20018"
+        },
+        {
+          "slug": "20022",
+          "text": "20022 20022 Stainless Steel / Black",
+          "url": "/van-der-gang-watches/gents/20022"
+        },
+        {
+          "slug": "20028",
+          "text": "20028 20028 Stainless steel / Blue",
+          "url": "/van-der-gang-watches/gents/20028"
+        },
+        {
+          "slug": "20023",
+          "text": "20023 20023 Rose Gold / Silver",
+          "url": "/van-der-gang-watches/gents/20023"
+        },
+        {
+          "slug": "20014",
+          "text": "20014 20014 Stainless Steel / Black",
+          "url": "/van-der-gang-watches/gents/20014"
+        },
+        {
+          "slug": "20017",
+          "text": "20017 20017 Rose Gold / Black",
+          "url": "/van-der-gang-watches/gents/20017"
+        },
+        {
+          "slug": "20013",
+          "text": "20013 20013 Stainless Steel/ Black",
+          "url": "/van-der-gang-watches/gents/20013"
+        },
+        {
+          "slug": "20016",
+          "text": "20016 20016 Rose Gold / Silver",
+          "url": "/van-der-gang-watches/gents/20016"
+        },
+        {
+          "slug": "20010",
+          "text": "20010 20010 Stainless Steel / White",
+          "url": "/van-der-gang-watches/gents/20010"
+        },
+        {
+          "slug": "20009",
+          "text": "20009 20009 Stainless Steel / Silver",
+          "url": "/van-der-gang-watches/gents/20009"
+        }
+      ]
+    },
+    {
+      "name": "Ladies watches9",
+      "slug": "ladies",
+      "references": [
+        {
+          "slug": "20031m",
+          "text": "20031M 20031M Rose Gold / Blue",
+          "url": "/van-der-gang-watches/ladies/20031m"
+        },
+        {
+          "slug": "20008",
+          "text": "20008 20008 Stainless Steel / Blue",
+          "url": "/van-der-gang-watches/ladies/20008"
+        },
+        {
+          "slug": "20007",
+          "text": "20007 20007 Stainless Steel / Black",
+          "url": "/van-der-gang-watches/ladies/20007"
+        },
+        {
+          "slug": "20011m",
+          "text": "20011M 20011M Rose Gold / Silver",
+          "url": "/van-der-gang-watches/ladies/20011m"
+        },
+        {
+          "slug": "20006",
+          "text": "20006 20006 Stainless Steel / Silver",
+          "url": "/van-der-gang-watches/ladies/20006"
+        },
+        {
+          "slug": "20008m",
+          "text": "20008M 20008M Stainless Steel / Blue",
+          "url": "/van-der-gang-watches/ladies/20008m"
+        },
+        {
+          "slug": "20006m",
+          "text": "20006M 20006M Stainless Steel / Silver",
+          "url": "/van-der-gang-watches/ladies/20006m"
+        },
+        {
+          "slug": "20007m",
+          "text": "20007M 20007M Stainless Steel / Black",
+          "url": "/van-der-gang-watches/ladies/20007m"
+        },
+        {
+          "slug": "20012m",
+          "text": "20012M 20012M Rose Gold / Black",
+          "url": "/van-der-gang-watches/ladies/20012m"
+        }
+      ]
+    }
+  ],
+  "total_references": 34
+}

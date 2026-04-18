@@ -1,0 +1,92 @@
+{
+  "brand_slug": "excelsior-park",
+  "collections": [
+    {
+      "name": "Chronograph watches16",
+      "slug": "chronograph",
+      "references": [
+        {
+          "slug": "ep95003-br",
+          "text": "EP95003-BR Chronograph Stainless Steel / Black / Brown Matte",
+          "url": "/excelsior-park/chronograph/ep95003-br"
+        },
+        {
+          "slug": "ep95003-ye",
+          "text": "EP95003-YE Chronograph Stainless Steel / Black / Yellow-Brown Matte",
+          "url": "/excelsior-park/chronograph/ep95003-ye"
+        },
+        {
+          "slug": "ep95004-bl",
+          "text": "EP95004-BL Chronograph Stainless Steel / Salmon / Black Matte",
+          "url": "/excelsior-park/chronograph/ep95004-bl"
+        },
+        {
+          "slug": "ep95000-bl",
+          "text": "EP95000-BL Chronograph Stainless Steel / White / Black Matte",
+          "url": "/excelsior-park/chronograph/ep95000-bl"
+        },
+        {
+          "slug": "ep95004-pe",
+          "text": "EP95004-PE Chronograph Stainless Steel / Salmon / Perpetuel",
+          "url": "/excelsior-park/chronograph/ep95004-pe"
+        },
+        {
+          "slug": "ep95000-ye",
+          "text": "EP95000-YE Chronograph Stainless Steel / White / Yellow-Brown Matte",
+          "url": "/excelsior-park/chronograph/ep95000-ye"
+        },
+        {
+          "slug": "ep95002-br",
+          "text": "EP95002-BR Chronograph Stainless Steel / White / Brown Matte",
+          "url": "/excelsior-park/chronograph/ep95002-br"
+        },
+        {
+          "slug": "ep95004-ye",
+          "text": "EP95004-YE Chronograph Stainless Steel / Salmon / Yellow-Brown Matte",
+          "url": "/excelsior-park/chronograph/ep95004-ye"
+        },
+        {
+          "slug": "ep95000-br",
+          "text": "EP95000-BR Chronograph Stainless Steel / White / Brown Matte",
+          "url": "/excelsior-park/chronograph/ep95000-br"
+        },
+        {
+          "slug": "ep95001-br",
+          "text": "EP95001-BR Chronograph Stainless Steel / White / Brown Matte",
+          "url": "/excelsior-park/chronograph/ep95001-br"
+        },
+        {
+          "slug": "ep95002-bl",
+          "text": "EP95002-BL Chronograph Stainless Steel / White / Black Matte",
+          "url": "/excelsior-park/chronograph/ep95002-bl"
+        },
+        {
+          "slug": "ep95003-bl",
+          "text": "EP95003-BL Chronograph Stainless Steel / Black / Black Matte",
+          "url": "/excelsior-park/chronograph/ep95003-bl"
+        },
+        {
+          "slug": "ep95001-bl",
+          "text": "EP95001-BL Chronograph Stainless Steel / White / Black Matte",
+          "url": "/excelsior-park/chronograph/ep95001-bl"
+        },
+        {
+          "slug": "ep95001-ye",
+          "text": "EP95001-YE Chronograph Stainless Steel / White / Yellow-Brown Matte",
+          "url": "/excelsior-park/chronograph/ep95001-ye"
+        },
+        {
+          "slug": "ep95002-ye",
+          "text": "EP95002-YE Chronograph Stainless Steel / White / Yellow-Brown Matte",
+          "url": "/excelsior-park/chronograph/ep95002-ye"
+        },
+        {
+          "slug": "ep95004-br",
+          "text": "EP95004-BR Chronograph Stainless Steel / Salmon / Brown Matte",
+          "url": "/excelsior-park/chronograph/ep95004-br"
+        }
+      ]
+    }
+  ],
+  "total_references": 16
+}

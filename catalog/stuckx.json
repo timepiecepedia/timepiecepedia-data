@@ -1,0 +1,37 @@
+{
+  "brand_slug": "stuckx",
+  "collections": [
+    {
+      "name": "The RocK watches5",
+      "slug": "the-rock",
+      "references": [
+        {
+          "slug": "dusk",
+          "text": "Dusk The RocK Dusk",
+          "url": "/stuckx/the-rock/dusk"
+        },
+        {
+          "slug": "executor",
+          "text": "Executor The RocK Executor",
+          "url": "/stuckx/the-rock/executor"
+        },
+        {
+          "slug": "yell",
+          "text": "Yell The RocK Yell",
+          "url": "/stuckx/the-rock/yell"
+        },
+        {
+          "slug": "champ",
+          "text": "Champ The RocK Champ",
+          "url": "/stuckx/the-rock/champ"
+        },
+        {
+          "slug": "pepster",
+          "text": "Pepster The RocK Pepster",
+          "url": "/stuckx/the-rock/pepster"
+        }
+      ]
+    }
+  ],
+  "total_references": 5
+}

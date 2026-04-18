@@ -1,0 +1,671 @@
+{
+  "brand_slug": "frederique-constant",
+  "collections": [
+    {
+      "name": "Art Deco watches28",
+      "slug": "art-deco",
+      "references": [
+        {
+          "slug": "fc-235m1tpv26",
+          "text": "FC-235M1TPV26 Art Deco Tonneau Small Second Stainless Steel - Diamond / Silver",
+          "url": "/frederique-constant/art-deco/fc-235m1tpv26"
+        },
+        {
+          "slug": "fc-200mpw2vd6",
+          "text": "FC-200MPW2VD6 Art Deco Oval Stainlesss Steel - Diamond / Silver",
+          "url": "/frederique-constant/art-deco/fc-200mpw2vd6"
+        },
+        {
+          "slug": "fc-235m3tpv6",
+          "text": "FC-235M3TPV6 Art Deco Tonneau Small Second Stainless Steel - Diamond / Silver",
+          "url": "/frederique-constant/art-deco/fc-235m3tpv6"
+        },
+        {
+          "slug": "fc-200mpw2vd6b",
+          "text": "FC-200MPW2VD6B Art Deco Oval Stainless Steel - Diamond / Silver / Bracelet",
+          "url": "/frederique-constant/art-deco/fc-200mpw2vd6b"
+        },
+        {
+          "slug": "fc235m1tpv24",
+          "text": "FC235M1TPV24 Art Deco Tonneau Small Second Yellow Gold - Diamond / Silver",
+          "url": "/frederique-constant/art-deco/fc235m1tpv24"
+        },
+        {
+          "slug": "fc-292m4t26",
+          "text": "FC-292M4T26 Art Deco Tonneau Chrono Quartz Stainless Steel / Silver",
+          "url": "/frederique-constant/art-deco/fc-292m4t26"
+        },
+        {
+          "slug": "fc-200a2v5b",
+          "text": "FC-200A2V5B Art Deco Oval Yellow Gold / Silver / Bracelet",
+          "url": "/frederique-constant/art-deco/fc-200a2v5b"
+        },
+        {
+          "slug": "fc-292m4t26os",
+          "text": "FC-292M4T26OS Art Deco Tonneau Chrono Quartz Stainless Steel / Silver",
+          "url": "/frederique-constant/art-deco/fc-292m4t26os"
+        },
+        {
+          "slug": "fc-235apw3t26",
+          "text": "FC-235APW3T26 Art Deco Tonneau Small Second Stainless Steel / Silver",
+          "url": "/frederique-constant/art-deco/fc-235apw3t26"
+        },
+        {
+          "slug": "fc-200a2v5",
+          "text": "FC-200A2V5 Art Deco Oval Yellow Gold / Silver",
+          "url": "/frederique-constant/art-deco/fc-200a2v5"
+        },
+        {
+          "slug": "fc-200mpw2v5b",
+          "text": "FC-200MPW2V5B Art Deco Oval Yellow Gold / Silver / Bracelet",
+          "url": "/frederique-constant/art-deco/fc-200mpw2v5b"
+        },
+        {
+          "slug": "fc-200mpw2v6b",
+          "text": "FC-200MPW2V6B Art Deco Oval Stainless Steel / Silver / Bracelet",
+          "url": "/frederique-constant/art-deco/fc-200mpw2v6b"
+        },
+        {
+          "slug": "fc-235apw1t26",
+          "text": "FC-235APW1T26 Art Deco Tonneau Small Second Stainless Steel / Silver",
+          "url": "/frederique-constant/art-deco/fc-235apw1t26"
+        },
+        {
+          "slug": "fc-292m4t25",
+          "text": "FC-292M4T25 Art Deco Tonneau Chrono Quartz Yellow Gold / Silver",
+          "url": "/frederique-constant/art-deco/fc-292m4t25"
+        },
+        {
+          "slug": "fc-235m1t25b",
+          "text": "FC-235M1T25B Art Deco Tonneau Small Second Yellow Gold / Silver / Bracelet",
+          "url": "/frederique-constant/art-deco/fc-235m1t25b"
+        },
+        {
+          "slug": "fc-235m1tpv26b",
+          "text": "FC-235M1TPV26B Art Deco Tonneau Small Second Stainless Steel - Diamond / Silver / Bracelet",
+          "url": "/frederique-constant/art-deco/fc-235m1tpv26b"
+        },
+        {
+          "slug": "fc-235m1t26b",
+          "text": "FC-235M1T26B Art Deco Tonneau Small Second Stainless Steel / Silver / Bracelet",
+          "url": "/frederique-constant/art-deco/fc-235m1t26b"
+        },
+        {
+          "slug": "fc-200mpw2v6",
+          "text": "FC-200MPW2V6 Art Deco Oval Stainless Steel / Silver",
+          "url": "/frederique-constant/art-deco/fc-200mpw2v6"
+        },
+        {
+          "slug": "fc235m1t25",
+          "text": "FC235M1T25 Art Deco Tonneau Small Second Yellow Gold / Silver",
+          "url": "/frederique-constant/art-deco/fc235m1t25"
+        },
+        {
+          "slug": "fc-200mpw2v5",
+          "text": "FC-200MPW2V5 Art Deco Oval Yellow Gold / Silver",
+          "url": "/frederique-constant/art-deco/fc-200mpw2v5"
+        },
+        {
+          "slug": "fc-200mpwd1t26b",
+          "text": "FC-200MPWD1T26B Art Deco Tonneau Stainless Steel / MOP / Bracelet",
+          "url": "/frederique-constant/art-deco/fc-200mpwd1t26b"
+        },
+        {
+          "slug": "fc-200a2v6",
+          "text": "FC-200A2V6 Art Deco Oval Stainless Steel / Silver",
+          "url": "/frederique-constant/art-deco/fc-200a2v6"
+        },
+        {
+          "slug": "fc-235m3t26",
+          "text": "FC-235M3T26 Art Deco Tonneau Small Second Stainless Steel / Silver",
+          "url": "/frederique-constant/art-deco/fc-235m3t26"
+        },
+        {
+          "slug": "fc-235m1t26",
+          "text": "FC-235M1T26 Art Deco Tonneau Small Second Stainless Steel / Silver",
+          "url": "/frederique-constant/art-deco/fc-235m1t26"
+        },
+        {
+          "slug": "fc-235apw3tpv6",
+          "text": "FC-235APW3TPV6 Art Deco Tonneau Small Second Stainless Steel - Diamond / Silver",
+          "url": "/frederique-constant/art-deco/fc-235apw3tpv6"
+        },
+        {
+          "slug": "fc235m3tpv4",
+          "text": "FC235M3TPV4 Art Deco Tonneau Small Second Yellow Gold - Diamond / Silver",
+          "url": "/frederique-constant/art-deco/fc235m3tpv4"
+        },
+        {
+          "slug": "fc-235m3t25",
+          "text": "FC-235M3T25 Art Deco Tonneau Small Second Yellow Gold / Silver",
+          "url": "/frederique-constant/art-deco/fc-235m3t25"
+        },
+        {
+          "slug": "fc-200mpwd1t25b",
+          "text": "FC-200MPWD1T25B Art Deco Tonneau Yellow Gold / MOP / Bracelet",
+          "url": "/frederique-constant/art-deco/fc-200mpwd1t25b"
+        }
+      ]
+    },
+    {
+      "name": "Manufacture watches29",
+      "slug": "manufacture",
+      "references": [
+        {
+          "slug": "fc710n4s4",
+          "text": "FC710N4S4 Slimline Date",
+          "url": "/frederique-constant/manufacture/fc710n4s4"
+        },
+        {
+          "slug": "fc705n4s6b",
+          "text": "FC705N4S6B Slimline Moonphase",
+          "url": "/frederique-constant/manufacture/fc705n4s6b"
+        },
+        {
+          "slug": "fc-712mn4h6",
+          "text": "FC-712MN4H6 Classic Moonphase Manufacture Stainless Steel / Blue",
+          "url": "/frederique-constant/manufacture/fc-712mn4h6"
+        },
+        {
+          "slug": "fc705s4s6",
+          "text": "FC705S4S6 Slimline Moonphase",
+          "url": "/frederique-constant/manufacture/fc705s4s6"
+        },
+        {
+          "slug": "fc710v4s4",
+          "text": "FC710V4S4 Slimline Date",
+          "url": "/frederique-constant/manufacture/fc710v4s4"
+        },
+        {
+          "slug": "fc-712ms4h6",
+          "text": "FC-712MS4H6 Classic Moonphase Manufacture Stainless Steel / Silver",
+          "url": "/frederique-constant/manufacture/fc-712ms4h6"
+        },
+        {
+          "slug": "fc-718grwm4h6",
+          "text": "FC-718GRWM4H6 Manufacture Worldtimer / Stainless steel / Green",
+          "url": "/frederique-constant/manufacture/fc-718grwm4h6"
+        },
+        {
+          "slug": "fc705n4s6",
+          "text": "FC705N4S6 Slimline Moonphase",
+          "url": "/frederique-constant/manufacture/fc705n4s6"
+        },
+        {
+          "slug": "fc-718nwm4h6",
+          "text": "FC-718NWM4H6 Manufacture Worldtimer / Stainless steel / Blue /",
+          "url": "/frederique-constant/manufacture/fc-718nwm4h6"
+        },
+        {
+          "slug": "fc-975s4h6",
+          "text": "FC-975S4H6 Classic Tourbillon Perpetual Calendar Manufacture / Silver / Skeleton",
+          "url": "/frederique-constant/manufacture/fc-975s4h6"
+        },
+        {
+          "slug": "fc-942abs4h9",
+          "text": "FC-942ABS4H9 Manufacture Heart Beat",
+          "url": "/frederique-constant/manufacture/fc-942abs4h9"
+        },
+        {
+          "slug": "fc705v4s4",
+          "text": "FC705V4S4 Slimline Moonphase",
+          "url": "/frederique-constant/manufacture/fc705v4s4"
+        },
+        {
+          "slug": "fc-975mc4h6",
+          "text": "FC-975MC4H6 Classic Tourbillon Perpetual Calendar Manufacture / Silver /",
+          "url": "/frederique-constant/manufacture/fc-975mc4h6"
+        },
+        {
+          "slug": "fc710s4s6",
+          "text": "FC710S4S6 Slimline Date",
+          "url": "/frederique-constant/manufacture/fc710s4s6"
+        },
+        {
+          "slug": "fc705s4s6b",
+          "text": "FC705S4S6B Slimline Moonphase",
+          "url": "/frederique-constant/manufacture/fc705s4s6b"
+        },
+        {
+          "slug": "fc718wm4h6b",
+          "text": "FC718WM4H6B Manufacture Worldtimer",
+          "url": "/frederique-constant/manufacture/fc718wm4h6b"
+        },
+        {
+          "slug": "fc718wm4h6",
+          "text": "FC718WM4H6 Manufacture Worldtimer",
+          "url": "/frederique-constant/manufacture/fc718wm4h6"
+        },
+        {
+          "slug": "fc705v4s9",
+          "text": "FC705V4S9 Slimline Moonphase",
+          "url": "/frederique-constant/manufacture/fc705v4s9"
+        },
+        {
+          "slug": "fc710mc4h4",
+          "text": "FC710MC4H4 Classics Manufacture",
+          "url": "/frederique-constant/manufacture/fc710mc4h4"
+        },
+        {
+          "slug": "fc-975mc4h4",
+          "text": "FC-975MC4H4 Classic Tourbillon Perpetual Calendar Manufacture / Silver /",
+          "url": "/frederique-constant/manufacture/fc-975mc4h4"
+        },
+        {
+          "slug": "fc705c4s9",
+          "text": "FC705C4S9 Slimline Moonphase",
+          "url": "/frederique-constant/manufacture/fc705c4s9"
+        },
+        {
+          "slug": "fc-712ms4h4",
+          "text": "FC-712MS4H4 Classic Moonphase Manufacture Rose Gold Plated / Silver",
+          "url": "/frederique-constant/manufacture/fc-712ms4h4"
+        },
+        {
+          "slug": "fc710mc4h6",
+          "text": "FC710MC4H6 Classics Manufacture",
+          "url": "/frederique-constant/manufacture/fc710mc4h6"
+        },
+        {
+          "slug": "fc-980dg4s6",
+          "text": "FC-980DG4S6 Slimline Manufacture Tourbillon",
+          "url": "/frederique-constant/manufacture/fc-980dg4s6"
+        },
+        {
+          "slug": "fc-945mc4h6",
+          "text": "FC-945MC4H6 Manufacture Heart Beat",
+          "url": "/frederique-constant/manufacture/fc-945mc4h6"
+        },
+        {
+          "slug": "fc-942abshpt",
+          "text": "FC-942ABSHPT Manufacture Heart Beat",
+          "url": "/frederique-constant/manufacture/fc-942abshpt"
+        },
+        {
+          "slug": "fc-718mc4h6",
+          "text": "FC-718MC4H6 Manufacture Worldtimer",
+          "url": "/frederique-constant/manufacture/fc-718mc4h6"
+        },
+        {
+          "slug": "fc-975s4h9",
+          "text": "FC-975S4H9 Classic Tourbillon Perpetual Calendar Manufacture / Silver / Skeleton",
+          "url": "/frederique-constant/manufacture/fc-975s4h9"
+        },
+        {
+          "slug": "fc-945mc4h9",
+          "text": "FC-945MC4H9 Manufacture Heart Beat",
+          "url": "/frederique-constant/manufacture/fc-945mc4h9"
+        }
+      ]
+    },
+    {
+      "name": "Index watches14",
+      "slug": "index",
+      "references": [
+        {
+          "slug": "fc-303v6b4",
+          "text": "FC-303V6B4 Clear Vision Automatic Rose Gold / White",
+          "url": "/frederique-constant/index/fc-303v6b4"
+        },
+        {
+          "slug": "fc-303s6b6b",
+          "text": "FC-303S6B6B Index Automatic Stainless Steel / Silver / Bracelet",
+          "url": "/frederique-constant/index/fc-303s6b6b"
+        },
+        {
+          "slug": "fc-303wn5b6b",
+          "text": "FC-303WN5B6B Index Automatic Stainless Steel / Silver / Bracelet",
+          "url": "/frederique-constant/index/fc-303wn5b6b"
+        },
+        {
+          "slug": "fc-255s6b6",
+          "text": "FC-255S6B6 Index Worldtimer Quartz Stainless Steel / Silver",
+          "url": "/frederique-constant/index/fc-255s6b6"
+        },
+        {
+          "slug": "fc303sn5b6",
+          "text": "FC-303SN5B6 Index Automatic Stainless Steel / Silver",
+          "url": "/frederique-constant/index/fc303sn5b6"
+        },
+        {
+          "slug": "fc-303bn5b6b",
+          "text": "FC-303BN5B6B Index Automatic Roman Black",
+          "url": "/frederique-constant/index/fc-303bn5b6b"
+        },
+        {
+          "slug": "fc-303v5b4",
+          "text": "FC-303V5B4 Index Automatic Rose Gold / Silver",
+          "url": "/frederique-constant/index/fc-303v5b4"
+        },
+        {
+          "slug": "fc-303b5b6",
+          "text": "FC-303B5B6 Index Automatic Black",
+          "url": "/frederique-constant/index/fc-303b5b6"
+        },
+        {
+          "slug": "fc-303c5b4",
+          "text": "FC-303C5B4 Index Automatic Chocolate",
+          "url": "/frederique-constant/index/fc-303c5b4"
+        },
+        {
+          "slug": "fc303c6b4",
+          "text": "FC-303C6B4 Clear Vision Automatic Rose Gold / Brown",
+          "url": "/frederique-constant/index/fc303c6b4"
+        },
+        {
+          "slug": "fc-303s5b6",
+          "text": "FC-303S5B6 Index Automatic Stainless Steel / Silver",
+          "url": "/frederique-constant/index/fc-303s5b6"
+        },
+        {
+          "slug": "fc-255s5b6",
+          "text": "FC-255S5B6 Index Worldtimer Quartz Stainless Steel / Silver",
+          "url": "/frederique-constant/index/fc-255s5b6"
+        },
+        {
+          "slug": "fc-255v6b4",
+          "text": "FC-255V6B4 Index Worldtimer Quartz Rose Gold / Silver",
+          "url": "/frederique-constant/index/fc-255v6b4"
+        },
+        {
+          "slug": "fc-303wn5b6os",
+          "text": "FC-303WN5B6OS Index Automatic Stainless Steel / Silver",
+          "url": "/frederique-constant/index/fc-303wn5b6os"
+        }
+      ]
+    },
+    {
+      "name": "Classics watches12",
+      "slug": "classics",
+      "references": [
+        {
+          "slug": "fc-303mc4p6",
+          "text": "FC-303MC4P6 Classics Automatic Stainless Steel / Silver",
+          "url": "/frederique-constant/classics/fc-303mc4p6"
+        },
+        {
+          "slug": "fc-303wn5b3b",
+          "text": "FC-303WN5B3B Classic Automatic Stainless Steel - Yellow Gold / Silver / Bracelet",
+          "url": "/frederique-constant/classics/fc-303wn5b3b"
+        },
+        {
+          "slug": "fc-303mc4p6b2",
+          "text": "FC-303MC4P6B2 Classics Automatic Stainless Steel / Silver / Bracelet",
+          "url": "/frederique-constant/classics/fc-303mc4p6b2"
+        },
+        {
+          "slug": "fc-330mc4p6",
+          "text": "FC-330MC4P6 Classics Auto Moonphase",
+          "url": "/frederique-constant/classics/fc-330mc4p6"
+        },
+        {
+          "slug": "fc-303mc3p5",
+          "text": "FC-303MC3P5 Classics Automatic Yellow Gold / Silver",
+          "url": "/frederique-constant/classics/fc-303mc3p5"
+        },
+        {
+          "slug": "fc-303mc3p6b",
+          "text": "FC-303MC3P6B Classics Automatic Stainless Steel / Silver / Bracelet",
+          "url": "/frederique-constant/classics/fc-303mc3p6b"
+        },
+        {
+          "slug": "fc-303m4p6b3",
+          "text": "FC-303M4P6B3 Classics Chopin Automatic Stainless Steel / Silver / Bracelet",
+          "url": "/frederique-constant/classics/fc-303m4p6b3"
+        },
+        {
+          "slug": "fc-200whd1er32",
+          "text": "FC-200WHD1ER32 Classic Delight Stainless Steel - Rose Gold / Silver",
+          "url": "/frederique-constant/classics/fc-200whd1er32"
+        },
+        {
+          "slug": "fc-303mc3p6",
+          "text": "FC-303MC3P6 Classics Automatic Stainless Steel / Silver",
+          "url": "/frederique-constant/classics/fc-303mc3p6"
+        },
+        {
+          "slug": "fc-303mpwn1b3b",
+          "text": "FC-303MPWN1B3B Classic Automatic Ladies Stainless Steel - Yellow Gold / MOP / Bracelet",
+          "url": "/frederique-constant/classics/fc-303mpwn1b3b"
+        },
+        {
+          "slug": "fc-303mpwn1b6b",
+          "text": "FC-303MPWN1B6B Classics Automatic Ladies Stainless Steel / MOP / Bracelet",
+          "url": "/frederique-constant/classics/fc-303mpwn1b6b"
+        },
+        {
+          "slug": "fc-200whd1erd32b",
+          "text": "FC-200WHD1ERD32B Constant Classic Delight Stainless Steel - Rose Gold - Diamond / Silver / Bracelet",
+          "url": "/frederique-constant/classics/fc-200whd1erd32b"
+        }
+      ]
+    },
+    {
+      "name": "Slim Line watches17",
+      "slug": "slim-line",
+      "references": [
+        {
+          "slug": "fc-306s4s6b2",
+          "text": "FC-306S4S6B2 Slimline Automatic Bracelet",
+          "url": "/frederique-constant/slim-line/fc-306s4s6b2"
+        },
+        {
+          "slug": "fc-306v4s5",
+          "text": "FC-306V4S5 Slimline Automatic Gold Plated",
+          "url": "/frederique-constant/slim-line/fc-306v4s5"
+        },
+        {
+          "slug": "fc-200whds6b",
+          "text": "FC-200WHDS6B Slimline Mini Stainless Steel / Silver / Bracelet",
+          "url": "/frederique-constant/slim-line/fc-200whds6b"
+        },
+        {
+          "slug": "fc-306s4s6",
+          "text": "FC-306S4S6 Slimline Automatic",
+          "url": "/frederique-constant/slim-line/fc-306s4s6"
+        },
+        {
+          "slug": "fc-200mcs5b",
+          "text": "FC-200MCS5B Slimline Mini Yellow Gold / Silver / Bracelet",
+          "url": "/frederique-constant/slim-line/fc-200mcs5b"
+        },
+        {
+          "slug": "fc-306g4s6",
+          "text": "FC-306G4S6 Slimline Automatic Black",
+          "url": "/frederique-constant/slim-line/fc-306g4s6"
+        },
+        {
+          "slug": "fc-306v4s3b2",
+          "text": "FC-306V4S3B2 Slimline Automatic Two Tone",
+          "url": "/frederique-constant/slim-line/fc-306v4s3b2"
+        },
+        {
+          "slug": "fc-306g4s6b2",
+          "text": "FC-306G4S6B2 Slimline Automatic Black Bracelet",
+          "url": "/frederique-constant/slim-line/fc-306g4s6b2"
+        },
+        {
+          "slug": "fc-200whdsd6b",
+          "text": "FC-200WHDSD6B Slimline Mini Stainless Steel - Diamond / Silver / Bracelet",
+          "url": "/frederique-constant/slim-line/fc-200whdsd6b"
+        },
+        {
+          "slug": "fc-200mcs6b",
+          "text": "FC-200MCS6B Slimline Mini Stainless Steel / Silver / Bracelet",
+          "url": "/frederique-constant/slim-line/fc-200mcs6b"
+        },
+        {
+          "slug": "fc-200whdsd5b",
+          "text": "FC-200WHDSD5B Slimline Mini Yellow Gold - Diamond / Silver / Bracelet",
+          "url": "/frederique-constant/slim-line/fc-200whdsd5b"
+        },
+        {
+          "slug": "fc-200whds5b",
+          "text": "FC-200WHDS5B Slimline Mini Yellow Gold / Silver / Bracelet",
+          "url": "/frederique-constant/slim-line/fc-200whds5b"
+        },
+        {
+          "slug": "fc-306v4stz9",
+          "text": "FC-306V4STZ9 Slimline Automatic Titanium",
+          "url": "/frederique-constant/slim-line/fc-306v4stz9"
+        },
+        {
+          "slug": "fc-306v4s9",
+          "text": "FC-306V4S9 Slimline Automatic Rose Gold",
+          "url": "/frederique-constant/slim-line/fc-306v4s9"
+        },
+        {
+          "slug": "fc-306s4s6b",
+          "text": "FC-306S4S6B Slimline Automatic Bracelet",
+          "url": "/frederique-constant/slim-line/fc-306s4s6b"
+        },
+        {
+          "slug": "fc-306g4stz9",
+          "text": "FC-306G4STZ9 Slimline Automatic Titanium",
+          "url": "/frederique-constant/slim-line/fc-306g4stz9"
+        },
+        {
+          "slug": "fc-306g4s6b",
+          "text": "FC-306G4S6B Slimline Automatic Black Bracelet",
+          "url": "/frederique-constant/slim-line/fc-306g4s6b"
+        }
+      ]
+    },
+    {
+      "name": "Carree watches9",
+      "slug": "carree",
+      "references": [
+        {
+          "slug": "fc-303ms4c24",
+          "text": "FC-303MS4C24 Carree Automatic Rose Gold / Silver",
+          "url": "/frederique-constant/carree/fc-303ms4c24"
+        },
+        {
+          "slug": "fc-303mc4c25",
+          "text": "FC-303MC4C25 Carree Automatic Rose Gold / Silver",
+          "url": "/frederique-constant/carree/fc-303mc4c25"
+        },
+        {
+          "slug": "fc-303bs4c24",
+          "text": "FC-303BS4C24 Carree Automatic Rose Gold / Black",
+          "url": "/frederique-constant/carree/fc-303bs4c24"
+        },
+        {
+          "slug": "fc-303mc4c26",
+          "text": "FC-303MC4C26 Carree Automatic Stainless Steel / Silver",
+          "url": "/frederique-constant/carree/fc-303mc4c26"
+        },
+        {
+          "slug": "fc-200whdc26b",
+          "text": "FC-200WHDC26B Carree Stainless Steel / MOP / Bracelet",
+          "url": "/frederique-constant/carree/fc-200whdc26b"
+        },
+        {
+          "slug": "fc-303bs4c26",
+          "text": "FC-303BS4C26 Carree Automatic Stainless Steel / Black",
+          "url": "/frederique-constant/carree/fc-303bs4c26"
+        },
+        {
+          "slug": "fc-303ms4c26",
+          "text": "FC-303MS4C26 Carree Automatic Stainless Steel / Silver",
+          "url": "/frederique-constant/carree/fc-303ms4c26"
+        },
+        {
+          "slug": "fc-200whdc25",
+          "text": "FC-200WHDC25 Carree Yellow Gold / MOP",
+          "url": "/frederique-constant/carree/fc-200whdc25"
+        },
+        {
+          "slug": "fc-200whdc26",
+          "text": "FC-200WHDC26 Carree Stainless Steel / MOP",
+          "url": "/frederique-constant/carree/fc-200whdc26"
+        }
+      ]
+    },
+    {
+      "name": "Junior watches5",
+      "slug": "junior",
+      "references": [
+        {
+          "slug": "fc-200wa1er6",
+          "text": "FC-200WA1ER6 Junior Ladies Stainless Steel / MOP",
+          "url": "/frederique-constant/junior/fc-200wa1er6"
+        },
+        {
+          "slug": "fc-200whd1er6b",
+          "text": "FC-200WHD1ER6B Junior Ladies Stainless Steel / Silver / Bracelet",
+          "url": "/frederique-constant/junior/fc-200whd1er6b"
+        },
+        {
+          "slug": "fc-200wa1er6b",
+          "text": "FC-200WA1ER6B Junior Ladies Stainless Steel / MOP / Bracelet",
+          "url": "/frederique-constant/junior/fc-200wa1er6b"
+        },
+        {
+          "slug": "fc-200m1er6b",
+          "text": "FC-200M1ER6B Junior Ladies Stainless Steel / Silver / Bracelet",
+          "url": "/frederique-constant/junior/fc-200m1er6b"
+        },
+        {
+          "slug": "fc-200bhd1er6b",
+          "text": "FC-200BHD1ER6B Junior Ladies Stainless Steel / Black / Bracelet",
+          "url": "/frederique-constant/junior/fc-200bhd1er6b"
+        }
+      ]
+    },
+    {
+      "name": "Horological Smartwatch watches5",
+      "slug": "horological-smartwatch",
+      "references": [
+        {
+          "slug": "fc-285b5b6",
+          "text": "FC-285B5B6 Horological Smartwatch Black Dial / Leather Strap",
+          "url": "/frederique-constant/horological-smartwatch/fc-285b5b6"
+        },
+        {
+          "slug": "fc-285s5b6",
+          "text": "FC-285S5B6 Horological Smartwatch Silver Dial / Strap",
+          "url": "/frederique-constant/horological-smartwatch/fc-285s5b6"
+        },
+        {
+          "slug": "fc-285v5b4",
+          "text": "FC-285V5B4 Horological Smartwatch Rose Gold",
+          "url": "/frederique-constant/horological-smartwatch/fc-285v5b4"
+        },
+        {
+          "slug": "fc-285b5b6b",
+          "text": "FC-285B5B6B Horological Smartwatch Black Dial / Bracelet",
+          "url": "/frederique-constant/horological-smartwatch/fc-285b5b6b"
+        },
+        {
+          "slug": "fc-285s5b6b",
+          "text": "FC-285S5B6B Horological Smartwatch Silver Dial / Bracelet",
+          "url": "/frederique-constant/horological-smartwatch/fc-285s5b6b"
+        }
+      ]
+    },
+    {
+      "name": "None watches1",
+      "slug": "none",
+      "references": [
+        {
+          "slug": "fc-200chdc25",
+          "text": "FC-200CHDC25 Carree Ladies Yellow Gold / Brown",
+          "url": "/frederique-constant/none/fc-200chdc25"
+        }
+      ]
+    },
+    {
+      "name": "Ladies Automatic watches1",
+      "slug": "ladies-automatic",
+      "references": [
+        {
+          "slug": "fc-303lgd3b6",
+          "text": "FC-303LGD3B6 Ladies Automatic / Grey /",
+          "url": "/frederique-constant/ladies-automatic/fc-303lgd3b6"
+        }
+      ]
+    }
+  ],
+  "total_references": 121
+}

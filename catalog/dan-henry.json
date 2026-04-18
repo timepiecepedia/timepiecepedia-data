@@ -1,0 +1,32 @@
+{
+  "brand_slug": "dan-henry",
+  "collections": [
+    {
+      "name": "1970 watches4",
+      "slug": "1970",
+      "references": [
+        {
+          "slug": "1970-40-orange",
+          "text": "1970-40-Orange Dan Henry 1970 Automatic Diver 40 Black-Orange / Stainless Steel",
+          "url": "/dan-henry/1970/1970-40-orange"
+        },
+        {
+          "slug": "1970-44-grey",
+          "text": "1970-44-Grey Dan Henry 1970 Automatic Diver 44 Black-Grey / Stainless Steel",
+          "url": "/dan-henry/1970/1970-44-grey"
+        },
+        {
+          "slug": "1970-44-orange",
+          "text": "1970-44-Orange Dan Henry 1970 Automatic Diver 44 Black-Orange / Stainless Steel",
+          "url": "/dan-henry/1970/1970-44-orange"
+        },
+        {
+          "slug": "1970-40-grey",
+          "text": "1970-40-Grey Dan Henry 1970 Automatic Diver 40 Black-Grey / Stainless Steel",
+          "url": "/dan-henry/1970/1970-40-grey"
+        }
+      ]
+    }
+  ],
+  "total_references": 4
+}

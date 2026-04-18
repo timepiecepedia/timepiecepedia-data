@@ -1,0 +1,17 @@
+{
+  "brand_slug": "citizen",
+  "collections": [
+    {
+      "name": "ProMaster watches1",
+      "slug": "promaster",
+      "references": [
+        {
+          "slug": "cc9030-51e",
+          "text": "CC9030-51E Navihawk GPS Stainless Steel / Black / Bracelet",
+          "url": "/citizen/promaster/cc9030-51e"
+        }
+      ]
+    }
+  ],
+  "total_references": 1
+}

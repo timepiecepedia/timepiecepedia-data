@@ -1,0 +1,98 @@
+{
+  "brand_slug": "lobner",
+  "collections": [
+    {
+      "name": "Steelracer watches8",
+      "slug": "steelracer",
+      "references": [
+        {
+          "slug": "l62231",
+          "text": "L62231 Steelracer Black",
+          "url": "/lobner/steelracer/l62231"
+        },
+        {
+          "slug": "l62235",
+          "text": "L62235 Steelracer Black / Rubber",
+          "url": "/lobner/steelracer/l62235"
+        },
+        {
+          "slug": "l62233",
+          "text": "L62233 Steelracer Rocketman 50",
+          "url": "/lobner/steelracer/l62233"
+        },
+        {
+          "slug": "l62232",
+          "text": "L62232 Steelracer Blue",
+          "url": "/lobner/steelracer/l62232"
+        },
+        {
+          "slug": "l62234",
+          "text": "L62234 Steelracer Rocketman",
+          "url": "/lobner/steelracer/l62234"
+        },
+        {
+          "slug": "l62238",
+          "text": "L62238 Steelracer Speed Arrow",
+          "url": "/lobner/steelracer/l62238"
+        },
+        {
+          "slug": "l62236",
+          "text": "L62236 Steelracer Blue / Rubber",
+          "url": "/lobner/steelracer/l62236"
+        },
+        {
+          "slug": "l62237",
+          "text": "L62237 Steelracer Ice",
+          "url": "/lobner/steelracer/l62237"
+        }
+      ]
+    },
+    {
+      "name": "Sledge watches8",
+      "slug": "sledge",
+      "references": [
+        {
+          "slug": "l67173",
+          "text": "L67173 Sledge Blue",
+          "url": "/lobner/sledge/l67173"
+        },
+        {
+          "slug": "l67179",
+          "text": "L67179 Sledge Black",
+          "url": "/lobner/sledge/l67179"
+        },
+        {
+          "slug": "l67171",
+          "text": "L67171 Sledge Silver",
+          "url": "/lobner/sledge/l67171"
+        },
+        {
+          "slug": "l67174",
+          "text": "L67174 Sledge Silver / Rubber",
+          "url": "/lobner/sledge/l67174"
+        },
+        {
+          "slug": "l67172",
+          "text": "L67172 Sledge Green",
+          "url": "/lobner/sledge/l67172"
+        },
+        {
+          "slug": "l67176",
+          "text": "L67176 Sledge Blue / Rubber",
+          "url": "/lobner/sledge/l67176"
+        },
+        {
+          "slug": "l67175",
+          "text": "L67175 Sledge Green / Rubber",
+          "url": "/lobner/sledge/l67175"
+        },
+        {
+          "slug": "l67180",
+          "text": "L67180 Sledge Black / Rubber",
+          "url": "/lobner/sledge/l67180"
+        }
+      ]
+    }
+  ],
+  "total_references": 16
+}

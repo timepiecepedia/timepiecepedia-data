@@ -1,0 +1,185 @@
+{
+  "brand_slug": "speake-marin",
+  "collections": [
+    {
+      "name": "J-Class watches19",
+      "slug": "j-class",
+      "references": [
+        {
+          "slug": "pic-10024",
+          "text": "PIC.10024 Velshida",
+          "url": "/speake-marin/j-class/pic-10024"
+        },
+        {
+          "slug": "pic-10032",
+          "text": "PIC.10032 Magister Tourbillon",
+          "url": "/speake-marin/j-class/pic-10032"
+        },
+        {
+          "slug": "psm-ow2015",
+          "text": "PSM OW2015 Resilence Only Watch 2015",
+          "url": "/speake-marin/j-class/psm-ow2015"
+        },
+        {
+          "slug": "pic-10006-01",
+          "text": "PIC.10006-01 Serpent Calendar",
+          "url": "/speake-marin/j-class/pic-10006-01"
+        },
+        {
+          "slug": "pic-10025",
+          "text": "PIC.10025 Velshida",
+          "url": "/speake-marin/j-class/pic-10025"
+        },
+        {
+          "slug": "pic-10001-01",
+          "text": "PIC.10001-01 Serpent Calendar",
+          "url": "/speake-marin/j-class/pic-10001-01"
+        },
+        {
+          "slug": "pic-10012",
+          "text": "PIC.10012 Resilence",
+          "url": "/speake-marin/j-class/pic-10012"
+        },
+        {
+          "slug": "pic-10022",
+          "text": "PIC.10022 Velshida",
+          "url": "/speake-marin/j-class/pic-10022"
+        },
+        {
+          "slug": "pic-10001-03",
+          "text": "PIC.10001-03 Serpent Calendar",
+          "url": "/speake-marin/j-class/pic-10001-03"
+        },
+        {
+          "slug": "pic-10030",
+          "text": "PIC.10030 Magister Tourbillon",
+          "url": "/speake-marin/j-class/pic-10030"
+        },
+        {
+          "slug": "pic-10033",
+          "text": "PIC.10033 Magister Tourbillon",
+          "url": "/speake-marin/j-class/pic-10033"
+        },
+        {
+          "slug": "pic-10031",
+          "text": "PIC.10031 Magister Tourbillon",
+          "url": "/speake-marin/j-class/pic-10031"
+        },
+        {
+          "slug": "pic-10006-04",
+          "text": "PIC.10006-04 Serpent Calendar",
+          "url": "/speake-marin/j-class/pic-10006-04"
+        },
+        {
+          "slug": "pic-10006-03",
+          "text": "PIC.10006-03 Serpent Calendar",
+          "url": "/speake-marin/j-class/pic-10006-03"
+        },
+        {
+          "slug": "pic-10005-02",
+          "text": "PIC.10005-02 Serpent Calendar",
+          "url": "/speake-marin/j-class/pic-10005-02"
+        },
+        {
+          "slug": "pic-10005-01",
+          "text": "PIC.10005-01 Serpent Calendar",
+          "url": "/speake-marin/j-class/pic-10005-01"
+        },
+        {
+          "slug": "pic-10010",
+          "text": "PIC.10010 Resilence",
+          "url": "/speake-marin/j-class/pic-10010"
+        },
+        {
+          "slug": "pic-10009",
+          "text": "PIC.10009 Resilence",
+          "url": "/speake-marin/j-class/pic-10009"
+        },
+        {
+          "slug": "pic-10023",
+          "text": "PIC.10023 Resilence",
+          "url": "/speake-marin/j-class/pic-10023"
+        }
+      ]
+    },
+    {
+      "name": "Spirit watches8",
+      "slug": "spirit",
+      "references": [
+        {
+          "slug": "pic-20003-63",
+          "text": "PIC.20003-63 Seafire",
+          "url": "/speake-marin/spirit/pic-20003-63"
+        },
+        {
+          "slug": "pic-20003-61",
+          "text": "PIC.20003-61 Seafire",
+          "url": "/speake-marin/spirit/pic-20003-61"
+        },
+        {
+          "slug": "pic-20003-62",
+          "text": "PIC.20003-62 Seafire",
+          "url": "/speake-marin/spirit/pic-20003-62"
+        },
+        {
+          "slug": "pic-20002-54",
+          "text": "PIC.20002-54 Wing Commander",
+          "url": "/speake-marin/spirit/pic-20002-54"
+        },
+        {
+          "slug": "pic-20003-64",
+          "text": "PIC.20003-64 Seafire",
+          "url": "/speake-marin/spirit/pic-20003-64"
+        },
+        {
+          "slug": "pic-20002-51",
+          "text": "PIC.20002-51 Wing Commander",
+          "url": "/speake-marin/spirit/pic-20002-51"
+        },
+        {
+          "slug": "pic-20002-52",
+          "text": "PIC.20002-52 Wing Commander",
+          "url": "/speake-marin/spirit/pic-20002-52"
+        },
+        {
+          "slug": "pic-20002-53",
+          "text": "PIC.20002-53 Wing Commander",
+          "url": "/speake-marin/spirit/pic-20002-53"
+        }
+      ]
+    },
+    {
+      "name": "Ripples watches3",
+      "slug": "ripples",
+      "references": [
+        {
+          "slug": "604015040",
+          "text": "604015040 Ripples Original",
+          "url": "/speake-marin/ripples/604015040"
+        },
+        {
+          "slug": "604015070",
+          "text": "604015070 Ripples Gold",
+          "url": "/speake-marin/ripples/604015070"
+        },
+        {
+          "slug": "604015480",
+          "text": "604015480 Ripples Blue Jeans",
+          "url": "/speake-marin/ripples/604015480"
+        }
+      ]
+    },
+    {
+      "name": "Cabinet des Mystères watches1",
+      "slug": "cabinet-des-mysteres",
+      "references": [
+        {
+          "slug": "pic-60013",
+          "text": "PIC.60013 Face to Face",
+          "url": "/speake-marin/cabinet-des-mysteres/pic-60013"
+        }
+      ]
+    }
+  ],
+  "total_references": 31
+}

@@ -1,0 +1,738 @@
+{
+  "brand_slug": "seiko",
+  "collections": [
+    {
+      "name": "Prospex Divers watches62",
+      "slug": "prospex-divers",
+      "references": [
+        {
+          "slug": "srp789",
+          "text": "SRP789 Prospex Diver Turtle Stainless Steel / Black / Bracelet / Coke",
+          "url": "/seiko/prospex-divers/srp789"
+        },
+        {
+          "slug": "srpb49",
+          "text": "SRPB49 Prospex Diver Samurai Stainless Steel / Blue / Bracelet",
+          "url": "/seiko/prospex-divers/srpb49"
+        },
+        {
+          "slug": "srpa19",
+          "text": "SRPA19 Prospex Diver Turtle Stainless Steel / Grey / Bracelet / Zimbe",
+          "url": "/seiko/prospex-divers/srpa19"
+        },
+        {
+          "slug": "srpb97",
+          "text": "SRPB97 Prospex Diver Samurai Stainless Steel / Orange / Bracelet",
+          "url": "/seiko/prospex-divers/srpb97"
+        },
+        {
+          "slug": "srpb01",
+          "text": "SRPB01 Prospex Diver Turtle Stainless Steel / Green / Bracelet",
+          "url": "/seiko/prospex-divers/srpb01"
+        },
+        {
+          "slug": "srpd21k1",
+          "text": "SRPD21K1 Prospex Diver Turtle Stainless Steel / Blue / Bracelet / Save the Ocean",
+          "url": "/seiko/prospex-divers/srpd21k1"
+        },
+        {
+          "slug": "ssc489p1",
+          "text": "SSC489P1 Prospex Diver SSC489P1 Stainless Steel / Blue",
+          "url": "/seiko/prospex-divers/ssc489p1"
+        },
+        {
+          "slug": "sbdx014g",
+          "text": "SBDX014G Prospex Diver SBDX014G Titanium / Black",
+          "url": "/seiko/prospex-divers/sbdx014g"
+        },
+        {
+          "slug": "srpc23",
+          "text": "SRPC23 Prospex Diver Turtle Stainless Steel / Grey / Bracelet",
+          "url": "/seiko/prospex-divers/srpc23"
+        },
+        {
+          "slug": "srpc25",
+          "text": "SRPC25 Prospex Diver Turtle Stainless Steel / Blue Gradient / Bracelet",
+          "url": "/seiko/prospex-divers/srpc25"
+        },
+        {
+          "slug": "sbdx017",
+          "text": "SBDX017 Prospex Diver Marinemaster 300 Stainless Steel / Black / Bracelet",
+          "url": "/seiko/prospex-divers/sbdx017"
+        },
+        {
+          "slug": "sbbn035",
+          "text": "SBBN035 Seiko Prospex Divers Marinemaster 300 Ninja Tuna",
+          "url": "/seiko/prospex-divers/sbbn035"
+        },
+        {
+          "slug": "spb153",
+          "text": "SPB153 Prospex Diver 1970 Stainless Steel / Green",
+          "url": "/seiko/prospex-divers/spb153"
+        },
+        {
+          "slug": "sla017j1",
+          "text": "SLA017J1 Prospex Diver SLA017J1 Stainless Steel / Black",
+          "url": "/seiko/prospex-divers/sla017j1"
+        },
+        {
+          "slug": "sun021p1",
+          "text": "SUN021P1 Prospex Diver SUN021P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-divers/sun021p1"
+        },
+        {
+          "slug": "srp773",
+          "text": "SRP773 Prospex Diver Turtle Stainless Steel / Blue / Bracelet",
+          "url": "/seiko/prospex-divers/srp773"
+        },
+        {
+          "slug": "srpd03",
+          "text": "SRPD03 Prospex Diver Samurai Stainless Steel / Dawn Grey",
+          "url": "/seiko/prospex-divers/srpd03"
+        },
+        {
+          "slug": "spb051j1",
+          "text": "SPB051J1 Prospex Diver SPB051J1 Stainless Steel / Black",
+          "url": "/seiko/prospex-divers/spb051j1"
+        },
+        {
+          "slug": "srpj51k1",
+          "text": "SRPJ51K1 Prospex Diver Turtle Thong Sia Exclusive",
+          "url": "/seiko/prospex-divers/srpj51k1"
+        },
+        {
+          "slug": "ssc549p1",
+          "text": "SSC549P1 Prospex Diver SSC549P1 Stainless Steel / Blue",
+          "url": "/seiko/prospex-divers/ssc549p1"
+        },
+        {
+          "slug": "ssc618p1",
+          "text": "SSC618P1 Prospex Diver SSC618P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-divers/ssc618p1"
+        },
+        {
+          "slug": "spb053j1",
+          "text": "SPB053J1 Prospex Diver SPB053J1 Stainless Steel / Blue",
+          "url": "/seiko/prospex-divers/spb053j1"
+        },
+        {
+          "slug": "spb151",
+          "text": "SPB151 Prospex Diver 1970 Stainless Steel / Black / Bracelet",
+          "url": "/seiko/prospex-divers/spb151"
+        },
+        {
+          "slug": "srpc49",
+          "text": "SRPC49 Prospex Diver Turtle Stainless Steel / Black / Black Series",
+          "url": "/seiko/prospex-divers/srpc49"
+        },
+        {
+          "slug": "srpc43",
+          "text": "SRPC43 Prospex Diver Samurai Stainless Steel / Black / Bracelet / Zimbe",
+          "url": "/seiko/prospex-divers/srpc43"
+        },
+        {
+          "slug": "sbdc047",
+          "text": "SBDC047 Prospex Diver Trans Ocean Stainless Steel / Blue / Bracelet",
+          "url": "/seiko/prospex-divers/sbdc047"
+        },
+        {
+          "slug": "srpc44",
+          "text": "SRPC44 Prospex Diver Turtle Goldtone /  Black / Rubber",
+          "url": "/seiko/prospex-divers/srpc44"
+        },
+        {
+          "slug": "ssc617p1",
+          "text": "SSC617P1 Prospex Diver SSC617P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-divers/ssc617p1"
+        },
+        {
+          "slug": "sbdc039",
+          "text": "SBDC039 Prospex Diver Trans Ocean Stainless Steel / Black / Bracelet",
+          "url": "/seiko/prospex-divers/sbdc039"
+        },
+        {
+          "slug": "srpb55",
+          "text": "SRPB55 Prospex Diver Samurai Stainless Steel / Black / Rubber",
+          "url": "/seiko/prospex-divers/srpb55"
+        },
+        {
+          "slug": "srpb53",
+          "text": "SRPB53 Prospex Diver Samurai Stainless Steel / Blue / Rubber",
+          "url": "/seiko/prospex-divers/srpb53"
+        },
+        {
+          "slug": "srpb51",
+          "text": "SRPB51 Prospex Diver Samurai Stainless Steel / Black / Bracelet",
+          "url": "/seiko/prospex-divers/srpb51"
+        },
+        {
+          "slug": "srp779",
+          "text": "SRP779 Prospex Diver Turtle Stainless Steel / Black / Rubber / Pepsi",
+          "url": "/seiko/prospex-divers/srp779"
+        },
+        {
+          "slug": "srpb99",
+          "text": "SRPB99 Prospex Diver Samurai Stainless Steel / Black / Bracelet / Padi",
+          "url": "/seiko/prospex-divers/srpb99"
+        },
+        {
+          "slug": "spb301",
+          "text": "SPB301 Prospex Diver 1970 Save the Ocean",
+          "url": "/seiko/prospex-divers/spb301"
+        },
+        {
+          "slug": "srp787",
+          "text": "SRP787 Prospex Diver Turtle Stainless Steel / Black / Bracelet / Batman",
+          "url": "/seiko/prospex-divers/srp787"
+        },
+        {
+          "slug": "srpa79k1",
+          "text": "SRPA79K1 Prospex Diver SRPA79K1 Stainless Steel / Black",
+          "url": "/seiko/prospex-divers/srpa79k1"
+        },
+        {
+          "slug": "srpb09",
+          "text": "SRPB09 Prospex Diver Samurai Stainless Steel / Blue Lagoon / Bracelet",
+          "url": "/seiko/prospex-divers/srpb09"
+        },
+        {
+          "slug": "spb237",
+          "text": "SPB237 Prospex Diver 1970 Stainless Steel / Grey - Brown / NATO",
+          "url": "/seiko/prospex-divers/spb237"
+        },
+        {
+          "slug": "spb183",
+          "text": "SPB183 Prospex Diver 1970 Stainless Steel / Blue / Bracelet",
+          "url": "/seiko/prospex-divers/spb183"
+        },
+        {
+          "slug": "srp775",
+          "text": "SRP775 Prospex Diver Turtle Stainless Steel / Black / Bracelet",
+          "url": "/seiko/prospex-divers/srp775"
+        },
+        {
+          "slug": "srpa21",
+          "text": "SRPA21 Prospex Diver Turtle Stainless Steel / Blue / Bracelet / Padi",
+          "url": "/seiko/prospex-divers/srpa21"
+        },
+        {
+          "slug": "sun065p1",
+          "text": "SUN065P1 Prospex Diver SUN065P1 Stainless Steel / Blue",
+          "url": "/seiko/prospex-divers/sun065p1"
+        },
+        {
+          "slug": "srpa81k1",
+          "text": "SRPA81K1 Prospex Diver SRPA81K1 Stainless Steel / Black",
+          "url": "/seiko/prospex-divers/srpa81k1"
+        },
+        {
+          "slug": "srpa82k1",
+          "text": "SRPA82K1 Prospex Diver SRPA82K1 Stainless Steel / Black",
+          "url": "/seiko/prospex-divers/srpa82k1"
+        },
+        {
+          "slug": "sne441p1",
+          "text": "SNE441P1 Prospex Diver SNE441P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-divers/sne441p1"
+        },
+        {
+          "slug": "sun019p1",
+          "text": "SUN019P1 Prospex Diver SUN019P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-divers/sun019p1"
+        },
+        {
+          "slug": "srp777",
+          "text": "SRP777 Prospex Diver Turtle Stainless Steel / Black / Rubber",
+          "url": "/seiko/prospex-divers/srp777"
+        },
+        {
+          "slug": "spb288",
+          "text": "SPB288 Prospex Diver 1970 Mystic Lagoon",
+          "url": "/seiko/prospex-divers/spb288"
+        },
+        {
+          "slug": "sne435p1",
+          "text": "SNE435P1 Prospex Diver SNE435P1 Stainless Steel / Blue",
+          "url": "/seiko/prospex-divers/sne435p1"
+        },
+        {
+          "slug": "sne439p1",
+          "text": "SNE439P1 Prospex Diver SNE439P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-divers/sne439p1"
+        },
+        {
+          "slug": "ssf001j1",
+          "text": "SSF001J1 Prospex Diver SSF001J1 Titanium / Blue",
+          "url": "/seiko/prospex-divers/ssf001j1"
+        },
+        {
+          "slug": "spb257",
+          "text": "SPB257 Prospex Diver 1970 Scuba Black Series",
+          "url": "/seiko/prospex-divers/spb257"
+        },
+        {
+          "slug": "ssc487p1",
+          "text": "SSC487P1 Prospex Diver SSC487P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-divers/ssc487p1"
+        },
+        {
+          "slug": "ssc551p1",
+          "text": "SSC551P1 Prospex Diver SSC551P1 Stainless Steel / Blue",
+          "url": "/seiko/prospex-divers/ssc551p1"
+        },
+        {
+          "slug": "ssc613p1",
+          "text": "SSC613P1 Prospex Diver SSC613P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-divers/ssc613p1"
+        },
+        {
+          "slug": "ssc615p1",
+          "text": "SSC615P1 Prospex Diver SSC615P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-divers/ssc615p1"
+        },
+        {
+          "slug": "srpb11",
+          "text": "SRPB11 Prospex Diver Turtle Stainless Steel / Blue Lagoon / Bracelet",
+          "url": "/seiko/prospex-divers/srpb11"
+        },
+        {
+          "slug": "sbdc181",
+          "text": "SBDC181 Prospex Diver 1970 Scuba Helly Hansen",
+          "url": "/seiko/prospex-divers/sbdc181"
+        },
+        {
+          "slug": "ssc485p1",
+          "text": "SSC485P1 Prospex Diver SSC485P1 Stainless Steel / Blue",
+          "url": "/seiko/prospex-divers/ssc485p1"
+        },
+        {
+          "slug": "sne437p1",
+          "text": "SNE437P1 Prospex Diver SNE437P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-divers/sne437p1"
+        },
+        {
+          "slug": "srpa83k1",
+          "text": "SRPA83K1 Prospex Diver SRPA83K1 Stainless Steel / Blue",
+          "url": "/seiko/prospex-divers/srpa83k1"
+        }
+      ]
+    },
+    {
+      "name": "5 Sports watches28",
+      "slug": "5-sports",
+      "references": [
+        {
+          "slug": "srpd53k1",
+          "text": "SRPD53K1 5 Sports Sports Style Stainless Steel / Pepsi / Bracelet",
+          "url": "/seiko/5-sports/srpd53k1"
+        },
+        {
+          "slug": "srpd55k1",
+          "text": "SRPD55K1 5 Sports Sports Style Stainless Steel / Black / Bracelet",
+          "url": "/seiko/5-sports/srpd55k1"
+        },
+        {
+          "slug": "srpd69k1",
+          "text": "SRPD69K1 5 Sports Suits Style Stainless Steel / Red / Mesh",
+          "url": "/seiko/5-sports/srpd69k1"
+        },
+        {
+          "slug": "srpd75k1",
+          "text": "SRPD75K1 5 Sports Suits Style Stainless Steel / Green / Mesh",
+          "url": "/seiko/5-sports/srpd75k1"
+        },
+        {
+          "slug": "srpd77k1",
+          "text": "SRPD77K1 5 Sports Street Style Hard Coating / Green / NATO",
+          "url": "/seiko/5-sports/srpd77k1"
+        },
+        {
+          "slug": "srpd67k1",
+          "text": "SRPD67K1 5 Sports Suits Style Stainless Steel / Sand / Mesh",
+          "url": "/seiko/5-sports/srpd67k1"
+        },
+        {
+          "slug": "srpd83k1",
+          "text": "SRPD83K1 5 Sports Street Style Hard Coating / Black - Red / NATO",
+          "url": "/seiko/5-sports/srpd83k1"
+        },
+        {
+          "slug": "srpd79k1",
+          "text": "SRPD79K1 5 Sports Street Style Hard Coating / Black - Black / NATO",
+          "url": "/seiko/5-sports/srpd79k1"
+        },
+        {
+          "slug": "srpd51k1",
+          "text": "SRPD51K1 5 Sports Sports Style Stainless Steel / Blue / Bracelet",
+          "url": "/seiko/5-sports/srpd51k1"
+        },
+        {
+          "slug": "srpd65k3",
+          "text": "SRPD65K3 5 Sports Specialist Style Hard Coating / Black / Rubber",
+          "url": "/seiko/5-sports/srpd65k3"
+        },
+        {
+          "slug": "srpd65k4",
+          "text": "SRPD65K4 5 Sports Sports Style Hard Coating / Black / NATO",
+          "url": "/seiko/5-sports/srpd65k4"
+        },
+        {
+          "slug": "snzf15k1",
+          "text": "SNZF15K1 5 Sports Stainless Steel / Blue / Pepsi / Bracelet",
+          "url": "/seiko/5-sports/snzf15k1"
+        },
+        {
+          "slug": "srpd71k2",
+          "text": "SRPD71K2 5 Sports Suits Style Stainless Steel / Blue / Rubber",
+          "url": "/seiko/5-sports/srpd71k2"
+        },
+        {
+          "slug": "srpd57k1",
+          "text": "SRPD57K1 5 Sports Sports Style Stainless Steel / Black - Gold / Bracelet",
+          "url": "/seiko/5-sports/srpd57k1"
+        },
+        {
+          "slug": "srpd85k1",
+          "text": "SRPD85K1 5 Sports Street Style Hard Coating / Brown / NATO",
+          "url": "/seiko/5-sports/srpd85k1"
+        },
+        {
+          "slug": "srpd81k1",
+          "text": "SRPD81K1 5 Sports Street Style Hard Coating / Black - Blue / NATO",
+          "url": "/seiko/5-sports/srpd81k1"
+        },
+        {
+          "slug": "srpd73k1",
+          "text": "SRPD73K1 5 Sports Suits Style Stainless Steel / Black / Mesh",
+          "url": "/seiko/5-sports/srpd73k1"
+        },
+        {
+          "slug": "srpd63k1",
+          "text": "SRPD63K1 5 Sports Sports Style Stainless Steel / Green - Gold / Bracelet",
+          "url": "/seiko/5-sports/srpd63k1"
+        },
+        {
+          "slug": "srpd65k2",
+          "text": "SRPD65K2 5 Sports Suits Style Hard Coating / Black / Rubber",
+          "url": "/seiko/5-sports/srpd65k2"
+        },
+        {
+          "slug": "srpd59k1",
+          "text": "SRPD59K1 5 Sports Sports Style Stainless Steel / Orange / Bracelet",
+          "url": "/seiko/5-sports/srpd59k1"
+        },
+        {
+          "slug": "srpd65k1",
+          "text": "SRPD65K1 5 Sports Sports Style Hard Coating / Black / Bracelet",
+          "url": "/seiko/5-sports/srpd65k1"
+        },
+        {
+          "slug": "srpd71k1",
+          "text": "SRPD71K1 5 Sports Suits Style Stainless Steel / Blue / Mesh",
+          "url": "/seiko/5-sports/srpd71k1"
+        },
+        {
+          "slug": "srpd73k2",
+          "text": "SRPD73K2 5 Sports Suits Style Stainless Steel / Black / Rubber",
+          "url": "/seiko/5-sports/srpd73k2"
+        },
+        {
+          "slug": "srpd55k2",
+          "text": "SRPD55K2 5 Sports Specialist Style Stainless Steel / Black / Rubber",
+          "url": "/seiko/5-sports/srpd55k2"
+        },
+        {
+          "slug": "srpd76k1",
+          "text": "SRPD76K1 5 Sports Specialist Style Rose Gold / Black / Rubber",
+          "url": "/seiko/5-sports/srpd76k1"
+        },
+        {
+          "slug": "srpd55k3",
+          "text": "SRPD55K3 5 Sports Sports Style Stainless Steel / Black / NATO",
+          "url": "/seiko/5-sports/srpd55k3"
+        },
+        {
+          "slug": "srpd61k1",
+          "text": "SRPD61K1 5 Sports Sports Style Stainless Steel / Green / Bracelet",
+          "url": "/seiko/5-sports/srpd61k1"
+        },
+        {
+          "slug": "srpd51k2",
+          "text": "SRPD51K2 5 Sports Sports Style Stainless Steel / Blue / NATO",
+          "url": "/seiko/5-sports/srpd51k2"
+        }
+      ]
+    },
+    {
+      "name": "Prospex Sky watches21",
+      "slug": "prospex-sky",
+      "references": [
+        {
+          "slug": "ssc351p1",
+          "text": "SSC351P1 Prospex Sky SSC351P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/ssc351p1"
+        },
+        {
+          "slug": "srpb59k1",
+          "text": "SRPB59K1 Prospex Sky SRPB59K1 Stainless Steel / Cream",
+          "url": "/seiko/prospex-sky/srpb59k1"
+        },
+        {
+          "slug": "ssg001p1",
+          "text": "SSG001P1 Prospex Sky SSG001P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/ssg001p1"
+        },
+        {
+          "slug": "ssg003p1",
+          "text": "SSG003P1 Prospex Sky SSG003P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/ssg003p1"
+        },
+        {
+          "slug": "ssg005p1",
+          "text": "SSG005P1 Prospex Sky SSG005P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/ssg005p1"
+        },
+        {
+          "slug": "ssc607p1",
+          "text": "SSC607P1 Prospex Sky SSC607P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/ssc607p1"
+        },
+        {
+          "slug": "srpb61k1",
+          "text": "SRPB61K1 Prospex Sky SRPB61K1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/srpb61k1"
+        },
+        {
+          "slug": "srpb57k1",
+          "text": "SRPB57K1 Prospex Sky SRPB57K1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/srpb57k1"
+        },
+        {
+          "slug": "ssc419p1",
+          "text": "SSC419P1 Prospex Sky SSC419P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/ssc419p1"
+        },
+        {
+          "slug": "ssg015p1",
+          "text": "SSG015P1 Prospex Sky SSG015P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/ssg015p1"
+        },
+        {
+          "slug": "ssc611p1",
+          "text": "SSC611P1 Prospex Sky SSC611P1 Stainless Steel / Blue",
+          "url": "/seiko/prospex-sky/ssc611p1"
+        },
+        {
+          "slug": "ssc421p1",
+          "text": "SSC421P1 Prospex Sky SSC421P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/ssc421p1"
+        },
+        {
+          "slug": "ssc353p1",
+          "text": "SSC353P1 Prospex Sky SSC353P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/ssc353p1"
+        },
+        {
+          "slug": "ssc261p1",
+          "text": "SSC261P1 Prospex Sky SSC261P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/ssc261p1"
+        },
+        {
+          "slug": "ssg011p1",
+          "text": "SSG011P1 Prospex Sky SSG011P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/ssg011p1"
+        },
+        {
+          "slug": "ssc609p1",
+          "text": "SSC609P1 Prospex Sky SSC609P1 Stainless Steel / Blue",
+          "url": "/seiko/prospex-sky/ssc609p1"
+        },
+        {
+          "slug": "ssc425p1",
+          "text": "SSC425P1 Prospex Sky SSC425P1 Stainless Steel / Cream",
+          "url": "/seiko/prospex-sky/ssc425p1"
+        },
+        {
+          "slug": "ssc347p1",
+          "text": "SSC347P1 Prospex Sky SSC347P1 Stainless Steel / Blue",
+          "url": "/seiko/prospex-sky/ssc347p1"
+        },
+        {
+          "slug": "ssg013p1",
+          "text": "SSG013P1 Prospex Sky SSG013P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/ssg013p1"
+        },
+        {
+          "slug": "ssc423p1",
+          "text": "SSC423P1 Prospex Sky SSC423P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/ssc423p1"
+        },
+        {
+          "slug": "ssc349p1",
+          "text": "SSC349P1 Prospex Sky SSC349P1 Stainless Steel / Black",
+          "url": "/seiko/prospex-sky/ssc349p1"
+        }
+      ]
+    },
+    {
+      "name": "Prospex Land watches17",
+      "slug": "prospex-land",
+      "references": [
+        {
+          "slug": "ssc081p1",
+          "text": "SSC081P1 Prospex Land SSC081P1 Stainless Steel / Black / Strap",
+          "url": "/seiko/prospex-land/ssc081p1"
+        },
+        {
+          "slug": "sun047p1",
+          "text": "SUN047P1 Prospex Land SUN047P1 Stainless Steel / Black / Bracelet",
+          "url": "/seiko/prospex-land/sun047p1"
+        },
+        {
+          "slug": "sun051p1",
+          "text": "SUN051P1 Prospex Land SUN051P1 Stainless Steel / Green / Strap",
+          "url": "/seiko/prospex-land/sun051p1"
+        },
+        {
+          "slug": "srpa75k1",
+          "text": "SRPA75K1 Prospex Land SRPA75K1 Stainless Steel / Black / Strap",
+          "url": "/seiko/prospex-land/srpa75k1"
+        },
+        {
+          "slug": "ssc075p1",
+          "text": "SSC075P1 Prospex Land SSC075P1 Stainless Steel / Black / Bracelet",
+          "url": "/seiko/prospex-land/ssc075p1"
+        },
+        {
+          "slug": "srpa71k1",
+          "text": "SRPA71K1 Prospex Land SRPA71K1 Stainless Steel / Black / Bracelet",
+          "url": "/seiko/prospex-land/srpa71k1"
+        },
+        {
+          "slug": "sne421p1",
+          "text": "SNE421P1 Prospex Land SNE421P1 Stainless Steel / Black / Bracelet",
+          "url": "/seiko/prospex-land/sne421p1"
+        },
+        {
+          "slug": "srpa73k1",
+          "text": "SRPA73K1 Prospex Land SRPA73K1 Stainless Steel / Black / Bracelet",
+          "url": "/seiko/prospex-land/srpa73k1"
+        },
+        {
+          "slug": "sbdb015",
+          "text": "SBDB015 Prospex Landmaster Stainless Steel / Black / Bracelet",
+          "url": "/seiko/prospex-land/sbdb015"
+        },
+        {
+          "slug": "sun049p1",
+          "text": "SUN049P1 Prospex Land SUN049P1 Stainless Steel / Black / Bracelet",
+          "url": "/seiko/prospex-land/sun049p1"
+        },
+        {
+          "slug": "srpa77k1",
+          "text": "SRPA77K1 Prospex Land SRPA77K1 Stainless Steel / Black / Strap",
+          "url": "/seiko/prospex-land/srpa77k1"
+        },
+        {
+          "slug": "sun049p2",
+          "text": "SUN049P2 Prospex Land SUN049P2 Stainless Steel / Black / Strap",
+          "url": "/seiko/prospex-land/sun049p2"
+        },
+        {
+          "slug": "sne425p1",
+          "text": "SNE425P1 Prospex Land SNE425P1 Stainless Steel / Black / Strap",
+          "url": "/seiko/prospex-land/sne425p1"
+        },
+        {
+          "slug": "sne423p1",
+          "text": "SNE423P1 Prospex Land SNE423P1 Stainless Steel / Black / Strap",
+          "url": "/seiko/prospex-land/sne423p1"
+        },
+        {
+          "slug": "sun061p1",
+          "text": "SUN061P1 Prospex Land SUN061P1 Stainless Steel / Brown / Strap",
+          "url": "/seiko/prospex-land/sun061p1"
+        },
+        {
+          "slug": "sun053p1",
+          "text": "SUN053P1 Prospex Land SUN053P1 Stainless Steel / Black / Strap",
+          "url": "/seiko/prospex-land/sun053p1"
+        },
+        {
+          "slug": "sun059p2",
+          "text": "SUN059P2 Prospex Land SUN059P2 Stainless Steel / Blue / Strap",
+          "url": "/seiko/prospex-land/sun059p2"
+        }
+      ]
+    },
+    {
+      "name": "Mechanical watches8",
+      "slug": "mechanical",
+      "references": [
+        {
+          "slug": "skx007k2",
+          "text": "SKX007K2 Seiko SKX007 Black / Stainless Steel",
+          "url": "/seiko/mechanical/skx007k2"
+        },
+        {
+          "slug": "sarb035",
+          "text": "SARB035 Mechanical Stainless Stainless Steel / Silver / Bracelet",
+          "url": "/seiko/mechanical/sarb035"
+        },
+        {
+          "slug": "sarb033",
+          "text": "SARB033 Mechanical Stainless Stainless Steel / Black / Bracelet",
+          "url": "/seiko/mechanical/sarb033"
+        },
+        {
+          "slug": "sarb017",
+          "text": "SARB017 Mechanical Alpinist Stainless Steel / Green / Strap",
+          "url": "/seiko/mechanical/sarb017"
+        },
+        {
+          "slug": "sarb065",
+          "text": "SARB065 Cocktail Time Ishigaki Shinobu Stainless Steel / Ice Blue / Strap / Cool",
+          "url": "/seiko/mechanical/sarb065"
+        },
+        {
+          "slug": "skx007k1",
+          "text": "SKX007K1 Seiko SKX007 Black / Stainless Steel / Rubber",
+          "url": "/seiko/mechanical/skx007k1"
+        },
+        {
+          "slug": "srpa29",
+          "text": "SRPA29 Mechanical Stainless Stainless Steel / Blue / Bracelet",
+          "url": "/seiko/mechanical/srpa29"
+        },
+        {
+          "slug": "skx009k2",
+          "text": "SKX009K2 Seiko SKX009 Black / Stainless Steel",
+          "url": "/seiko/mechanical/skx009k2"
+        }
+      ]
+    },
+    {
+      "name": "Presage watches1",
+      "slug": "presage",
+      "references": [
+        {
+          "slug": "ssa346j1",
+          "text": "SSA346J1 Cocktail Time Power Reserve Stainless Steel / PVD Rose / Sidecar",
+          "url": "/seiko/presage/ssa346j1"
+        }
+      ]
+    },
+    {
+      "name": "Recraft watches1",
+      "slug": "recraft",
+      "references": [
+        {
+          "slug": "snkn01",
+          "text": "SNKN01 Recraft Cushion Stainless Steel / Grey / Strap",
+          "url": "/seiko/recraft/snkn01"
+        }
+      ]
+    }
+  ],
+  "total_references": 138
+}

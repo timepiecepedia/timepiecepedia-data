@@ -1,0 +1,52 @@
+{
+  "brand_slug": "dietrich",
+  "collections": [
+    {
+      "name": "OT watches8",
+      "slug": "ot",
+      "references": [
+        {
+          "slug": "otcao1",
+          "text": "OTCAO1 OT-1",
+          "url": "/dietrich/ot/otcao1"
+        },
+        {
+          "slug": "otcao3",
+          "text": "OTCAO3 OT-3",
+          "url": "/dietrich/ot/otcao3"
+        },
+        {
+          "slug": "otcao4",
+          "text": "OTCAO4 OT-4",
+          "url": "/dietrich/ot/otcao4"
+        },
+        {
+          "slug": "otcao2",
+          "text": "OTCAO2 OT-2",
+          "url": "/dietrich/ot/otcao2"
+        },
+        {
+          "slug": "ot2ukw",
+          "text": "OT2UKW OT-2 UK",
+          "url": "/dietrich/ot/ot2ukw"
+        },
+        {
+          "slug": "otcao6",
+          "text": "OTCAO6 OT-6",
+          "url": "/dietrich/ot/otcao6"
+        },
+        {
+          "slug": "otcao13",
+          "text": "OTCAO13 OT-13 Lucie",
+          "url": "/dietrich/ot/otcao13"
+        },
+        {
+          "slug": "otcao5",
+          "text": "OTCAO5 OT-5 Bronze",
+          "url": "/dietrich/ot/otcao5"
+        }
+      ]
+    }
+  ],
+  "total_references": 8
+}
