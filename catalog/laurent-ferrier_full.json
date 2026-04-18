@@ -1,0 +1,367 @@
+{
+  "brand_slug": "laurent-ferrier",
+  "collections": [
+    {
+      "name": "Galet Classic",
+      "slug": "galet-classic",
+      "references": [
+        {
+          "slug": "galet-classic-tourbillon-double-spiral-steel",
+          "url": "/laurent-ferrier/galet-classic/galet-classic-tourbillon-double-spiral-steel",
+          "title": "Galet Classic Tourbillon Double Spiral Steel",
+          "specs": {
+            "Brand": "Laurent Ferrier",
+            "Family": "Galet Classic",
+            "Reference": "N/A",
+            "Name": "Tourbillon Double Spiral",
+            "Movement": "LF 619.01 (hand-wound tourbillon)",
+            "Materials": "Stainless Steel",
+            "Diameter": "41mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Tourbillon, Double balance spring"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "galet-classic-micro-rotor-white-gold",
+          "url": "/laurent-ferrier/galet-classic/galet-classic-micro-rotor-white-gold",
+          "title": "Galet Classic Micro-Rotor White Gold",
+          "specs": {
+            "Brand": "Laurent Ferrier",
+            "Family": "Galet Classic",
+            "Reference": "N/A",
+            "Name": "Micro-Rotor",
+            "Movement": "Automatic with micro-rotor",
+            "Materials": "White Gold",
+            "Diameter": "40mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "galet-classic-school-piece-rose-gold",
+          "url": "/laurent-ferrier/galet-classic/galet-classic-school-piece-rose-gold",
+          "title": "Galet Classic School Piece Rose Gold",
+          "specs": {
+            "Brand": "Laurent Ferrier",
+            "Family": "Galet Classic",
+            "Reference": "N/A",
+            "Name": "School Piece",
+            "Movement": "Hand-wound",
+            "Materials": "Rose Gold",
+            "Diameter": "39mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "galet-classic-moon-phase-white-gold",
+          "url": "/laurent-ferrier/galet-classic/galet-classic-moon-phase-white-gold",
+          "title": "Galet Classic Moon Phase White Gold",
+          "specs": {
+            "Brand": "Laurent Ferrier",
+            "Family": "Galet Classic",
+            "Reference": "N/A",
+            "Name": "Moon Phase",
+            "Movement": "Automatic with micro-rotor",
+            "Materials": "White Gold",
+            "Diameter": "40mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Moon phase"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Galet Micro-Rotor",
+      "slug": "galet-micro-rotor",
+      "references": [
+        {
+          "slug": "galet-micro-rotor-enamel-dial-white-gold",
+          "url": "/laurent-ferrier/galet-micro-rotor/galet-micro-rotor-enamel-dial-white-gold",
+          "title": "Galet Micro-Rotor Enamel Dial White Gold",
+          "specs": {
+            "Brand": "Laurent Ferrier",
+            "Family": "Galet Micro-Rotor",
+            "Reference": "N/A",
+            "Name": "Grand Feu Enamel",
+            "Movement": "Automatic with micro-rotor",
+            "Materials": "White Gold",
+            "Diameter": "40mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "galet-micro-rotor-montre-ecole-steel",
+          "url": "/laurent-ferrier/galet-micro-rotor/galet-micro-rotor-montre-ecole-steel",
+          "title": "Galet Micro-Rotor Montre Ecole Steel",
+          "specs": {
+            "Brand": "Laurent Ferrier",
+            "Family": "Galet Micro-Rotor",
+            "Reference": "N/A",
+            "Name": "Montre Ecole",
+            "Movement": "Automatic with micro-rotor",
+            "Materials": "Stainless Steel",
+            "Diameter": "40mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "galet-micro-rotor-princess-rose-gold",
+          "url": "/laurent-ferrier/galet-micro-rotor/galet-micro-rotor-princess-rose-gold",
+          "title": "Galet Micro-Rotor Princess Rose Gold",
+          "specs": {
+            "Brand": "Laurent Ferrier",
+            "Family": "Galet Micro-Rotor",
+            "Reference": "N/A",
+            "Name": "Princess",
+            "Movement": "Automatic with micro-rotor",
+            "Materials": "Rose Gold",
+            "Diameter": "40mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Galet Square",
+      "slug": "galet-square",
+      "references": [
+        {
+          "slug": "galet-square-micro-rotor-steel",
+          "url": "/laurent-ferrier/galet-square/galet-square-micro-rotor-steel",
+          "title": "Galet Square Micro-Rotor Steel",
+          "specs": {
+            "Brand": "Laurent Ferrier",
+            "Family": "Galet Square",
+            "Reference": "N/A",
+            "Name": "Micro-Rotor",
+            "Movement": "Automatic with micro-rotor",
+            "Materials": "Stainless Steel",
+            "Diameter": "41mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "galet-square-enamel-white-gold",
+          "url": "/laurent-ferrier/galet-square/galet-square-enamel-white-gold",
+          "title": "Galet Square Enamel White Gold",
+          "specs": {
+            "Brand": "Laurent Ferrier",
+            "Family": "Galet Square",
+            "Reference": "N/A",
+            "Name": "Grand Feu Enamel",
+            "Movement": "Automatic with micro-rotor",
+            "Materials": "White Gold",
+            "Diameter": "41mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "galet-square-hand-wound-rose-gold",
+          "url": "/laurent-ferrier/galet-square/galet-square-hand-wound-rose-gold",
+          "title": "Galet Square Hand-Wound Rose Gold",
+          "specs": {
+            "Brand": "Laurent Ferrier",
+            "Family": "Galet Square",
+            "Reference": "N/A",
+            "Name": "Hand-Wound",
+            "Movement": "Hand-wound",
+            "Materials": "Rose Gold",
+            "Diameter": "41mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Galet Traveller",
+      "slug": "galet-traveller",
+      "references": [
+        {
+          "slug": "galet-traveller-globe-night-white-gold",
+          "url": "/laurent-ferrier/galet-traveller/galet-traveller-globe-night-white-gold",
+          "title": "Galet Traveller Globe Night White Gold",
+          "specs": {
+            "Brand": "Laurent Ferrier",
+            "Family": "Galet Traveller",
+            "Reference": "N/A",
+            "Name": "Globe Night",
+            "Movement": "Automatic with micro-rotor",
+            "Materials": "White Gold",
+            "Diameter": "41mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Dual time zone, Day/night indicator"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "galet-traveller-micro-rotor-rose-gold",
+          "url": "/laurent-ferrier/galet-traveller/galet-traveller-micro-rotor-rose-gold",
+          "title": "Galet Traveller Micro-Rotor Rose Gold",
+          "specs": {
+            "Brand": "Laurent Ferrier",
+            "Family": "Galet Traveller",
+            "Reference": "N/A",
+            "Name": "Traveller",
+            "Movement": "Automatic with micro-rotor",
+            "Materials": "Rose Gold",
+            "Diameter": "41mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Dual time zone, GMT"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grand Sport",
+      "slug": "grand-sport",
+      "references": [
+        {
+          "slug": "grand-sport-tourbillon-steel",
+          "url": "/laurent-ferrier/grand-sport/grand-sport-tourbillon-steel",
+          "title": "Grand Sport Tourbillon Steel",
+          "specs": {
+            "Brand": "Laurent Ferrier",
+            "Family": "Grand Sport",
+            "Reference": "N/A",
+            "Name": "Tourbillon",
+            "Movement": "Hand-wound tourbillon",
+            "Materials": "Stainless Steel",
+            "Diameter": "44mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Tourbillon"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "grand-sport-micro-rotor-titanium",
+          "url": "/laurent-ferrier/grand-sport/grand-sport-micro-rotor-titanium",
+          "title": "Grand Sport Micro-Rotor Titanium",
+          "specs": {
+            "Brand": "Laurent Ferrier",
+            "Family": "Grand Sport",
+            "Reference": "N/A",
+            "Name": "Micro-Rotor",
+            "Movement": "Automatic with micro-rotor",
+            "Materials": "Titanium",
+            "Diameter": "44mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "grand-sport-steel-bracelet",
+          "url": "/laurent-ferrier/grand-sport/grand-sport-steel-bracelet",
+          "title": "Grand Sport Steel Bracelet",
+          "specs": {
+            "Brand": "Laurent Ferrier",
+            "Family": "Grand Sport",
+            "Reference": "N/A",
+            "Name": "Grand Sport",
+            "Movement": "Automatic with micro-rotor",
+            "Materials": "Stainless Steel",
+            "Diameter": "44mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 15,
+  "enriched_at": "2026-04-18T16:57:47.130Z"
+}

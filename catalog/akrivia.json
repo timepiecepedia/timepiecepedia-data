@@ -1,0 +1,91 @@
+{
+  "brand_slug": "akrivia",
+  "collections": [
+    {
+      "name": "Tourbillon",
+      "slug": "tourbillon",
+      "references": [
+        {
+          "slug": "tourbillon-regulator",
+          "url": "/akrivia/tourbillon/tourbillon-regulator",
+          "text": "Tourbillon Regulator White Gold"
+        },
+        {
+          "slug": "tourbillon-chiming-jump-hour",
+          "url": "/akrivia/tourbillon/tourbillon-chiming-jump-hour",
+          "text": "Tourbillon Chiming Jump Hour White Gold"
+        },
+        {
+          "slug": "tourbillon-heure-minute",
+          "url": "/akrivia/tourbillon/tourbillon-heure-minute",
+          "text": "Tourbillon Heure Minute Rose Gold"
+        }
+      ]
+    },
+    {
+      "name": "Chronomètre Contemporain",
+      "slug": "chronometre-contemporain",
+      "references": [
+        {
+          "slug": "chronometre-contemporain-i",
+          "url": "/akrivia/chronometre-contemporain/chronometre-contemporain-i",
+          "text": "Chronomètre Contemporain I White Gold"
+        },
+        {
+          "slug": "chronometre-contemporain-ii",
+          "url": "/akrivia/chronometre-contemporain/chronometre-contemporain-ii",
+          "text": "Chronomètre Contemporain II Rose Gold"
+        },
+        {
+          "slug": "chronometre-contemporain-platinum",
+          "url": "/akrivia/chronometre-contemporain/chronometre-contemporain-platinum",
+          "text": "Chronomètre Contemporain Platinum"
+        }
+      ]
+    },
+    {
+      "name": "Équation Du Temps",
+      "slug": "equation-du-temps",
+      "references": [
+        {
+          "slug": "equation-du-temps-white-gold",
+          "url": "/akrivia/equation-du-temps/equation-du-temps-white-gold",
+          "text": "Équation Du Temps White Gold"
+        }
+      ]
+    },
+    {
+      "name": "AK Series",
+      "slug": "ak-series",
+      "references": [
+        {
+          "slug": "ak-01",
+          "url": "/akrivia/ak-series/ak-01",
+          "text": "AK-01 Rose Gold"
+        },
+        {
+          "slug": "ak-06",
+          "url": "/akrivia/ak-series/ak-06",
+          "text": "AK-06 White Gold"
+        }
+      ]
+    },
+    {
+      "name": "Rexhep Rexhepi Special Editions",
+      "slug": "special-editions",
+      "references": [
+        {
+          "slug": "anniversary-piece",
+          "url": "/akrivia/special-editions/anniversary-piece",
+          "text": "Anniversary Piece Platinum"
+        },
+        {
+          "slug": "minute-repeater",
+          "url": "/akrivia/special-editions/minute-repeater",
+          "text": "Minute Repeater White Gold"
+        }
+      ]
+    }
+  ],
+  "total_references": 11
+}

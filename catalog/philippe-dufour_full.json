@@ -1,0 +1,245 @@
+{
+  "brand_slug": "philippe-dufour",
+  "collections": [
+    {
+      "name": "Simplicity",
+      "slug": "simplicity",
+      "references": [
+        {
+          "slug": "simplicity-white-gold",
+          "url": "/philippe-dufour/simplicity/simplicity-white-gold",
+          "title": "Simplicity White Gold",
+          "specs": {
+            "Brand": "Philippe Dufour",
+            "Family": "Simplicity",
+            "Reference": "N/A",
+            "Name": "White Gold",
+            "Movement": "Manual-winding",
+            "Materials": "White gold",
+            "Diameter": "37mm",
+            "W/R": "N/A",
+            "Glass": "Sapphire crystal",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "simplicity-rose-gold",
+          "url": "/philippe-dufour/simplicity/simplicity-rose-gold",
+          "title": "Simplicity Rose Gold",
+          "specs": {
+            "Brand": "Philippe Dufour",
+            "Family": "Simplicity",
+            "Reference": "N/A",
+            "Name": "Rose Gold",
+            "Movement": "Manual-winding",
+            "Materials": "Rose gold",
+            "Diameter": "37mm",
+            "W/R": "N/A",
+            "Glass": "Sapphire crystal",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "simplicity-platinum",
+          "url": "/philippe-dufour/simplicity/simplicity-platinum",
+          "title": "Simplicity Platinum",
+          "specs": {
+            "Brand": "Philippe Dufour",
+            "Family": "Simplicity",
+            "Reference": "N/A",
+            "Name": "Platinum",
+            "Movement": "Manual-winding",
+            "Materials": "Platinum",
+            "Diameter": "37mm",
+            "W/R": "N/A",
+            "Glass": "Sapphire crystal",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "simplicity-yellow-gold",
+          "url": "/philippe-dufour/simplicity/simplicity-yellow-gold",
+          "title": "Simplicity Yellow Gold",
+          "specs": {
+            "Brand": "Philippe Dufour",
+            "Family": "Simplicity",
+            "Reference": "N/A",
+            "Name": "Yellow Gold",
+            "Movement": "Manual-winding",
+            "Materials": "Yellow gold",
+            "Diameter": "37mm",
+            "W/R": "N/A",
+            "Glass": "Sapphire crystal",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Duality",
+      "slug": "duality",
+      "references": [
+        {
+          "slug": "duality-white-gold",
+          "url": "/philippe-dufour/duality/duality-white-gold",
+          "title": "Duality White Gold",
+          "specs": {
+            "Brand": "Philippe Dufour",
+            "Family": "Duality",
+            "Reference": "N/A",
+            "Name": "White Gold",
+            "Movement": "Manual-winding, double escapement",
+            "Materials": "White gold",
+            "Diameter": "38mm",
+            "W/R": "N/A",
+            "Glass": "Sapphire crystal",
+            "Complications": "Dual escapement"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "duality-rose-gold",
+          "url": "/philippe-dufour/duality/duality-rose-gold",
+          "title": "Duality Rose Gold",
+          "specs": {
+            "Brand": "Philippe Dufour",
+            "Family": "Duality",
+            "Reference": "N/A",
+            "Name": "Rose Gold",
+            "Movement": "Manual-winding, double escapement",
+            "Materials": "Rose gold",
+            "Diameter": "38mm",
+            "W/R": "N/A",
+            "Glass": "Sapphire crystal",
+            "Complications": "Dual escapement"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "duality-platinum",
+          "url": "/philippe-dufour/duality/duality-platinum",
+          "title": "Duality Platinum",
+          "specs": {
+            "Brand": "Philippe Dufour",
+            "Family": "Duality",
+            "Reference": "N/A",
+            "Name": "Platinum",
+            "Movement": "Manual-winding, double escapement",
+            "Materials": "Platinum",
+            "Diameter": "38mm",
+            "W/R": "N/A",
+            "Glass": "Sapphire crystal",
+            "Complications": "Dual escapement"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grande Sonnerie",
+      "slug": "grande-sonnerie",
+      "references": [
+        {
+          "slug": "grande-sonnerie-white-gold",
+          "url": "/philippe-dufour/grande-sonnerie/grande-sonnerie-white-gold",
+          "title": "Grande Sonnerie White Gold",
+          "specs": {
+            "Brand": "Philippe Dufour",
+            "Family": "Grande Sonnerie",
+            "Reference": "N/A",
+            "Name": "White Gold",
+            "Movement": "Manual-winding",
+            "Materials": "White gold",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire crystal",
+            "Complications": "Grande et petite sonnerie, minute repeater"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "grande-sonnerie-rose-gold",
+          "url": "/philippe-dufour/grande-sonnerie/grande-sonnerie-rose-gold",
+          "title": "Grande Sonnerie Rose Gold",
+          "specs": {
+            "Brand": "Philippe Dufour",
+            "Family": "Grande Sonnerie",
+            "Reference": "N/A",
+            "Name": "Rose Gold",
+            "Movement": "Manual-winding",
+            "Materials": "Rose gold",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire crystal",
+            "Complications": "Grande et petite sonnerie, minute repeater"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "grande-sonnerie-platinum",
+          "url": "/philippe-dufour/grande-sonnerie/grande-sonnerie-platinum",
+          "title": "Grande Sonnerie Platinum",
+          "specs": {
+            "Brand": "Philippe Dufour",
+            "Family": "Grande Sonnerie",
+            "Reference": "N/A",
+            "Name": "Platinum",
+            "Movement": "Manual-winding",
+            "Materials": "Platinum",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire crystal",
+            "Complications": "Grande et petite sonnerie, minute repeater"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 10,
+  "enriched_at": "2026-04-18T16:59:24.656Z"
+}

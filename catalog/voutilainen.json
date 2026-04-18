@@ -1,0 +1,96 @@
+{
+  "brand_slug": "voutilainen",
+  "collections": [
+    {
+      "name": "Vingt-8",
+      "slug": "vingt-8",
+      "references": [
+        {
+          "slug": "vingt-8-platinum",
+          "url": "/voutilainen/vingt-8/vingt-8-platinum",
+          "text": "Vingt-8 Platinum"
+        },
+        {
+          "slug": "vingt-8-rose-gold",
+          "url": "/voutilainen/vingt-8/vingt-8-rose-gold",
+          "text": "Vingt-8 Rose Gold"
+        },
+        {
+          "slug": "vingt-8-iso",
+          "url": "/voutilainen/vingt-8/vingt-8-iso",
+          "text": "Vingt-8 ISO"
+        }
+      ]
+    },
+    {
+      "name": "Observatoire",
+      "slug": "observatoire",
+      "references": [
+        {
+          "slug": "observatoire-white-gold",
+          "url": "/voutilainen/observatoire/observatoire-white-gold",
+          "text": "Observatoire White Gold"
+        },
+        {
+          "slug": "observatoire-platinum",
+          "url": "/voutilainen/observatoire/observatoire-platinum",
+          "text": "Observatoire Platinum"
+        }
+      ]
+    },
+    {
+      "name": "GMT-6",
+      "slug": "gmt-6",
+      "references": [
+        {
+          "slug": "gmt-6-platinum",
+          "url": "/voutilainen/gmt-6/gmt-6-platinum",
+          "text": "GMT-6 Platinum"
+        },
+        {
+          "slug": "gmt-6-rose-gold",
+          "url": "/voutilainen/gmt-6/gmt-6-rose-gold",
+          "text": "GMT-6 Rose Gold"
+        }
+      ]
+    },
+    {
+      "name": "Perpetual Calendar",
+      "slug": "perpetual-calendar",
+      "references": [
+        {
+          "slug": "perpetual-calendar-platinum",
+          "url": "/voutilainen/perpetual-calendar/perpetual-calendar-platinum",
+          "text": "Perpetual Calendar Platinum"
+        },
+        {
+          "slug": "perpetual-calendar-white-gold",
+          "url": "/voutilainen/perpetual-calendar/perpetual-calendar-white-gold",
+          "text": "Perpetual Calendar White Gold"
+        }
+      ]
+    },
+    {
+      "name": "Tourbillon",
+      "slug": "tourbillon",
+      "references": [
+        {
+          "slug": "tourbillon-6-platinum",
+          "url": "/voutilainen/tourbillon/tourbillon-6-platinum",
+          "text": "Tourbillon 6 Platinum"
+        },
+        {
+          "slug": "decimal-repeater",
+          "url": "/voutilainen/tourbillon/decimal-repeater",
+          "text": "Decimal Repeater"
+        },
+        {
+          "slug": "tourbillon-rose-gold",
+          "url": "/voutilainen/tourbillon/tourbillon-rose-gold",
+          "text": "Tourbillon Rose Gold"
+        }
+      ]
+    }
+  ],
+  "total_references": 12
+}

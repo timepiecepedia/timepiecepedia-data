@@ -1,0 +1,74 @@
+{
+  "brand_slug": "philippe-dufour",
+  "collections": [
+    {
+      "name": "Simplicity",
+      "slug": "simplicity",
+      "references": [
+        {
+          "slug": "simplicity-white-gold",
+          "url": "/philippe-dufour/simplicity/simplicity-white-gold",
+          "text": "Simplicity White Gold"
+        },
+        {
+          "slug": "simplicity-rose-gold",
+          "url": "/philippe-dufour/simplicity/simplicity-rose-gold",
+          "text": "Simplicity Rose Gold"
+        },
+        {
+          "slug": "simplicity-platinum",
+          "url": "/philippe-dufour/simplicity/simplicity-platinum",
+          "text": "Simplicity Platinum"
+        },
+        {
+          "slug": "simplicity-yellow-gold",
+          "url": "/philippe-dufour/simplicity/simplicity-yellow-gold",
+          "text": "Simplicity Yellow Gold"
+        }
+      ]
+    },
+    {
+      "name": "Duality",
+      "slug": "duality",
+      "references": [
+        {
+          "slug": "duality-white-gold",
+          "url": "/philippe-dufour/duality/duality-white-gold",
+          "text": "Duality White Gold"
+        },
+        {
+          "slug": "duality-rose-gold",
+          "url": "/philippe-dufour/duality/duality-rose-gold",
+          "text": "Duality Rose Gold"
+        },
+        {
+          "slug": "duality-platinum",
+          "url": "/philippe-dufour/duality/duality-platinum",
+          "text": "Duality Platinum"
+        }
+      ]
+    },
+    {
+      "name": "Grande Sonnerie",
+      "slug": "grande-sonnerie",
+      "references": [
+        {
+          "slug": "grande-sonnerie-white-gold",
+          "url": "/philippe-dufour/grande-sonnerie/grande-sonnerie-white-gold",
+          "text": "Grande Sonnerie White Gold"
+        },
+        {
+          "slug": "grande-sonnerie-rose-gold",
+          "url": "/philippe-dufour/grande-sonnerie/grande-sonnerie-rose-gold",
+          "text": "Grande Sonnerie Rose Gold"
+        },
+        {
+          "slug": "grande-sonnerie-platinum",
+          "url": "/philippe-dufour/grande-sonnerie/grande-sonnerie-platinum",
+          "text": "Grande Sonnerie Platinum"
+        }
+      ]
+    }
+  ],
+  "total_references": 10
+}

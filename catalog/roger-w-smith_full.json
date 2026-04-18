@@ -1,0 +1,279 @@
+{
+  "brand_slug": "roger-w-smith",
+  "collections": [
+    {
+      "name": "Series 1",
+      "slug": "series-1",
+      "references": [
+        {
+          "slug": "series-1-white-dial",
+          "url": "/roger-w-smith/series-1/series-1-white-dial",
+          "title": "Series 1 White Dial",
+          "specs": {
+            "Brand": "Roger W. Smith",
+            "Family": "Series 1",
+            "Reference": "N/A",
+            "Name": "White Dial",
+            "Movement": "Hand-made manual wind",
+            "Materials": "Stainless steel",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "series-1-black-dial",
+          "url": "/roger-w-smith/series-1/series-1-black-dial",
+          "title": "Series 1 Black Dial",
+          "specs": {
+            "Brand": "Roger W. Smith",
+            "Family": "Series 1",
+            "Reference": "N/A",
+            "Name": "Black Dial",
+            "Movement": "Hand-made manual wind",
+            "Materials": "Stainless steel",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Series 2",
+      "slug": "series-2",
+      "references": [
+        {
+          "slug": "series-2-white-enamel",
+          "url": "/roger-w-smith/series-2/series-2-white-enamel",
+          "title": "Series 2 White Enamel Dial",
+          "specs": {
+            "Brand": "Roger W. Smith",
+            "Family": "Series 2",
+            "Reference": "N/A",
+            "Name": "White Enamel",
+            "Movement": "Hand-made manual wind",
+            "Materials": "Stainless steel",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "series-2-pink-gold",
+          "url": "/roger-w-smith/series-2/series-2-pink-gold",
+          "title": "Series 2 Rose Gold",
+          "specs": {
+            "Brand": "Roger W. Smith",
+            "Family": "Series 2",
+            "Reference": "N/A",
+            "Name": "Rose Gold",
+            "Movement": "Hand-made manual wind",
+            "Materials": "18k rose gold",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Series 3",
+      "slug": "series-3",
+      "references": [
+        {
+          "slug": "series-3-steel",
+          "url": "/roger-w-smith/series-3/series-3-steel",
+          "title": "Series 3 Stainless Steel",
+          "specs": {
+            "Brand": "Roger W. Smith",
+            "Family": "Series 3",
+            "Reference": "N/A",
+            "Name": "Steel",
+            "Movement": "Hand-made manual wind with co-axial escapement",
+            "Materials": "Stainless steel",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "series-3-yellow-gold",
+          "url": "/roger-w-smith/series-3/series-3-yellow-gold",
+          "title": "Series 3 Yellow Gold",
+          "specs": {
+            "Brand": "Roger W. Smith",
+            "Family": "Series 3",
+            "Reference": "N/A",
+            "Name": "Yellow Gold",
+            "Movement": "Hand-made manual wind with co-axial escapement",
+            "Materials": "18k yellow gold",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Britain",
+      "slug": "great-britain",
+      "references": [
+        {
+          "slug": "great-britain-series",
+          "url": "/roger-w-smith/great-britain/great-britain-series",
+          "title": "Great Britain",
+          "specs": {
+            "Brand": "Roger W. Smith",
+            "Family": "Great Britain",
+            "Reference": "N/A",
+            "Name": "Great Britain",
+            "Movement": "Hand-made manual wind",
+            "Materials": "Stainless steel",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Open-worked dial"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Special Editions",
+      "slug": "special-editions",
+      "references": [
+        {
+          "slug": "series-2-open-dial",
+          "url": "/roger-w-smith/special-editions/series-2-open-dial",
+          "title": "Series 2 Open Dial",
+          "specs": {
+            "Brand": "Roger W. Smith",
+            "Family": "Special Editions",
+            "Reference": "N/A",
+            "Name": "Open Dial",
+            "Movement": "Hand-made manual wind",
+            "Materials": "Stainless steel",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Open-worked dial, small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "series-2-blue-enamel",
+          "url": "/roger-w-smith/special-editions/series-2-blue-enamel",
+          "title": "Series 2 Blue Enamel",
+          "specs": {
+            "Brand": "Roger W. Smith",
+            "Family": "Special Editions",
+            "Reference": "N/A",
+            "Name": "Blue Enamel",
+            "Movement": "Hand-made manual wind",
+            "Materials": "18k white gold",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "series-1-bespoke",
+          "url": "/roger-w-smith/special-editions/series-1-bespoke",
+          "title": "Series 1 Bespoke Commission",
+          "specs": {
+            "Brand": "Roger W. Smith",
+            "Family": "Special Editions",
+            "Reference": "N/A",
+            "Name": "Bespoke",
+            "Movement": "Hand-made manual wind",
+            "Materials": "Platinum",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "series-2-observatory",
+          "url": "/roger-w-smith/special-editions/series-2-observatory",
+          "title": "Series 2 Observatory",
+          "specs": {
+            "Brand": "Roger W. Smith",
+            "Family": "Special Editions",
+            "Reference": "N/A",
+            "Name": "Observatory",
+            "Movement": "Hand-made manual wind, observatory grade",
+            "Materials": "Stainless steel",
+            "Diameter": "38mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 11,
+  "enriched_at": "2026-04-18T16:59:55.707Z"
+}

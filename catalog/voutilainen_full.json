@@ -1,0 +1,301 @@
+{
+  "brand_slug": "voutilainen",
+  "collections": [
+    {
+      "name": "Vingt-8",
+      "slug": "vingt-8",
+      "references": [
+        {
+          "slug": "vingt-8-platinum",
+          "url": "/voutilainen/vingt-8/vingt-8-platinum",
+          "title": "Vingt-8 Platinum",
+          "specs": {
+            "Brand": "Voutilainen",
+            "Family": "Vingt-8",
+            "Reference": "28",
+            "Name": "Vingt-8",
+            "Movement": "Calibre 28",
+            "Materials": "Platinum",
+            "Diameter": "39mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "vingt-8-rose-gold",
+          "url": "/voutilainen/vingt-8/vingt-8-rose-gold",
+          "title": "Vingt-8 Rose Gold",
+          "specs": {
+            "Brand": "Voutilainen",
+            "Family": "Vingt-8",
+            "Reference": "28",
+            "Name": "Vingt-8",
+            "Movement": "Calibre 28",
+            "Materials": "18k Rose Gold",
+            "Diameter": "39mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "vingt-8-iso",
+          "url": "/voutilainen/vingt-8/vingt-8-iso",
+          "title": "Vingt-8 ISO",
+          "specs": {
+            "Brand": "Voutilainen",
+            "Family": "Vingt-8",
+            "Reference": "28 ISO",
+            "Name": "Vingt-8 ISO",
+            "Movement": "Calibre 28",
+            "Materials": "Platinum",
+            "Diameter": "39mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Small seconds, isochronism indicator"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Observatoire",
+      "slug": "observatoire",
+      "references": [
+        {
+          "slug": "observatoire-white-gold",
+          "url": "/voutilainen/observatoire/observatoire-white-gold",
+          "title": "Observatoire White Gold",
+          "specs": {
+            "Brand": "Voutilainen",
+            "Family": "Observatoire",
+            "Reference": "N/A",
+            "Name": "Observatoire",
+            "Movement": "Manual winding",
+            "Materials": "18k White Gold",
+            "Diameter": "39mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "observatoire-platinum",
+          "url": "/voutilainen/observatoire/observatoire-platinum",
+          "title": "Observatoire Platinum",
+          "specs": {
+            "Brand": "Voutilainen",
+            "Family": "Observatoire",
+            "Reference": "N/A",
+            "Name": "Observatoire",
+            "Movement": "Manual winding",
+            "Materials": "Platinum",
+            "Diameter": "39mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GMT-6",
+      "slug": "gmt-6",
+      "references": [
+        {
+          "slug": "gmt-6-platinum",
+          "url": "/voutilainen/gmt-6/gmt-6-platinum",
+          "title": "GMT-6 Platinum",
+          "specs": {
+            "Brand": "Voutilainen",
+            "Family": "GMT-6",
+            "Reference": "GMT-6",
+            "Name": "GMT-6",
+            "Movement": "Calibre GMT-6",
+            "Materials": "Platinum",
+            "Diameter": "39mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "gmt-6-rose-gold",
+          "url": "/voutilainen/gmt-6/gmt-6-rose-gold",
+          "title": "GMT-6 Rose Gold",
+          "specs": {
+            "Brand": "Voutilainen",
+            "Family": "GMT-6",
+            "Reference": "GMT-6",
+            "Name": "GMT-6",
+            "Movement": "Calibre GMT-6",
+            "Materials": "18k Rose Gold",
+            "Diameter": "39mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "GMT, small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Perpetual Calendar",
+      "slug": "perpetual-calendar",
+      "references": [
+        {
+          "slug": "perpetual-calendar-platinum",
+          "url": "/voutilainen/perpetual-calendar/perpetual-calendar-platinum",
+          "title": "Perpetual Calendar Platinum",
+          "specs": {
+            "Brand": "Voutilainen",
+            "Family": "Perpetual Calendar",
+            "Reference": "N/A",
+            "Name": "Perpetual Calendar",
+            "Movement": "Manual winding",
+            "Materials": "Platinum",
+            "Diameter": "39mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Perpetual calendar, moonphase"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "perpetual-calendar-white-gold",
+          "url": "/voutilainen/perpetual-calendar/perpetual-calendar-white-gold",
+          "title": "Perpetual Calendar White Gold",
+          "specs": {
+            "Brand": "Voutilainen",
+            "Family": "Perpetual Calendar",
+            "Reference": "N/A",
+            "Name": "Perpetual Calendar",
+            "Movement": "Manual winding",
+            "Materials": "18k White Gold",
+            "Diameter": "39mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Perpetual calendar, moonphase"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tourbillon",
+      "slug": "tourbillon",
+      "references": [
+        {
+          "slug": "tourbillon-6-platinum",
+          "url": "/voutilainen/tourbillon/tourbillon-6-platinum",
+          "title": "Tourbillon 6 Platinum",
+          "specs": {
+            "Brand": "Voutilainen",
+            "Family": "Tourbillon",
+            "Reference": "N/A",
+            "Name": "Tourbillon 6",
+            "Movement": "Manual winding tourbillon",
+            "Materials": "Platinum",
+            "Diameter": "39mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Tourbillon, small seconds"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "decimal-repeater",
+          "url": "/voutilainen/tourbillon/decimal-repeater",
+          "title": "Decimal Repeater",
+          "specs": {
+            "Brand": "Voutilainen",
+            "Family": "Tourbillon",
+            "Reference": "N/A",
+            "Name": "Decimal Repeater",
+            "Movement": "Manual winding",
+            "Materials": "Platinum",
+            "Diameter": "N/A",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Decimal minute repeater"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "tourbillon-rose-gold",
+          "url": "/voutilainen/tourbillon/tourbillon-rose-gold",
+          "title": "Tourbillon Rose Gold",
+          "specs": {
+            "Brand": "Voutilainen",
+            "Family": "Tourbillon",
+            "Reference": "N/A",
+            "Name": "Tourbillon",
+            "Movement": "Manual winding tourbillon",
+            "Materials": "18k Rose Gold",
+            "Diameter": "39mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Tourbillon"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 12,
+  "enriched_at": "2026-04-18T17:02:09.506Z"
+}

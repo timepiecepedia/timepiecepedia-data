@@ -1,0 +1,367 @@
+{
+  "brand_slug": "bvlgari",
+  "collections": [
+    {
+      "name": "Octo",
+      "slug": "octo",
+      "references": [
+        {
+          "slug": "octo-finissimo-automatic",
+          "url": "/bvlgari/octo/octo-finissimo-automatic",
+          "title": "Octo Finissimo Automatic Titanium",
+          "specs": {
+            "Brand": "Bvlgari",
+            "Family": "Octo",
+            "Reference": "103011",
+            "Name": "Octo Finissimo Automatic",
+            "Movement": "BVL 138 Finissimo",
+            "Materials": "Titanium",
+            "Diameter": "40mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "octo-finissimo-tourbillon",
+          "url": "/bvlgari/octo/octo-finissimo-tourbillon",
+          "title": "Octo Finissimo Tourbillon Titanium",
+          "specs": {
+            "Brand": "Bvlgari",
+            "Family": "Octo",
+            "Reference": "N/A",
+            "Name": "Octo Finissimo Tourbillon",
+            "Movement": "BVL 268 Finissimo",
+            "Materials": "Titanium",
+            "Diameter": "40mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Tourbillon"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "octo-finissimo-perpetual-calendar",
+          "url": "/bvlgari/octo/octo-finissimo-perpetual-calendar",
+          "title": "Octo Finissimo Perpetual Calendar Titanium",
+          "specs": {
+            "Brand": "Bvlgari",
+            "Family": "Octo",
+            "Reference": "N/A",
+            "Name": "Octo Finissimo Perpetual Calendar",
+            "Movement": "BVL 305",
+            "Materials": "Titanium",
+            "Diameter": "40mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Perpetual calendar, day, date, month, leap year"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "octo-roma",
+          "url": "/bvlgari/octo/octo-roma",
+          "title": "Octo Roma Steel",
+          "specs": {
+            "Brand": "Bvlgari",
+            "Family": "Octo",
+            "Reference": "N/A",
+            "Name": "Octo Roma",
+            "Movement": "BVL 191 Solotempo",
+            "Materials": "Stainless steel",
+            "Diameter": "41mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bulgari Bulgari",
+      "slug": "bulgari-bulgari",
+      "references": [
+        {
+          "slug": "bulgari-bulgari-automatic",
+          "url": "/bvlgari/bulgari-bulgari/bulgari-bulgari-automatic",
+          "title": "Bulgari Bulgari Automatic Steel",
+          "specs": {
+            "Brand": "Bvlgari",
+            "Family": "Bulgari Bulgari",
+            "Reference": "N/A",
+            "Name": "Bulgari Bulgari",
+            "Movement": "Automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "41mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "bulgari-bulgari-chrono",
+          "url": "/bvlgari/bulgari-bulgari/bulgari-bulgari-chrono",
+          "title": "Bulgari Bulgari Chronograph Steel",
+          "specs": {
+            "Brand": "Bvlgari",
+            "Family": "Bulgari Bulgari",
+            "Reference": "N/A",
+            "Name": "Bulgari Bulgari Chronograph",
+            "Movement": "Automatic chronograph",
+            "Materials": "Stainless steel",
+            "Diameter": "42mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "bulgari-bulgari-tubogas",
+          "url": "/bvlgari/bulgari-bulgari/bulgari-bulgari-tubogas",
+          "title": "Bulgari Bulgari Tubogas Steel",
+          "specs": {
+            "Brand": "Bvlgari",
+            "Family": "Bulgari Bulgari",
+            "Reference": "N/A",
+            "Name": "Bulgari Bulgari Tubogas",
+            "Movement": "Quartz",
+            "Materials": "Stainless steel",
+            "Diameter": "35mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Serpenti",
+      "slug": "serpenti",
+      "references": [
+        {
+          "slug": "serpenti-tubogas",
+          "url": "/bvlgari/serpenti/serpenti-tubogas",
+          "title": "Serpenti Tubogas Steel",
+          "specs": {
+            "Brand": "Bvlgari",
+            "Family": "Serpenti",
+            "Reference": "N/A",
+            "Name": "Serpenti Tubogas",
+            "Movement": "Quartz",
+            "Materials": "Stainless steel",
+            "Diameter": "35mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "serpenti-seduttori",
+          "url": "/bvlgari/serpenti/serpenti-seduttori",
+          "title": "Serpenti Seduttori Steel",
+          "specs": {
+            "Brand": "Bvlgari",
+            "Family": "Serpenti",
+            "Reference": "N/A",
+            "Name": "Serpenti Seduttori",
+            "Movement": "Automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "33mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "serpenti-spiga",
+          "url": "/bvlgari/serpenti/serpenti-spiga",
+          "title": "Serpenti Spiga Gold",
+          "specs": {
+            "Brand": "Bvlgari",
+            "Family": "Serpenti",
+            "Reference": "N/A",
+            "Name": "Serpenti Spiga",
+            "Movement": "Quartz",
+            "Materials": "18k yellow gold",
+            "Diameter": "27mm",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "None"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "serpenti-misteriosi",
+          "url": "/bvlgari/serpenti/serpenti-misteriosi",
+          "title": "Serpenti Misteriosi Jewelry Watch",
+          "specs": {
+            "Brand": "Bvlgari",
+            "Family": "Serpenti",
+            "Reference": "N/A",
+            "Name": "Serpenti Misteriosi",
+            "Movement": "Quartz",
+            "Materials": "18k gold, diamonds",
+            "Diameter": "N/A",
+            "W/R": "30m",
+            "Glass": "Sapphire",
+            "Complications": "Secret watch"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lvcea",
+      "slug": "lvcea",
+      "references": [
+        {
+          "slug": "lvcea-automatic",
+          "url": "/bvlgari/lvcea/lvcea-automatic",
+          "title": "Lvcea Automatic Steel",
+          "specs": {
+            "Brand": "Bvlgari",
+            "Family": "Lvcea",
+            "Reference": "N/A",
+            "Name": "Lvcea",
+            "Movement": "Automatic",
+            "Materials": "Stainless steel",
+            "Diameter": "33mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "lvcea-tubogas",
+          "url": "/bvlgari/lvcea/lvcea-tubogas",
+          "title": "Lvcea Tubogas Steel & Gold",
+          "specs": {
+            "Brand": "Bvlgari",
+            "Family": "Lvcea",
+            "Reference": "N/A",
+            "Name": "Lvcea Tubogas",
+            "Movement": "Automatic",
+            "Materials": "Stainless steel and 18k pink gold",
+            "Diameter": "33mm",
+            "W/R": "50m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aluminium",
+      "slug": "aluminium",
+      "references": [
+        {
+          "slug": "aluminium-automatic",
+          "url": "/bvlgari/aluminium/aluminium-automatic",
+          "title": "Aluminium Automatic Chronograph",
+          "specs": {
+            "Brand": "Bvlgari",
+            "Family": "Aluminium",
+            "Reference": "N/A",
+            "Name": "Aluminium Chronograph",
+            "Movement": "Automatic chronograph",
+            "Materials": "Aluminum and rubber",
+            "Diameter": "40mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Chronograph, date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "aluminium-time-date",
+          "url": "/bvlgari/aluminium/aluminium-time-date",
+          "title": "Aluminium Time & Date",
+          "specs": {
+            "Brand": "Bvlgari",
+            "Family": "Aluminium",
+            "Reference": "N/A",
+            "Name": "Aluminium",
+            "Movement": "Automatic",
+            "Materials": "Aluminum and rubber",
+            "Diameter": "40mm",
+            "W/R": "100m",
+            "Glass": "Sapphire",
+            "Complications": "Date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 15,
+  "enriched_at": "2026-04-18T16:55:24.335Z"
+}

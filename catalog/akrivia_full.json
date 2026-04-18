@@ -1,0 +1,279 @@
+{
+  "brand_slug": "akrivia",
+  "collections": [
+    {
+      "name": "Tourbillon",
+      "slug": "tourbillon",
+      "references": [
+        {
+          "slug": "tourbillon-regulator",
+          "url": "/akrivia/tourbillon/tourbillon-regulator",
+          "title": "Tourbillon Regulator White Gold",
+          "specs": {
+            "Brand": "Akrivia",
+            "Family": "Tourbillon",
+            "Reference": "N/A",
+            "Name": "Tourbillon Regulator",
+            "Movement": "Manual-winding tourbillon",
+            "Materials": "White gold",
+            "Diameter": "43mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Tourbillon, Regulator display"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "tourbillon-chiming-jump-hour",
+          "url": "/akrivia/tourbillon/tourbillon-chiming-jump-hour",
+          "title": "Tourbillon Chiming Jump Hour White Gold",
+          "specs": {
+            "Brand": "Akrivia",
+            "Family": "Tourbillon",
+            "Reference": "N/A",
+            "Name": "Tourbillon Chiming Jump Hour",
+            "Movement": "Manual-winding tourbillon",
+            "Materials": "White gold",
+            "Diameter": "43mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Tourbillon, Jump hour, Chiming mechanism"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "tourbillon-heure-minute",
+          "url": "/akrivia/tourbillon/tourbillon-heure-minute",
+          "title": "Tourbillon Heure Minute Rose Gold",
+          "specs": {
+            "Brand": "Akrivia",
+            "Family": "Tourbillon",
+            "Reference": "N/A",
+            "Name": "Tourbillon Heure Minute",
+            "Movement": "Manual-winding tourbillon",
+            "Materials": "Rose gold",
+            "Diameter": "43mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Tourbillon"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chronomètre Contemporain",
+      "slug": "chronometre-contemporain",
+      "references": [
+        {
+          "slug": "chronometre-contemporain-i",
+          "url": "/akrivia/chronometre-contemporain/chronometre-contemporain-i",
+          "title": "Chronomètre Contemporain I White Gold",
+          "specs": {
+            "Brand": "Akrivia",
+            "Family": "Chronomètre Contemporain",
+            "Reference": "N/A",
+            "Name": "Chronomètre Contemporain I",
+            "Movement": "Manual-winding chronometer",
+            "Materials": "White gold",
+            "Diameter": "40mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Chronometer certified movement"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "chronometre-contemporain-ii",
+          "url": "/akrivia/chronometre-contemporain/chronometre-contemporain-ii",
+          "title": "Chronomètre Contemporain II Rose Gold",
+          "specs": {
+            "Brand": "Akrivia",
+            "Family": "Chronomètre Contemporain",
+            "Reference": "N/A",
+            "Name": "Chronomètre Contemporain II",
+            "Movement": "Manual-winding chronometer",
+            "Materials": "Rose gold",
+            "Diameter": "40mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Chronometer certified movement, Seconds hand"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "chronometre-contemporain-platinum",
+          "url": "/akrivia/chronometre-contemporain/chronometre-contemporain-platinum",
+          "title": "Chronomètre Contemporain Platinum",
+          "specs": {
+            "Brand": "Akrivia",
+            "Family": "Chronomètre Contemporain",
+            "Reference": "N/A",
+            "Name": "Chronomètre Contemporain",
+            "Movement": "Manual-winding chronometer",
+            "Materials": "Platinum",
+            "Diameter": "40mm",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Chronometer certified movement"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Équation Du Temps",
+      "slug": "equation-du-temps",
+      "references": [
+        {
+          "slug": "equation-du-temps-white-gold",
+          "url": "/akrivia/equation-du-temps/equation-du-temps-white-gold",
+          "title": "Équation Du Temps White Gold",
+          "specs": {
+            "Brand": "Akrivia",
+            "Family": "Équation Du Temps",
+            "Reference": "N/A",
+            "Name": "Équation Du Temps",
+            "Movement": "Manual-winding",
+            "Materials": "White gold",
+            "Diameter": "N/A",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Equation of time"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AK Series",
+      "slug": "ak-series",
+      "references": [
+        {
+          "slug": "ak-01",
+          "url": "/akrivia/ak-series/ak-01",
+          "title": "AK-01 Rose Gold",
+          "specs": {
+            "Brand": "Akrivia",
+            "Family": "AK Series",
+            "Reference": "AK-01",
+            "Name": "AK-01",
+            "Movement": "Manual-winding",
+            "Materials": "Rose gold",
+            "Diameter": "N/A",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "N/A"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "ak-06",
+          "url": "/akrivia/ak-series/ak-06",
+          "title": "AK-06 White Gold",
+          "specs": {
+            "Brand": "Akrivia",
+            "Family": "AK Series",
+            "Reference": "AK-06",
+            "Name": "AK-06",
+            "Movement": "Manual-winding",
+            "Materials": "White gold",
+            "Diameter": "N/A",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "N/A"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rexhep Rexhepi Special Editions",
+      "slug": "special-editions",
+      "references": [
+        {
+          "slug": "anniversary-piece",
+          "url": "/akrivia/special-editions/anniversary-piece",
+          "title": "Anniversary Piece Platinum",
+          "specs": {
+            "Brand": "Akrivia",
+            "Family": "Special Editions",
+            "Reference": "N/A",
+            "Name": "Anniversary Piece",
+            "Movement": "Manual-winding",
+            "Materials": "Platinum",
+            "Diameter": "N/A",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "N/A"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "minute-repeater",
+          "url": "/akrivia/special-editions/minute-repeater",
+          "title": "Minute Repeater White Gold",
+          "specs": {
+            "Brand": "Akrivia",
+            "Family": "Special Editions",
+            "Reference": "N/A",
+            "Name": "Minute Repeater",
+            "Movement": "Manual-winding",
+            "Materials": "White gold",
+            "Diameter": "N/A",
+            "W/R": "30m",
+            "Glass": "Sapphire crystal",
+            "Complications": "Minute repeater"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 11,
+  "enriched_at": "2026-04-18T16:54:47.797Z"
+}

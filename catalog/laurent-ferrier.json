@@ -1,0 +1,111 @@
+{
+  "brand_slug": "laurent-ferrier",
+  "collections": [
+    {
+      "name": "Galet Classic",
+      "slug": "galet-classic",
+      "references": [
+        {
+          "slug": "galet-classic-tourbillon-double-spiral-steel",
+          "url": "/laurent-ferrier/galet-classic/galet-classic-tourbillon-double-spiral-steel",
+          "text": "Galet Classic Tourbillon Double Spiral Steel"
+        },
+        {
+          "slug": "galet-classic-micro-rotor-white-gold",
+          "url": "/laurent-ferrier/galet-classic/galet-classic-micro-rotor-white-gold",
+          "text": "Galet Classic Micro-Rotor White Gold"
+        },
+        {
+          "slug": "galet-classic-school-piece-rose-gold",
+          "url": "/laurent-ferrier/galet-classic/galet-classic-school-piece-rose-gold",
+          "text": "Galet Classic School Piece Rose Gold"
+        },
+        {
+          "slug": "galet-classic-moon-phase-white-gold",
+          "url": "/laurent-ferrier/galet-classic/galet-classic-moon-phase-white-gold",
+          "text": "Galet Classic Moon Phase White Gold"
+        }
+      ]
+    },
+    {
+      "name": "Galet Micro-Rotor",
+      "slug": "galet-micro-rotor",
+      "references": [
+        {
+          "slug": "galet-micro-rotor-enamel-dial-white-gold",
+          "url": "/laurent-ferrier/galet-micro-rotor/galet-micro-rotor-enamel-dial-white-gold",
+          "text": "Galet Micro-Rotor Enamel Dial White Gold"
+        },
+        {
+          "slug": "galet-micro-rotor-montre-ecole-steel",
+          "url": "/laurent-ferrier/galet-micro-rotor/galet-micro-rotor-montre-ecole-steel",
+          "text": "Galet Micro-Rotor Montre Ecole Steel"
+        },
+        {
+          "slug": "galet-micro-rotor-princess-rose-gold",
+          "url": "/laurent-ferrier/galet-micro-rotor/galet-micro-rotor-princess-rose-gold",
+          "text": "Galet Micro-Rotor Princess Rose Gold"
+        }
+      ]
+    },
+    {
+      "name": "Galet Square",
+      "slug": "galet-square",
+      "references": [
+        {
+          "slug": "galet-square-micro-rotor-steel",
+          "url": "/laurent-ferrier/galet-square/galet-square-micro-rotor-steel",
+          "text": "Galet Square Micro-Rotor Steel"
+        },
+        {
+          "slug": "galet-square-enamel-white-gold",
+          "url": "/laurent-ferrier/galet-square/galet-square-enamel-white-gold",
+          "text": "Galet Square Enamel White Gold"
+        },
+        {
+          "slug": "galet-square-hand-wound-rose-gold",
+          "url": "/laurent-ferrier/galet-square/galet-square-hand-wound-rose-gold",
+          "text": "Galet Square Hand-Wound Rose Gold"
+        }
+      ]
+    },
+    {
+      "name": "Galet Traveller",
+      "slug": "galet-traveller",
+      "references": [
+        {
+          "slug": "galet-traveller-globe-night-white-gold",
+          "url": "/laurent-ferrier/galet-traveller/galet-traveller-globe-night-white-gold",
+          "text": "Galet Traveller Globe Night White Gold"
+        },
+        {
+          "slug": "galet-traveller-micro-rotor-rose-gold",
+          "url": "/laurent-ferrier/galet-traveller/galet-traveller-micro-rotor-rose-gold",
+          "text": "Galet Traveller Micro-Rotor Rose Gold"
+        }
+      ]
+    },
+    {
+      "name": "Grand Sport",
+      "slug": "grand-sport",
+      "references": [
+        {
+          "slug": "grand-sport-tourbillon-steel",
+          "url": "/laurent-ferrier/grand-sport/grand-sport-tourbillon-steel",
+          "text": "Grand Sport Tourbillon Steel"
+        },
+        {
+          "slug": "grand-sport-micro-rotor-titanium",
+          "url": "/laurent-ferrier/grand-sport/grand-sport-micro-rotor-titanium",
+          "text": "Grand Sport Micro-Rotor Titanium"
+        },
+        {
+          "slug": "grand-sport-steel-bracelet",
+          "url": "/laurent-ferrier/grand-sport/grand-sport-steel-bracelet",
+          "text": "Grand Sport Steel Bracelet"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}

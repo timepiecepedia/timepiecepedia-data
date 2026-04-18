@@ -1,0 +1,101 @@
+{
+  "brand_slug": "kari-voutilainen",
+  "collections": [
+    {
+      "name": "Vingt-8",
+      "slug": "vingt-8",
+      "references": [
+        {
+          "slug": "vingt-8-platinum",
+          "url": "/kari-voutilainen/vingt-8/vingt-8-platinum",
+          "text": "Vingt-8 Platinum"
+        },
+        {
+          "slug": "vingt-8-rose-gold",
+          "url": "/kari-voutilainen/vingt-8/vingt-8-rose-gold",
+          "text": "Vingt-8 Rose Gold"
+        },
+        {
+          "slug": "vingt-8-iso",
+          "url": "/kari-voutilainen/vingt-8/vingt-8-iso",
+          "text": "Vingt-8 ISO"
+        }
+      ]
+    },
+    {
+      "name": "GMT-6",
+      "slug": "gmt-6",
+      "references": [
+        {
+          "slug": "gmt-6-platinum",
+          "url": "/kari-voutilainen/gmt-6/gmt-6-platinum",
+          "text": "GMT-6 Platinum"
+        },
+        {
+          "slug": "gmt-6-rose-gold",
+          "url": "/kari-voutilainen/gmt-6/gmt-6-rose-gold",
+          "text": "GMT-6 Rose Gold"
+        },
+        {
+          "slug": "gmt-6-white-gold",
+          "url": "/kari-voutilainen/gmt-6/gmt-6-white-gold",
+          "text": "GMT-6 White Gold"
+        }
+      ]
+    },
+    {
+      "name": "Observatoire",
+      "slug": "observatoire",
+      "references": [
+        {
+          "slug": "observatoire-platinum",
+          "url": "/kari-voutilainen/observatoire/observatoire-platinum",
+          "text": "Observatoire Platinum"
+        },
+        {
+          "slug": "observatoire-rose-gold",
+          "url": "/kari-voutilainen/observatoire/observatoire-rose-gold",
+          "text": "Observatoire Rose Gold"
+        }
+      ]
+    },
+    {
+      "name": "Tourbillon",
+      "slug": "tourbillon",
+      "references": [
+        {
+          "slug": "tourbillon-6-platinum",
+          "url": "/kari-voutilainen/tourbillon/tourbillon-6-platinum",
+          "text": "Tourbillon 6 Platinum"
+        },
+        {
+          "slug": "decimal-tourbillon",
+          "url": "/kari-voutilainen/tourbillon/decimal-tourbillon",
+          "text": "Decimal Tourbillon"
+        }
+      ]
+    },
+    {
+      "name": "Special Editions",
+      "slug": "special-editions",
+      "references": [
+        {
+          "slug": "masterpiece-1",
+          "url": "/kari-voutilainen/special-editions/masterpiece-1",
+          "text": "Masterpiece 1"
+        },
+        {
+          "slug": "kairos",
+          "url": "/kari-voutilainen/special-editions/kairos",
+          "text": "Kairos"
+        },
+        {
+          "slug": "starry-night-vingt-8",
+          "url": "/kari-voutilainen/special-editions/starry-night-vingt-8",
+          "text": "Starry Night Vingt-8"
+        }
+      ]
+    }
+  ],
+  "total_references": 13
+}

@@ -1,0 +1,355 @@
+{
+  "brand_slug": "mb-and-f",
+  "collections": [
+    {
+      "name": "Horological Machines",
+      "slug": "horological-machines",
+      "references": [
+        {
+          "slug": "hm1-titanium",
+          "url": "/mb-and-f/horological-machines/hm1-titanium",
+          "title": "HM1 Titanium",
+          "specs": {
+            "Brand": "MB&F",
+            "Family": "Horological Machines",
+            "Reference": "HM1",
+            "Name": "HM1",
+            "Movement": "Manual-winding, designed by Jean-Marc Wiederrecht",
+            "Materials": "Titanium",
+            "Diameter": "N/A",
+            "W/R": "30 meters",
+            "Glass": "Sapphire",
+            "Complications": "Dual time zone, power reserve indicator"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "hm3-frog",
+          "url": "/mb-and-f/horological-machines/hm3-frog",
+          "title": "HM3 Frog",
+          "specs": {
+            "Brand": "MB&F",
+            "Family": "Horological Machines",
+            "Reference": "HM3",
+            "Name": "Frog",
+            "Movement": "Manual-winding",
+            "Materials": "Titanium and sapphire crystal",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "Jumping hours, concentric minutes, date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "hm4-thunderbolt",
+          "url": "/mb-and-f/horological-machines/hm4-thunderbolt",
+          "title": "HM4 Thunderbolt",
+          "specs": {
+            "Brand": "MB&F",
+            "Family": "Horological Machines",
+            "Reference": "HM4",
+            "Name": "Thunderbolt",
+            "Movement": "Manual-winding",
+            "Materials": "Titanium",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "Power reserve indicator, dual time display"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "hm6-space-pirate",
+          "url": "/mb-and-f/horological-machines/hm6-space-pirate",
+          "title": "HM6 Space Pirate",
+          "specs": {
+            "Brand": "MB&F",
+            "Family": "Horological Machines",
+            "Reference": "HM6",
+            "Name": "Space Pirate",
+            "Movement": "Automatic",
+            "Materials": "Titanium",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "Flying tourbillon, spherical differential"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "hm10-bulldog",
+          "url": "/mb-and-f/horological-machines/hm10-bulldog",
+          "title": "HM10 Bulldog",
+          "specs": {
+            "Brand": "MB&F",
+            "Family": "Horological Machines",
+            "Reference": "HM10",
+            "Name": "Bulldog",
+            "Movement": "Manual-winding",
+            "Materials": "Titanium and sapphire crystal",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "Jumping hours, retrograde minutes, power reserve"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Legacy Machines",
+      "slug": "legacy-machines",
+      "references": [
+        {
+          "slug": "lm1-white-gold",
+          "url": "/mb-and-f/legacy-machines/lm1-white-gold",
+          "title": "Legacy Machine No. 1 White Gold",
+          "specs": {
+            "Brand": "MB&F",
+            "Family": "Legacy Machines",
+            "Reference": "LM1",
+            "Name": "Legacy Machine No. 1",
+            "Movement": "Manual-winding",
+            "Materials": "White gold",
+            "Diameter": "44mm",
+            "W/R": "30 meters",
+            "Glass": "Sapphire",
+            "Complications": "Dual time zone, power reserve, flying balance wheel"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "lm2-red-gold",
+          "url": "/mb-and-f/legacy-machines/lm2-red-gold",
+          "title": "Legacy Machine No. 2 Red Gold",
+          "specs": {
+            "Brand": "MB&F",
+            "Family": "Legacy Machines",
+            "Reference": "LM2",
+            "Name": "Legacy Machine No. 2",
+            "Movement": "Manual-winding",
+            "Materials": "Red gold",
+            "Diameter": "44mm",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "Flying tourbillon, dual time zone"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "lm101-platinum",
+          "url": "/mb-and-f/legacy-machines/lm101-platinum",
+          "title": "Legacy Machine 101 Platinum",
+          "specs": {
+            "Brand": "MB&F",
+            "Family": "Legacy Machines",
+            "Reference": "LM101",
+            "Name": "Legacy Machine 101",
+            "Movement": "Manual-winding",
+            "Materials": "Platinum",
+            "Diameter": "40mm",
+            "W/R": "30 meters",
+            "Glass": "Sapphire",
+            "Complications": "Power reserve, suspended balance wheel"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "lm-perpetual",
+          "url": "/mb-and-f/legacy-machines/lm-perpetual",
+          "title": "Legacy Machine Perpetual",
+          "specs": {
+            "Brand": "MB&F",
+            "Family": "Legacy Machines",
+            "Reference": "LM Perpetual",
+            "Name": "Legacy Machine Perpetual",
+            "Movement": "Manual-winding",
+            "Materials": "White gold",
+            "Diameter": "44mm",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "Perpetual calendar, leap year indicator, power reserve"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "lm-split-escapement",
+          "url": "/mb-and-f/legacy-machines/lm-split-escapement",
+          "title": "Legacy Machine Split Escapement",
+          "specs": {
+            "Brand": "MB&F",
+            "Family": "Legacy Machines",
+            "Reference": "LM SE",
+            "Name": "Split Escapement",
+            "Movement": "Manual-winding",
+            "Materials": "Platinum",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "Split escapement, dual balance wheels, power reserve"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Collaborations",
+      "slug": "collaborations",
+      "references": [
+        {
+          "slug": "hm2-final-edition",
+          "url": "/mb-and-f/collaborations/hm2-final-edition",
+          "title": "HM2 Final Edition",
+          "specs": {
+            "Brand": "MB&F",
+            "Family": "Collaborations",
+            "Reference": "HM2",
+            "Name": "Final Edition",
+            "Movement": "Manual-winding",
+            "Materials": "Titanium",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "Bi-directional jumping hours, retrograde date"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "hm5-cw-ti",
+          "url": "/mb-and-f/collaborations/hm5-cw-ti",
+          "title": "HM5 CarbonMacrolon",
+          "specs": {
+            "Brand": "MB&F",
+            "Family": "Collaborations",
+            "Reference": "HM5",
+            "Name": "On The Road Again",
+            "Movement": "Automatic",
+            "Materials": "Titanium and CarbonMacrolon",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "Jumping hours, minutes on rotating disc"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "hm9-sapphire-vision",
+          "url": "/mb-and-f/collaborations/hm9-sapphire-vision",
+          "title": "HM9 Sapphire Vision",
+          "specs": {
+            "Brand": "MB&F",
+            "Family": "Collaborations",
+            "Reference": "HM9",
+            "Name": "Sapphire Vision",
+            "Movement": "Manual-winding",
+            "Materials": "Sapphire crystal",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "Dual balance wheels, planetary differential"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "lmx-white-gold",
+          "url": "/mb-and-f/collaborations/lmx-white-gold",
+          "title": "Legacy Machine LMX White Gold",
+          "specs": {
+            "Brand": "MB&F",
+            "Family": "Collaborations",
+            "Reference": "LMX",
+            "Name": "Legacy Machine X",
+            "Movement": "Manual-winding",
+            "Materials": "White gold",
+            "Diameter": "44mm",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "3D balance wheel, power reserve"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        },
+        {
+          "slug": "hm8-can-am",
+          "url": "/mb-and-f/collaborations/hm8-can-am",
+          "title": "HM8 Can-Am",
+          "specs": {
+            "Brand": "MB&F",
+            "Family": "Collaborations",
+            "Reference": "HM8",
+            "Name": "Can-Am",
+            "Movement": "Automatic",
+            "Materials": "Titanium and sapphire crystal",
+            "Diameter": "N/A",
+            "W/R": "N/A",
+            "Glass": "Sapphire",
+            "Complications": "Retrograde date, bi-hemispherical rotor"
+          },
+          "ai_synthesized": true,
+          "sources": [
+            "brand_knowledge",
+            "wikipedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_references": 15,
+  "enriched_at": "2026-04-18T16:59:02.056Z"
+}

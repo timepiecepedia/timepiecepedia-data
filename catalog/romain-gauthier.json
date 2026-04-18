@@ -1,0 +1,106 @@
+{
+  "brand_slug": "romain-gauthier",
+  "collections": [
+    {
+      "name": "Logical One",
+      "slug": "logical-one",
+      "references": [
+        {
+          "slug": "logical-one-natural-titanium",
+          "url": "/romain-gauthier/logical-one/logical-one-natural-titanium",
+          "text": "Logical One Natural Titanium"
+        },
+        {
+          "slug": "logical-one-red-gold",
+          "url": "/romain-gauthier/logical-one/logical-one-red-gold",
+          "text": "Logical One Red Gold"
+        },
+        {
+          "slug": "logical-one-white-gold",
+          "url": "/romain-gauthier/logical-one/logical-one-white-gold",
+          "text": "Logical One White Gold"
+        },
+        {
+          "slug": "logical-one-enraged",
+          "url": "/romain-gauthier/logical-one/logical-one-enraged",
+          "text": "Logical One Enraged"
+        }
+      ]
+    },
+    {
+      "name": "Prestige HMS",
+      "slug": "prestige-hms",
+      "references": [
+        {
+          "slug": "prestige-hms-stainless-steel",
+          "url": "/romain-gauthier/prestige-hms/prestige-hms-stainless-steel",
+          "text": "Prestige HMS Stainless Steel"
+        },
+        {
+          "slug": "prestige-hms-red-gold",
+          "url": "/romain-gauthier/prestige-hms/prestige-hms-red-gold",
+          "text": "Prestige HMS Red Gold"
+        },
+        {
+          "slug": "prestige-hms-white-gold",
+          "url": "/romain-gauthier/prestige-hms/prestige-hms-white-gold",
+          "text": "Prestige HMS White Gold"
+        }
+      ]
+    },
+    {
+      "name": "Insight Micro-Rotor",
+      "slug": "insight-micro-rotor",
+      "references": [
+        {
+          "slug": "insight-micro-rotor-red-gold",
+          "url": "/romain-gauthier/insight-micro-rotor/insight-micro-rotor-red-gold",
+          "text": "Insight Micro-Rotor Red Gold"
+        },
+        {
+          "slug": "insight-micro-rotor-white-gold",
+          "url": "/romain-gauthier/insight-micro-rotor/insight-micro-rotor-white-gold",
+          "text": "Insight Micro-Rotor White Gold"
+        },
+        {
+          "slug": "insight-micro-rotor-titanium",
+          "url": "/romain-gauthier/insight-micro-rotor/insight-micro-rotor-titanium",
+          "text": "Insight Micro-Rotor Titanium"
+        }
+      ]
+    },
+    {
+      "name": "Continual",
+      "slug": "continual",
+      "references": [
+        {
+          "slug": "continual-white-gold",
+          "url": "/romain-gauthier/continual/continual-white-gold",
+          "text": "Continual White Gold"
+        },
+        {
+          "slug": "continual-red-gold",
+          "url": "/romain-gauthier/continual/continual-red-gold",
+          "text": "Continual Red Gold"
+        }
+      ]
+    },
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "references": [
+        {
+          "slug": "logical-cufflinks-titanium",
+          "url": "/romain-gauthier/accessories/logical-cufflinks-titanium",
+          "text": "Logical Cufflinks Titanium"
+        },
+        {
+          "slug": "logical-cufflinks-white-gold",
+          "url": "/romain-gauthier/accessories/logical-cufflinks-white-gold",
+          "text": "Logical Cufflinks White Gold"
+        }
+      ]
+    }
+  ],
+  "total_references": 14
+}

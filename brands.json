@@ -1,155 +1,11 @@
 [
   {
-    "slug": "patek-philippe",
-    "name": "Patek Philippe",
-    "country": "Switzerland",
-    "founded": 1839,
-    "tier": "top",
-    "summary": "World's most prestigious independent manufacture, renowned for complications and heritage collecting."
-  },
-  {
-    "slug": "audemars-piguet",
-    "name": "Audemars Piguet",
-    "country": "Switzerland",
-    "founded": 1875,
-    "tier": "top",
-    "summary": "Iconic sports luxury brand famous for Royal Oak integrated bracelet design."
-  },
-  {
-    "slug": "vacheron-constantin",
-    "name": "Vacheron Constantin",
-    "country": "Switzerland",
-    "founded": 1755,
-    "tier": "top",
-    "summary": "Oldest continuously operating manufacture, master of complications and haute horlogerie."
-  },
-  {
-    "slug": "a-lange-und-soehne",
+    "slug": "a-lange-sohne",
     "name": "A. Lange & Söhne",
     "country": "Germany",
     "founded": 1845,
     "tier": "top",
     "summary": "Glashütte precision manufacture celebrated for three-quarter plates and German watchmaking heritage."
-  },
-  {
-    "slug": "rolex",
-    "name": "Rolex",
-    "country": "Switzerland",
-    "founded": 1905,
-    "tier": "top",
-    "summary": "World's most iconic tool watch brand, pioneering chronometer standards and sports watches."
-  },
-  {
-    "slug": "breguet",
-    "name": "Breguet",
-    "country": "Switzerland",
-    "founded": 1775,
-    "tier": "top",
-    "summary": "Historic innovator credited with inventing the tourbillon and guillochage decoration."
-  },
-  {
-    "slug": "blancpain",
-    "name": "Blancpain",
-    "country": "Switzerland",
-    "founded": 1735,
-    "tier": "top",
-    "summary": "Oldest watch manufacture, reestablished to define haute horlogerie standards."
-  },
-  {
-    "slug": "jaeger-lecoultre",
-    "name": "Jaeger-LeCoultre",
-    "country": "Switzerland",
-    "founded": 1833,
-    "tier": "top",
-    "summary": "Manufacture of masters, Reverso icon and prolific complications innovator."
-  },
-  {
-    "slug": "glashutte-original",
-    "name": "Glashütte Original",
-    "country": "Germany",
-    "founded": 1845,
-    "tier": "top",
-    "summary": "German precision heritage, three-quarter plate specialist with exceptional finishing."
-  },
-  {
-    "slug": "fp-journe",
-    "name": "F.P. Journe",
-    "country": "Switzerland",
-    "founded": 1978,
-    "tier": "top",
-    "summary": "Independent master watchmaker creating exotic chronometers with revolutionary escapements."
-  },
-  {
-    "slug": "philippe-dufour",
-    "name": "Philippe Dufour",
-    "country": "Switzerland",
-    "founded": 1992,
-    "tier": "top",
-    "summary": "Legendary independent artisan crafting ultra-simple chronometers of uncompromising perfection."
-  },
-  {
-    "slug": "greubel-forsey",
-    "name": "Greubel Forsey",
-    "country": "Switzerland",
-    "founded": 2004,
-    "tier": "top",
-    "summary": "Boutique manufacture pursuing extreme precision through exotic three-dimensional complications."
-  },
-  {
-    "slug": "richard-mille",
-    "name": "Richard Mille",
-    "country": "Switzerland",
-    "founded": 2001,
-    "tier": "top",
-    "summary": "Modern ultra-luxury brand fusing motorsport technology with avant-garde design."
-  },
-  {
-    "slug": "mb-and-f",
-    "name": "MB&F",
-    "country": "Switzerland",
-    "founded": 2005,
-    "tier": "top",
-    "summary": "Independent atelier creating sculptural kinetic art timepieces with mechanical complexity."
-  },
-  {
-    "slug": "de-bethune",
-    "name": "De Bethune",
-    "country": "Belgium",
-    "founded": 2002,
-    "tier": "top",
-    "summary": "Independent manufacture specializing in blue steel and exotic escapement innovations."
-  },
-  {
-    "slug": "urwerk",
-    "name": "Urwerk",
-    "country": "Switzerland",
-    "founded": 1989,
-    "tier": "top",
-    "summary": "Independent brand creating revolutionary satellite hour displays and mechanical avant-garde."
-  },
-  {
-    "slug": "h-moser-and-cie",
-    "name": "H. Moser & Cie",
-    "country": "Switzerland",
-    "founded": 1828,
-    "tier": "top",
-    "summary": "Independent Schaffhausen maker of elegant complications and Funky Blue watches."
-  },
-  {
-    "slug": "roger-w-smith",
-    "name": "Roger W. Smith",
-    "country": "United Kingdom",
-    "founded": 1989,
-    "tier": "top",
-    "summary": "British independent master creating chronometers of legendary finishing perfection."
-  },
-  {
-    "slug": "laurent-ferrier",
-    "name": "Laurent Ferrier",
-    "country": "Switzerland",
-    "founded": 2008,
-    "tier": "top",
-    "summary": "Independent watchmaker renowned for refined complications and haute horlogerie finishing."
   },
   {
     "slug": "akrivia",
@@ -160,468 +16,20 @@
     "summary": "Boutique independent studio crafting ultra-refined complications with Arabic numerals."
   },
   {
-    "slug": "voutilainen",
-    "name": "Voutilainen",
-    "country": "Finland",
-    "founded": 2005,
-    "tier": "top",
-    "summary": "Finnish independent master creating elaborate chronometers with exceptional finishing."
-  },
-  {
-    "slug": "roger-dubuis",
-    "name": "Roger Dubuis",
+    "slug": "alexandre-meerson",
+    "name": "Alexandre Meerson",
     "country": "Switzerland",
-    "founded": 1995,
-    "tier": "top",
-    "summary": "Independent manufacture fusing haute horlogerie with contemporary design language."
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
   },
   {
-    "slug": "parmigiani-fleurier",
-    "name": "Parmigiani Fleurier",
+    "slug": "amida",
+    "name": "Amida",
     "country": "Switzerland",
-    "founded": 1996,
-    "tier": "top",
-    "summary": "Independent manufacture blending restorer expertise with modern mechanical innovation."
-  },
-  {
-    "slug": "chopard",
-    "name": "Chopard",
-    "country": "Switzerland",
-    "founded": 1860,
-    "tier": "top",
-    "summary": "Luxury jeweler and manufacture owner creating refined complications for connoisseurs."
-  },
-  {
-    "slug": "piaget",
-    "name": "Piaget",
-    "country": "Switzerland",
-    "founded": 1874,
-    "tier": "top",
-    "summary": "Ultra-thin specialist and jewelry manufacture known for elegant integrated designs."
-  },
-  {
-    "slug": "cartier",
-    "name": "Cartier",
-    "country": "France",
-    "founded": 1847,
-    "tier": "top",
-    "summary": "Iconic luxury jewelry house creating iconic tank watches and jewelry timepieces."
-  },
-  {
-    "slug": "bvlgari",
-    "name": "Bvlgari",
-    "country": "Italy",
-    "founded": 1884,
-    "tier": "top",
-    "summary": "Roman luxury jeweler crafting bold jewelry watches and sophisticated complications."
-  },
-  {
-    "slug": "hermes",
-    "name": "Hermès",
-    "country": "France",
-    "founded": 1837,
-    "tier": "top",
-    "summary": "French luxury house combining heritage craftsmanship with elegant watch design."
-  },
-  {
-    "slug": "van-cleef-and-arpels",
-    "name": "Van Cleef & Arpels",
-    "country": "France",
-    "founded": 1906,
-    "tier": "top",
-    "summary": "Parisian jewelry legacy creating poetic complications and artistic haute horlogerie."
-  },
-  {
-    "slug": "omega",
-    "name": "Omega",
-    "country": "Switzerland",
-    "founded": 1848,
-    "tier": "top",
-    "summary": "Iconic Swiss watchmaker renowned for precision, space exploration timepieces, and the legendary Seamaster and Speedmaster collections."
-  },
-  {
-    "slug": "iwc",
-    "name": "IWC Schaffhausen",
-    "country": "Switzerland",
-    "founded": 1868,
-    "tier": "top",
-    "summary": "Prestigious manufacture known for technical excellence, innovative engineering, and sophisticated pilot and nautical watch designs."
-  },
-  {
-    "slug": "breitling",
-    "name": "Breitling",
-    "country": "Switzerland",
-    "founded": 1884,
-    "tier": "top",
-    "summary": "Aviation-focused Swiss brand celebrated for chronographs, precision instruments, and professional-grade watches for pilots and divers."
-  },
-  {
-    "slug": "panerai",
-    "name": "Panerai",
-    "country": "Switzerland",
-    "founded": 1860,
-    "tier": "top",
-    "summary": "Italian-owned Swiss manufacture famous for distinctive military-inspired diving watches with luminous dials and robust design aesthetic."
-  },
-  {
-    "slug": "tag-heuer",
-    "name": "TAG Heuer",
-    "country": "Switzerland",
-    "founded": 1860,
-    "tier": "premium",
-    "summary": "LVMH-owned Swiss brand recognized for sports chronographs, precision timing, and contemporary designs appealing to athletes and collectors."
-  },
-  {
-    "slug": "tudor",
-    "name": "Tudor",
-    "country": "Switzerland",
-    "founded": 1926,
-    "tier": "premium",
-    "summary": "Rolex-owned brand offering excellent value with robust mechanical watches, vintage heritage appeal, and accessible luxury positioning."
-  },
-  {
-    "slug": "tissot",
-    "name": "Tissot",
-    "country": "Switzerland",
-    "founded": 1853,
-    "tier": "premium",
-    "summary": "Swatch Group brand known for accessible Swiss watchmaking, diverse designs, chronographs, and mechanical innovation at reasonable prices."
-  },
-  {
-    "slug": "longines",
-    "name": "Longines",
-    "country": "Switzerland",
-    "founded": 1832,
-    "tier": "premium",
-    "summary": "Historic Swatch Group manufacture celebrated for elegant dress watches, aviation heritage, sports timing, and refined classical designs."
-  },
-  {
-    "slug": "hamilton",
-    "name": "Hamilton",
-    "country": "Switzerland",
-    "founded": 1892,
-    "tier": "premium",
-    "summary": "Swatch Group brand with strong American heritage, known for film appearances, aviation watches, and vintage-inspired contemporary designs."
-  },
-  {
-    "slug": "mido",
-    "name": "Mido",
-    "country": "Switzerland",
-    "founded": 1918,
+    "founded": 1945,
     "tier": "mid",
-    "summary": "Swatch Group brand offering Swiss quality at accessible prices with architectural design language and reliable everyday watches."
-  },
-  {
-    "slug": "rado",
-    "name": "Rado",
-    "country": "Switzerland",
-    "founded": 1957,
-    "tier": "premium",
-    "summary": "Swatch Group innovator renowned for ceramic cases, scratch-resistant technology, and minimalist design-forward timepiece philosophy."
-  },
-  {
-    "slug": "certina",
-    "name": "Certina",
-    "country": "Switzerland",
-    "founded": 1888,
-    "tier": "mid",
-    "summary": "Swatch Group brand celebrating durability and reliability with sports watches, diving watches, and accessible mechanical movements."
-  },
-  {
-    "slug": "oris",
-    "name": "Oris",
-    "country": "Switzerland",
-    "founded": 1904,
-    "tier": "premium",
-    "summary": "Independent Swiss manufacture focused on mechanical watches, conservation partnerships, and specialized timepieces for diving and aviation."
-  },
-  {
-    "slug": "frederique-constant",
-    "name": "Frederique Constant",
-    "country": "Switzerland",
-    "founded": 1988,
-    "tier": "premium",
-    "summary": "Independent manufacture blending tradition with innovation, offering accessible luxury mechanical watches and smartwatch technology hybrids."
-  },
-  {
-    "slug": "maurice-lacroix",
-    "name": "Maurice Lacroix",
-    "country": "Switzerland",
-    "founded": 1975,
-    "tier": "premium",
-    "summary": "Independent Swiss brand known for sporty designs, chronographs, skeleton watches, and contemporary style with mechanical expertise."
-  },
-  {
-    "slug": "eberhard",
-    "name": "Eberhard",
-    "country": "Switzerland",
-    "founded": 1887,
-    "tier": "micro",
-    "summary": "Historic independent manufacture revived with focus on mechanical watches, chronographs, and distinctive Art Deco-inspired aesthetics."
-  },
-  {
-    "slug": "eterna",
-    "name": "Eterna",
-    "country": "Switzerland",
-    "founded": 1856,
-    "tier": "mid",
-    "summary": "Independent manufacture renowned for robust mechanical movements, marine chronometers, and reliable watches with technical heritage."
-  },
-  {
-    "slug": "doxa",
-    "name": "Doxa",
-    "country": "Switzerland",
-    "founded": 1889,
-    "tier": "micro",
-    "summary": "Specialized diving watch pioneer known for distinctive orange dials, underwater instruments, and cult-status professional dive watches."
-  },
-  {
-    "slug": "norqain",
-    "name": "Norqain",
-    "country": "Switzerland",
-    "founded": 2018,
-    "tier": "micro",
-    "summary": "Contemporary independent brand focused on elegant mechanical watches, complications, and refined design with technical watchmaking expertise."
-  },
-  {
-    "slug": "czapek",
-    "name": "Czapek",
-    "country": "Switzerland",
-    "founded": 2013,
-    "tier": "micro",
-    "summary": "Micro manufacture creating limited-edition timepieces featuring advanced complications, artistic designs, and independent horological vision."
-  },
-  {
-    "slug": "speake-marin",
-    "name": "Speake-Marin",
-    "country": "Switzerland",
-    "founded": 2002,
-    "tier": "micro",
-    "summary": "Micro-brand creating distinctive mechanical watches with artistic design, marine inspiration, and independent watchmaking philosophy focus."
-  },
-  {
-    "slug": "romain-jerome",
-    "name": "Romain Jerome",
-    "country": "Switzerland",
-    "founded": 2002,
-    "tier": "micro",
-    "summary": "Micro manufacture known for unconventional designs, artistic collaborations, material experimentation, and theatrical watch presentations."
-  },
-  {
-    "slug": "hublot",
-    "name": "Hublot",
-    "country": "Switzerland",
-    "founded": 1980,
-    "tier": "top",
-    "summary": "LVMH luxury brand famous for innovative materials, rubber bezels, bold designs, and high-end complications appealing to collectors."
-  },
-  {
-    "slug": "zenith",
-    "name": "Zenith",
-    "country": "Switzerland",
-    "founded": 1865,
-    "tier": "top",
-    "summary": "LVMH manufacture celebrated for chronograph expertise, high-frequency movements, and precision engineering with sporty contemporary styling."
-  },
-  {
-    "slug": "carl-f-bucherer",
-    "name": "Carl F. Bucherer",
-    "country": "Switzerland",
-    "founded": 1888,
-    "tier": "premium",
-    "summary": "Independent family-owned manufacture known for elegant timepieces, mechanical innovations, and refined design with consistent quality standards."
-  },
-  {
-    "slug": "ulysse-nardin",
-    "name": "Ulysse Nardin",
-    "country": "Switzerland",
-    "founded": 1846,
-    "tier": "top",
-    "summary": "Kering-owned manufacture famous for marine chronometers, astronomical complications, innovative movements, and nautical heritage expertise."
-  },
-  {
-    "slug": "girard-perregaux",
-    "name": "Girard-Perregaux",
-    "country": "Switzerland",
-    "founded": 1791,
-    "tier": "top",
-    "summary": "Kering-owned historic manufacture renowned for complications, bridge designs, haute horlogerie craftsmanship, and watchmaking innovation legacy."
-  },
-  {
-    "slug": "corum",
-    "name": "Corum",
-    "country": "Switzerland",
-    "founded": 1955,
-    "tier": "premium",
-    "summary": "Corum Watch Company known for distinctive coin watches, bold designs, aerospace inspiration, and contemporary luxury timepiece positioning."
-  },
-  {
-    "slug": "cuervo-y-sobrinos",
-    "name": "Cuervo y Sobrinos",
-    "country": "Switzerland",
-    "founded": 1882,
-    "tier": "micro",
-    "summary": "Historic Cuban-heritage brand revived with elegant mechanical watches, vintage aesthetics, and refined dress watch expertise focus."
-  },
-  {
-    "slug": "christopher-ward",
-    "name": "Christopher Ward",
-    "country": "Switzerland",
-    "founded": 2004,
-    "tier": "mid",
-    "summary": "Direct-to-consumer brand offering exceptional value with Swiss movements, robust sports watches, and innovative manufacturing transparency approach."
-  },
-  {
-    "slug": "farer",
-    "name": "Farer",
-    "country": "Switzerland",
-    "founded": 2014,
-    "tier": "micro",
-    "summary": "Independent micro-brand creating limited-edition mechanical watches with vintage-inspired design, British heritage, and artisanal craftsmanship focus."
-  },
-  {
-    "slug": "nomos-glashutte",
-    "name": "Nomos Glashütte",
-    "country": "Germany",
-    "founded": 1990,
-    "tier": "premium",
-    "summary": "Modern German watchmaker combining Bauhaus design with in-house movements and exceptional value proposition."
-  },
-  {
-    "slug": "sinn",
-    "name": "Sinn",
-    "country": "Germany",
-    "founded": 1961,
-    "tier": "premium",
-    "summary": "Frankfurt-based tool watch manufacturer specializing in pilot watches and submarine-tested instrument timepieces."
-  },
-  {
-    "slug": "junghans",
-    "name": "Junghans",
-    "country": "Germany",
-    "founded": 1861,
-    "tier": "premium",
-    "summary": "Historic Black Forest manufacturer renowned for radio-controlled movements and minimalist design excellence."
-  },
-  {
-    "slug": "damasko",
-    "name": "Damasko",
-    "country": "Germany",
-    "founded": 1992,
-    "tier": "mid",
-    "summary": "Dresden-based specialist in robust tool watches with unique ice-hardened cases and precision engineering."
-  },
-  {
-    "slug": "stowa",
-    "name": "Stowa",
-    "country": "Germany",
-    "founded": 1927,
-    "tier": "mid",
-    "summary": "Pforzheim manufacturer of Flieger watches and classic dress pieces with strong vintage heritage."
-  },
-  {
-    "slug": "muhle-glashutte",
-    "name": "Mühle Glashütte",
-    "country": "Germany",
-    "founded": 1869,
-    "tier": "premium",
-    "summary": "East German manufacture known for nautical instruments, exceptional finishing, and technical innovation."
-  },
-  {
-    "slug": "tutima",
-    "name": "Tutima",
-    "country": "Germany",
-    "founded": 1927,
-    "tier": "premium",
-    "summary": "Glashutte-based pilot watch specialist with military heritage and chronograph expertise."
-  },
-  {
-    "slug": "lang-heyne",
-    "name": "Lang & Heyne",
-    "country": "Germany",
-    "founded": 2009,
-    "tier": "micro",
-    "summary": "Contemporary German independent watchmaker creating innovative complications and distinctive timepieces."
-  },
-  {
-    "slug": "moritz-grossmann",
-    "name": "Moritz Grossmann",
-    "country": "Germany",
-    "founded": 2008,
-    "tier": "micro",
-    "summary": "Glashutte-based independent watchmaker known for exceptional finishing and technically innovative movements."
-  },
-  {
-    "slug": "habring2",
-    "name": "Habring2",
-    "country": "Austria",
-    "founded": 2004,
-    "tier": "micro",
-    "summary": "Austrian independent manufacture producing technically sophisticated watches with exceptional finishing standards."
-  },
-  {
-    "slug": "seiko",
-    "name": "Seiko",
-    "country": "Japan",
-    "founded": 1881,
-    "tier": "premium",
-    "summary": "Japanese manufacture leader pioneering quartz, automatic movements, and affordable quality watches globally."
-  },
-  {
-    "slug": "grand-seiko",
-    "name": "Grand Seiko",
-    "country": "Japan",
-    "founded": 1960,
-    "tier": "top",
-    "summary": "Seiko's luxury division renowned for ultra-precise movements, exceptional finishing, and mechanical innovation."
-  },
-  {
-    "slug": "credor",
-    "name": "Credor",
-    "country": "Japan",
-    "founded": 1974,
-    "tier": "top",
-    "summary": "Seiko's haute horlogerie brand specializing in complications, traditional finishing, and limited productions."
-  },
-  {
-    "slug": "citizen",
-    "name": "Citizen",
-    "country": "Japan",
-    "founded": 1930,
-    "tier": "premium",
-    "summary": "Japanese manufacture famous for Eco-Drive solar technology, precision, and accessible quality watches."
-  },
-  {
-    "slug": "casio",
-    "name": "Casio",
-    "country": "Japan",
-    "founded": 1946,
-    "tier": "mid",
-    "summary": "Electronics giant revolutionizing watchmaking with digital innovation, durability, and affordable technology."
-  },
-  {
-    "slug": "orient",
-    "name": "Orient",
-    "country": "Japan",
-    "founded": 1950,
-    "tier": "mid",
-    "summary": "Seiko-owned manufacturer offering excellent mechanical watches with vintage design and strong value."
-  },
-  {
-    "slug": "casio-g-shock",
-    "name": "Casio G-Shock",
-    "country": "Japan",
-    "founded": 1983,
-    "tier": "mid",
-    "summary": "Iconic digital sports watch line known for extreme durability, shock-resistance, and cultural impact."
-  },
-  {
-    "slug": "tag-heuer-connected",
-    "name": "Tag Heuer Connected",
-    "country": "Switzerland",
-    "founded": 2015,
-    "tier": "premium",
-    "summary": "Luxury smartwatch collection combining traditional watchmaking heritage with modern connected technology."
+    "summary": "Swiss watchmaker with mid-century manufacturing heritage, known for accessible mechanical watches and vintage field watch aesthetics. Limited current production focuses on heritage reissues and classic designs."
   },
   {
     "slug": "anonimo",
@@ -632,156 +40,60 @@
     "summary": "Florence-based manufacture specializing in diving watches and tool watches with Italian design aesthetics."
   },
   {
-    "slug": "beijing",
-    "name": "Beijing",
-    "country": "China",
-    "founded": 1958,
-    "tier": "micro",
-    "summary": "Chinese state manufacture producing reliable mechanical watches with significant vintage collectibility appeal."
-  },
-  {
-    "slug": "shanghai",
-    "name": "Shanghai",
-    "country": "China",
-    "founded": 1955,
-    "tier": "micro",
-    "summary": "Historic Chinese manufacture creating mechanical watches reflecting traditional Chinese watchmaking heritage."
-  },
-  {
-    "slug": "sea-gull",
-    "name": "Sea-Gull",
-    "country": "China",
-    "founded": 1955,
-    "tier": "micro",
-    "summary": "Chinese manufacturer known for affordable mechanical movements, chronographs, and reliable construction."
-  },
-  {
-    "slug": "fiyta",
-    "name": "Fiyta",
-    "country": "China",
-    "founded": 1988,
-    "tier": "micro",
-    "summary": "Contemporary Chinese manufacturer producing affordable mechanical and quartz watches for global markets."
-  },
-  {
-    "slug": "hmt",
-    "name": "HMT",
-    "country": "India",
-    "founded": 1953,
-    "tier": "micro",
-    "summary": "Historic Indian state manufacture producing mechanical watches with strong vintage collector following."
-  },
-  {
-    "slug": "vostok",
-    "name": "Vostok",
-    "country": "Russia",
-    "founded": 1942,
-    "tier": "micro",
-    "summary": "Russian manufacture famous for amphibian diving watches and legendary military timepiece heritage."
-  },
-  {
-    "slug": "raketa",
-    "name": "Raketa",
-    "country": "Russia",
-    "founded": 1961,
-    "tier": "micro",
-    "summary": "Soviet-era Russian manufacturer known for affordable mechanical watches and unique polar exploration heritage."
-  },
-  {
-    "slug": "poljot",
-    "name": "Poljot",
-    "country": "Russia",
-    "founded": 1930,
-    "tier": "micro",
-    "summary": "Historic Russian manufacture producing mechanical chronographs and precision watches with space program connections."
-  },
-  {
-    "slug": "sturmanskie",
-    "name": "Sturmanskie",
-    "country": "Russia",
-    "founded": 1961,
-    "tier": "micro",
-    "summary": "Russian pilot watch manufacturer with authentic cosmonautic heritage and Soviet aviation watch tradition."
-  },
-  {
-    "slug": "uniwerk",
-    "name": "Uniwerk",
-    "country": "South Korea",
-    "founded": 2010,
-    "tier": "micro",
-    "summary": "Contemporary Korean independent watchmaker creating innovative mechanical watches with minimalist aesthetics."
-  },
-  {
-    "slug": "bremont",
-    "name": "Bremont",
+    "slug": "aonic",
+    "name": "Aonic",
     "country": "United Kingdom",
-    "founded": 2002,
-    "tier": "premium",
-    "summary": "British independent watchmaker known for robust mechanical watches and aviation heritage."
-  },
-  {
-    "slug": "garrick",
-    "name": "Garrick",
-    "country": "United Kingdom",
-    "founded": 2012,
+    "founded": null,
     "tier": "micro",
-    "summary": "Boutique British brand crafting minimalist watches with refined aesthetic design."
+    "summary": "Independent watchmaker — details limited."
   },
   {
-    "slug": "smith-and-sons",
-    "name": "Smith & Sons",
-    "country": "United Kingdom",
-    "founded": 2015,
-    "tier": "micro",
-    "summary": "Independent UK watchmaker producing small-batch mechanical watches with traditional craftsmanship."
-  },
-  {
-    "slug": "schofield",
-    "name": "Schofield",
-    "country": "United Kingdom",
-    "founded": 2014,
-    "tier": "micro",
-    "summary": "British microbrand creating vintage-inspired dive watches with modern reliability."
-  },
-  {
-    "slug": "vortic",
-    "name": "Vortic",
+    "slug": "apple",
+    "name": "Apple",
     "country": "United States",
-    "founded": 2013,
-    "tier": "micro",
-    "summary": "American watchmaker assembling vintage movements into contemporary watch designs."
+    "founded": 1976,
+    "tier": "top",
+    "summary": "A technology company that produces smartwatches rather than mechanical or traditional quartz timepieces, prioritizing digital features and ecosystem integration. Not a horology brand in the conventional sense, though significant in wearable timekeeping by market volume."
   },
   {
-    "slug": "weiss",
-    "name": "Weiss",
-    "country": "United States",
-    "founded": 2012,
-    "tier": "micro",
-    "summary": "American microbrand producing affordable, hand-assembled tool watches and field instruments."
-  },
-  {
-    "slug": "rgm",
-    "name": "RGM",
-    "country": "United States",
-    "founded": 2002,
-    "tier": "premium",
-    "summary": "Pennsylvania-based manufacture creating in-house American movements and complete watches."
-  },
-  {
-    "slug": "niall",
-    "name": "Niall",
-    "country": "United States",
-    "founded": 2016,
-    "tier": "micro",
-    "summary": "Emerging American microbrand focusing on minimalist design and quality horology."
-  },
-  {
-    "slug": "shinola",
-    "name": "Shinola",
-    "country": "United States",
-    "founded": 2011,
+    "slug": "archimede",
+    "name": "Archimede",
+    "country": "Germany",
+    "founded": 1912,
     "tier": "mid",
-    "summary": "Detroit-based brand assembling watches with American-made components and heritage focus."
+    "summary": "Archimede is a German watchmaker owned by Citizen, historically producing watches with emphasis on pilot and diving watch designs. The brand maintains German manufacturing traditions while offering contemporary tool watches at mid-market price points."
+  },
+  {
+    "slug": "armand-nicolet",
+    "name": "Armand Nicolet",
+    "country": "Switzerland",
+    "founded": 1875,
+    "tier": "mid",
+    "summary": "Swiss watchmaker with 19th-century heritage, producing mechanical watches emphasizing robust construction and vintage-inspired design language. Independent manufacturer focusing on mechanical reliability and accessible pricing."
+  },
+  {
+    "slug": "armin-strom",
+    "name": "Armin Strom",
+    "country": "Switzerland",
+    "founded": 1961,
+    "tier": "premium",
+    "summary": "Swiss independent manufacture known for skeletonized watches and proprietary movements with exceptional finishing. Highly respected in fine watchmaking circles for technical innovation and aesthetic refinement."
+  },
+  {
+    "slug": "arnold-son",
+    "name": "Arnold & Son",
+    "country": "Switzerland",
+    "founded": 1764,
+    "tier": "top",
+    "summary": "A historic Geneva-based manufacture with deep chronometric roots, now part of the Citizen Group, producing refined mechanical watches with strong finishing standards. Known for restrained aesthetics and technical precision aligned with classical watchmaking principles."
+  },
+  {
+    "slug": "audemars-piguet",
+    "name": "Audemars Piguet",
+    "country": "Switzerland",
+    "founded": 1875,
+    "tier": "top",
+    "summary": "Iconic sports luxury brand famous for Royal Oak integrated bracelet design."
   },
   {
     "slug": "autodromo",
@@ -792,28 +104,20 @@
     "summary": "Racing-inspired American microbrand with motorsport heritage and vintage aesthetics."
   },
   {
-    "slug": "halios",
-    "name": "Halios",
-    "country": "United States",
-    "founded": 2011,
+    "slug": "avoirdupois",
+    "name": "Avoirdupois",
+    "country": "Unknown",
+    "founded": null,
     "tier": "micro",
-    "summary": "American independent watchmaker designing elegant dive watches with refined proportions."
+    "summary": "Independent watchmaker — details limited."
   },
   {
-    "slug": "monta",
-    "name": "Monta",
+    "slug": "ball-watch",
+    "name": "Ball Watch",
     "country": "United States",
-    "founded": 2015,
-    "tier": "micro",
-    "summary": "American microbrand producing versatile timepieces with exceptional finishing and quality."
-  },
-  {
-    "slug": "lorier",
-    "name": "Lorier",
-    "country": "United States",
-    "founded": 2015,
-    "tier": "micro",
-    "summary": "American watchmaker crafting minimalist sports watches with Swiss movements."
+    "founded": 1891,
+    "tier": "mid",
+    "summary": "An American brand with deep railroad chronometer heritage, known for robust tool watches and high-visibility lume applications. Currently owned by Citizen, it continues producing reliable field and dive instruments with strong legibility emphasis."
   },
   {
     "slug": "baltic",
@@ -824,60 +128,68 @@
     "summary": "Lithuanian microbrand creating modernist-inspired dive watches with distinctive design language."
   },
   {
-    "slug": "yema",
-    "name": "Yema",
-    "country": "France",
-    "founded": 1948,
-    "tier": "mid",
-    "summary": "French watchmaker revived as modern brand producing diving instruments with heritage appeal."
-  },
-  {
-    "slug": "squale",
-    "name": "Squale",
-    "country": "Switzerland",
-    "founded": 1950,
-    "tier": "mid",
-    "summary": "Swiss manufacturer specializing in robust diving watches with exceptional water resistance."
-  },
-  {
-    "slug": "helson",
-    "name": "Helson",
-    "country": "United Kingdom",
-    "founded": 2002,
-    "tier": "micro",
-    "summary": "British microbrand focused on professional-grade diving watches and technical innovations."
-  },
-  {
-    "slug": "borealis",
-    "name": "Borealis",
-    "country": "Switzerland",
-    "founded": 2013,
-    "tier": "micro",
-    "summary": "Swiss microbrand creating dive watches with vintage military-inspired design elements."
-  },
-  {
-    "slug": "steinhart",
-    "name": "Steinhart",
+    "slug": "bastian-antoni",
+    "name": "Bastian Antoni",
     "country": "Germany",
-    "founded": 2001,
-    "tier": "mid",
-    "summary": "German watchmaker producing homage sports watches with reliable mechanical movements."
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
   },
   {
-    "slug": "san-martin",
-    "name": "San Martin",
-    "country": "China",
-    "founded": 2013,
-    "tier": "mid",
-    "summary": "Chinese microbrand offering well-designed dive watches at accessible price points."
+    "slug": "baume-mercier",
+    "name": "Baume & Mercier",
+    "country": "Switzerland",
+    "founded": 1830,
+    "tier": "premium",
+    "summary": "Baume & Mercier is a historic Swiss watchmaker owned by Richemont, known for elegant dress watches and accessible luxury timepieces with solid construction. The brand combines classical design sensibilities with reliable mechanical and automatic movements."
   },
   {
-    "slug": "steeldive",
-    "name": "Steeldive",
+    "slug": "bausele",
+    "name": "Bausele",
+    "country": "Germany",
+    "founded": 2014,
+    "tier": "micro",
+    "summary": "German independent watchmaker producing understated mechanical watches with focus on legibility and reliability. Limited production emphasizing classic design principles and transparent manufacturing."
+  },
+  {
+    "slug": "beijing",
+    "name": "Beijing",
     "country": "China",
-    "founded": 2016,
-    "tier": "mid",
-    "summary": "Chinese brand specializing in affordable homage dive watches with solid build quality."
+    "founded": 1958,
+    "tier": "micro",
+    "summary": "Chinese state manufacture producing reliable mechanical watches with significant vintage collectibility appeal."
+  },
+  {
+    "slug": "bell-ross",
+    "name": "Bell & Ross",
+    "country": "France",
+    "founded": 1992,
+    "tier": "premium",
+    "summary": "Bell & Ross specializes in instrument watches with minimalist, legible dial designs derived from aviation and military requirements. Known for technical excellence and precise manufacturing, the brand occupies a distinctive position between luxury and tool-watch aesthetics."
+  },
+  {
+    "slug": "bereve",
+    "name": "Bereve",
+    "country": "Unknown",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "berneron",
+    "name": "Berneron",
+    "country": "France",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "blancpain",
+    "name": "Blancpain",
+    "country": "Switzerland",
+    "founded": 1735,
+    "tier": "top",
+    "summary": "Oldest watch manufacture, reestablished to define haute horlogerie standards."
   },
   {
     "slug": "boldr",
@@ -888,44 +200,12 @@
     "summary": "American microbrand combining adventure heritage with minimalist Scandinavian design principles."
   },
   {
-    "slug": "magrette",
-    "name": "Magrette",
-    "country": "United Kingdom",
-    "founded": 2009,
-    "tier": "micro",
-    "summary": "British independent watchmaker creating elegant, minimalist timepieces with Swiss movements."
-  },
-  {
-    "slug": "maen",
-    "name": "Maen",
-    "country": "United States",
-    "founded": 2014,
-    "tier": "micro",
-    "summary": "American microbrand producing refined watches emphasizing simplicity and Scandinavian aesthetics."
-  },
-  {
-    "slug": "ophion",
-    "name": "Ophion",
+    "slug": "borealis",
+    "name": "Borealis",
     "country": "Switzerland",
-    "founded": 2019,
+    "founded": 2013,
     "tier": "micro",
-    "summary": "Swiss micro-manufacture focused on independent watchmaking and small-batch production."
-  },
-  {
-    "slug": "meistersinger",
-    "name": "MeisterSinger",
-    "country": "Germany",
-    "founded": 1961,
-    "tier": "mid",
-    "summary": "German brand renowned for single-hand watches and refined mechanical watch design."
-  },
-  {
-    "slug": "defakto",
-    "name": "Defakto",
-    "country": "United States",
-    "founded": 2015,
-    "tier": "micro",
-    "summary": "American microbrand producing minimalist watches with utilitarian design philosophy."
+    "summary": "Swiss microbrand creating dive watches with vintage military-inspired design elements."
   },
   {
     "slug": "botta-design",
@@ -936,12 +216,252 @@
     "summary": "German design-focused brand creating innovative watches with unique technical solutions."
   },
   {
-    "slug": "junghans-max-bill",
-    "name": "Junghans Max Bill",
-    "country": "Germany",
-    "founded": 1912,
+    "slug": "breguet",
+    "name": "Breguet",
+    "country": "Switzerland",
+    "founded": 1775,
+    "tier": "top",
+    "summary": "Historic innovator credited with inventing the tourbillon and guillochage decoration."
+  },
+  {
+    "slug": "breitling",
+    "name": "Breitling",
+    "country": "Switzerland",
+    "founded": 1884,
+    "tier": "top",
+    "summary": "Aviation-focused Swiss brand celebrated for chronographs, precision instruments, and professional-grade watches for pilots and divers."
+  },
+  {
+    "slug": "bremont",
+    "name": "Bremont",
+    "country": "United Kingdom",
+    "founded": 2002,
+    "tier": "premium",
+    "summary": "British independent watchmaker known for robust mechanical watches and aviation heritage."
+  },
+  {
+    "slug": "breva",
+    "name": "Breva",
+    "country": "Unknown",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "bulgari",
+    "name": "Bulgari",
+    "country": "Italy",
+    "founded": 1884,
+    "tier": "top",
+    "summary": "Bulgari, owned by LVMH, is an Italian luxury house primarily known for jewelry that transitioned into watchmaking with distinctive design language and precious materials. Their timepieces emphasize bold aesthetics and haute horlogerie complications reflecting Italian luxury sensibilities."
+  },
+  {
+    "slug": "bvlgari",
+    "name": "Bvlgari",
+    "country": "Italy",
+    "founded": 1884,
+    "tier": "top",
+    "summary": "Roman luxury jeweler crafting bold jewelry watches and sophisticated complications."
+  },
+  {
+    "slug": "carl-f-bucherer",
+    "name": "Carl F. Bucherer",
+    "country": "Switzerland",
+    "founded": 1888,
+    "tier": "premium",
+    "summary": "Independent family-owned manufacture known for elegant timepieces, mechanical innovations, and refined design with consistent quality standards."
+  },
+  {
+    "slug": "cartier",
+    "name": "Cartier",
+    "country": "France",
+    "founded": 1847,
+    "tier": "top",
+    "summary": "Iconic luxury jewelry house creating iconic tank watches and jewelry timepieces."
+  },
+  {
+    "slug": "casio",
+    "name": "Casio",
+    "country": "Japan",
+    "founded": 1946,
     "tier": "mid",
-    "summary": "German manufacture producing Bauhaus-inspired minimalist watches with in-house movements."
+    "summary": "Electronics giant revolutionizing watchmaking with digital innovation, durability, and affordable technology."
+  },
+  {
+    "slug": "casio-g-shock",
+    "name": "Casio G-Shock",
+    "country": "Japan",
+    "founded": 1983,
+    "tier": "mid",
+    "summary": "Iconic digital sports watch line known for extreme durability, shock-resistance, and cultural impact."
+  },
+  {
+    "slug": "certina",
+    "name": "Certina",
+    "country": "Switzerland",
+    "founded": 1888,
+    "tier": "mid",
+    "summary": "Swatch Group brand celebrating durability and reliability with sports watches, diving watches, and accessible mechanical movements."
+  },
+  {
+    "slug": "chopard",
+    "name": "Chopard",
+    "country": "Switzerland",
+    "founded": 1860,
+    "tier": "top",
+    "summary": "Luxury jeweler and manufacture owner creating refined complications for connoisseurs."
+  },
+  {
+    "slug": "christiaan-van-der-klaauw",
+    "name": "Christiaan van der Klaauw",
+    "country": "Netherlands",
+    "founded": 1981,
+    "tier": "micro",
+    "summary": "Dutch independent watchmaker renowned for astronomical complications and hand-assembled movements. Specializes in custom and limited-edition pieces with exceptional technical complexity."
+  },
+  {
+    "slug": "christopher-ward",
+    "name": "Christopher Ward",
+    "country": "Switzerland",
+    "founded": 2004,
+    "tier": "mid",
+    "summary": "Direct-to-consumer brand offering exceptional value with Swiss movements, robust sports watches, and innovative manufacturing transparency approach."
+  },
+  {
+    "slug": "chronotheory-co",
+    "name": "Chronotheory Co.",
+    "country": "Unknown",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "citizen",
+    "name": "Citizen",
+    "country": "Japan",
+    "founded": 1930,
+    "tier": "premium",
+    "summary": "Japanese manufacture famous for Eco-Drive solar technology, precision, and accessible quality watches."
+  },
+  {
+    "slug": "code41",
+    "name": "Code41",
+    "country": "Switzerland",
+    "founded": 2016,
+    "tier": "mid",
+    "summary": "Code41 is an independent Swiss watchmaker founded by former Rolex craftspeople, specializing in modular, customizable dive watches with focus on transparency and direct sales. The brand emphasizes honest pricing and customer engagement in mechanical watch design."
+  },
+  {
+    "slug": "corum",
+    "name": "Corum",
+    "country": "Switzerland",
+    "founded": 1955,
+    "tier": "premium",
+    "summary": "Corum Watch Company known for distinctive coin watches, bold designs, aerospace inspiration, and contemporary luxury timepiece positioning."
+  },
+  {
+    "slug": "crafter-blue",
+    "name": "Crafter Blue",
+    "country": "Hong Kong",
+    "founded": 2013,
+    "tier": "micro",
+    "summary": "Independent Hong Kong watchmaker producing dive-oriented watches with modern aesthetics and Japanese manufacturing partnerships."
+  },
+  {
+    "slug": "credor",
+    "name": "Credor",
+    "country": "Japan",
+    "founded": 1974,
+    "tier": "top",
+    "summary": "Seiko's haute horlogerie brand specializing in complications, traditional finishing, and limited productions."
+  },
+  {
+    "slug": "cuervo-y-sobrinos",
+    "name": "Cuervo y Sobrinos",
+    "country": "Switzerland",
+    "founded": 1882,
+    "tier": "micro",
+    "summary": "Historic Cuban-heritage brand revived with elegant mechanical watches, vintage aesthetics, and refined dress watch expertise focus."
+  },
+  {
+    "slug": "czapek",
+    "name": "Czapek",
+    "country": "Switzerland",
+    "founded": 2013,
+    "tier": "micro",
+    "summary": "Micro manufacture creating limited-edition timepieces featuring advanced complications, artistic designs, and independent horological vision."
+  },
+  {
+    "slug": "d-dornblueth-sohn",
+    "name": "D. Dornblüth & Sohn",
+    "country": "Germany",
+    "founded": 1895,
+    "tier": "premium",
+    "summary": "A German manufacture in Glashutte known for precise mechanical movements and finishing quality comparable to Swiss standards, producing limited-quantity watches with strong technical credentials. Represents independent German horological craft."
+  },
+  {
+    "slug": "d-malchert",
+    "name": "D. Malchert",
+    "country": "Unknown",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "damasko",
+    "name": "Damasko",
+    "country": "Germany",
+    "founded": 1992,
+    "tier": "mid",
+    "summary": "Dresden-based specialist in robust tool watches with unique ice-hardened cases and precision engineering."
+  },
+  {
+    "slug": "dan-henry",
+    "name": "Dan Henry",
+    "country": "United States",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent micro-brand focused on vintage-inspired field and dive watches with accessible pricing and modern reliability."
+  },
+  {
+    "slug": "daniel-roth",
+    "name": "Daniel Roth",
+    "country": "Switzerland",
+    "founded": 1993,
+    "tier": "premium",
+    "summary": "Independent Swiss watchmaker renowned for highly complicated tourbillon movements and bespoke timepieces crafted with meticulous attention to finishing. Known for skeletonized dials and innovative escapement designs."
+  },
+  {
+    "slug": "de-bethune",
+    "name": "De Bethune",
+    "country": "Belgium",
+    "founded": 2002,
+    "tier": "top",
+    "summary": "Independent manufacture specializing in blue steel and exotic escapement innovations."
+  },
+  {
+    "slug": "defakto",
+    "name": "Defakto",
+    "country": "United States",
+    "founded": 2015,
+    "tier": "micro",
+    "summary": "American microbrand producing minimalist watches with utilitarian design philosophy."
+  },
+  {
+    "slug": "deutsche-uhrenmanufaktur-glashutte",
+    "name": "Deutsche Uhrenmanufaktur Glashütte",
+    "country": "Germany",
+    "founded": 2000,
+    "tier": "premium",
+    "summary": "German manufacture perpetuating Glashütte watchmaking traditions with emphasis on in-house movement production. Produces refined dress and sports watches using classical German horological methods."
+  },
+  {
+    "slug": "dietrich",
+    "name": "Dietrich",
+    "country": "Germany",
+    "founded": 2007,
+    "tier": "micro",
+    "summary": "German independent watchmaker specializing in hand-assembled mechanical watches with classical aesthetics and emphasis on craftsmanship."
   },
   {
     "slug": "dornbluth-and-sohn",
@@ -952,36 +472,340 @@
     "summary": "German independent manufacture creating fine mechanical watches with exceptional quality control."
   },
   {
-    "slug": "linde-werdelin",
-    "name": "Linde Werdelin",
+    "slug": "doxa",
+    "name": "Doxa",
     "country": "Switzerland",
-    "founded": 2002,
-    "tier": "premium",
-    "summary": "Swiss independent watchmaker specializing in elegant sports watches and custom designs."
+    "founded": 1889,
+    "tier": "micro",
+    "summary": "Specialized diving watch pioneer known for distinctive orange dials, underwater instruments, and cult-status professional dive watches."
   },
   {
-    "slug": "ressence",
-    "name": "Ressence",
-    "country": "Belgium",
-    "founded": 2010,
-    "tier": "premium",
-    "summary": "Belgian innovator creating unique oil-filled dial watches with distinctive design language."
+    "slug": "eberhard",
+    "name": "Eberhard",
+    "country": "Switzerland",
+    "founded": 1887,
+    "tier": "micro",
+    "summary": "Historic independent manufacture revived with focus on mechanical watches, chronographs, and distinctive Art Deco-inspired aesthetics."
   },
   {
-    "slug": "maximilian-buesser",
-    "name": "Maximilian Büsser",
-    "country": "Luxembourg",
+    "slug": "elka-watch-co",
+    "name": "Elka Watch Co",
+    "country": "Unknown",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "eterna",
+    "name": "Eterna",
+    "country": "Switzerland",
+    "founded": 1856,
+    "tier": "mid",
+    "summary": "Independent manufacture renowned for robust mechanical movements, marine chronometers, and reliable watches with technical heritage."
+  },
+  {
+    "slug": "excelsior-park",
+    "name": "Excelsior Park",
+    "country": "Switzerland",
     "founded": 2005,
-    "tier": "top",
-    "summary": "Independent watchmaker and entrepreneur known for innovative and artistic timepiece creations."
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
   },
   {
-    "slug": "romain-gauthier",
-    "name": "Romain Gauthier",
+    "slug": "fp-journe",
+    "name": "F.P. Journe",
     "country": "Switzerland",
-    "founded": 2007,
+    "founded": 1978,
     "tier": "top",
-    "summary": "Swiss independent watchmaker producing exceptional hand-finished mechanical watches."
+    "summary": "Independent master watchmaker creating exotic chronometers with revolutionary escapements."
+  },
+  {
+    "slug": "farer",
+    "name": "Farer",
+    "country": "Switzerland",
+    "founded": 2014,
+    "tier": "micro",
+    "summary": "Independent micro-brand creating limited-edition mechanical watches with vintage-inspired design, British heritage, and artisanal craftsmanship focus."
+  },
+  {
+    "slug": "fiona-kruger",
+    "name": "Fiona Kruger",
+    "country": "Unknown",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "fiyta",
+    "name": "Fiyta",
+    "country": "China",
+    "founded": 1988,
+    "tier": "micro",
+    "summary": "Contemporary Chinese manufacturer producing affordable mechanical and quartz watches for global markets."
+  },
+  {
+    "slug": "formex",
+    "name": "Formex",
+    "country": "Switzerland",
+    "founded": 1960,
+    "tier": "mid",
+    "summary": "Formex is a Swiss watchmaker known for pilot and sports watches with vintage-inspired designs and focus on legibility and durability. The brand emphasizes functional design and value proposition with attention to dial legibility and robust construction."
+  },
+  {
+    "slug": "fortis",
+    "name": "Fortis",
+    "country": "Switzerland",
+    "founded": 1912,
+    "tier": "mid",
+    "summary": "Swiss manufacture with heritage in pilot and professional watches, particularly known for chronograph expertise. Maintains in-house production while offering robust, tool-oriented designs at accessible price points."
+  },
+  {
+    "slug": "franck-muller",
+    "name": "Franck Muller",
+    "country": "Switzerland",
+    "founded": 1991,
+    "tier": "top",
+    "summary": "Swiss haute horlogerie manufacturer renowned for complex complications, distinctive tonneau cases, and innovative skeletonized movements. Known for master watchmaker Franck Muller's technical expertise and limited production philosophy."
+  },
+  {
+    "slug": "frederique-constant",
+    "name": "Frederique Constant",
+    "country": "Switzerland",
+    "founded": 1988,
+    "tier": "premium",
+    "summary": "Independent manufacture blending tradition with innovation, offering accessible luxury mechanical watches and smartwatch technology hybrids."
+  },
+  {
+    "slug": "furlan-marri",
+    "name": "Furlan Marri",
+    "country": "Italy",
+    "founded": 2012,
+    "tier": "micro",
+    "summary": "Italian independent watchmaker producing small-scale mechanical watches with focus on traditional craftsmanship. Known for bespoke work and limited releases emphasizing horological fundamentals."
+  },
+  {
+    "slug": "garrick",
+    "name": "Garrick",
+    "country": "United Kingdom",
+    "founded": 2012,
+    "tier": "micro",
+    "summary": "Boutique British brand crafting minimalist watches with refined aesthetic design."
+  },
+  {
+    "slug": "gerald-charles",
+    "name": "Gerald Charles",
+    "country": "Switzerland",
+    "founded": 2011,
+    "tier": "premium",
+    "summary": "Independent Swiss watchmaker producing small-batch haute horlogerie with proprietary movements and exceptional finishing. Focused on technical innovation and aesthetic distinctiveness in luxury segment."
+  },
+  {
+    "slug": "girard-perregaux",
+    "name": "Girard-Perregaux",
+    "country": "Switzerland",
+    "founded": 1791,
+    "tier": "top",
+    "summary": "Kering-owned historic manufacture renowned for complications, bridge designs, haute horlogerie craftsmanship, and watchmaking innovation legacy."
+  },
+  {
+    "slug": "giuliano-mazzuoli",
+    "name": "Giuliano Mazzuoli",
+    "country": "Italy",
+    "founded": 1989,
+    "tier": "micro",
+    "summary": "Italian independent watchmaker specializing in hand-assembled mechanical watches with vintage-inspired aesthetics. Known for meticulous finishing and limited annual production runs."
+  },
+  {
+    "slug": "glashutte-original",
+    "name": "Glashütte Original",
+    "country": "Germany",
+    "founded": 1845,
+    "tier": "top",
+    "summary": "German precision heritage, three-quarter plate specialist with exceptional finishing."
+  },
+  {
+    "slug": "glycine",
+    "name": "Glycine",
+    "country": "Switzerland",
+    "founded": 1914,
+    "tier": "mid",
+    "summary": "Swiss watchmaker with a heritage of precision timekeeping, historically recognized for aviation watches and field instruments before ownership transitions."
+  },
+  {
+    "slug": "graham",
+    "name": "Graham",
+    "country": "Switzerland",
+    "founded": 1695,
+    "tier": "premium",
+    "summary": "Swiss manufacture with three centuries of heritage, historically significant for chronograph development. Contemporary collections emphasize mechanical complexity and sports watch sophistication."
+  },
+  {
+    "slug": "grand-seiko",
+    "name": "Grand Seiko",
+    "country": "Japan",
+    "founded": 1960,
+    "tier": "top",
+    "summary": "Seiko's luxury division renowned for ultra-precise movements, exceptional finishing, and mechanical innovation."
+  },
+  {
+    "slug": "greubel-forsey",
+    "name": "Greubel Forsey",
+    "country": "Switzerland",
+    "founded": 2004,
+    "tier": "top",
+    "summary": "Boutique manufacture pursuing extreme precision through exotic three-dimensional complications."
+  },
+  {
+    "slug": "gronefeld",
+    "name": "Gronefeld",
+    "country": "Switzerland",
+    "founded": 1999,
+    "tier": "top",
+    "summary": "Independent Swiss watchmaker founded by brothers Tim and Bart Gronefeld, celebrated for hand-assembled movements and refined finishing standards. Produces ultra-limited quantities with emphasis on classical design and mechanical mastery."
+  },
+  {
+    "slug": "h-moser-cie",
+    "name": "H. Moser & Cie",
+    "country": "Switzerland",
+    "founded": 1828,
+    "tier": "top",
+    "summary": "Independent Schaffhausen maker of elegant complications and Funky Blue watches."
+  },
+  {
+    "slug": "habring2",
+    "name": "Habring2",
+    "country": "Austria",
+    "founded": 2004,
+    "tier": "micro",
+    "summary": "Austrian independent manufacture producing technically sophisticated watches with exceptional finishing standards."
+  },
+  {
+    "slug": "halios",
+    "name": "Halios",
+    "country": "United States",
+    "founded": 2011,
+    "tier": "micro",
+    "summary": "American independent watchmaker designing elegant dive watches with refined proportions."
+  },
+  {
+    "slug": "hamilton",
+    "name": "Hamilton",
+    "country": "Switzerland",
+    "founded": 1892,
+    "tier": "premium",
+    "summary": "Swatch Group brand with strong American heritage, known for film appearances, aviation watches, and vintage-inspired contemporary designs."
+  },
+  {
+    "slug": "harry-winston",
+    "name": "Harry Winston",
+    "country": "United States",
+    "founded": 1932,
+    "tier": "top",
+    "summary": "Legendary American luxury jeweler that entered watchmaking with haute joaillerie timepieces and fine complications. Known for exceptional gemstone setting and exclusive designs for discerning collectors."
+  },
+  {
+    "slug": "hautlence",
+    "name": "HauTeLence",
+    "country": "Switzerland",
+    "founded": 2006,
+    "tier": "premium",
+    "summary": "Independent Swiss manufacture specializing in innovative mechanical watches with distinctive unconventional designs and complications. The brand emphasizes refined engineering and artistic case work."
+  },
+  {
+    "slug": "helson",
+    "name": "Helson",
+    "country": "United Kingdom",
+    "founded": 2002,
+    "tier": "micro",
+    "summary": "British microbrand focused on professional-grade diving watches and technical innovations."
+  },
+  {
+    "slug": "hermes",
+    "name": "Hermès",
+    "country": "France",
+    "founded": 1837,
+    "tier": "top",
+    "summary": "French luxury house combining heritage craftsmanship with elegant watch design."
+  },
+  {
+    "slug": "hmt",
+    "name": "HMT",
+    "country": "India",
+    "founded": 1953,
+    "tier": "micro",
+    "summary": "Historic Indian state manufacture producing mechanical watches with strong vintage collector following."
+  },
+  {
+    "slug": "hublot",
+    "name": "Hublot",
+    "country": "Switzerland",
+    "founded": 1980,
+    "tier": "top",
+    "summary": "LVMH luxury brand famous for innovative materials, rubber bezels, bold designs, and high-end complications appealing to collectors."
+  },
+  {
+    "slug": "ikepod",
+    "name": "Ikepod",
+    "country": "Switzerland",
+    "founded": 1994,
+    "tier": "premium",
+    "summary": "Swiss brand known for distinctive futuristic designs and architectural cases created through collaborations with industrial designers. Produces limited-edition mechanical watches with avant-garde aesthetics."
+  },
+  {
+    "slug": "itay-noy",
+    "name": "Itay Noy",
+    "country": "Israel",
+    "founded": 2007,
+    "tier": "micro",
+    "summary": "Israeli independent watchmaker creating hand-assembled mechanical watches with focus on mechanical purity. Known for innovative design approaches and limited bespoke commissions."
+  },
+  {
+    "slug": "iwc",
+    "name": "IWC Schaffhausen",
+    "country": "Switzerland",
+    "founded": 1868,
+    "tier": "top",
+    "summary": "Prestigious manufacture known for technical excellence, innovative engineering, and sophisticated pilot and nautical watch designs."
+  },
+  {
+    "slug": "jaeger-lecoultre",
+    "name": "Jaeger-LeCoultre",
+    "country": "Switzerland",
+    "founded": 1833,
+    "tier": "top",
+    "summary": "Manufacture of masters, Reverso icon and prolific complications innovator."
+  },
+  {
+    "slug": "jaquet-droz",
+    "name": "Jaquet Droz",
+    "country": "Switzerland",
+    "founded": 1738,
+    "tier": "top",
+    "summary": "A Geneva manufacture with origins in 18th-century automata craftsmanship, now part of the Swatch Group, producing refined watches with exceptional enamel dial work and restrained complications. Known for refined aesthetics and exceptional technical execution."
+  },
+  {
+    "slug": "jeanrichard",
+    "name": "Jean Richard",
+    "country": "Switzerland",
+    "founded": 1681,
+    "tier": "premium",
+    "summary": "Historic Swiss manufacture with centuries of horological tradition, currently producing mechanical watches with complications and refined finishing standards."
+  },
+  {
+    "slug": "junghans",
+    "name": "Junghans",
+    "country": "Germany",
+    "founded": 1861,
+    "tier": "premium",
+    "summary": "Historic Black Forest manufacturer renowned for radio-controlled movements and minimalist design excellence."
+  },
+  {
+    "slug": "junghans-max-bill",
+    "name": "Junghans Max Bill",
+    "country": "Germany",
+    "founded": 1912,
+    "tier": "mid",
+    "summary": "German manufacture producing Bauhaus-inspired minimalist watches with in-house movements."
   },
   {
     "slug": "kari-voutilainen",
@@ -992,12 +816,36 @@
     "summary": "Finnish master watchmaker renowned for exceptional finishing and mechanical watch expertise."
   },
   {
-    "slug": "vianney-halter",
-    "name": "Vianney Halter",
-    "country": "Switzerland",
-    "founded": 1988,
-    "tier": "top",
-    "summary": "Swiss independent watchmaker creating avant-garde timepieces with innovative technical solutions."
+    "slug": "karoshi",
+    "name": "Karoshi",
+    "country": "Unknown",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "kikuchi-nakagawa",
+    "name": "Kikuchi Nakagawa",
+    "country": "Japan",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "kobold",
+    "name": "Kobold",
+    "country": "United States",
+    "founded": 2002,
+    "tier": "micro",
+    "summary": "Independent American watchmaker founded by Peter Speake-Marin, known for technical diving watches with innovative designs and hand-finished movements."
+  },
+  {
+    "slug": "kollokium",
+    "name": "Kollokium",
+    "country": "Unknown",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
   },
   {
     "slug": "konstantin-chaykin",
@@ -1006,5 +854,941 @@
     "founded": 2000,
     "tier": "premium",
     "summary": "Russian independent watchmaker known for innovative complications and unique design concepts."
+  },
+  {
+    "slug": "l-jr",
+    "name": "L.JR",
+    "country": "Germany",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "laarvee",
+    "name": "Laarv",
+    "country": "Estonia",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "laco",
+    "name": "Laco",
+    "country": "Germany",
+    "founded": 1925,
+    "tier": "mid",
+    "summary": "Laco is a German watchmaker renowned for pilot watches and the iconic Flieger design, manufactured in Pforzheim with emphasis on legibility and functionality. The brand maintains historical connections to German aviation watch heritage while producing affordable, well-finished timepieces."
+  },
+  {
+    "slug": "lang-heyne",
+    "name": "Lang & Heyne",
+    "country": "Germany",
+    "founded": 2009,
+    "tier": "micro",
+    "summary": "Contemporary German independent watchmaker creating innovative complications and distinctive timepieces."
+  },
+  {
+    "slug": "laurent-ferrier",
+    "name": "Laurent Ferrier",
+    "country": "Switzerland",
+    "founded": 2008,
+    "tier": "top",
+    "summary": "Independent watchmaker renowned for refined complications and haute horlogerie finishing."
+  },
+  {
+    "slug": "lebois-co",
+    "name": "LeBois & Co.",
+    "country": "United States",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "leijona-heritage",
+    "name": "Leijona Heritage",
+    "country": "Finland",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Finnish independent watchmaker — details limited."
+  },
+  {
+    "slug": "leroy",
+    "name": "Leroy",
+    "country": "France",
+    "founded": 1793,
+    "tier": "top",
+    "summary": "A legendary French chronometer and regulator maker with unparalleled precision heritage and museum-quality horological importance. The brand remains a touchstone for chronometric excellence, though contemporary production is extremely limited."
+  },
+  {
+    "slug": "ligure",
+    "name": "Ligure",
+    "country": "Italy",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent Italian watchmaker — details limited."
+  },
+  {
+    "slug": "limes",
+    "name": "Limes",
+    "country": "Germany",
+    "founded": 2008,
+    "tier": "micro",
+    "summary": "Limes is a German independent watchmaker focused on classical dress watches and field watches with minimalist design philosophy. The brand produces watches in limited quantities emphasizing traditional horology and accessible luxury positioning."
+  },
+  {
+    "slug": "linde-werdelin",
+    "name": "Linde Werdelin",
+    "country": "Switzerland",
+    "founded": 2002,
+    "tier": "premium",
+    "summary": "Swiss independent watchmaker specializing in elegant sports watches and custom designs."
+  },
+  {
+    "slug": "lobner",
+    "name": "Löbner",
+    "country": "Germany",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "longines",
+    "name": "Longines",
+    "country": "Switzerland",
+    "founded": 1832,
+    "tier": "premium",
+    "summary": "Historic Swatch Group manufacture celebrated for elegant dress watches, aviation heritage, sports timing, and refined classical designs."
+  },
+  {
+    "slug": "lorier",
+    "name": "Lorier",
+    "country": "United States",
+    "founded": 2015,
+    "tier": "micro",
+    "summary": "American watchmaker crafting minimalist sports watches with Swiss movements."
+  },
+  {
+    "slug": "louis-erard",
+    "name": "Louis Erard",
+    "country": "Switzerland",
+    "founded": 1737,
+    "tier": "mid",
+    "summary": "One of Switzerland's oldest watchmakers, revived in recent decades as an independent manufacture focused on classical design and in-house movements. The brand emphasizes heritage and technical competence at competitive mid-tier pricing."
+  },
+  {
+    "slug": "louis-vuitton",
+    "name": "Louis Vuitton",
+    "country": "France",
+    "founded": 1854,
+    "tier": "top",
+    "summary": "Luxury conglomerate with watchmaking operations producing high-end dress and sports watches. Leverages LVMH manufacturing capabilities and heritage positioning in the ultra-premium market segment."
+  },
+  {
+    "slug": "lundis-bleus",
+    "name": "Lundis Bleus",
+    "country": "France",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent French watchmaker — details limited."
+  },
+  {
+    "slug": "lyrique",
+    "name": "Lyrique",
+    "country": "Unknown",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "lytt-labs",
+    "name": "LYTT Labs",
+    "country": "United Kingdom",
+    "founded": 2015,
+    "tier": "micro",
+    "summary": "Independent British watchmaker focused on experimental design and limited production pieces. Known for unconventional aesthetics and collaborative approach to horological innovation."
+  },
+  {
+    "slug": "maen",
+    "name": "Maen",
+    "country": "United States",
+    "founded": 2014,
+    "tier": "micro",
+    "summary": "American microbrand producing refined watches emphasizing simplicity and Scandinavian aesthetics."
+  },
+  {
+    "slug": "magrette",
+    "name": "Magrette",
+    "country": "United Kingdom",
+    "founded": 2009,
+    "tier": "micro",
+    "summary": "British independent watchmaker creating elegant, minimalist timepieces with Swiss movements."
+  },
+  {
+    "slug": "massena-lab",
+    "name": "Massena LAB",
+    "country": "United States",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "maurice-lacroix",
+    "name": "Maurice Lacroix",
+    "country": "Switzerland",
+    "founded": 1975,
+    "tier": "premium",
+    "summary": "Independent Swiss brand known for sporty designs, chronographs, skeleton watches, and contemporary style with mechanical expertise."
+  },
+  {
+    "slug": "maximilian-buesser",
+    "name": "Maximilian Büsser",
+    "country": "Luxembourg",
+    "founded": 2005,
+    "tier": "top",
+    "summary": "Independent watchmaker and entrepreneur known for innovative and artistic timepiece creations."
+  },
+  {
+    "slug": "mb-and-f",
+    "name": "MB&F",
+    "country": "Switzerland",
+    "founded": 2005,
+    "tier": "top",
+    "summary": "Independent atelier creating sculptural kinetic art timepieces with mechanical complexity."
+  },
+  {
+    "slug": "meistersinger",
+    "name": "MeisterSinger",
+    "country": "Germany",
+    "founded": 1961,
+    "tier": "mid",
+    "summary": "German brand renowned for single-hand watches and refined mechanical watch design."
+  },
+  {
+    "slug": "mido",
+    "name": "Mido",
+    "country": "Switzerland",
+    "founded": 1918,
+    "tier": "mid",
+    "summary": "Swatch Group brand offering Swiss quality at accessible prices with architectural design language and reliable everyday watches."
+  },
+  {
+    "slug": "milus",
+    "name": "Milus",
+    "country": "Switzerland",
+    "founded": 1919,
+    "tier": "mid",
+    "summary": "Swiss watchmaker with a legacy in diving instruments and chronographs, known for robust construction and technical specifications in vintage and modern collections."
+  },
+  {
+    "slug": "minase",
+    "name": "Minase",
+    "country": "Japan",
+    "founded": 2003,
+    "tier": "micro",
+    "summary": "Japanese independent manufacture specializing in bespoke and custom watches with meticulous finishing standards. Produces limited quantities with emphasis on personalized design and hand-assembled movements."
+  },
+  {
+    "slug": "monta",
+    "name": "Monta",
+    "country": "United States",
+    "founded": 2015,
+    "tier": "micro",
+    "summary": "American microbrand producing versatile timepieces with exceptional finishing and quality."
+  },
+  {
+    "slug": "montblanc",
+    "name": "Montblanc",
+    "country": "Germany",
+    "founded": 1906,
+    "tier": "premium",
+    "summary": "Montblanc is a luxury conglomerate headquartered in Hamburg, historically known for writing instruments and expanding into watches through both in-house manufacture and acquisitions. Their timepieces reflect refined German engineering with emphasis on heritage and craftsmanship."
+  },
+  {
+    "slug": "montegrappa",
+    "name": "Montegrappa",
+    "country": "Italy",
+    "founded": 1912,
+    "tier": "premium",
+    "summary": "Italian luxury brand traditionally known for fountain pens, now producing distinctive watches with artistic design elements and craftsmanship focus. Combines European aesthetic sensibility with mechanical watchmaking competence."
+  },
+  {
+    "slug": "moritz-grossmann",
+    "name": "Moritz Grossmann",
+    "country": "Germany",
+    "founded": 2008,
+    "tier": "micro",
+    "summary": "Glashutte-based independent watchmaker known for exceptional finishing and technically innovative movements."
+  },
+  {
+    "slug": "muhle-glashutte",
+    "name": "Mühle Glashütte",
+    "country": "Germany",
+    "founded": 1869,
+    "tier": "premium",
+    "summary": "East German manufacture known for nautical instruments, exceptional finishing, and technical innovation."
+  },
+  {
+    "slug": "mw-co",
+    "name": "MW Co.",
+    "country": "Unknown",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "niall",
+    "name": "Niall",
+    "country": "United States",
+    "founded": 2016,
+    "tier": "micro",
+    "summary": "Emerging American microbrand focusing on minimalist design and quality horology."
+  },
+  {
+    "slug": "nivada-grenchen",
+    "name": "Nivada Grenchen",
+    "country": "Switzerland",
+    "founded": 1926,
+    "tier": "mid",
+    "summary": "Nivada Grenchen is a historic Swiss manufacture recently revived, known for vintage diving watches and Chrono King chronographs with strong vintage credentials. The brand represents classic Swiss watchmaking with a focus on diving and sports watch heritage."
+  },
+  {
+    "slug": "nomos-glashutte",
+    "name": "Nomos Glashütte",
+    "country": "Germany",
+    "founded": 1990,
+    "tier": "premium",
+    "summary": "Modern German watchmaker combining Bauhaus design with in-house movements and exceptional value proposition."
+  },
+  {
+    "slug": "norqain",
+    "name": "Norqain",
+    "country": "Switzerland",
+    "founded": 2018,
+    "tier": "micro",
+    "summary": "Contemporary independent brand focused on elegant mechanical watches, complications, and refined design with technical watchmaking expertise."
+  },
+  {
+    "slug": "ollech-wajs",
+    "name": "Ollech & Wajs",
+    "country": "Switzerland",
+    "founded": 1948,
+    "tier": "mid",
+    "summary": "Swiss watchmaker with historical roots in military and professional tool watches, known for robust reliability and vintage military aesthetics. Contemporary production emphasizes vintage reissues and accessible quality."
+  },
+  {
+    "slug": "omega",
+    "name": "Omega",
+    "country": "Switzerland",
+    "founded": 1848,
+    "tier": "top",
+    "summary": "Iconic Swiss watchmaker renowned for precision, space exploration timepieces, and the legendary Seamaster and Speedmaster collections."
+  },
+  {
+    "slug": "ophion",
+    "name": "Ophion",
+    "country": "Switzerland",
+    "founded": 2019,
+    "tier": "micro",
+    "summary": "Swiss micro-manufacture focused on independent watchmaking and small-batch production."
+  },
+  {
+    "slug": "orient",
+    "name": "Orient",
+    "country": "Japan",
+    "founded": 1950,
+    "tier": "mid",
+    "summary": "Seiko-owned manufacturer offering excellent mechanical watches with vintage design and strong value."
+  },
+  {
+    "slug": "oris",
+    "name": "Oris",
+    "country": "Switzerland",
+    "founded": 1904,
+    "tier": "premium",
+    "summary": "Independent Swiss manufacture focused on mechanical watches, conservation partnerships, and specialized timepieces for diving and aviation."
+  },
+  {
+    "slug": "panerai",
+    "name": "Panerai",
+    "country": "Switzerland",
+    "founded": 1860,
+    "tier": "top",
+    "summary": "Italian-owned Swiss manufacture famous for distinctive military-inspired diving watches with luminous dials and robust design aesthetic."
+  },
+  {
+    "slug": "parmigiani-fleurier",
+    "name": "Parmigiani Fleurier",
+    "country": "Switzerland",
+    "founded": 1996,
+    "tier": "top",
+    "summary": "Independent manufacture blending restorer expertise with modern mechanical innovation."
+  },
+  {
+    "slug": "patek-philippe",
+    "name": "Patek Philippe",
+    "country": "Switzerland",
+    "founded": 1839,
+    "tier": "top",
+    "summary": "World's most prestigious independent manufacture, renowned for complications and heritage collecting."
+  },
+  {
+    "slug": "pequignet",
+    "name": "Pequignet",
+    "country": "France",
+    "founded": 1972,
+    "tier": "mid",
+    "summary": "Pequignet is a French watchmaker known for complications and diving watches with distinctive design language and mechanical movements. The brand maintains French manufacturing traditions while producing specialized timepieces for enthusiasts."
+  },
+  {
+    "slug": "perrelet",
+    "name": "Perrelet",
+    "country": "Switzerland",
+    "founded": 1737,
+    "tier": "mid",
+    "summary": "Among the oldest Swiss watchmakers, credited with inventing the automatic movement principle, now owned by the Fossil Group. The brand maintains a focus on automatic complications and accessible luxury positioning."
+  },
+  {
+    "slug": "pheidippides-watches",
+    "name": "Pheidippides Watches",
+    "country": "Unknown",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "philippe-dufour",
+    "name": "Philippe Dufour",
+    "country": "Switzerland",
+    "founded": 1992,
+    "tier": "top",
+    "summary": "Legendary independent artisan crafting ultra-simple chronometers of uncompromising perfection."
+  },
+  {
+    "slug": "piaget",
+    "name": "Piaget",
+    "country": "Switzerland",
+    "founded": 1874,
+    "tier": "top",
+    "summary": "Ultra-thin specialist and jewelry manufacture known for elegant integrated designs."
+  },
+  {
+    "slug": "pinion",
+    "name": "Pinion",
+    "country": "United States",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent American watchmaker — details limited."
+  },
+  {
+    "slug": "poljot",
+    "name": "Poljot",
+    "country": "Russia",
+    "founded": 1930,
+    "tier": "micro",
+    "summary": "Historic Russian manufacture producing mechanical chronographs and precision watches with space program connections."
+  },
+  {
+    "slug": "porsche-design",
+    "name": "Porsche Design",
+    "country": "Austria",
+    "founded": 1972,
+    "tier": "premium",
+    "summary": "Design-driven brand leveraging the Porsche brand heritage, producing watches with distinctive industrial aesthetics and technical precision. Manufactures in-house and collaborates with established Swiss watchmakers for movement production."
+  },
+  {
+    "slug": "prim",
+    "name": "Prim",
+    "country": "Czechoslovakia/Czech Republic",
+    "founded": 1949,
+    "tier": "mid",
+    "summary": "Czech state-owned watchmaker with heritage rooted in communist-era precision manufacturing, now producing accessible mechanical watches. Known for reliable movements and historical significance in Eastern European horology."
+  },
+  {
+    "slug": "rado",
+    "name": "Rado",
+    "country": "Switzerland",
+    "founded": 1957,
+    "tier": "premium",
+    "summary": "Swatch Group innovator renowned for ceramic cases, scratch-resistant technology, and minimalist design-forward timepiece philosophy."
+  },
+  {
+    "slug": "raketa",
+    "name": "Raketa",
+    "country": "Russia",
+    "founded": 1961,
+    "tier": "micro",
+    "summary": "Soviet-era Russian manufacturer known for affordable mechanical watches and unique polar exploration heritage."
+  },
+  {
+    "slug": "ralph-lauren",
+    "name": "Ralph Lauren",
+    "country": "United States",
+    "founded": 1997,
+    "tier": "premium",
+    "summary": "Luxury fashion brand's horological division producing sophisticated dress watches and sports chronographs with refined aesthetics aligned to heritage positioning."
+  },
+  {
+    "slug": "reservoir",
+    "name": "Reservoir",
+    "country": "France",
+    "founded": 2007,
+    "tier": "premium",
+    "summary": "French independent watchmaker producing refined mechanical watches with Art Deco-influenced designs and emphasis on classical proportions and in-house movements."
+  },
+  {
+    "slug": "ressence",
+    "name": "Ressence",
+    "country": "Belgium",
+    "founded": 2010,
+    "tier": "premium",
+    "summary": "Belgian innovator creating unique oil-filled dial watches with distinctive design language."
+  },
+  {
+    "slug": "rgm",
+    "name": "RGM",
+    "country": "United States",
+    "founded": 2002,
+    "tier": "premium",
+    "summary": "Pennsylvania-based manufacture creating in-house American movements and complete watches."
+  },
+  {
+    "slug": "richard-mille",
+    "name": "Richard Mille",
+    "country": "Switzerland",
+    "founded": 2001,
+    "tier": "top",
+    "summary": "Modern ultra-luxury brand fusing motorsport technology with avant-garde design."
+  },
+  {
+    "slug": "robot-watch",
+    "name": "Robot Watch",
+    "country": "Switzerland",
+    "founded": 2008,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "roger-dubuis",
+    "name": "Roger Dubuis",
+    "country": "Switzerland",
+    "founded": 1995,
+    "tier": "top",
+    "summary": "Independent manufacture fusing haute horlogerie with contemporary design language."
+  },
+  {
+    "slug": "roger-w-smith",
+    "name": "Roger W. Smith",
+    "country": "United Kingdom",
+    "founded": 1989,
+    "tier": "top",
+    "summary": "British independent master creating chronometers of legendary finishing perfection."
+  },
+  {
+    "slug": "rolex",
+    "name": "Rolex",
+    "country": "Switzerland",
+    "founded": 1905,
+    "tier": "top",
+    "summary": "World's most iconic tool watch brand, pioneering chronometer standards and sports watches."
+  },
+  {
+    "slug": "romain-gauthier",
+    "name": "Romain Gauthier",
+    "country": "Switzerland",
+    "founded": 2007,
+    "tier": "top",
+    "summary": "Swiss independent watchmaker producing exceptional hand-finished mechanical watches."
+  },
+  {
+    "slug": "romain-jerome",
+    "name": "Romain Jerome",
+    "country": "Switzerland",
+    "founded": 2002,
+    "tier": "micro",
+    "summary": "Micro manufacture known for unconventional designs, artistic collaborations, material experimentation, and theatrical watch presentations."
+  },
+  {
+    "slug": "san-martin",
+    "name": "San Martin",
+    "country": "China",
+    "founded": 2013,
+    "tier": "mid",
+    "summary": "Chinese microbrand offering well-designed dive watches at accessible price points."
+  },
+  {
+    "slug": "schofield",
+    "name": "Schofield",
+    "country": "United Kingdom",
+    "founded": 2014,
+    "tier": "micro",
+    "summary": "British microbrand creating vintage-inspired dive watches with modern reliability."
+  },
+  {
+    "slug": "schwarz-etienne",
+    "name": "Schwarz Etienne",
+    "country": "Switzerland",
+    "founded": 1786,
+    "tier": "mid",
+    "summary": "A historic Geneva watchmaker specializing in bespoke and limited-production mechanical watches with strong finishing standards. The brand maintains independence and focuses on classical complications and refined case designs."
+  },
+  {
+    "slug": "sea-gull",
+    "name": "Sea-Gull",
+    "country": "China",
+    "founded": 1955,
+    "tier": "micro",
+    "summary": "Chinese manufacturer known for affordable mechanical movements, chronographs, and reliable construction."
+  },
+  {
+    "slug": "seiko",
+    "name": "Seiko",
+    "country": "Japan",
+    "founded": 1881,
+    "tier": "premium",
+    "summary": "Japanese manufacture leader pioneering quartz, automatic movements, and affordable quality watches globally."
+  },
+  {
+    "slug": "sevenfriday",
+    "name": "SevenFriday",
+    "country": "Switzerland",
+    "founded": 2012,
+    "tier": "mid",
+    "summary": "A contemporary Swiss brand known for industrial-inspired design and quartz/automatic movements at accessible price points. Positioned toward design-forward consumers rather than traditional horology enthusiasts."
+  },
+  {
+    "slug": "shanghai",
+    "name": "Shanghai",
+    "country": "China",
+    "founded": 1955,
+    "tier": "micro",
+    "summary": "Historic Chinese manufacture creating mechanical watches reflecting traditional Chinese watchmaking heritage."
+  },
+  {
+    "slug": "sherpa",
+    "name": "Sherpa",
+    "country": "Nepal",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "shinola",
+    "name": "Shinola",
+    "country": "United States",
+    "founded": 2011,
+    "tier": "mid",
+    "summary": "Detroit-based brand assembling watches with American-made components and heritage focus."
+  },
+  {
+    "slug": "sinn",
+    "name": "Sinn",
+    "country": "Germany",
+    "founded": 1961,
+    "tier": "premium",
+    "summary": "Frankfurt-based tool watch manufacturer specializing in pilot watches and submarine-tested instrument timepieces."
+  },
+  {
+    "slug": "smith-and-sons",
+    "name": "Smith & Sons",
+    "country": "United Kingdom",
+    "founded": 2015,
+    "tier": "micro",
+    "summary": "Independent UK watchmaker producing small-batch mechanical watches with traditional craftsmanship."
+  },
+  {
+    "slug": "speake-marin",
+    "name": "Speake-Marin",
+    "country": "Switzerland",
+    "founded": 2002,
+    "tier": "micro",
+    "summary": "Micro-brand creating distinctive mechanical watches with artistic design, marine inspiration, and independent watchmaking philosophy focus."
+  },
+  {
+    "slug": "squale",
+    "name": "Squale",
+    "country": "Switzerland",
+    "founded": 1950,
+    "tier": "mid",
+    "summary": "Swiss manufacturer specializing in robust diving watches with exceptional water resistance."
+  },
+  {
+    "slug": "staudt",
+    "name": "Staudt",
+    "country": "Germany",
+    "founded": 2011,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "steeldive",
+    "name": "Steeldive",
+    "country": "China",
+    "founded": 2016,
+    "tier": "mid",
+    "summary": "Chinese brand specializing in affordable homage dive watches with solid build quality."
+  },
+  {
+    "slug": "steinhart",
+    "name": "Steinhart",
+    "country": "Germany",
+    "founded": 2001,
+    "tier": "mid",
+    "summary": "German watchmaker producing homage sports watches with reliable mechanical movements."
+  },
+  {
+    "slug": "stowa",
+    "name": "Stowa",
+    "country": "Germany",
+    "founded": 1927,
+    "tier": "mid",
+    "summary": "Pforzheim manufacturer of Flieger watches and classic dress pieces with strong vintage heritage."
+  },
+  {
+    "slug": "stuckx",
+    "name": "Stuck X",
+    "country": "Germany",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "sturmanskie",
+    "name": "Sturmanskie",
+    "country": "Russia",
+    "founded": 1961,
+    "tier": "micro",
+    "summary": "Russian pilot watch manufacturer with authentic cosmonautic heritage and Soviet aviation watch tradition."
+  },
+  {
+    "slug": "swatch",
+    "name": "Swatch",
+    "country": "Switzerland",
+    "founded": 1983,
+    "tier": "micro",
+    "summary": "Swatch revolutionized watchmaking through quartz analog timepieces with plastic cases and artistic designs, democratizing affordable watches globally. The brand became iconic for fashion-forward aesthetics while maintaining Swiss manufacturing precision at mass-market scale."
+  },
+  {
+    "slug": "sye",
+    "name": "SYE",
+    "country": "Unknown",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "tag-heuer",
+    "name": "TAG Heuer",
+    "country": "Switzerland",
+    "founded": 1860,
+    "tier": "premium",
+    "summary": "LVMH-owned Swiss brand recognized for sports chronographs, precision timing, and contemporary designs appealing to athletes and collectors."
+  },
+  {
+    "slug": "tag-heuer-connected",
+    "name": "Tag Heuer Connected",
+    "country": "Switzerland",
+    "founded": 2015,
+    "tier": "premium",
+    "summary": "Luxury smartwatch collection combining traditional watchmaking heritage with modern connected technology."
+  },
+  {
+    "slug": "takano",
+    "name": "Takano",
+    "country": "Japan",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "twco",
+    "name": "The Watch Company",
+    "country": "Unknown",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "tissot",
+    "name": "Tissot",
+    "country": "Switzerland",
+    "founded": 1853,
+    "tier": "premium",
+    "summary": "Swatch Group brand known for accessible Swiss watchmaking, diverse designs, chronographs, and mechanical innovation at reasonable prices."
+  },
+  {
+    "slug": "toledano-chan",
+    "name": "Toledano Chan",
+    "country": "Unknown",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent watchmaker — details limited."
+  },
+  {
+    "slug": "tudor",
+    "name": "Tudor",
+    "country": "Switzerland",
+    "founded": 1926,
+    "tier": "premium",
+    "summary": "Rolex-owned brand offering excellent value with robust mechanical watches, vintage heritage appeal, and accessible luxury positioning."
+  },
+  {
+    "slug": "tutima",
+    "name": "Tutima",
+    "country": "Germany",
+    "founded": 1927,
+    "tier": "premium",
+    "summary": "Glashutte-based pilot watch specialist with military heritage and chronograph expertise."
+  },
+  {
+    "slug": "ulysse-nardin",
+    "name": "Ulysse Nardin",
+    "country": "Switzerland",
+    "founded": 1846,
+    "tier": "top",
+    "summary": "Kering-owned manufacture famous for marine chronometers, astronomical complications, innovative movements, and nautical heritage expertise."
+  },
+  {
+    "slug": "unimatic",
+    "name": "Unimatic",
+    "country": "Italy",
+    "founded": 2013,
+    "tier": "mid",
+    "summary": "Unimatic is an independent Italian watchmaker specializing in minimalist, Bauhaus-inspired dive watches with Japanese movements and Italian design ethos. The brand produces limited editions emphasizing clean aesthetics and accessible pricing for enthusiasts."
+  },
+  {
+    "slug": "universal-geneve",
+    "name": "Universal Genève",
+    "country": "Switzerland",
+    "founded": 1894,
+    "tier": "premium",
+    "summary": "A historic Geneva manufacture known for precision chronographs and innovative complications throughout the 20th century. Though diminished from its mid-century prominence, the brand retains respect for its technical heritage and accessible positioning within Swiss watchmaking."
+  },
+  {
+    "slug": "uniwerk",
+    "name": "Uniwerk",
+    "country": "South Korea",
+    "founded": 2010,
+    "tier": "micro",
+    "summary": "Contemporary Korean independent watchmaker creating innovative mechanical watches with minimalist aesthetics."
+  },
+  {
+    "slug": "urwerk",
+    "name": "Urwerk",
+    "country": "Switzerland",
+    "founded": 1989,
+    "tier": "top",
+    "summary": "Independent brand creating revolutionary satellite hour displays and mechanical avant-garde."
+  },
+  {
+    "slug": "vacheron-constantin",
+    "name": "Vacheron Constantin",
+    "country": "Switzerland",
+    "founded": 1755,
+    "tier": "top",
+    "summary": "Oldest continuously operating manufacture, master of complications and haute horlogerie."
+  },
+  {
+    "slug": "van-cleef-and-arpels",
+    "name": "Van Cleef & Arpels",
+    "country": "France",
+    "founded": 1906,
+    "tier": "top",
+    "summary": "Parisian jewelry legacy creating poetic complications and artistic haute horlogerie."
+  },
+  {
+    "slug": "van-der-gang-watches",
+    "name": "Van der Gang Watches",
+    "country": "Netherlands",
+    "founded": null,
+    "tier": "micro",
+    "summary": "Independent Dutch watchmaker — details limited."
+  },
+  {
+    "slug": "vianney-halter",
+    "name": "Vianney Halter",
+    "country": "Switzerland",
+    "founded": 1988,
+    "tier": "top",
+    "summary": "Swiss independent watchmaker creating avant-garde timepieces with innovative technical solutions."
+  },
+  {
+    "slug": "victorinox",
+    "name": "Victorinox",
+    "country": "Switzerland",
+    "founded": 1884,
+    "tier": "mid",
+    "summary": "Swiss company best known for multi-tools that expanded into reliable, tool-watch-inspired timepieces offering excellent value and functional design."
+  },
+  {
+    "slug": "vortic",
+    "name": "Vortic",
+    "country": "United States",
+    "founded": 2013,
+    "tier": "micro",
+    "summary": "American watchmaker assembling vintage movements into contemporary watch designs."
+  },
+  {
+    "slug": "vostok",
+    "name": "Vostok",
+    "country": "Russia",
+    "founded": 1942,
+    "tier": "micro",
+    "summary": "Russian manufacture famous for amphibian diving watches and legendary military timepiece heritage."
+  },
+  {
+    "slug": "voutilainen",
+    "name": "Voutilainen",
+    "country": "Finland",
+    "founded": 2005,
+    "tier": "top",
+    "summary": "Finnish independent master creating elaborate chronometers with exceptional finishing."
+  },
+  {
+    "slug": "weiss",
+    "name": "Weiss",
+    "country": "United States",
+    "founded": 2012,
+    "tier": "micro",
+    "summary": "American microbrand producing affordable, hand-assembled tool watches and field instruments."
+  },
+  {
+    "slug": "wempe-glashutte-i-sa",
+    "name": "Wempe Glashütte i.SA.",
+    "country": "Germany",
+    "founded": 1861,
+    "tier": "premium",
+    "summary": "German manufacture with Glashütte heritage, producing classically-oriented mechanical watches with traditional finishing standards. Maintains historical watchmaking principles while serving premium market positioning."
+  },
+  {
+    "slug": "wyler-geneve",
+    "name": "Wyler Genève",
+    "country": "Switzerland",
+    "founded": 1905,
+    "tier": "mid",
+    "summary": "Historic Swiss watchmaker known for diving watches and sports chronographs with technical innovation heritage. Contemporary brand operates as a niche producer maintaining vintage design language and mechanical reliability."
+  },
+  {
+    "slug": "yema",
+    "name": "Yema",
+    "country": "France",
+    "founded": 1948,
+    "tier": "mid",
+    "summary": "French watchmaker revived as modern brand producing diving instruments with heritage appeal."
+  },
+  {
+    "slug": "zeitwinkel",
+    "name": "Zeitwinkel",
+    "country": "Germany",
+    "founded": 2017,
+    "tier": "micro",
+    "summary": "Independent German watchmaker focused on minimalist design and in-house movement development. Limited production boutique brand emphasizing horological substance over commercial visibility."
+  },
+  {
+    "slug": "zenith",
+    "name": "Zenith",
+    "country": "Switzerland",
+    "founded": 1865,
+    "tier": "top",
+    "summary": "LVMH manufacture celebrated for chronograph expertise, high-frequency movements, and precision engineering with sporty contemporary styling."
   }
 ]

@@ -1,0 +1,111 @@
+{
+  "brand_slug": "bvlgari",
+  "collections": [
+    {
+      "name": "Octo",
+      "slug": "octo",
+      "references": [
+        {
+          "slug": "octo-finissimo-automatic",
+          "url": "/bvlgari/octo/octo-finissimo-automatic",
+          "text": "Octo Finissimo Automatic Titanium"
+        },
+        {
+          "slug": "octo-finissimo-tourbillon",
+          "url": "/bvlgari/octo/octo-finissimo-tourbillon",
+          "text": "Octo Finissimo Tourbillon Titanium"
+        },
+        {
+          "slug": "octo-finissimo-perpetual-calendar",
+          "url": "/bvlgari/octo/octo-finissimo-perpetual-calendar",
+          "text": "Octo Finissimo Perpetual Calendar Titanium"
+        },
+        {
+          "slug": "octo-roma",
+          "url": "/bvlgari/octo/octo-roma",
+          "text": "Octo Roma Steel"
+        }
+      ]
+    },
+    {
+      "name": "Bulgari Bulgari",
+      "slug": "bulgari-bulgari",
+      "references": [
+        {
+          "slug": "bulgari-bulgari-automatic",
+          "url": "/bvlgari/bulgari-bulgari/bulgari-bulgari-automatic",
+          "text": "Bulgari Bulgari Automatic Steel"
+        },
+        {
+          "slug": "bulgari-bulgari-chrono",
+          "url": "/bvlgari/bulgari-bulgari/bulgari-bulgari-chrono",
+          "text": "Bulgari Bulgari Chronograph Steel"
+        },
+        {
+          "slug": "bulgari-bulgari-tubogas",
+          "url": "/bvlgari/bulgari-bulgari/bulgari-bulgari-tubogas",
+          "text": "Bulgari Bulgari Tubogas Steel"
+        }
+      ]
+    },
+    {
+      "name": "Serpenti",
+      "slug": "serpenti",
+      "references": [
+        {
+          "slug": "serpenti-tubogas",
+          "url": "/bvlgari/serpenti/serpenti-tubogas",
+          "text": "Serpenti Tubogas Steel"
+        },
+        {
+          "slug": "serpenti-seduttori",
+          "url": "/bvlgari/serpenti/serpenti-seduttori",
+          "text": "Serpenti Seduttori Steel"
+        },
+        {
+          "slug": "serpenti-spiga",
+          "url": "/bvlgari/serpenti/serpenti-spiga",
+          "text": "Serpenti Spiga Gold"
+        },
+        {
+          "slug": "serpenti-misteriosi",
+          "url": "/bvlgari/serpenti/serpenti-misteriosi",
+          "text": "Serpenti Misteriosi Jewelry Watch"
+        }
+      ]
+    },
+    {
+      "name": "Lvcea",
+      "slug": "lvcea",
+      "references": [
+        {
+          "slug": "lvcea-automatic",
+          "url": "/bvlgari/lvcea/lvcea-automatic",
+          "text": "Lvcea Automatic Steel"
+        },
+        {
+          "slug": "lvcea-tubogas",
+          "url": "/bvlgari/lvcea/lvcea-tubogas",
+          "text": "Lvcea Tubogas Steel & Gold"
+        }
+      ]
+    },
+    {
+      "name": "Aluminium",
+      "slug": "aluminium",
+      "references": [
+        {
+          "slug": "aluminium-automatic",
+          "url": "/bvlgari/aluminium/aluminium-automatic",
+          "text": "Aluminium Automatic Chronograph"
+        },
+        {
+          "slug": "aluminium-time-date",
+          "url": "/bvlgari/aluminium/aluminium-time-date",
+          "text": "Aluminium Time & Date"
+        }
+      ]
+    }
+  ],
+  "total_references": 15
+}
