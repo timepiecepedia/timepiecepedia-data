@@ -1,21 +1,27 @@
 # Timepiecepedia — Free Watch Database
 
-> **23,568+ watch references across 34 brands** — a free, open dataset of luxury and mechanical watches with full specifications, movements, materials, and imagery.
+> **25,590 watch references across 171 brands** — a free, open dataset of luxury and mechanical watches with full specifications, movements, materials, and imagery.
 
-Curated by [timepiecepedia.com](https://timepiecepedia.com), the free online encyclopedia of horology.
+Curated by [timepiecepedia.com](https://timepiecepedia.com), the free online encyclopedia of horology. Updated automatically every few hours as new brands and references are catalogued.
+
+_Last updated: 2026-04-18T10:13:37.742Z_
 
 ## What's inside
 
-| File | Format | Size | Records |
-|------|--------|------|---------|
-| `references.csv` | Flat CSV, 11 columns | 8.1 MB | 23,568 watches |
-| `catalog/` | Nested JSON per brand/family | 60 MB | 693 files |
-| `brands.json` | Brand metadata (name, country, founded, tier, summary) | 32 KB | 34 brands |
-| `glossary.json` | Watchmaking terminology | 176 KB | — |
+| File | Format | Records |
+|------|--------|---------|
+| `references.csv` | Flat CSV, 11 columns | 25,732 watches |
+| `catalog/` | Nested JSON per brand/family | 171 brands |
+| `brands.json` | Brand metadata (name, country, founded, tier, summary) | 126 brands |
+| `glossary.json` | Watchmaking terminology | 1,075 terms |
 
-## Brands covered
+## Dataset highlights
 
-A. Lange & Söhne, Alexandre Meerson, Amida, Anonimo, Aonic, Apple, Archimede, Armand Nicolet, Armin Strom, Arnold & Son, Audemars Piguet, Avoirdupois, Ball Watch, Bastian Antoni, Baume & Mercier, Bausele, Bell & Ross, Berneron, Blancpain, Breguet, Breitling, Bremont, Breva, Omega, Patek Philippe, Piaget, Rado, Richard Mille, Rolex, Tudor, Vacheron Constantin, and more.
+- **25,590** individual watch references catalogued
+- **171** brands indexed (38 with full reference data, more being added continuously)
+- **1,075** horology terms defined
+- Imagery URLs, technical specs (movement, materials, diameter, water resistance), collection/family grouping
+- Multilingual: English + French (104 editorial articles)
 
 ## CSV schema (`references.csv`)
 
@@ -72,10 +78,10 @@ If you build something cool with this, link back to [timepiecepedia.com](https:/
 
 Spotted a wrong spec or missing reference? Open an issue or PR.
 
-## Source
+## Updates
 
-Dataset compiled by the [Timepiecepedia](https://timepiecepedia.com) editorial team. Updated periodically.
+This repo is **auto-synced** with timepiecepedia.com. The scraper continuously adds new brands and references, and this dataset is regenerated and pushed every few hours. Watch/star the repo to be notified.
 
 ---
 
-**Star this repo** ⭐ if you found it useful — it helps others discover it.
+⭐ **Star this repo** if you find it useful — it helps others discover free open watch data.
