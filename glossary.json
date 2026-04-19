@@ -555,6 +555,26 @@
     "category": "Movement"
   },
   {
+    "term": "Broad Arrow Authentication",
+    "short": "Verification process confirming genuine Crown military issuance by examining hallmark placement and stamps.",
+    "category": "History"
+  },
+  {
+    "term": "Broad Arrow Crown",
+    "short": "Crown stamped with British broad arrow mark indicating Crown-issued military timepiece.",
+    "category": "Case"
+  },
+  {
+    "term": "Broad Arrow Mark",
+    "short": "British military property mark denoting Crown ownership; stamped on case back or dial of service watches.",
+    "category": "History"
+  },
+  {
+    "term": "Broad Arrow Provenance",
+    "short": "Authentication marker establishing military issuance history through official Crown ownership symbols.",
+    "category": "History"
+  },
+  {
     "term": "Bronze",
     "short": "Copper-tin alloy developing patina over time; used for vintage-style watch cases",
     "category": "Materials"
@@ -2330,6 +2350,26 @@
     "category": "Display"
   },
   {
+    "term": "GS/TP Approved",
+    "short": "German military certification for precision timekeeping from Gesellschaft für Strahlenforschung.",
+    "category": "Certification"
+  },
+  {
+    "term": "GS/TP Escapement Standard",
+    "short": "German military requirement for co-axial or chronometer escapement in precision military timepieces.",
+    "category": "Movement"
+  },
+  {
+    "term": "GS/TP Movement Certification",
+    "short": "German precision watchmaking standard for military chronometers requiring ±15 seconds monthly rate.",
+    "category": "Certification"
+  },
+  {
+    "term": "GS/TP Rate Certificate",
+    "short": "German military chronometer certificate documenting daily rate, amplitude, and beat error measurements.",
+    "category": "Certification"
+  },
+  {
     "term": "GTLS",
     "short": "Abbreviation for gaseous tritium light source, a self-illuminating watch dial technology",
     "category": "Materials"
@@ -3329,9 +3369,59 @@
     "category": "History"
   },
   {
+    "term": "MIL-SPEC Movement",
+    "short": "Chronometer-grade movement meeting U.S. military specifications for accuracy and shock resistance.",
+    "category": "Movement"
+  },
+  {
+    "term": "MIL-W Crown Guard",
+    "short": "Protective crown housing exceeding standard military specifications to prevent accidental winding.",
+    "category": "Case"
+  },
+  {
+    "term": "MIL-W Lume Specification",
+    "short": "Military-mandated luminous material meeting visibility standards for 8+ hours in complete darkness.",
+    "category": "Dial"
+  },
+  {
+    "term": "MIL-W Shock Resistance",
+    "short": "Military specification requiring movement to survive 50G impact without losing chronometer rating.",
+    "category": "Movement"
+  },
+  {
+    "term": "MIL-W-3818",
+    "short": "Original U.S. military watch specification from 1940s defining ruggedness and reliability standards.",
+    "category": "Certification"
+  },
+  {
+    "term": "MIL-W-46374",
+    "short": "U.S. military specification for general-purpose military wristwatches issued 1974-1990s.",
+    "category": "Certification"
+  },
+  {
     "term": "Milanese mesh",
     "short": "Fine interlocked metal mesh bracelet, smooth comfort and elegant vintage appeal",
     "category": "Bracelet"
+  },
+  {
+    "term": "Military Dial Designation",
+    "short": "Abbreviated code printed on military-issue dial indicating service branch and acceptance specification.",
+    "category": "Dial"
+  },
+  {
+    "term": "Military Grade Sealing",
+    "short": "Enhanced case sealing technology required by MIL-W specifications achieving 300m+ water resistance.",
+    "category": "Case"
+  },
+  {
+    "term": "Military Issue Bracelet",
+    "short": "Robust military-spec bracelet typically featuring solid links and enhanced security clasp mechanisms.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Military Issue Tracking",
+    "short": "Serial number system linking military watches to issuance records via MOD and NATO database archives.",
+    "category": "Certification"
   },
   {
     "term": "MilSub",
@@ -3372,6 +3462,26 @@
     "term": "Miyota 9015",
     "short": "Meca-quartz hybrid, mechanical chronograph with quartz timekeeping, battery powered operation",
     "category": "Movement"
+  },
+  {
+    "term": "MOD Acceptance Test",
+    "short": "Rigorous testing protocol required for watches submitted for British military service designation.",
+    "category": "Certification"
+  },
+  {
+    "term": "MOD Issue Watch",
+    "short": "Watch officially issued by British Ministry of Defence to military personnel for field operations.",
+    "category": "History"
+  },
+  {
+    "term": "MOD Modification Log",
+    "short": "Official record documenting authorized changes to military-issue watches during service life maintenance.",
+    "category": "History"
+  },
+  {
+    "term": "MOD Test Certificate",
+    "short": "Official documentation proving watch passed British Ministry of Defence acceptance testing criteria.",
+    "category": "Certification"
   },
   {
     "term": "Modern lume standards",
@@ -3504,9 +3614,29 @@
     "category": "Materials"
   },
   {
+    "term": "NATO Stock Cataloging",
+    "short": "System indexing military timepieces by function, issuing nation, and technical specifications for logistics.",
+    "category": "Certification"
+  },
+  {
+    "term": "NATO Stock Number",
+    "short": "NATO Reference Number (NRN) cataloging system for military equipment including issued wristwatches.",
+    "category": "Certification"
+  },
+  {
     "term": "NATO Strap",
     "short": "Nylon fabric strap with metal hardware, durable alternative to traditional bracelets",
     "category": "Materials"
+  },
+  {
+    "term": "NATO Strap Compatibility",
+    "short": "Universal lug width specification (typically 20mm) allowing rapid strap interchange in field conditions.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "NATO Strap Lugs",
+    "short": "Case lug design allowing rapid field replacement of watch band using standard NATO strap system.",
+    "category": "Case"
   },
   {
     "term": "Nautilus",
@@ -4484,6 +4614,11 @@
     "category": "Aesthetics"
   },
   {
+    "term": "Service Case Back",
+    "short": "Engraved caseback featuring broad arrow, service number, issuance year, and soldier identification.",
+    "category": "Case"
+  },
+  {
     "term": "Service Cost Estimate",
     "short": "Quoted price for watch repair and maintenance work before authorization",
     "category": "Administration"
@@ -4507,6 +4642,11 @@
     "term": "Service interval",
     "short": "Manufacturer-recommended timeframe for professional maintenance and movement inspection",
     "category": "Maintenance"
+  },
+  {
+    "term": "Service Watch Bezel",
+    "short": "Rotating bezel on military-issue watches typically featuring elapsed-time scale for field operations.",
+    "category": "Case"
   },
   {
     "term": "Setting Lever",
@@ -5222,6 +5362,11 @@
     "term": "Vulcanized rubber",
     "short": "Heat-bonded rubber material creating durable, flexible, and water-resistant straps",
     "category": "Strap"
+  },
+  {
+    "term": "W10 Marking",
+    "short": "British military designation on dial indicating 10-day power reserve requirement for issued timepieces.",
+    "category": "Dial"
   },
   {
     "term": "Waffle Dial",
