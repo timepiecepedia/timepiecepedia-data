@@ -1,17 +1,1 @@
-{
-  "brand_slug": "richard-mille",
-  "collections": [
-    {
-      "name": "Tonneau watches1",
-      "slug": "tonneau",
-      "references": [
-        {
-          "slug": "501-04-91",
-          "text": "501.04.91 RM002 Red Gold",
-          "url": "/richard-mille/tonneau/501-04-91"
-        }
-      ]
-    }
-  ],
-  "total_references": 1
-}
+{"brand_slug":"richard-mille","collections":[{"name":"Tonneau watches1","slug":"tonneau","references":[{"slug":"501-04-91","url":"/richard-mille/tonneau/501-04-91","text":"Richard Mille - 501.04.91 RM002 Red Gold"}]},{"name":"RM Collection","slug":"rm-collection","references":[{"slug":"rm-001","url":"/richard-mille/rm-collection/rm-001","text":"Richard Mille RM 001 Tourbillon"},{"slug":"rm-002","url":"/richard-mille/rm-collection/rm-002","text":"Richard Mille RM 002 Tourbillon"},{"slug":"rm-008","url":"/richard-mille/rm-collection/rm-008","text":"Richard Mille RM 008 Tourbillon Split Seconds Chronograph"},{"slug":"rm-056","url":"/richard-mille/rm-collection/rm-056","text":"Richard Mille RM 056 Tourbillon Sapphire"},{"slug":"rm-52-01","url":"/richard-mille/rm-collection/rm-52-01","text":"Richard Mille RM 52-01 Tourbillon Skull"},{"slug":"rm-031","url":"/richard-mille/rm-collection/rm-031","text":"Richard Mille RM 031 High Performance"},{"slug":"rm-011","url":"/richard-mille/rm-collection/rm-011","text":"Richard Mille RM 011 Flyback Chronograph Felipe Massa"}]},{"name":"Rafael Nadal","slug":"rafael-nadal","references":[{"slug":"rm-027","url":"/richard-mille/rafael-nadal/rm-027","text":"Richard Mille RM 027 Tourbillon Rafael Nadal"},{"slug":"rm-35-02","url":"/richard-mille/rafael-nadal/rm-35-02","text":"Richard Mille RM 35-02 Rafael Nadal"},{"slug":"rm-27-04","url":"/richard-mille/rafael-nadal/rm-27-04","text":"Richard Mille RM 27-04 Tourbillon Rafael Nadal"}]},{"name":"McLaren F1","slug":"mclaren-f1","references":[{"slug":"rm-50-03","url":"/richard-mille/mclaren-f1/rm-50-03","text":"Richard Mille RM 50-03 Tourbillon Split Seconds Chronograph Ultralight McLaren F1"}]},{"name":"Pablo Mac Donough","slug":"pablo-mac-donough","references":[{"slug":"rm-53-01","url":"/richard-mille/pablo-mac-donough/rm-53-01","text":"Richard Mille RM 53-01 Tourbillon Pablo Mac Donough"}]},{"name":"Ladies Collection","slug":"ladies-collection","references":[{"slug":"rm-037","url":"/richard-mille/ladies-collection/rm-037","text":"Richard Mille RM 037 Automatic"}]},{"name":"Bubba Watson","slug":"bubba-watson","references":[{"slug":"rm-055","url":"/richard-mille/bubba-watson/rm-055","text":"Richard Mille RM 055 Bubba Watson"}]},{"name":"Lifestyle","slug":"lifestyle","references":[{"slug":"rm-72-01","url":"/richard-mille/lifestyle/rm-72-01","text":"Richard Mille RM 72-01 Lifestyle In-House Chronograph"}]}],"total_references":16}
