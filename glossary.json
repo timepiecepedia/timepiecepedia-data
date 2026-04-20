@@ -305,6 +305,21 @@
     "category": "Strap"
   },
   {
+    "term": "Barleycorn Angle Tolerance",
+    "short": "Manufacturing specification ensuring consistent diagonal angle of barleycorn lines ±1-2°.",
+    "category": "Dial"
+  },
+  {
+    "term": "Barleycorn Grain Direction",
+    "short": "Orientation specification indicating primary diagonal flow direction of grain texture.",
+    "category": "Dial"
+  },
+  {
+    "term": "Barleycorn Motif",
+    "short": "Repeating grain-like diagonal striations mimicking barley texture on finished dial surfaces.",
+    "category": "Dial"
+  },
+  {
     "term": "Barometer Complication",
     "short": "Mechanical display showing atmospheric pressure changes, indicating weather patterns or altitude.",
     "category": "Complications"
@@ -1035,6 +1050,26 @@
     "category": "Decoration"
   },
   {
+    "term": "Clous de Paris Burnishing",
+    "short": "Finishing technique polishing raised dot edges while preserving textured surface.",
+    "category": "Dial"
+  },
+  {
+    "term": "Clous de Paris Guilloché",
+    "short": "Regular pattern of punched dots creating a raised nail-head texture on dial surfaces.",
+    "category": "Dial"
+  },
+  {
+    "term": "Clous de Paris Indexing",
+    "short": "Positioning system for punch tool ensuring regular spacing of nail-head dots across dial.",
+    "category": "Tools"
+  },
+  {
+    "term": "Clous de Paris Relief",
+    "short": "Three-dimensional variation of clous pattern with enhanced raised dots for shadow depth.",
+    "category": "Dial"
+  },
+  {
     "term": "Clutch Wheel",
     "short": "Wheel that couples or decouples train wheels during winding versus timekeeping modes",
     "category": "Movement"
@@ -1368,6 +1403,11 @@
     "term": "Cross-brushing",
     "short": "Multi-directional brushing creating crosshatch texture pattern",
     "category": "Finishing"
+  },
+  {
+    "term": "Cross-Hatch Barleycorn",
+    "short": "Double-direction barleycorn pattern creating dense interlocking diagonal texture on dial.",
+    "category": "Dial"
   },
   {
     "term": "Cross-Platform Synchronization Protocol",
@@ -1708,6 +1748,11 @@
     "term": "Dial Painter",
     "short": "Skilled craftsperson hand-painting and decorating watch dials with precision",
     "category": "Manufacture"
+  },
+  {
+    "term": "Dial Planishing",
+    "short": "Process of smoothing and hardening textured dial surfaces using specialized hammers.",
+    "category": "Dial"
   },
   {
     "term": "Dial Printing",
@@ -2380,6 +2425,11 @@
     "category": "Treatments"
   },
   {
+    "term": "Guillochage Machine",
+    "short": "Precision lathe attachment for engraving repeating geometric patterns on dial surfaces.",
+    "category": "Tools"
+  },
+  {
     "term": "Guilloche",
     "short": "Decorative machine-engraved pattern with repetitive geometric or wavy lines.",
     "category": "Dial"
@@ -2583,6 +2633,21 @@
     "term": "High-Beat Movement",
     "short": "Movement with vibration frequency above 28,800 bph for smoother second hand motion.",
     "category": "Movement"
+  },
+  {
+    "term": "Hobnail Cap Height",
+    "short": "Vertical measurement of raised hemispherical bumps in hobnail pattern, typically 0.2-0.4mm.",
+    "category": "Dial"
+  },
+  {
+    "term": "Hobnail Cluster Density",
+    "short": "Specification for spacing and frequency of hobnail bumps per square millimeter on dial.",
+    "category": "Dial"
+  },
+  {
+    "term": "Hobnail Texture",
+    "short": "Raised hemispherical bumps arranged in grid pattern, resembling boot sole studs on dial.",
+    "category": "Dial"
   },
   {
     "term": "Hollow case",
@@ -2959,9 +3024,24 @@
     "category": "Collecting"
   },
   {
+    "term": "Linen Diagonal Pitch",
+    "short": "Standard spacing distance between linen weave lines, typically 1.5mm increments.",
+    "category": "Dial"
+  },
+  {
     "term": "Linen finish",
     "short": "Fine linear pattern resembling fabric linen texture",
     "category": "Finishing"
+  },
+  {
+    "term": "Linen Weave Dial",
+    "short": "Diagonal cross-hatching pattern imitating linen fabric weave structure on dial surface.",
+    "category": "Dial"
+  },
+  {
+    "term": "Linen Weave Interlace",
+    "short": "Pattern intersection points where horizontal and vertical linen lines cross on dial.",
+    "category": "Dial"
   },
   {
     "term": "Link",
@@ -3877,6 +3957,26 @@
     "term": "Patina Development",
     "short": "Natural or controlled oxidation of metals creating aged, distinctive colored surface appearance.",
     "category": "Surface Treatment"
+  },
+  {
+    "term": "Pattern Preservation Lacquer",
+    "short": "Clear protective coating applied over textured dials to prevent pattern deterioration.",
+    "category": "Dial"
+  },
+  {
+    "term": "Pattern Punch Tool",
+    "short": "Specialized tool used to create clous de Paris and hobnail patterns on dial blanks.",
+    "category": "Tools"
+  },
+  {
+    "term": "Pattern Reproduction Fidelity",
+    "short": "Quality standard measuring accuracy of pattern replication across dial production batches.",
+    "category": "Dial"
+  },
+  {
+    "term": "Pattern Transfer Method",
+    "short": "Technique for applying dial texture patterns using electroforming or stamping processes.",
+    "category": "Dial"
   },
   {
     "term": "Paul Newman Daytona",
@@ -4959,6 +5059,11 @@
     "category": "Surface Finishing"
   },
   {
+    "term": "Sunburst Radial",
+    "short": "Pattern variation combining tapisserie base with radiating lines from center hour marker.",
+    "category": "Dial"
+  },
+  {
     "term": "Sunray finish",
     "short": "Radial brushing pattern creating rays of light emanating from center",
     "category": "Finishing"
@@ -5039,6 +5144,26 @@
     "category": "Case"
   },
   {
+    "term": "Tapisserie Pattern",
+    "short": "Woven textile-inspired dial finish with interlocking geometric lines creating fabric-like appearance.",
+    "category": "Dial"
+  },
+  {
+    "term": "Tapisserie Shadow Relief",
+    "short": "Depth variation in woven pattern creating natural light-and-shadow visual effect.",
+    "category": "Dial"
+  },
+  {
+    "term": "Tapisserie Sub-Dial",
+    "short": "Smaller tapisserie-finished subsidiary dial used in chronograph or calendar complications.",
+    "category": "Dial"
+  },
+  {
+    "term": "Tapisserie Symmetry Axis",
+    "short": "Center reference line maintaining geometric balance of woven pattern across dial face.",
+    "category": "Dial"
+  },
+  {
     "term": "Telemeter",
     "short": "Scale calculating distance based on time delay between light and sound",
     "category": "Dial"
@@ -5072,6 +5197,16 @@
     "term": "Testing Protocol",
     "short": "Standardized procedures by COSC for evaluating chronometer precision and reliability",
     "category": "Certification"
+  },
+  {
+    "term": "Texture Contrast Ratio",
+    "short": "Light reflection differential between raised pattern elements and base dial surface.",
+    "category": "Dial"
+  },
+  {
+    "term": "Textured Dial Restoration",
+    "short": "Conservation technique for refinishing worn pattern details on vintage dial surfaces.",
+    "category": "Dial"
   },
   {
     "term": "Thermal Compensation Circuit",
@@ -5369,8 +5504,23 @@
     "category": "Dial"
   },
   {
+    "term": "Waffle Cell Geometry",
+    "short": "Mathematical specifications for waffle pattern including square dimensions and depth ratios.",
+    "category": "Dial"
+  },
+  {
     "term": "Waffle Dial",
     "short": "Grid-pattern embossed dial surface resembling waffle texture for enhanced visual interest",
+    "category": "Dial"
+  },
+  {
+    "term": "Waffle Dial Finish",
+    "short": "Square grid pattern of recessed cells creating three-dimensional grid-like appearance on dial.",
+    "category": "Dial"
+  },
+  {
+    "term": "Waffle Grid Depth",
+    "short": "Measurement standard for cell depth in waffle pattern, typically 0.3mm to 0.6mm.",
     "category": "Dial"
   },
   {
