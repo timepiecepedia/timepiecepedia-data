@@ -440,6 +440,11 @@
     "category": "Materials"
   },
   {
+    "term": "Bezel-to-Wrist Integration Analysis",
+    "short": "Critical review of how bezel design coordinates visually with wrist bone structure.",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "BGW9",
     "short": "High-performance Super-LumiNova variant offering exceptional brightness and glow duration",
     "category": "Materials"
@@ -553,6 +558,11 @@
     "term": "Bracelet-Integrated Chronograph",
     "short": "Chronograph pushers integrated into the watch bracelet lugs rather than case sides.",
     "category": "Complications"
+  },
+  {
+    "term": "Bracelet-to-Case Proportion Harmony",
+    "short": "Journalism terminology for visual balance between bracelet width and case diameter.",
+    "category": "Watch Journalism"
   },
   {
     "term": "Braided Leather",
@@ -755,6 +765,11 @@
     "category": "Case"
   },
   {
+    "term": "Case Diameter Perception Gap",
+    "short": "Journalism observation that watches appear larger or smaller on wrist than spec sheet indicates.",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "Case Finishing",
     "short": "Surface treatment of the case: polished, brushed, or combination.",
     "category": "Case"
@@ -780,6 +795,11 @@
     "category": "Case"
   },
   {
+    "term": "Case Middle Proportionality Assessment",
+    "short": "Review analysis of case body width relative to lug-to-lug measurement.",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "Case Number",
     "short": "Manufacturing code engraved on watch case back, sometimes differs from serial number",
     "category": "Collecting and Market"
@@ -803,6 +823,11 @@
     "term": "Case Press Pressure Gauge",
     "short": "Calibrated manometer on case presses indicating applied force in tons or kilograms during assembly.",
     "category": "Tools"
+  },
+  {
+    "term": "Case Profile Aggression Scale",
+    "short": "Subjective ranking of how boldly a watch's thickness projects from wrist surface.",
+    "category": "Watch Journalism"
   },
   {
     "term": "Case Refinishing",
@@ -2815,6 +2840,11 @@
     "category": "Case"
   },
   {
+    "term": "Integrated Bracelet Drape Assessment",
+    "short": "Review terminology for how bracelet curves and flows along wrist contours.",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "Integrated Chronograph",
     "short": "Chronograph components built into base movement, Zenith El Primero and Omega 9300 examples",
     "category": "Movement"
@@ -3134,6 +3164,36 @@
     "category": "Bracelet"
   },
   {
+    "term": "Lug Bite Assessment",
+    "short": "Terminology describing discomfort when lugs press against wrist bone or surrounding tissue.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Lug Geometry Ergonomic Rating",
+    "short": "Technical review evaluation of lug shape, angle, and curvature affecting comfort.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Lug Overhang Criticism",
+    "short": "Negative review terminology for cases where lugs extend beyond wrist bone structure.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Lug Radius Curvature Specification",
+    "short": "Technical specification detailing the arc radius of case lugs affecting wrist fit.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Lug Spring Tension Critique",
+    "short": "Review language assessing how securely spring bars hold bracelet end links to case.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Lug Taper Favorability Index",
+    "short": "Review assessment of how smoothly lugs transition from case middle to end links.",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "Lug Width",
     "short": "Space between the lugs where the strap or bracelet attaches.",
     "category": "Case"
@@ -3144,9 +3204,24 @@
     "category": "Technical"
   },
   {
+    "term": "Lug-to-Lug Comfort Index",
+    "short": "Rating system evaluating how well a watch's end-to-end length suits average wrist dimensions.",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "Lug-to-lug distance",
     "short": "Measurement between the inner edges of the lugs, determining strap and bracelet fit on the wrist.",
     "category": "Case"
+  },
+  {
+    "term": "Lug-to-Lug Negative Space Critique",
+    "short": "Review assessment of gap between case lugs and wrist, indicating proper fit.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Lug-to-Wrist Overhang Ratio",
+    "short": "Mathematical calculation of lug extension distance relative to wrist circumference.",
+    "category": "Watch Journalism"
   },
   {
     "term": "Lugs",
@@ -3292,6 +3367,11 @@
     "term": "Lunation Display",
     "short": "Indicator showing lunar month cycles, typically 29.5 days, advancing with gearing system.",
     "category": "Complications"
+  },
+  {
+    "term": "Macro Photography Flattery Factor",
+    "short": "Tendency of close-up photography to exaggerate case finishing details and dial complexity.",
+    "category": "Watch Journalism"
   },
   {
     "term": "Magic Gold",
@@ -4144,6 +4224,16 @@
     "category": "Complications"
   },
   {
+    "term": "Photography Compensation Bias",
+    "short": "Editorial acknowledgment that camera angles artificially enhance or diminish wrist presence.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Photography Lighting Consistency Standard",
+    "short": "Editorial requirement for identical lighting setups across wrist shot comparisons.",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "Photoluminescent",
     "short": "Property of materials that absorb light and re-emit it, used in all non-radioactive watch lume",
     "category": "Materials"
@@ -4289,6 +4379,16 @@
     "category": "Adjustment"
   },
   {
+    "term": "Presence-Per-Millimeter Metric",
+    "short": "Journalism calculation dividing visual impact by case diameter for proportionality analysis.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Presence-to-Price Ratio",
+    "short": "Journalism metric comparing visual impact on wrist against retail cost.",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "President bracelet",
     "short": "Iconic three-piece link design with solid center links, classic luxury appearance",
     "category": "Bracelet"
@@ -4322,6 +4422,11 @@
     "term": "Promethium",
     "short": "Radioactive element formerly used in watch lume, less hazardous than radium but still radioactive",
     "category": "Materials"
+  },
+  {
+    "term": "Proportionality Assessment",
+    "short": "Critical evaluation of case diameter to lug-to-lug ratio for visual harmony on wrist.",
+    "category": "Watch Journalism"
   },
   {
     "term": "Provenance",
@@ -5704,6 +5809,11 @@
     "category": "Finishing"
   },
   {
+    "term": "Wearing Comfort Notation",
+    "short": "Standardized review language describing tactile experience of watch on skin during extended wear.",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "Wet Suit Extension",
     "short": "Extended crown or controls designed to operate over thick diving suit gloves.",
     "category": "Crown"
@@ -5762,6 +5872,46 @@
     "term": "Woven Fabric Strap",
     "short": "Textile strap from various fabrics, breathable and comfortable casual wear",
     "category": "Strap"
+  },
+  {
+    "term": "Wrist Curvature Accommodation Index",
+    "short": "Measure of how well a watch's case geometry follows natural wrist anatomy.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Wrist Presence Distraction Factor",
+    "short": "Journalism metric for whether a watch draws excessive attention from intended wearer activities.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Wrist Presence Quotient",
+    "short": "Subjective measurement of how prominently a watch commands attention on the wrist.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Wrist Presence Threshold",
+    "short": "Minimum case diameter where watch achieves noticeable presence on average-sized wrists.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Wrist Rollover Test",
+    "short": "Practical review procedure rotating watch on wrist to assess light play on case surfaces.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Wrist Shot Background Standardization",
+    "short": "Editorial guidelines for consistent, neutral backgrounds in watch photography for comparison.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Wrist Shot Composition Standard",
+    "short": "Standardized angle (typically 45 degrees) for photographing watches on human wrists in reviews.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Wrist Shot Dynamic Range",
+    "short": "Photography term for exposure latitude in capturing watch details across lighting conditions.",
+    "category": "Watch Journalism"
   },
   {
     "term": "X1",
