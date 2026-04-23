@@ -270,6 +270,11 @@
     "category": "Case"
   },
   {
+    "term": "Baguette Cut",
+    "short": "Rectangular gemstone cut with step facets, commonly used in watch bezels and hour markers.",
+    "category": "Dial"
+  },
+  {
     "term": "Balance Cock",
     "short": "Bridge component that supports upper balance wheel pivot and hairspring stud",
     "category": "Movement"
@@ -298,6 +303,11 @@
     "term": "Bar Rating",
     "short": "Watches rated in bars; typical diver watches are 30 bar minimum.",
     "category": "Standards"
+  },
+  {
+    "term": "Bar Setting",
+    "short": "Technique securing rectangular gemstones between parallel metal bars.",
+    "category": "Dial"
   },
   {
     "term": "Barenia Leather",
@@ -415,6 +425,11 @@
     "category": "Surface Finishing"
   },
   {
+    "term": "Bezant Dial",
+    "short": "Dial design featuring raised circular bezants beneath applied gemstone indices.",
+    "category": "Dial"
+  },
+  {
     "term": "Bezel",
     "short": "Rotating or fixed ring surrounding the crystal, often used for timing or design.",
     "category": "Case"
@@ -438,6 +453,11 @@
     "term": "Bezel lume",
     "short": "Luminous material applied to rotating watch bezel markers or indexes",
     "category": "Materials"
+  },
+  {
+    "term": "Bezel-Set Stone",
+    "short": "Gemstone held in place by metal rim surrounding its perimeter without prongs.",
+    "category": "Case"
   },
   {
     "term": "Bezel-to-Wrist Integration Analysis",
@@ -578,6 +598,11 @@
     "term": "Bridge",
     "short": "Metal component spanning the plate providing additional support and bearing points for pivots.",
     "category": "Movement"
+  },
+  {
+    "term": "Brilliant-Cut Index Marker",
+    "short": "Hour marker featuring brilliant-cut gemstone for enhanced light refraction.",
+    "category": "Dial"
   },
   {
     "term": "Broad Arrow Authentication",
@@ -955,6 +980,16 @@
     "category": "Materials"
   },
   {
+    "term": "Chasing",
+    "short": "Metal surface finishing technique creating texture for non-reflective gem settings.",
+    "category": "Materials"
+  },
+  {
+    "term": "Chaton Recess",
+    "short": "Precisely engineered cavity in watch case receiving gem-set mounting cup.",
+    "category": "Case"
+  },
+  {
     "term": "Checkering",
     "short": "Creating repetitive diamond or square grid pattern on watch surfaces for tactile texture.",
     "category": "Decoration"
@@ -1115,6 +1150,11 @@
     "category": "Dial"
   },
   {
+    "term": "Cluster Setting",
+    "short": "Multiple small gemstones grouped together creating unified visual element.",
+    "category": "Case"
+  },
+  {
     "term": "Clutch Wheel",
     "short": "Wheel that couples or decouples train wheels during winding versus timekeeping modes",
     "category": "Movement"
@@ -1203,6 +1243,11 @@
     "term": "Collet Closure",
     "short": "Spring-loaded mechanism securing watch crystal to case",
     "category": "Case"
+  },
+  {
+    "term": "Collet Sizing Gauge",
+    "short": "Precision tool determining exact metal collet dimensions for secure stone mounting.",
+    "category": "Tools"
   },
   {
     "term": "Collimator",
@@ -2105,6 +2150,11 @@
     "category": "Strap"
   },
   {
+    "term": "Facet Angle Consistency",
+    "short": "Quality control parameter ensuring uniform cutting angles across matched gemstones.",
+    "category": "Certification"
+  },
+  {
     "term": "Faded Bezel",
     "short": "Bezel with worn or faded markings from decades of use and UV exposure",
     "category": "Collecting and Market"
@@ -2153,6 +2203,11 @@
     "term": "Flieger Watch",
     "short": "German military pilot watch with dial designed for excellent readability in aircraft cockpits.",
     "category": "History"
+  },
+  {
+    "term": "Flush Setting",
+    "short": "Gem-setting method where stones sit level with surrounding metal surface.",
+    "category": "Case"
   },
   {
     "term": "Fluted Bezel",
@@ -2285,6 +2340,16 @@
     "category": "Movement"
   },
   {
+    "term": "Gemstone Adhesive Curing",
+    "short": "Temperature-controlled process bonding adhesive used in invisible settings.",
+    "category": "Tools"
+  },
+  {
+    "term": "Gemstone Stability Assessment",
+    "short": "Testing protocol evaluating stone adhesion and mechanical durability in watch environment.",
+    "category": "Certification"
+  },
+  {
     "term": "Geneva Seal",
     "short": "Hallmark certifying excellence in watchmaking, awarded by Geneva Canton",
     "category": "History"
@@ -2313,6 +2378,11 @@
     "term": "Gilt Dial",
     "short": "Dial with gold-plated finish giving warm vintage appearance",
     "category": "Dial"
+  },
+  {
+    "term": "Girandole Setting",
+    "short": "Ornate arrangement with central gemstone flanked by pear-shaped stones.",
+    "category": "Case"
   },
   {
     "term": "Glide-lock extension",
@@ -2403,6 +2473,11 @@
     "term": "Grail watch",
     "short": "Highly desired timepiece representing the ultimate goal in a collector's pursuit",
     "category": "Collecting"
+  },
+  {
+    "term": "Grain-Set Stone",
+    "short": "Gemstone held by tiny metal grains raised from base metal surface.",
+    "category": "Case"
   },
   {
     "term": "Grained finish",
@@ -2573,6 +2648,11 @@
     "term": "Hallmark of Geneva",
     "short": "Official Swiss quality certification for watches made in Geneva region",
     "category": "Certification"
+  },
+  {
+    "term": "Halo Setting",
+    "short": "Central gemstone surrounded by smaller diamonds in concentric ring arrangement.",
+    "category": "Case"
   },
   {
     "term": "Hammered finish",
@@ -2853,6 +2933,11 @@
     "term": "Intermediate Wheel",
     "short": "Gear wheel engaged by setting lever to allow independent time adjustment",
     "category": "Movement"
+  },
+  {
+    "term": "Invisible Setting",
+    "short": "Advanced gem-setting technique where support structure remains hidden beneath gemstones.",
+    "category": "Case"
   },
   {
     "term": "ISO 6425",
@@ -3624,6 +3709,11 @@
     "category": "Bracelet"
   },
   {
+    "term": "Milgrain Border",
+    "short": "Decorative beaded metal edge surrounding gem setting, adds visual definition.",
+    "category": "Case"
+  },
+  {
     "term": "Military acceptance certificate",
     "short": "Document issued confirming watch meets military specification requirements upon delivery.",
     "category": "Certification"
@@ -4189,6 +4279,21 @@
     "category": "History"
   },
   {
+    "term": "Pave Density Index",
+    "short": "Measurement system quantifying stone-to-metal ratio in pavé-set watch surfaces.",
+    "category": "Tools"
+  },
+  {
+    "term": "Pave Durability Rating",
+    "short": "Classification system for pavé-set watches based on expected stone retention lifespan.",
+    "category": "Certification"
+  },
+  {
+    "term": "Pavé Setting",
+    "short": "Technique covering a surface densely with small diamonds or gemstones, minimizing visible metal.",
+    "category": "Case"
+  },
+  {
     "term": "Pepsi GMT",
     "short": "GMT-Master II with red and blue bezel insert, nicknamed for Pepsi-like color scheme.",
     "category": "History"
@@ -4424,6 +4529,11 @@
     "category": "Materials"
   },
   {
+    "term": "Prong Setting",
+    "short": "Traditional method securing gemstones using metal fingers extending from bezel base.",
+    "category": "Case"
+  },
+  {
     "term": "Proportionality Assessment",
     "short": "Critical evaluation of case diameter to lug-to-lug ratio for visual harmony on wrist.",
     "category": "Watch Journalism"
@@ -4517,6 +4627,11 @@
     "term": "Radium dial",
     "short": "Vintage dial with radioactive radium-based lume, highly collectible and dangerous.",
     "category": "History"
+  },
+  {
+    "term": "Rail Setting",
+    "short": "Parallel metal rails securing elongated gemstones in linear watch designs.",
+    "category": "Dial"
   },
   {
     "term": "Railway Dial",
@@ -4657,6 +4772,11 @@
     "term": "Retrograde Display",
     "short": "Hand jumps back to start position instead of rotating continuously, creating dramatic visual effect.",
     "category": "Complications"
+  },
+  {
+    "term": "Retroussé Setting",
+    "short": "Technique where metal beneath gemstone curves upward supporting stone edges.",
+    "category": "Case"
   },
   {
     "term": "Reverse Panda",
@@ -5224,9 +5344,24 @@
     "category": "Case"
   },
   {
+    "term": "Stone Certification Serial",
+    "short": "Unique identifier assigned to gemstones exceeding specified weight thresholds.",
+    "category": "Certification"
+  },
+  {
     "term": "Stone Dial",
     "short": "Dial inlaid with natural stone materials like marble, granite, or slate for unique patterns",
     "category": "Dial"
+  },
+  {
+    "term": "Stone Retention Burnish",
+    "short": "Final metal edge folding and polishing operation securing bezel-set gemstones.",
+    "category": "Tools"
+  },
+  {
+    "term": "Stone-to-Metal Burnish Ratio",
+    "short": "Specification measuring balance between visible gemstone and metal in setting.",
+    "category": "Materials"
   },
   {
     "term": "Stress Level Indicator",
@@ -5374,6 +5509,11 @@
     "category": "Case"
   },
   {
+    "term": "Taper Setting",
+    "short": "Gemstone setting that decreases in width from stone to mounting base.",
+    "category": "Case"
+  },
+  {
     "term": "Tapisserie Pattern",
     "short": "Woven textile-inspired dial finish with interlocking geometric lines creating fabric-like appearance.",
     "category": "Dial"
@@ -5424,6 +5564,11 @@
     "category": "Service"
   },
   {
+    "term": "Tension Setting",
+    "short": "Modern technique where gemstone appears suspended between two metal bands.",
+    "category": "Case"
+  },
+  {
     "term": "Testing Protocol",
     "short": "Standardized procedures by COSC for evaluating chronometer precision and reliability",
     "category": "Certification"
@@ -5467,6 +5612,11 @@
     "term": "Three-Question Repeater",
     "short": "Minute repeater chiming hours, quarter hours, and minutes when respective pushers are activated individually.",
     "category": "Complications"
+  },
+  {
+    "term": "Three-Stone Setting",
+    "short": "Design featuring three principal gemstones, often representing past, present, future.",
+    "category": "Dial"
   },
   {
     "term": "Tide Complication",
