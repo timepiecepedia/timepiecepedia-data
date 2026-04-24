@@ -25,6 +25,11 @@
     "category": "Tools"
   },
   {
+    "term": "Accelerometer Sensitivity Calibration",
+    "short": "Factory-tuned inertial measurement adjustment ensuring accurate motion detection across temperature ranges",
+    "category": "Movement"
+  },
+  {
     "term": "Accuracy Certificate",
     "short": "Official document certifying watch meets specified precision standards.",
     "category": "Certification"
@@ -120,8 +125,18 @@
     "category": "Dial"
   },
   {
+    "term": "Always-On Display Technology",
+    "short": "Low-power screen remaining visible without draining battery via reflective or e-ink substrate",
+    "category": "Dial"
+  },
+  {
     "term": "Ambient Light Sensor",
     "short": "Photoreceptor that auto-adjusts display brightness based on surrounding conditions",
+    "category": "Complications"
+  },
+  {
+    "term": "Ambient Sound Recognition Module",
+    "short": "Microphone-based detection system identifying falls, sirens, or distress notifications",
     "category": "Complications"
   },
   {
@@ -133,6 +148,11 @@
     "term": "Amplitude",
     "short": "Maximum arc of the balance wheel's swing; indicates movement health and power reserve.",
     "category": "Movement"
+  },
+  {
+    "term": "Analog-Digital Hybrid Display",
+    "short": "Mechanical watch face combined with auxiliary smartwatch LCD/OLED complication screen",
+    "category": "Dial"
   },
   {
     "term": "Anchor Escapement",
@@ -370,6 +390,11 @@
     "category": "Dial"
   },
   {
+    "term": "Battery Drain Prediction Model",
+    "short": "Machine learning system forecasting remaining battery life based on usage patterns",
+    "category": "Movement"
+  },
+  {
     "term": "Battery State of Health Monitor",
     "short": "Circuit analyzing lithium-ion degradation to predict remaining battery lifespan",
     "category": "Movement"
@@ -500,6 +525,11 @@
     "category": "History"
   },
   {
+    "term": "Biometric Authentication Engine",
+    "short": "Smartwatch security system using fingerprint or facial recognition for app access",
+    "category": "Complications"
+  },
+  {
     "term": "Biometric Authentication Module",
     "short": "Fingerprint or heart rate sensor for secure smartwatch access control",
     "category": "Complications"
@@ -513,6 +543,11 @@
     "term": "Black polish",
     "short": "Deep glossy black finish applied through specialized polishing technique",
     "category": "Finishing"
+  },
+  {
+    "term": "Blood Glucose Monitoring Integration",
+    "short": "Optical sensor interface linking to continuous glucose monitor devices via proprietary protocol",
+    "category": "Complications"
   },
   {
     "term": "Blood Oxygen Saturation (SpO2) Sensor",
@@ -703,6 +738,11 @@
     "term": "C3",
     "short": "Vintage radium-based luminous material formerly used on watches, now obsolete due to radioactivity",
     "category": "Materials"
+  },
+  {
+    "term": "Cadence Detection Algorithm",
+    "short": "Motion analysis software measuring steps-per-minute during running and walking activities",
+    "category": "Complications"
   },
   {
     "term": "Calatrava",
@@ -1263,6 +1303,11 @@
     "term": "Comex dial",
     "short": "Specialized dial for commercial diving watch, often with unique printing or design.",
     "category": "History"
+  },
+  {
+    "term": "Companion App Synchronization Protocol",
+    "short": "Wireless data bridge maintaining seamless watch-to-smartphone real-time communication",
+    "category": "Complications"
   },
   {
     "term": "Compass Bezel",
@@ -2025,6 +2070,11 @@
     "category": "Dial"
   },
   {
+    "term": "Electrocardiogram (ECG) Electrode Array",
+    "short": "Dual-point electrical contact sensors measuring heart rhythm directly from wrist",
+    "category": "Complications"
+  },
+  {
     "term": "Electrocardiogram (ECG) Module",
     "short": "Integrated cardiac rhythm sensor for health monitoring in advanced smartwatches",
     "category": "Complications"
@@ -2033,6 +2083,11 @@
     "term": "Electroplating",
     "short": "Electrical process coating watch components with thin layers of precious metals like gold.",
     "category": "Surface Coating"
+  },
+  {
+    "term": "Elevation Gain Accumulator",
+    "short": "Barometric pressure sensor calculating vertical ascent during hiking and stair climbing",
+    "category": "Complications"
   },
   {
     "term": "Enamel Dial",
@@ -2063,6 +2118,11 @@
     "term": "Engineer bracelet",
     "short": "Robust three-piece link construction with solid links throughout, durable and masculine",
     "category": "Bracelet"
+  },
+  {
+    "term": "Environmental Light Spectrum Analyzer",
+    "short": "RGB sensor detecting circadian disruption and adjusting display brightness/color temperature accordingly",
+    "category": "Complications"
   },
   {
     "term": "Epsom Leather",
@@ -2188,6 +2248,11 @@
     "term": "Firmware Over-The-Air (OTA) Update",
     "short": "Wireless system uploading software patches directly to wristwatch without dock connection",
     "category": "Movement"
+  },
+  {
+    "term": "Firmware Over-the-Air Update",
+    "short": "Wireless software patch delivery mechanism enabling feature enhancement without manual intervention",
+    "category": "Complications"
   },
   {
     "term": "Fixed Bezel",
@@ -2365,6 +2430,11 @@
     "category": "Movement"
   },
   {
+    "term": "Gesture Recognition Engine",
+    "short": "Accelerometer-based software interpreting wrist flicks and rotations as command inputs",
+    "category": "Complications"
+  },
+  {
     "term": "Ghost Bezel",
     "short": "Faded or nearly invisible bezel markings on vintage sports watches, especially divers",
     "category": "Collecting and Market"
@@ -2453,6 +2523,11 @@
     "term": "GMT/World Time",
     "short": "Additional timezone display showing simultaneous time in different locations worldwide.",
     "category": "Complications"
+  },
+  {
+    "term": "GNSS Multiband Receiver",
+    "short": "GPS/GLONASS/Galileo/BeiDou constellation positioning engine for ultra-accurate location tracking",
+    "category": "Movement"
   },
   {
     "term": "Gold",
@@ -2725,6 +2800,11 @@
     "category": "Complications"
   },
   {
+    "term": "Haptic Feedback Resonance",
+    "short": "Miniature linear actuator providing directional vibration patterns for notifications and alerts",
+    "category": "Movement"
+  },
+  {
     "term": "HAQ",
     "short": "High-Accuracy Quartz movement achieving annual rates better than ±10 seconds.",
     "category": "Movement"
@@ -2863,6 +2943,16 @@
     "term": "Hunter Case",
     "short": "Pocket watch with hinged metal cover protecting the crystal, favored by hunters and travelers.",
     "category": "Watch Types"
+  },
+  {
+    "term": "Hybrid Movement Architecture",
+    "short": "Combined mechanical quartz/automatic movement with discrete smart sensor integration",
+    "category": "Movement"
+  },
+  {
+    "term": "Hydration State Inference Algorithm",
+    "short": "Software estimating fluid intake needs through heart rate variability and sweat patterns",
+    "category": "Complications"
   },
   {
     "term": "Impulse Jewel",
@@ -3239,6 +3329,11 @@
     "category": "Timekeeping"
   },
   {
+    "term": "LTE/5G Modem Integration",
+    "short": "Cellular radio allowing standalone calling, texting, and data without paired smartphone",
+    "category": "Complications"
+  },
+  {
     "term": "Lubrication",
     "short": "Adding appropriate lubricants to watch components for smooth mechanical operation",
     "category": "Maintenance"
@@ -3577,6 +3672,11 @@
     "term": "Mechanical-Digital Hybrid Interface",
     "short": "Design architecture integrating traditional watch complications with electronic displays",
     "category": "Case"
+  },
+  {
+    "term": "Menstrual Cycle Prediction Engine",
+    "short": "AI algorithm tracking period patterns and predicting fertility windows via biometric trending",
+    "category": "Complications"
   },
   {
     "term": "Mercedes Hand",
@@ -4029,6 +4129,11 @@
     "category": "Complications"
   },
   {
+    "term": "NFC Payment Interface",
+    "short": "Near-field communication module enabling contactless transactions directly from watch face",
+    "category": "Complications"
+  },
+  {
     "term": "Nickel Plating",
     "short": "Electroplating nickel onto watch components for corrosion protection and silver-like finish.",
     "category": "Surface Coating"
@@ -4122,6 +4227,11 @@
     "term": "Opaline Finish",
     "short": "Soft, milky dial finish with subtle sheen and minimal reflectivity.",
     "category": "Dial"
+  },
+  {
+    "term": "Optical Heart Rate Sensor (PPG)",
+    "short": "Photoplethysmography engine using LED light reflection to measure pulse from wrist tissue",
+    "category": "Complications"
   },
   {
     "term": "Original Bezel",
@@ -4537,6 +4647,11 @@
     "term": "Proportionality Assessment",
     "short": "Critical evaluation of case diameter to lug-to-lug ratio for visual harmony on wrist.",
     "category": "Watch Journalism"
+  },
+  {
+    "term": "Proprietary Wearable OS",
+    "short": "Custom operating system architecture optimized for minimal power consumption and haptic response",
+    "category": "Complications"
   },
   {
     "term": "Provenance",
@@ -5159,6 +5274,16 @@
     "category": "Watch Types"
   },
   {
+    "term": "Skin Temperature Fluctuation Detector",
+    "short": "Thermal sensor measuring core body temperature via wrist surface variance analysis",
+    "category": "Complications"
+  },
+  {
+    "term": "Sleep Architecture Algorithm",
+    "short": "Software that analyzes REM, light, and deep sleep cycles via motion and heart rate data",
+    "category": "Complications"
+  },
+  {
     "term": "Sleep Stage Tracking Sensor",
     "short": "Advanced accelerometer differentiating REM, light, and deep sleep phases",
     "category": "Complications"
@@ -5366,6 +5491,11 @@
   {
     "term": "Stress Level Indicator",
     "short": "Biometric algorithm analyzing heart rate variability to assess psychological tension",
+    "category": "Complications"
+  },
+  {
+    "term": "Stress Level Quantification Module",
+    "short": "Sensor fusion technology measuring cortisol-related physiological markers via PPG and electrocardiography",
     "category": "Complications"
   },
   {
@@ -5644,6 +5774,11 @@
     "category": "Bezel"
   },
   {
+    "term": "Timezone Synchronization Engine",
+    "short": "Automatic time adjustment system utilizing GNSS and network data for accuracy across regions",
+    "category": "Complications"
+  },
+  {
     "term": "Timing Machine",
     "short": "Electronic device that measures watch rate and performance parameters.",
     "category": "Testing"
@@ -5869,6 +6004,11 @@
     "category": "Collecting"
   },
   {
+    "term": "VO2 Max Estimation Algorithm",
+    "short": "Predictive software calculating aerobic capacity using heart rate variability and GPS pace data",
+    "category": "Complications"
+  },
+  {
     "term": "Voice Recognition Engine",
     "short": "On-device audio processing enabling voice commands without cloud transmission",
     "category": "Movement"
@@ -5994,6 +6134,11 @@
     "category": "History"
   },
   {
+    "term": "WiFi Connectivity Module",
+    "short": "Direct network connection enabling streaming, downloads, and independent internet access",
+    "category": "Complications"
+  },
+  {
     "term": "Winding Pinion",
     "short": "Gear on the crown shaft that engages the ratchet wheel during manual mainspring winding.",
     "category": "Movement"
@@ -6007,6 +6152,11 @@
     "term": "Wood Dial",
     "short": "Natural wood veneer dial providing warm organic appearance with natural grain variations",
     "category": "Dial"
+  },
+  {
+    "term": "Workout Classification Algorithm",
+    "short": "Machine learning model identifying exercise type (running, cycling, swimming) from sensor data",
+    "category": "Complications"
   },
   {
     "term": "World Time",
