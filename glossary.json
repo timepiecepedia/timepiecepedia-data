@@ -500,6 +500,11 @@
     "category": "Materials"
   },
   {
+    "term": "Bidding Fever",
+    "short": "Auction house observation of competitive escalation causing buyers to exceed pre-sale estimates.",
+    "category": "History"
+  },
+  {
     "term": "Bidirectional Bezel",
     "short": "Rotating bezel functioning in both clockwise and counterclockwise directions",
     "category": "Dial"
@@ -623,6 +628,11 @@
     "term": "Braided Leather",
     "short": "Interwoven leather straps, adds visual interest and texture",
     "category": "Strap"
+  },
+  {
+    "term": "Breadcrumbing",
+    "short": "Auction term for providing minimal provenance documentation on vintage pieces to reduce liability.",
+    "category": "History"
   },
   {
     "term": "Breguet spiral",
@@ -775,6 +785,11 @@
     "category": "Movement"
   },
   {
+    "term": "Cannon Pinion Wear",
+    "short": "Movement condition where center wheel cannon pinion loosens; causes chronograph hand drift.",
+    "category": "Movement"
+  },
+  {
     "term": "Canvas Strap",
     "short": "Heavy-duty cotton fabric strap, casual aesthetic, durable and affordable",
     "category": "Strap"
@@ -895,6 +910,11 @@
     "category": "Watch Journalism"
   },
   {
+    "term": "Case Punching",
+    "short": "Vintage watchmaking technique of hand-stamping serial numbers and hallmarks directly into case metal.",
+    "category": "Case"
+  },
+  {
     "term": "Case Refinishing",
     "short": "Polishing or brushing watch case to restore original appearance and remove damage",
     "category": "Refinishing"
@@ -903,6 +923,11 @@
     "term": "Case Sealing",
     "short": "Application of sealant compounds to ensure water resistance and dust protection",
     "category": "Maintenance"
+  },
+  {
+    "term": "Case Stretch",
+    "short": "Metal fatigue condition where case lugs gradually deform outward from repeated bracelet stress.",
+    "category": "Condition"
   },
   {
     "term": "Case Thickness",
@@ -1520,6 +1545,11 @@
     "category": "Movement"
   },
   {
+    "term": "Creeping Hour Hand",
+    "short": "Auction house term for hour hand that gradually advances between hour markers rather than jumping.",
+    "category": "Movement"
+  },
+  {
     "term": "Crinkle Lume",
     "short": "Luminous material with textured surface increasing light absorption",
     "category": "Dial"
@@ -1860,6 +1890,11 @@
     "category": "Certification"
   },
   {
+    "term": "Dial Conversion",
+    "short": "Vintage watch that has been fitted with a replacement dial from another model, reducing authenticity.",
+    "category": "Condition"
+  },
+  {
     "term": "Dial Enamel",
     "short": "Glass-like coating applied to watch dials for durability and aesthetic finish",
     "category": "Materials"
@@ -1880,6 +1915,11 @@
     "category": "Display"
   },
   {
+    "term": "Dial Mellowing",
+    "short": "Natural aging patina development on vintage dial lacquer, creating unique color shifts and spotting.",
+    "category": "Dial"
+  },
+  {
     "term": "Dial Painter",
     "short": "Skilled craftsperson hand-painting and decorating watch dials with precision",
     "category": "Manufacture"
@@ -1888,6 +1928,11 @@
     "term": "Dial Planishing",
     "short": "Process of smoothing and hardening textured dial surfaces using specialized hammers.",
     "category": "Dial"
+  },
+  {
+    "term": "Dial Print Creep",
+    "short": "Manufacturing defect where dial printing shifted during production; visible as doubled or blurred text.",
+    "category": "Condition"
   },
   {
     "term": "Dial Printing",
@@ -1907,6 +1952,11 @@
   {
     "term": "Dial Ring",
     "short": "Outer circumferential section of dial, often featuring minute markers.",
+    "category": "Dial"
+  },
+  {
+    "term": "Dial Spider",
+    "short": "Rare vintage dial mounting system using spoke-like supports; highly prized by horological collectors.",
     "category": "Dial"
   },
   {
@@ -2190,6 +2240,11 @@
     "category": "Technical"
   },
   {
+    "term": "Excelsior Park",
+    "short": "Collector authentication term for reference collection maintained by reputable vintage dealers.",
+    "category": "History"
+  },
+  {
     "term": "Exhibition caseback",
     "short": "Transparent or open caseback allowing view of the movement, common on mechanical and automatic watches.",
     "category": "Case"
@@ -2198,6 +2253,11 @@
     "term": "Explorer Polar",
     "short": "Explorer II with white dial, resembling polar ice fields, reference 16570.",
     "category": "Aesthetics"
+  },
+  {
+    "term": "Extract Provenance",
+    "short": "Auction documentation extracted from original manufacture archives confirming watch production details.",
+    "category": "History"
   },
   {
     "term": "Fabric NATO Strap",
@@ -2325,6 +2385,11 @@
     "category": "Movement"
   },
   {
+    "term": "Friction Fit Crown",
+    "short": "Rare vintage crown attachment method without threads; press-fitted onto stem for waterproof seal.",
+    "category": "Case"
+  },
+  {
     "term": "Frosted finish",
     "short": "Translucent matte surface resembling frosted glass appearance",
     "category": "Finishing"
@@ -2440,14 +2505,29 @@
     "category": "Collecting and Market"
   },
   {
+    "term": "Ghosting",
+    "short": "Faint residual image or mark visible on dial from removed dial elements or stickers.",
+    "category": "Condition"
+  },
+  {
     "term": "Gilt",
     "short": "Thin layer of gold plating applied to brass or other base metals",
     "category": "Materials"
   },
   {
+    "term": "Gilt Deterioration Index",
+    "short": "Collector grading system measuring the extent of gold plating wear on applied indices and markers.",
+    "category": "Condition"
+  },
+  {
     "term": "Gilt Dial",
     "short": "Dial with gold-plated finish giving warm vintage appearance",
     "category": "Dial"
+  },
+  {
+    "term": "Gilt Washing",
+    "short": "Thin gold plating layer applied to brass watch components; characteristic of mid-century movements.",
+    "category": "Materials"
   },
   {
     "term": "Girandole Setting",
@@ -2710,6 +2790,11 @@
     "category": "Cleaning"
   },
   {
+    "term": "Hairspring Lag",
+    "short": "Condition where hairspring loses elasticity, causing poor timekeeping especially during acceleration.",
+    "category": "Movement"
+  },
+  {
     "term": "Hairspring Stud",
     "short": "Fixed point anchoring one end of hairspring to balance cock or balance wheel",
     "category": "Movement"
@@ -2868,6 +2953,11 @@
     "term": "Hobnail Texture",
     "short": "Raised hemispherical bumps arranged in grid pattern, resembling boot sole studs on dial.",
     "category": "Dial"
+  },
+  {
+    "term": "Hole Case",
+    "short": "Vintage diving watch case design featuring holes drilled in case back for rapid decompression.",
+    "category": "Case"
   },
   {
     "term": "Hollow case",
@@ -3494,6 +3584,11 @@
     "category": "Collecting and Market"
   },
   {
+    "term": "Lume Separation",
+    "short": "Condition fault where luminous material flakes or peels from dial or hands due to age.",
+    "category": "Condition"
+  },
+  {
     "term": "Lume shot",
     "short": "Photograph of a watch taken in darkness showing the glow of luminous materials on dial and hands",
     "category": "Display"
@@ -4054,6 +4149,11 @@
     "category": "Inspection"
   },
   {
+    "term": "Movement Rust Bloom",
+    "short": "Early-stage corrosion on movement components appearing as thin reddish oxidation layer.",
+    "category": "Condition"
+  },
+  {
     "term": "Movement Testing",
     "short": "Comprehensive evaluation of mechanical movement performance parameters.",
     "category": "Testing"
@@ -4509,6 +4609,11 @@
     "category": "Materials"
   },
   {
+    "term": "Plexi Crazing",
+    "short": "Fine stress fractures in acrylic crystal from age and temperature fluctuations; cosmetic issue.",
+    "category": "Condition"
+  },
+  {
     "term": "Pocket Watch",
     "short": "Portable timepiece carried in pocket, popular from 17th century until wristwatch era.",
     "category": "History"
@@ -4739,6 +4844,11 @@
     "category": "Collecting and Market"
   },
   {
+    "term": "Radium Burnout",
+    "short": "Collector assessment of radioactive dial degradation; darker dials indicate stronger historical radiation.",
+    "category": "Condition"
+  },
+  {
     "term": "Radium dial",
     "short": "Vintage dial with radioactive radium-based lume, highly collectible and dangerous.",
     "category": "History"
@@ -4797,6 +4907,11 @@
     "term": "Red Submariner",
     "short": "Vintage Submariner with red text dial printing, collectible early reference variant.",
     "category": "History"
+  },
+  {
+    "term": "Redialed",
+    "short": "Collector term for watch that has been refinished with new dial printing; reduces market value significantly.",
+    "category": "Condition"
   },
   {
     "term": "Reduction Ratio",
@@ -5204,6 +5319,11 @@
     "category": "Collecting and Market"
   },
   {
+    "term": "Service History Documentation",
+    "short": "Auction term for letters, receipts, and service records proving professional maintenance chain.",
+    "category": "History"
+  },
+  {
     "term": "Service interval",
     "short": "Manufacturer-recommended timeframe for professional maintenance and movement inspection",
     "category": "Maintenance"
@@ -5464,6 +5584,11 @@
     "category": "Parts"
   },
   {
+    "term": "Stem Slop",
+    "short": "Collector slang for excessive play in the winding stem from worn stem tube; indicates service need.",
+    "category": "Movement"
+  },
+  {
     "term": "Stepped case",
     "short": "Case design featuring distinct stepped or tiered levels on the sides, creating dimensional appearance.",
     "category": "Case"
@@ -5702,6 +5827,11 @@
     "term": "Testing Protocol",
     "short": "Standardized procedures by COSC for evaluating chronometer precision and reliability",
     "category": "Certification"
+  },
+  {
+    "term": "Text Dial",
+    "short": "Vintage dial featuring printed brand or model information; presence affects collector desirability.",
+    "category": "Dial"
   },
   {
     "term": "Texture Contrast Ratio",
