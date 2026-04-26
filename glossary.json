@@ -340,8 +340,33 @@
     "category": "Dial"
   },
   {
+    "term": "Barleycorn Angle Variation",
+    "short": "Tolerance range for individual barleycorn element orientation deviations.",
+    "category": "Dial"
+  },
+  {
+    "term": "Barleycorn Curvature Radius",
+    "short": "The calculated radius of curved barleycorn grain element profiles.",
+    "category": "Dial"
+  },
+  {
+    "term": "Barleycorn Directional Consistency",
+    "short": "The uniformity of grain direction orientation across entire barleycorn dial surface.",
+    "category": "Dial"
+  },
+  {
+    "term": "Barleycorn Gradient Transition",
+    "short": "The smooth progressive angle change across barleycorn pattern field.",
+    "category": "Dial"
+  },
+  {
     "term": "Barleycorn Grain Direction",
     "short": "Orientation specification indicating primary diagonal flow direction of grain texture.",
+    "category": "Dial"
+  },
+  {
+    "term": "Barleycorn Grain Pitch",
+    "short": "The angular spacing between successive barleycorn grain elements on a dial surface.",
     "category": "Dial"
   },
   {
@@ -1195,6 +1220,11 @@
     "category": "Decoration"
   },
   {
+    "term": "Clous de Paris Burnish Path",
+    "short": "The specific tool trajectory used to create burnished pyramids in clous de Paris motif.",
+    "category": "Tools"
+  },
+  {
     "term": "Clous de Paris Burnishing",
     "short": "Finishing technique polishing raised dot edges while preserving textured surface.",
     "category": "Dial"
@@ -1205,13 +1235,33 @@
     "category": "Dial"
   },
   {
+    "term": "Clous de Paris Highlight Crispness",
+    "short": "The sharpness of specular light reflection peaks on clous de Paris pyramids.",
+    "category": "Dial"
+  },
+  {
     "term": "Clous de Paris Indexing",
     "short": "Positioning system for punch tool ensuring regular spacing of nail-head dots across dial.",
     "category": "Tools"
   },
   {
+    "term": "Clous de Paris Interstitial Relief",
+    "short": "The recessed spacing surface between adjacent clous de Paris pyramid elements.",
+    "category": "Dial"
+  },
+  {
+    "term": "Clous de Paris Pyramid Apex Sharpness",
+    "short": "The keenness of peak points in clous de Paris pyramid relief structures.",
+    "category": "Dial"
+  },
+  {
     "term": "Clous de Paris Relief",
     "short": "Three-dimensional variation of clous pattern with enhanced raised dots for shadow depth.",
+    "category": "Dial"
+  },
+  {
+    "term": "Clous de Paris Relief Depth",
+    "short": "Measurement of pyramid height variation in clous de Paris guilloché patterns.",
     "category": "Dial"
   },
   {
@@ -2950,6 +3000,31 @@
     "category": "Dial"
   },
   {
+    "term": "Hobnail Depth-to-Width Ratio",
+    "short": "Proportional relationship between hobnail dome height and base diameter.",
+    "category": "Dial"
+  },
+  {
+    "term": "Hobnail Dome Radius",
+    "short": "The calculated spherical radius of individual hobnail dome protrusions on dial.",
+    "category": "Dial"
+  },
+  {
+    "term": "Hobnail Facet Count",
+    "short": "The number of reflective facets per hobnail dome element on dial.",
+    "category": "Dial"
+  },
+  {
+    "term": "Hobnail Light Scattering Index",
+    "short": "Quantitative measurement of how hobnail facets disperse incident light.",
+    "category": "Dial"
+  },
+  {
+    "term": "Hobnail Symmetry Assessment",
+    "short": "Evaluation of bilateral symmetry in hobnail dome formation across dial.",
+    "category": "Dial"
+  },
+  {
     "term": "Hobnail Texture",
     "short": "Raised hemispherical bumps arranged in grid pattern, resembling boot sole studs on dial.",
     "category": "Dial"
@@ -3354,14 +3429,34 @@
     "category": "Collecting"
   },
   {
+    "term": "Linen Crimp Wave Amplitude",
+    "short": "The height variation of surface undulation in linen-pattern guillochage.",
+    "category": "Dial"
+  },
+  {
+    "term": "Linen Cross-Hatch Interlocking Precision",
+    "short": "Accuracy of interwoven cross-hatch pattern formation in linen guillochage.",
+    "category": "Dial"
+  },
+  {
     "term": "Linen Diagonal Pitch",
     "short": "Standard spacing distance between linen weave lines, typically 1.5mm increments.",
+    "category": "Dial"
+  },
+  {
+    "term": "Linen Fiber Simulation Technique",
+    "short": "Modern guillochage method mimicking natural linen textile surface appearance.",
     "category": "Dial"
   },
   {
     "term": "Linen finish",
     "short": "Fine linear pattern resembling fabric linen texture",
     "category": "Finishing"
+  },
+  {
+    "term": "Linen Pattern Periodicity",
+    "short": "The repeating cycle length of linen weave pattern unit cells.",
+    "category": "Dial"
   },
   {
     "term": "Linen Weave Dial",
@@ -3371,6 +3466,11 @@
   {
     "term": "Linen Weave Interlace",
     "short": "Pattern intersection points where horizontal and vertical linen lines cross on dial.",
+    "category": "Dial"
+  },
+  {
+    "term": "Linen Weave Texture Axis",
+    "short": "The directional orientation of linen weave pattern relative to dial center.",
     "category": "Dial"
   },
   {
@@ -5769,6 +5869,26 @@
     "category": "Case"
   },
   {
+    "term": "Tapisserie Cell Frequency",
+    "short": "The number of tapisserie grid cells per millimeter of dial surface.",
+    "category": "Dial"
+  },
+  {
+    "term": "Tapisserie Crossing Point Accuracy",
+    "short": "Tolerance specification for horizontal-vertical line intersections in tapisserie patterns.",
+    "category": "Dial"
+  },
+  {
+    "term": "Tapisserie Line Thickness Uniformity",
+    "short": "Consistency of width in tapisserie pattern lines across entire dial.",
+    "category": "Dial"
+  },
+  {
+    "term": "Tapisserie Orthogonal Alignment",
+    "short": "Perfect 90-degree crossing angle requirement between tapisserie horizontal and vertical lines.",
+    "category": "Dial"
+  },
+  {
     "term": "Tapisserie Pattern",
     "short": "Woven textile-inspired dial finish with interlocking geometric lines creating fabric-like appearance.",
     "category": "Dial"
@@ -5786,6 +5906,11 @@
   {
     "term": "Tapisserie Symmetry Axis",
     "short": "Center reference line maintaining geometric balance of woven pattern across dial face.",
+    "category": "Dial"
+  },
+  {
+    "term": "Tapisserie Weave Density",
+    "short": "The spacing ratio between horizontal and vertical lines in tapisserie dial patterns.",
     "category": "Dial"
   },
   {
@@ -6164,6 +6289,11 @@
     "category": "Dial"
   },
   {
+    "term": "Waffle Depth Variation Index",
+    "short": "Measurement of inconsistency in waffle cell depression depth across dial.",
+    "category": "Dial"
+  },
+  {
     "term": "Waffle Dial",
     "short": "Grid-pattern embossed dial surface resembling waffle texture for enhanced visual interest",
     "category": "Dial"
@@ -6176,6 +6306,26 @@
   {
     "term": "Waffle Grid Depth",
     "short": "Measurement standard for cell depth in waffle pattern, typically 0.3mm to 0.6mm.",
+    "category": "Dial"
+  },
+  {
+    "term": "Waffle Grid Module",
+    "short": "The standardized square cell dimension in waffle-patterned dial designs.",
+    "category": "Dial"
+  },
+  {
+    "term": "Waffle Grid Orthogonality",
+    "short": "Verification that waffle cell corners maintain precisely 90-degree angles.",
+    "category": "Dial"
+  },
+  {
+    "term": "Waffle Pattern Continuity Bridge",
+    "short": "The connecting geometry between adjacent waffle cells in seamless patterns.",
+    "category": "Dial"
+  },
+  {
+    "term": "Waffle Sidewall Finish",
+    "short": "Surface treatment applied to vertical walls of waffle grid cells.",
     "category": "Dial"
   },
   {
