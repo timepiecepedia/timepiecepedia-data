@@ -800,6 +800,66 @@
     "category": "Movement"
   },
   {
+    "term": "Caliber 240",
+    "short": "Patek Philippe ultra-thin automatic movement, one of the thinnest in horology at 3.30mm thickness.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 3135",
+    "short": "Rolex's iconic perpetual rotor automatic movement with 48-hour power reserve, used in Submariner and GMT-Master II.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 4130",
+    "short": "Rolex in-house chronograph movement featuring column wheel and vertical clutch, introduced in Daytona 2000.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 6139",
+    "short": "Seiko's pioneering automatic chronograph movement from 1969, precursor to modern integrated chronograph designs.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 7750",
+    "short": "Zenith's workhorse automatic chronograph movement with modular design, widely used across luxury brands.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 8500",
+    "short": "Omega Co-Axial automatic movement with 50-hour power reserve, revolutionizing escapement technology in 2007.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 899/1",
+    "short": "JLC ultra-thin movement with only 1.64mm height, representing extreme miniaturization in mechanical watchmaking.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 9100",
+    "short": "Patek Philippe in-house automatic movement with 48-hour reserve, featuring Gyromax balance and Spiromax hairspring.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 9S85",
+    "short": "Seiko's ultra-high frequency automatic movement with 36,000 bph, representing Japanese precision engineering.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber CH 29",
+    "short": "Jaeger-LeCoultre legendary chronograph movement with column wheel and flyback function, used in Master Chronograph.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber El Primero 9004",
+    "short": "Zenith's integrated chronograph movement with 36,000 bph beat rate and automatic winding system.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber Kif Shock Absorber",
+    "short": "Integrated anti-shock system in Swiss movements, protecting balance staff pivots from impact damage.",
+    "category": "Movement"
+  },
+  {
     "term": "Caliber Number",
     "short": "Designation for specific movement type used in a watch, identifies internal mechanical components",
     "category": "Collecting and Market"
@@ -2800,6 +2860,11 @@
     "category": "Dial"
   },
   {
+    "term": "Gyromax Balance",
+    "short": "Patek Philippe's variable-inertia balance wheel with moveable weights for precision rate adjustment.",
+    "category": "Movement"
+  },
+  {
     "term": "Gyromax Rotator",
     "short": "Oscillating weight system maintaining constant moment of inertia regardless of position.",
     "category": "Complications"
@@ -3248,6 +3313,16 @@
     "term": "Jewels",
     "short": "Synthetic rubies used as low-friction bearings for watch pivots and components.",
     "category": "Movement"
+  },
+  {
+    "term": "JLC Caliber 889",
+    "short": "Jaeger-LeCoultre's ultra-compact automatic movement at 23.2mm diameter, engineered for thin dress watches.",
+    "category": "Movement"
+  },
+  {
+    "term": "JLC Poinçon de Genève",
+    "short": "Geneva Hallmark certification applied to JLC movements, guaranteeing Swiss manufacture and quality standards.",
+    "category": "Certification"
   },
   {
     "term": "John Harrison",
@@ -4409,6 +4484,21 @@
     "category": "Movement"
   },
   {
+    "term": "Omega Master Chronometer",
+    "short": "Omega's advanced certification standard exceeding COSC, testing antimagnetic properties and chronometric accuracy.",
+    "category": "Certification"
+  },
+  {
+    "term": "Omega Seamaster Caliber 8900",
+    "short": "Omega's modern automatic movement with Master Chronometer certification and enhanced antimagnetic properties.",
+    "category": "Movement"
+  },
+  {
+    "term": "Omega Sedna Gold",
+    "short": "Omega's proprietary gold alloy containing platinum, offering increased durability and unique rose-gold coloration.",
+    "category": "Materials"
+  },
+  {
     "term": "One-piece strap",
     "short": "Single continuous strap under entire watch case, minimalist construction",
     "category": "Strap"
@@ -4549,9 +4639,24 @@
     "category": "Service"
   },
   {
+    "term": "Patek Philippe Aquanaut Bracelet",
+    "short": "Signature rubber integrated bracelet design with matching case lugs, exclusive to Aquanaut and Nautilus models.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Patek Philippe Calatrava Cross",
+    "short": "Historical hallmark symbol punched on PP movements and cases, representing brand heritage since 1932.",
+    "category": "History"
+  },
+  {
     "term": "Patek Philippe Caliber 240",
     "short": "Golden Ellipse exclusive, hand-wound, ultra-thin, 48-hour reserve, haute horlogerie standard",
     "category": "Movement"
+  },
+  {
+    "term": "Patek Philippe Seal",
+    "short": "PP's stringent quality standard certifying movement finishing, reliability, and timekeeping performance thresholds.",
+    "category": "Certification"
   },
   {
     "term": "Patina",
@@ -5149,6 +5254,21 @@
     "category": "Movement"
   },
   {
+    "term": "Rolex Glidelock Clasp",
+    "short": "Rolex's proprietary bracelet extension system allowing micro-adjustments without removing links, debuted in 2005.",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Rolex Perpetual Rotor",
+    "short": "Proprietary automatic winding system in Caliber 3135, featuring bidirectional winding and optimized energy transfer.",
+    "category": "Movement"
+  },
+  {
+    "term": "Rolex Triplock Crown",
+    "short": "Proprietary triple-sealed crown mechanism in Caliber 3135 watches, ensuring exceptional water resistance integrity.",
+    "category": "Case"
+  },
+  {
     "term": "Roman Numerals",
     "short": "Classical Roman numeral hour markers for elegant formal appearance",
     "category": "Dial"
@@ -5374,6 +5494,16 @@
     "category": "Movement"
   },
   {
+    "term": "Seiko Prospex Hardlex",
+    "short": "Seiko's proprietary hardened crystal material used in Prospex professional dive watches for scratch resistance.",
+    "category": "Materials"
+  },
+  {
+    "term": "Seiko Spring Drive",
+    "short": "Seiko's proprietary quartz-mechanical hybrid movement with magnetic braking, eliminating watch tick.",
+    "category": "Movement"
+  },
+  {
     "term": "Sellita SW200",
     "short": "ETA 2824 alternative, 42-hour reserve, Swiss-made, compatible chronograph calibers available",
     "category": "Movement"
@@ -5586,6 +5716,11 @@
   {
     "term": "Spiromax",
     "short": "Rolex's silicon hairspring and balance wheel assembly for enhanced chronometric performance.",
+    "category": "Movement"
+  },
+  {
+    "term": "Spiromax Hairspring",
+    "short": "Patek Philippe's patented hairspring with silicon construction, improving rate stability and temperature compensation.",
     "category": "Movement"
   },
   {
@@ -6511,6 +6646,11 @@
   {
     "term": "Zenith El Primero",
     "short": "Legendary integrated chronograph, 36,000 bph, 50-hour reserve, haute horlogerie standard",
+    "category": "Movement"
+  },
+  {
+    "term": "Zenith Oscillator",
+    "short": "Zenith's frequency-generating component in El Primero movement, oscillating at 36,000 bph for chronograph precision.",
     "category": "Movement"
   },
   {
