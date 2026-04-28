@@ -150,6 +150,11 @@
     "category": "Movement"
   },
   {
+    "term": "Amplitude Drop",
+    "short": "Reduction in mainspring power transmission indicating wear; affects timekeeping.",
+    "category": "Movement"
+  },
+  {
     "term": "Analog-Digital Hybrid Display",
     "short": "Mechanical watch face combined with auxiliary smartwatch LCD/OLED complication screen",
     "category": "Dial"
@@ -1205,6 +1210,11 @@
     "category": "Service"
   },
   {
+    "term": "Chronograph Settles",
+    "short": "Chronograph hand drift during timing; normal in vintage mechanical watches.",
+    "category": "Complications"
+  },
+  {
     "term": "Chronograph Three-Pusher",
     "short": "Traditional chronograph with individual pushers for start, stop, and reset for maximum control.",
     "category": "Complications"
@@ -1655,6 +1665,11 @@
     "category": "Movement"
   },
   {
+    "term": "Creeping Bezel",
+    "short": "Bezel that slowly rotates unintentionally due to wear; significant condition flaw.",
+    "category": "Case"
+  },
+  {
     "term": "Creeping Hour Hand",
     "short": "Auction house term for hour hand that gradually advances between hour markers rather than jumping.",
     "category": "Movement"
@@ -2005,6 +2020,11 @@
     "category": "Condition"
   },
   {
+    "term": "Dial Crack",
+    "short": "Fracture in enamel or lacquer dial surface; typically irreversible damage.",
+    "category": "Dial"
+  },
+  {
     "term": "Dial Enamel",
     "short": "Glass-like coating applied to watch dials for durability and aesthetic finish",
     "category": "Materials"
@@ -2033,6 +2053,11 @@
     "term": "Dial Painter",
     "short": "Skilled craftsperson hand-painting and decorating watch dials with precision",
     "category": "Manufacture"
+  },
+  {
+    "term": "Dial Patina",
+    "short": "Natural aging and color variations on vintage dial surfaces; desirable collector trait.",
+    "category": "Dial"
   },
   {
     "term": "Dial Planishing",
@@ -2143,6 +2168,11 @@
     "term": "DLC Coating",
     "short": "Diamond-Like Carbon coating providing extreme hardness and scratch resistance",
     "category": "Materials"
+  },
+  {
+    "term": "Dot Over Ninety Dial",
+    "short": "Specific dial variant with dot marker above 90-degree position; rare configuration.",
+    "category": "Dial"
   },
   {
     "term": "Double Seal",
@@ -2260,6 +2290,11 @@
     "category": "Bracelet"
   },
   {
+    "term": "End Link Gap",
+    "short": "Visible space between bracelet end links and case lugs; increases with age.",
+    "category": "Bracelet"
+  },
+  {
     "term": "Endlink fit",
     "short": "Custom connection between bracelet and case lugs for improved aesthetics",
     "category": "Detail"
@@ -2355,6 +2390,11 @@
     "category": "History"
   },
   {
+    "term": "Execution Grade",
+    "short": "Auction house assessment of finishing quality and assembly precision.",
+    "category": "Certification"
+  },
+  {
     "term": "Exhibition caseback",
     "short": "Transparent or open caseback allowing view of the movement, common on mechanical and automatic watches.",
     "category": "Case"
@@ -2393,6 +2433,11 @@
     "term": "Faded insert",
     "short": "Aged bezel insert with significant color fading, highly prized by vintage collectors.",
     "category": "Aesthetics"
+  },
+  {
+    "term": "Faded Lume",
+    "short": "Luminous compound that has lost glow intensity; common in 1960s-1980s watches.",
+    "category": "Materials"
   },
   {
     "term": "Faraday Cage",
@@ -2633,6 +2678,11 @@
     "term": "Gilt Dial",
     "short": "Dial with gold-plated finish giving warm vintage appearance",
     "category": "Dial"
+  },
+  {
+    "term": "Gilt Hands",
+    "short": "Hands with gold plating over brass; prone to wear revealing base metal.",
+    "category": "Movement"
   },
   {
     "term": "Gilt Washing",
@@ -2890,6 +2940,11 @@
     "category": "Movement"
   },
   {
+    "term": "Hairline Scratch",
+    "short": "Fine surface scratches on dial or case; minor cosmetic flaw in grading scales.",
+    "category": "Dial"
+  },
+  {
     "term": "Hairlines",
     "short": "Fine surface scratches on polished watch case surfaces, expected on worn vintage timepieces",
     "category": "Collecting and Market"
@@ -2930,6 +2985,11 @@
     "category": "Case"
   },
   {
+    "term": "Hammer Price Reserve",
+    "short": "Undisclosed minimum bid amount required to win auction lot.",
+    "category": "Tools"
+  },
+  {
     "term": "Hammered finish",
     "short": "Irregular dimpled surface mimicking hand-hammering technique",
     "category": "Finishing"
@@ -2943,6 +3003,11 @@
     "term": "Hand lume",
     "short": "Luminous material applied to watch hands enabling visibility in darkness",
     "category": "Materials"
+  },
+  {
+    "term": "Hand Patina",
+    "short": "Age-related discoloration of watch hands; varies from subtle to dramatic.",
+    "category": "Movement"
   },
   {
     "term": "Hand Press",
@@ -3639,6 +3704,11 @@
     "category": "Watch Journalism"
   },
   {
+    "term": "Lug Wear",
+    "short": "Polishing and erosion visible on case lugs from bracelet friction over time.",
+    "category": "Case"
+  },
+  {
     "term": "Lug Width",
     "short": "Space between the lugs where the strap or bracelet attaches.",
     "category": "Case"
@@ -4259,6 +4329,11 @@
     "category": "History"
   },
   {
+    "term": "Mothballed Movement",
+    "short": "Watch stored for years with congealed oils; requires full service before operation.",
+    "category": "Movement"
+  },
+  {
     "term": "Mother of Pearl",
     "short": "Iridescent nacre from mollusk shells used decoratively on watch dials",
     "category": "Materials"
@@ -4709,6 +4784,11 @@
     "category": "Case"
   },
   {
+    "term": "Pencil Hands",
+    "short": "Slender, elongated hand design typical of 1960s minimalist watches.",
+    "category": "Movement"
+  },
+  {
     "term": "Pepsi GMT",
     "short": "GMT-Master II with red and blue bezel insert, nicknamed for Pepsi-like color scheme.",
     "category": "History"
@@ -4969,6 +5049,11 @@
     "category": "Collecting and Market"
   },
   {
+    "term": "Provenance Chain",
+    "short": "Documented ownership history from manufacture through current owner.",
+    "category": "History"
+  },
+  {
     "term": "Pulsmeter Bezel",
     "short": "Bezel with graduated scale for measuring heart rate by counting pulses over time interval",
     "category": "Bezel"
@@ -4982,6 +5067,11 @@
     "term": "Pulsometer Scale",
     "short": "Scale used with chronograph to measure heart rate from pulse beats.",
     "category": "Dial"
+  },
+  {
+    "term": "Pumper Pusher",
+    "short": "Chronograph pusher requiring repeated activation; pre-1970s design characteristic.",
+    "category": "Complications"
   },
   {
     "term": "Push Notification Framework",
@@ -5059,6 +5149,11 @@
     "category": "History"
   },
   {
+    "term": "Radium Lume",
+    "short": "Radioactive luminous paint used pre-1960s; highly collectible but hazardous.",
+    "category": "Materials"
+  },
+  {
     "term": "Rail Setting",
     "short": "Parallel metal rails securing elongated gemstones in linear watch designs.",
     "category": "Dial"
@@ -5129,6 +5224,11 @@
     "category": "Collecting and Market"
   },
   {
+    "term": "Refinished Bezel",
+    "short": "Bezel professionally repolished, reducing originality grade and collector value.",
+    "category": "Case"
+  },
+  {
     "term": "Regatta Timer",
     "short": "Chronograph with countdown mechanism and acoustic signal for yacht race starting procedures.",
     "category": "Complications"
@@ -5177,6 +5277,11 @@
     "term": "Repeater",
     "short": "Complicated watch striking hours, quarters, or minutes audibly when activated by pusher.",
     "category": "Complications"
+  },
+  {
+    "term": "Replacement Dial",
+    "short": "Non-original dial installed during service; significantly reduces watch value.",
+    "category": "Dial"
   },
   {
     "term": "Replacement Parts",
@@ -5707,6 +5812,11 @@
     "term": "Spider Dial",
     "short": "Dial with radial cracks emanating from center, resembling spider web pattern",
     "category": "Collecting and Market"
+  },
+  {
+    "term": "Spider Web Crack",
+    "short": "Network of micro-fractures in dial enamel creating web-like appearance.",
+    "category": "Dial"
   },
   {
     "term": "Spindle Run-Out",
