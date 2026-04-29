@@ -665,6 +665,21 @@
     "category": "History"
   },
   {
+    "term": "Breguet Overcoil Pitch Control",
+    "short": "Precision method for maintaining consistent spacing between overcoil spiral layers.",
+    "category": "Movement"
+  },
+  {
+    "term": "Breguet Overcoil Temperature Gradient",
+    "short": "Differential thermal expansion across overcoil structure affecting rate stability.",
+    "category": "Movement"
+  },
+  {
+    "term": "Breguet Overcoil Terminal Lift",
+    "short": "Vertical clearance between overcoil's outer curve and balance cock at extrema.",
+    "category": "Movement"
+  },
+  {
     "term": "Breguet spiral",
     "short": "Hairspring with specially shaped terminal curve invented by Abraham-Louis Breguet for improved chronometry",
     "category": "History"
@@ -2535,6 +2550,41 @@
     "category": "History"
   },
   {
+    "term": "Free-Sprung Bearing Surface Lubrication",
+    "short": "Oil film maintenance requirement for friction-free balance wheel pivot rotation.",
+    "category": "Movement"
+  },
+  {
+    "term": "Free-Sprung Concentricity Tolerance",
+    "short": "Allowable radial deviation of balance wheel center from hairspring attachment point.",
+    "category": "Movement"
+  },
+  {
+    "term": "Free-Sprung Lateral Stability Margin",
+    "short": "Maximum permissible horizontal deflection before free-sprung balance contacts limiting surfaces.",
+    "category": "Movement"
+  },
+  {
+    "term": "Free-Sprung Moment of Inertia",
+    "short": "Rotational resistance measurement of balance wheel without hairspring moment contribution.",
+    "category": "Movement"
+  },
+  {
+    "term": "Free-Sprung Pivot Recess",
+    "short": "Specialized bearing cavity design for unsupported hairspring terminals in free-sprung balances.",
+    "category": "Movement"
+  },
+  {
+    "term": "Free-Sprung Precession Rate",
+    "short": "Wobble frequency of balance wheel axis during oscillation in free-sprung configuration.",
+    "category": "Movement"
+  },
+  {
+    "term": "Free-Sprung Radial Play",
+    "short": "Permissible side-to-side movement in balance wheel without hairspring lateral support.",
+    "category": "Movement"
+  },
+  {
     "term": "Frequency",
     "short": "Number of oscillations per hour; determines movement precision and commonly rated in Hz.",
     "category": "Movement"
@@ -3283,6 +3333,41 @@
     "term": "Index Markers",
     "short": "Minimalist hour markers using simple lines or shapes",
     "category": "Dial"
+  },
+  {
+    "term": "Index Regulator Arm Symmetry",
+    "short": "Bilateral balance requirement of index regulator arms to prevent chronometric asymmetry.",
+    "category": "Movement"
+  },
+  {
+    "term": "Index Regulator Backlash Elimination",
+    "short": "Engineering technique removing mechanical play between index regulator components.",
+    "category": "Movement"
+  },
+  {
+    "term": "Index Regulator Detent Force",
+    "short": "Mechanical resistance required to move index regulator arms during timing adjustment.",
+    "category": "Movement"
+  },
+  {
+    "term": "Index Regulator Fine-Tuning Range",
+    "short": "Total achievable rate correction span via index regulator adjustment before mechanical limits.",
+    "category": "Movement"
+  },
+  {
+    "term": "Index Regulator Hysteresis",
+    "short": "Lag between index regulator movement command and actual hairspring length adjustment.",
+    "category": "Movement"
+  },
+  {
+    "term": "Index Regulator Null Position",
+    "short": "Centered mechanical state of index regulator where hairspring length correction equals zero.",
+    "category": "Movement"
+  },
+  {
+    "term": "Index Regulator Screw Pitch",
+    "short": "Thread specification controlling fine adjustment increments on index regulator mechanisms.",
+    "category": "Movement"
   },
   {
     "term": "Inertial Measurement Unit (IMU)",
@@ -4649,6 +4734,31 @@
     "category": "History"
   },
   {
+    "term": "Overcoil Curvature Consistency Test",
+    "short": "Quality control procedure verifying Breguet overcoil radius uniformity across full circumference.",
+    "category": "Movement"
+  },
+  {
+    "term": "Overcoil Curve Tangency",
+    "short": "Mathematical alignment angle where Breguet overcoil terminal meets hairspring plane.",
+    "category": "Movement"
+  },
+  {
+    "term": "Overcoil Isochronal Compensation",
+    "short": "Breguet overcoil design feature minimizing rate variations across amplitude spectrum.",
+    "category": "Movement"
+  },
+  {
+    "term": "Overcoil Resonance Frequency",
+    "short": "Natural oscillation rate of Breguet overcoil structure independent of balance wheel.",
+    "category": "Movement"
+  },
+  {
+    "term": "Overcoil Stiffness Index",
+    "short": "Measurement of resistance to flexing in a Breguet overcoil's terminal curve.",
+    "category": "Movement"
+  },
+  {
     "term": "Oyster Bracelet",
     "short": "Three-piece solid links forming a robust, professional bracelet design.",
     "category": "Bracelet"
@@ -4822,6 +4932,46 @@
     "term": "Petite Sonnerie",
     "short": "Simplified striking complication that chimes hours and quarters but only on demand.",
     "category": "Complications"
+  },
+  {
+    "term": "Phillips Curve Amplitude",
+    "short": "Rate of change in balance wheel amplitude relative to temperature fluctuations.",
+    "category": "Movement"
+  },
+  {
+    "term": "Phillips Curve Elasticity Mapping",
+    "short": "Detailed analysis of varying spring constant along Phillips curve length.",
+    "category": "Movement"
+  },
+  {
+    "term": "Phillips Curve Harmonic Content",
+    "short": "Secondary vibrational modes induced by Phillips curve geometry during oscillation.",
+    "category": "Movement"
+  },
+  {
+    "term": "Phillips Curve Inflection Point",
+    "short": "Transition zone where Phillips curve curvature changes direction within hairspring coil.",
+    "category": "Movement"
+  },
+  {
+    "term": "Phillips Curve Nonlinear Response",
+    "short": "Deviation from predicted rate behavior due to Phillips curve geometric complexity.",
+    "category": "Movement"
+  },
+  {
+    "term": "Phillips Curve Slope Ratio",
+    "short": "Proportional relationship between Phillips curve arc radius and hairspring wire diameter.",
+    "category": "Movement"
+  },
+  {
+    "term": "Phillips Curve Stress Concentration",
+    "short": "Localized material stress points created by Phillips curve directional change.",
+    "category": "Movement"
+  },
+  {
+    "term": "Phillips Curve Terminal Guidance",
+    "short": "Directional control exerted by Phillips curve on hairspring final outer coil trajectory.",
+    "category": "Movement"
   },
   {
     "term": "Photography Compensation Bias",
