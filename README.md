@@ -4,7 +4,7 @@
 
 Curated by [timepiecepedia.com](https://timepiecepedia.com), the free online encyclopedia of horology. Updated automatically every few hours as new brands and references are catalogued.
 
-_Last updated: 2026-04-29T00:10:01.867Z_
+_Last updated: 2026-04-29T06:10:01.745Z_
 
 ## What's inside
 
@@ -21,7 +21,7 @@ _Last updated: 2026-04-29T00:10:01.867Z_
 - **224** brands indexed (224 with full reference data, more being added continuously)
 - **1,356** horology terms defined
 - Imagery URLs, technical specs (movement, materials, diameter, water resistance), collection/family grouping
-- Multilingual: English + French (233 editorial articles)
+- Multilingual: English + French (238 editorial articles)
 
 ## CSV schema (`references.csv`)
 
