@@ -705,6 +705,11 @@
     "category": "History"
   },
   {
+    "term": "Broad arrow case engraving depth",
+    "short": "Precise measurement specification for Crown property mark embossing on military cases.",
+    "category": "Case"
+  },
+  {
     "term": "Broad arrow case marking location",
     "short": "Standardized position on case back or lug area where broad arrow stamp is applied.",
     "category": "History"
@@ -713,6 +718,11 @@
     "term": "Broad Arrow Crown",
     "short": "Crown stamped with British broad arrow mark indicating Crown-issued military timepiece.",
     "category": "Case"
+  },
+  {
+    "term": "Broad arrow crown authentication",
+    "short": "Method of verifying military Crown ownership mark positioning and depth on case crown.",
+    "category": "History"
   },
   {
     "term": "Broad arrow crown removal tool",
@@ -725,13 +735,33 @@
     "category": "Dial"
   },
   {
+    "term": "Broad arrow dial placement protocol",
+    "short": "Standardized positioning of Crown property mark at 12 o'clock on military-issue dials.",
+    "category": "Dial"
+  },
+  {
     "term": "Broad Arrow Mark",
     "short": "British military property mark denoting Crown ownership; stamped on case back or dial of service watches.",
     "category": "History"
   },
   {
+    "term": "Broad arrow property mark",
+    "short": "Crown symbol stamped on British military watch cases denoting Crown ownership and issue.",
+    "category": "Case"
+  },
+  {
     "term": "Broad Arrow Provenance",
     "short": "Authentication marker establishing military issuance history through official Crown ownership symbols.",
+    "category": "History"
+  },
+  {
+    "term": "Broad arrow provenance documentation",
+    "short": "Historical records and certificates authenticating military issue and ownership history.",
+    "category": "History"
+  },
+  {
+    "term": "Broad arrow removal authentication",
+    "short": "Analysis of Crown mark surface characteristics determining military issue legitimacy.",
     "category": "History"
   },
   {
@@ -2885,6 +2915,21 @@
     "category": "Certification"
   },
   {
+    "term": "GS/TP case hardening standard",
+    "short": "German military requirement for enhanced case surface hardness and corrosion resistance.",
+    "category": "Materials"
+  },
+  {
+    "term": "GS/TP dial finish specification",
+    "short": "German military standard for matte dial surface preventing glare in field operations.",
+    "category": "Dial"
+  },
+  {
+    "term": "GS/TP dial marking",
+    "short": "German military designation 'Gesellschaft für Stromversorgung/Technische Prüfung' on issued watches.",
+    "category": "Dial"
+  },
+  {
     "term": "GS/TP dial specification",
     "short": "German military requirements for dial layout, lume placement, and readability standards.",
     "category": "Dial"
@@ -2903,6 +2948,11 @@
     "term": "GS/TP movement testing",
     "short": "German military precision testing protocol for movement accuracy and reliability validation.",
     "category": "Movement"
+  },
+  {
+    "term": "GS/TP movement testing protocol",
+    "short": "German military acceptance testing procedure verifying chronometer-grade accuracy standards.",
+    "category": "Certification"
   },
   {
     "term": "GS/TP Rate Certificate",
@@ -4184,6 +4234,11 @@
     "category": "Case"
   },
   {
+    "term": "MIL-W dial luminosity requirement",
+    "short": "Specification mandating minimum luminous paint coverage for nighttime readability.",
+    "category": "Dial"
+  },
+  {
     "term": "MIL-W Lume Specification",
     "short": "Military-mandated luminous material meeting visibility standards for 8+ hours in complete darkness.",
     "category": "Dial"
@@ -4192,6 +4247,21 @@
     "term": "MIL-W luminous compliance",
     "short": "Specific lume application standards required by military specifications for night readability.",
     "category": "Dial"
+  },
+  {
+    "term": "MIL-W mainspring endurance test",
+    "short": "Military specification requiring 1,000+ wind cycles without degradation or brittleness.",
+    "category": "Movement"
+  },
+  {
+    "term": "MIL-W rated accuracy tolerance",
+    "short": "Military specification requiring maximum ±20 seconds per day chronometric performance.",
+    "category": "Certification"
+  },
+  {
+    "term": "MIL-W shock absorber requirement",
+    "short": "Military specification mandating Incabloc or equivalent anti-shock mechanism for durability.",
+    "category": "Movement"
   },
   {
     "term": "MIL-W Shock Resistance",
@@ -4216,6 +4286,11 @@
   {
     "term": "MIL-W-3818",
     "short": "Original U.S. military watch specification from 1940s defining ruggedness and reliability standards.",
+    "category": "Certification"
+  },
+  {
+    "term": "MIL-W-46320",
+    "short": "U.S. military specification for general-purpose military wristwatches issued 1968-1990.",
     "category": "Certification"
   },
   {
@@ -4259,6 +4334,21 @@
     "category": "Dial"
   },
   {
+    "term": "Military contract luminous dial",
+    "short": "Radium-based or zinc sulfide lume application meeting MIL-W nighttime visibility specs.",
+    "category": "Dial"
+  },
+  {
+    "term": "Military contract movement specification",
+    "short": "Caliber requirements for shock resistance, accuracy, and reliability in combat conditions.",
+    "category": "Movement"
+  },
+  {
+    "term": "Military deployment date dial",
+    "short": "Engraved calendar reference on MOD-issued watches tracking serviceable operational period.",
+    "category": "Dial"
+  },
+  {
     "term": "Military Dial Designation",
     "short": "Abbreviated code printed on military-issue dial indicating service branch and acceptance specification.",
     "category": "Dial"
@@ -4281,6 +4371,11 @@
   {
     "term": "Military Issue Tracking",
     "short": "Serial number system linking military watches to issuance records via MOD and NATO database archives.",
+    "category": "Certification"
+  },
+  {
+    "term": "Military water resistance standard",
+    "short": "MIL-W requirement for minimum submersion depth capability, typically 100m for combat use.",
     "category": "Certification"
   },
   {
@@ -4334,9 +4429,19 @@
     "category": "Certification"
   },
   {
+    "term": "MOD case sealing procedure",
+    "short": "British military protocol for hermetic caseback closure ensuring pressure resistance.",
+    "category": "Case"
+  },
+  {
     "term": "MOD issue dial",
     "short": "Watch dial conforming to UK Ministry of Defence specifications for military contract watches.",
     "category": "Dial"
+  },
+  {
+    "term": "MOD issue specification",
+    "short": "United Kingdom Ministry of Defence requirements for serviceable military timepieces.",
+    "category": "Certification"
   },
   {
     "term": "MOD Issue Watch",
@@ -4354,6 +4459,11 @@
     "category": "History"
   },
   {
+    "term": "MOD screw-down case back",
+    "short": "British military specification requiring sealed caseback to prevent debris infiltration.",
+    "category": "Case"
+  },
+  {
     "term": "MOD service mark",
     "short": "Marking applied to watches serviced through official British military maintenance channels.",
     "category": "History"
@@ -4362,6 +4472,11 @@
     "term": "MOD Test Certificate",
     "short": "Official documentation proving watch passed British Ministry of Defence acceptance testing criteria.",
     "category": "Certification"
+  },
+  {
+    "term": "MOD tritium authorization",
+    "short": "British military approval for tritium-based luminous material on dials and hands.",
+    "category": "Materials"
   },
   {
     "term": "Modern lume standards",
@@ -4504,6 +4619,11 @@
     "category": "Materials"
   },
   {
+    "term": "NATO bezel marking requirement",
+    "short": "Specification for bezel index positioning and lume application on military-issued timepieces.",
+    "category": "Case"
+  },
+  {
     "term": "NATO procurement file number",
     "short": "Reference number assigned to military watch procurement contracts in NATO inventory system.",
     "category": "History"
@@ -4517,6 +4637,11 @@
     "term": "NATO Stock Number",
     "short": "NATO Reference Number (NRN) cataloging system for military equipment including issued wristwatches.",
     "category": "Certification"
+  },
+  {
+    "term": "NATO stock number format",
+    "short": "13-digit North Atlantic Treaty Organization catalog identifier for military watches.",
+    "category": "History"
   },
   {
     "term": "NATO stock number plate",
@@ -4597,6 +4722,21 @@
     "term": "NOS",
     "short": "New Old Stock - unworn vintage watch still in original packaging from factory",
     "category": "Collecting and Market"
+  },
+  {
+    "term": "NSN bezel insert compatibility",
+    "short": "Standard specification ensuring replacement bezels fit military-issued watch cases.",
+    "category": "Case"
+  },
+  {
+    "term": "NSN military designation",
+    "short": "NATO Stock Number military catalog reference enabling supply chain tracking.",
+    "category": "History"
+  },
+  {
+    "term": "NSN procurement batch",
+    "short": "Group of military watches manufactured under single NATO stock number specification.",
+    "category": "History"
   },
   {
     "term": "Nubuck Leather",
