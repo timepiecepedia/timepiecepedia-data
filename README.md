@@ -4,7 +4,7 @@
 
 Curated by [timepiecepedia.com](https://timepiecepedia.com), the free online encyclopedia of horology. Updated automatically every few hours as new brands and references are catalogued.
 
-_Last updated: 2026-05-01T12:10:01.864Z_
+_Last updated: 2026-05-01T18:10:02.365Z_
 
 ## What's inside
 
