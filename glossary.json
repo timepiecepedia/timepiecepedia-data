@@ -1395,6 +1395,26 @@
     "category": "Movement"
   },
   {
+    "term": "Co-axial Escapement Ceramic Pallets",
+    "short": "Advanced synthetic pallet stone material in Omega co-axial escapement design.",
+    "category": "Movement"
+  },
+  {
+    "term": "Co-axial Escapement Second Wheel Integration",
+    "short": "Mechanical coupling methodology between co-axial escapement and seconds hand drive train.",
+    "category": "Movement"
+  },
+  {
+    "term": "Co-axial Jewel Alignment Protocol",
+    "short": "Specialized setup procedure ensuring concentric alignment of co-axial escapement jewel pairs.",
+    "category": "Movement"
+  },
+  {
+    "term": "Co-axial Pivot Friction Gradient",
+    "short": "Progressive friction mapping across co-axial escapement pivot bearing surfaces.",
+    "category": "Movement"
+  },
+  {
     "term": "Coaxial Escapement",
     "short": "Co-axial mechanism reducing friction between escapement components for improved accuracy",
     "category": "Movement"
@@ -1577,6 +1597,26 @@
   {
     "term": "Constant Force Escapement",
     "short": "Mechanism maintaining uniform force delivery to regulating organ",
+    "category": "Movement"
+  },
+  {
+    "term": "Constant Force Escapement Isochronous Verification",
+    "short": "Testing procedure confirming constant force mechanism maintains isochronal oscillation.",
+    "category": "Movement"
+  },
+  {
+    "term": "Constant Force Mechanical Accumulator",
+    "short": "Energy storage device in constant force escapement maintaining uniform power delivery.",
+    "category": "Movement"
+  },
+  {
+    "term": "Constant Force Pawl Engagement Ratio",
+    "short": "Proportional measurement of constant force pawl contact with ratchet teeth.",
+    "category": "Movement"
+  },
+  {
+    "term": "Constant Force Remontoire Harmonic Frequency",
+    "short": "Oscillation rate of constant force mechanism maintaining uniform energy delivery to balance wheel.",
     "category": "Movement"
   },
   {
@@ -1870,6 +1910,26 @@
     "category": "Case"
   },
   {
+    "term": "Cylinder Escapement Gas Damping Effect",
+    "short": "Air viscosity influence on cylinder escapement performance within sealed balance cock cavity.",
+    "category": "Movement"
+  },
+  {
+    "term": "Cylinder Escapement Lift Clearance Protocol",
+    "short": "Standardized measurement procedure for lift clearance between cylinder and escape wheel teeth.",
+    "category": "Movement"
+  },
+  {
+    "term": "Cylinder Escapement Recoil Measurement",
+    "short": "Quantification of backward wheel motion during cylinder escapement lock phase.",
+    "category": "Movement"
+  },
+  {
+    "term": "Cylinder Escapement Tooth Face Radius Optimization",
+    "short": "Curved surface profile refinement of escape wheel teeth for cylinder escapement efficiency.",
+    "category": "Movement"
+  },
+  {
     "term": "Cylindrical Balance Wheel",
     "short": "Balance wheel with drum-shaped mass distribution design",
     "category": "Movement"
@@ -1985,6 +2045,26 @@
     "category": "Complications"
   },
   {
+    "term": "Deadbeat Anchor Leg Deflection",
+    "short": "Measurable flex distance of deadbeat anchor legs under impulse force application.",
+    "category": "Movement"
+  },
+  {
+    "term": "Deadbeat Escapement Locking Angle Tolerance",
+    "short": "Acceptable variance in locking position angle for deadbeat escapement precision chronometry.",
+    "category": "Movement"
+  },
+  {
+    "term": "Deadbeat Escapement Slide Block Engagement Zone",
+    "short": "Critical contact surface area between deadbeat anchor slide and locking block.",
+    "category": "Movement"
+  },
+  {
+    "term": "Deadbeat Escapement Thermal Compensation Index",
+    "short": "Temperature-related accuracy variance scaling factor specific to deadbeat chronometer mechanisms.",
+    "category": "Movement"
+  },
+  {
     "term": "Decimal Chronograph",
     "short": "Chronograph with dial divisions marked in tenths of a second rather than traditional fifths.",
     "category": "Complications"
@@ -2053,6 +2133,31 @@
     "term": "Detached escapement",
     "short": "Escapement design where the balance wheel operates independently during most of its oscillation",
     "category": "History"
+  },
+  {
+    "term": "Detent Escapement Knock-off Angle Specification",
+    "short": "Precise angular measurement at which chronometer detent releases from locking position.",
+    "category": "Movement"
+  },
+  {
+    "term": "Detent Locking Block Surface Finish",
+    "short": "Critical polish quality of chronometer detent locking surface affecting performance stability.",
+    "category": "Movement"
+  },
+  {
+    "term": "Detent Spring Elasticity Modulus",
+    "short": "Material property measurement determining detent spring's resistance to flexing in chronometer escapements.",
+    "category": "Movement"
+  },
+  {
+    "term": "Detent Spring Material Fatigue Index",
+    "short": "Predictive metric evaluating chronometer detent spring fatigue resistance over service life.",
+    "category": "Movement"
+  },
+  {
+    "term": "Detent Spring Preload Calibration",
+    "short": "Process of setting optimal initial spring tension in chronometer detent mechanisms.",
+    "category": "Movement"
   },
   {
     "term": "Deviation Tolerance",
@@ -3689,8 +3794,33 @@
     "category": "Movement"
   },
   {
+    "term": "Lever Drop Adjustment Precision",
+    "short": "Fine-tuning lever escapement drop distance to achieve optimal beat regularity.",
+    "category": "Movement"
+  },
+  {
     "term": "Lever Escapement",
     "short": "Type of escapement using pallet fork and lever to regulate energy release to balance",
+    "category": "Movement"
+  },
+  {
+    "term": "Lever Escapement Banking Geometry",
+    "short": "Precise angular positioning of lever banking pins to optimize impulse transmission efficiency.",
+    "category": "Movement"
+  },
+  {
+    "term": "Lever Escapement Impulse Plane Geometry",
+    "short": "Mathematical definition of lever impulse surface angle relative to escape wheel center.",
+    "category": "Movement"
+  },
+  {
+    "term": "Lever Escapement Pallet Fork Symmetry Assessment",
+    "short": "Measurement protocol verifying balanced geometry of lever pallet fork arms.",
+    "category": "Movement"
+  },
+  {
+    "term": "Lever Escapement Slack Action Measurement",
+    "short": "Quantification of minor play between lever and escape wheel teeth at rest.",
     "category": "Movement"
   },
   {
@@ -6757,6 +6887,26 @@
     "term": "Verge escapement",
     "short": "Early escapement mechanism using a rotating verge to regulate energy release from mainspring",
     "category": "History"
+  },
+  {
+    "term": "Verge Escapement Crossbar Oscillation Amplitude",
+    "short": "Maximum angular displacement of verge's balance crossbar during operational cycle.",
+    "category": "Movement"
+  },
+  {
+    "term": "Verge Escapement Dephasing Correction",
+    "short": "Adjustment technique compensating for inherent phase lag in verge escapement systems.",
+    "category": "Movement"
+  },
+  {
+    "term": "Verge Escapement Escape Wheel Cam Profile",
+    "short": "Specialized tooth geometry design enabling verge escapement locking and impulse phases.",
+    "category": "Movement"
+  },
+  {
+    "term": "Verge Escapement Foliot Resonance",
+    "short": "Vibrational characteristics of balance wheel in early verge escapement systems.",
+    "category": "Movement"
   },
   {
     "term": "Vertical brushing",
