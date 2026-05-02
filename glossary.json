@@ -310,6 +310,11 @@
     "category": "Movement"
   },
   {
+    "term": "Balance Wheel Moment of Inertia",
+    "short": "Precise calculation of the balance wheel's resistance to rotational acceleration.",
+    "category": "Movement"
+  },
+  {
     "term": "Balance Wheel Service",
     "short": "Cleaning, inspection, and adjustment of balance wheel for timekeeping accuracy",
     "category": "Service"
@@ -665,13 +670,43 @@
     "category": "History"
   },
   {
+    "term": "Breguet Overcoil Eccentricity Meter",
+    "short": "Specialized tool measuring lateral deviation of the outer coil from the spiral's centerline.",
+    "category": "Tools"
+  },
+  {
+    "term": "Breguet Overcoil Mechanical Hysteresis",
+    "short": "Energy loss between successive oscillations due to internal friction within the terminal coil structure.",
+    "category": "Movement"
+  },
+  {
     "term": "Breguet Overcoil Pitch Control",
     "short": "Precision method for maintaining consistent spacing between overcoil spiral layers.",
     "category": "Movement"
   },
   {
+    "term": "Breguet Overcoil Pitch Uniformity",
+    "short": "Assessment of consistent spacing between successive turns of the terminal overcoil loop.",
+    "category": "Movement"
+  },
+  {
+    "term": "Breguet Overcoil Radial Constraint",
+    "short": "Controlled dimensional pressure keeping the outer loop in optimal geometric relationship to the spiral.",
+    "category": "Movement"
+  },
+  {
+    "term": "Breguet Overcoil Structural Damping",
+    "short": "Energy dissipation characteristics inherent to the terminal coil configuration during oscillation.",
+    "category": "Movement"
+  },
+  {
     "term": "Breguet Overcoil Temperature Gradient",
     "short": "Differential thermal expansion across overcoil structure affecting rate stability.",
+    "category": "Movement"
+  },
+  {
+    "term": "Breguet Overcoil Terminal Geometry",
+    "short": "Precise measurement of the outer coil's endpoint curvature and lift angle in Breguet spirals.",
     "category": "Movement"
   },
   {
@@ -1493,6 +1528,11 @@
     "term": "Collet Closure",
     "short": "Spring-loaded mechanism securing watch crystal to case",
     "category": "Case"
+  },
+  {
+    "term": "Collet Friction Damping Effect",
+    "short": "Controlled resistance created by the hairspring's collet seat on the balance arbor.",
+    "category": "Movement"
   },
   {
     "term": "Collet Sizing Gauge",
@@ -2685,6 +2725,11 @@
     "category": "History"
   },
   {
+    "term": "Free-Sprung Balance Assembly",
+    "short": "Balance wheel without index regulator, relying on hairspring geometry alone for rate adjustment.",
+    "category": "Movement"
+  },
+  {
     "term": "Free-Sprung Bearing Surface Lubrication",
     "short": "Oil film maintenance requirement for friction-free balance wheel pivot rotation.",
     "category": "Movement"
@@ -2692,6 +2737,11 @@
   {
     "term": "Free-Sprung Concentricity Tolerance",
     "short": "Allowable radial deviation of balance wheel center from hairspring attachment point.",
+    "category": "Movement"
+  },
+  {
+    "term": "Free-Sprung Isochronal Deviation",
+    "short": "Quantification of rate variance in a free-sprung balance across different oscillation amplitudes.",
     "category": "Movement"
   },
   {
@@ -2717,6 +2767,26 @@
   {
     "term": "Free-Sprung Radial Play",
     "short": "Permissible side-to-side movement in balance wheel without hairspring lateral support.",
+    "category": "Movement"
+  },
+  {
+    "term": "Free-Sprung Rate Stability Index",
+    "short": "Numerical measure of how consistently a free-sprung movement maintains its beat rate over time.",
+    "category": "Movement"
+  },
+  {
+    "term": "Free-Sprung Rate Tracking Algorithm",
+    "short": "Computational method predicting rate stability in free-sprung movements based on environmental parameters.",
+    "category": "Movement"
+  },
+  {
+    "term": "Free-Sprung Resonance Frequency Drift",
+    "short": "Gradual shift in the natural oscillation frequency of a free-sprung balance over extended service.",
+    "category": "Movement"
+  },
+  {
+    "term": "Free-Sprung Thermal Compensation",
+    "short": "Method using hairspring material properties alone to counteract temperature-induced rate changes.",
     "category": "Movement"
   },
   {
@@ -3160,13 +3230,33 @@
     "category": "Movement"
   },
   {
+    "term": "Hairspring Amplitude Linearity",
+    "short": "Measure of how proportionally the hairspring responds to increasing angular displacement.",
+    "category": "Movement"
+  },
+  {
     "term": "Hairspring Cleaning",
     "short": "Careful removal and cleaning of delicate hairspring without deformation",
     "category": "Cleaning"
   },
   {
+    "term": "Hairspring Flatness Verification Plate",
+    "short": "Optical reference surface used to detect minute bends or distortions in the hairspring plane.",
+    "category": "Tools"
+  },
+  {
+    "term": "Hairspring Isochron Correction",
+    "short": "Fine-tuning method ensuring constant oscillation period regardless of amplitude variance.",
+    "category": "Movement"
+  },
+  {
     "term": "Hairspring Lag",
     "short": "Condition where hairspring loses elasticity, causing poor timekeeping especially during acceleration.",
+    "category": "Movement"
+  },
+  {
+    "term": "Hairspring Poising Balance Point",
+    "short": "Exact axial position where the spring's mass distribution creates minimal precession during rotation.",
     "category": "Movement"
   },
   {
@@ -3510,8 +3600,23 @@
     "category": "Movement"
   },
   {
+    "term": "Index Regulator Friction Coefficient",
+    "short": "Numerical value representing resistance between the regulator pin and the hairspring lever.",
+    "category": "Movement"
+  },
+  {
     "term": "Index Regulator Hysteresis",
     "short": "Lag between index regulator movement command and actual hairspring length adjustment.",
+    "category": "Movement"
+  },
+  {
+    "term": "Index Regulator Locking Torque",
+    "short": "Rotational force required to move the timing lever from a fixed regulator pin position.",
+    "category": "Movement"
+  },
+  {
+    "term": "Index Regulator Notch Depth",
+    "short": "Critical measurement of the semicircular grooves on the regulator pin engagement surface.",
     "category": "Movement"
   },
   {
@@ -3522,6 +3627,11 @@
   {
     "term": "Index Regulator Screw Pitch",
     "short": "Thread specification controlling fine adjustment increments on index regulator mechanisms.",
+    "category": "Movement"
+  },
+  {
+    "term": "Index Regulator Wear Pattern Analysis",
+    "short": "Examination of regulator pin surface abrasion to assess timing lever contact consistency.",
     "category": "Movement"
   },
   {
@@ -5229,13 +5339,33 @@
     "category": "Movement"
   },
   {
+    "term": "Phillips Curve Nonlinearity Index",
+    "short": "Measurement of deviation from theoretical hairspring stiffness predictions across the operating spectrum.",
+    "category": "Movement"
+  },
+  {
+    "term": "Phillips Curve Regulator Calibration",
+    "short": "Adjustment method mapping hairspring stiffness against frequency stability across temperature ranges.",
+    "category": "Movement"
+  },
+  {
     "term": "Phillips Curve Slope Ratio",
     "short": "Proportional relationship between Phillips curve arc radius and hairspring wire diameter.",
     "category": "Movement"
   },
   {
+    "term": "Phillips Curve Stiffness Mapping",
+    "short": "Graphical representation of hairspring rigidity versus frequency response across environmental conditions.",
+    "category": "Movement"
+  },
+  {
     "term": "Phillips Curve Stress Concentration",
     "short": "Localized material stress points created by Phillips curve directional change.",
+    "category": "Movement"
+  },
+  {
+    "term": "Phillips Curve Temperature Hysteresis",
+    "short": "Lag effect observed in hairspring behavior when temperature increases versus decreases.",
     "category": "Movement"
   },
   {
@@ -5669,9 +5799,24 @@
     "category": "Watch Types"
   },
   {
+    "term": "Regulator Arm Lateral Play",
+    "short": "Measurable side-to-side movement of the timing lever pin within its mounting point.",
+    "category": "Movement"
+  },
+  {
+    "term": "Regulator Arm Vibration Isolation",
+    "short": "Design feature minimizing transmission of external vibrations to the hairspring timing mechanism.",
+    "category": "Movement"
+  },
+  {
     "term": "Regulator index",
     "short": "Adjustable pointer that alters effective length of balance spring to regulate rate",
     "category": "History"
+  },
+  {
+    "term": "Regulator Pin Engagement Tolerance",
+    "short": "Permissible gap between the regulator pin and the hairspring timing lever contact surface.",
+    "category": "Movement"
   },
   {
     "term": "Rehaut",
