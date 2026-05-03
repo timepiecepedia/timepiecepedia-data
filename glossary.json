@@ -1060,8 +1060,18 @@
     "category": "Tools"
   },
   {
+    "term": "Case Press Centering Ring Concentricity Gauge",
+    "short": "Precision measurement tool verifying case press alignment accuracy before high-pressure operations.",
+    "category": "Tools"
+  },
+  {
     "term": "Case Press Hydraulic Cylinder",
     "short": "Pressurized fluid system in case presses that generates controlled force for crystal and case back sealing.",
+    "category": "Tools"
+  },
+  {
+    "term": "Case Press Hydraulic Seal Degradation Index",
+    "short": "Measurement standard for case press fluid loss rate indicating maintenance requirement timing.",
     "category": "Tools"
   },
   {
@@ -1070,8 +1080,28 @@
     "category": "Tools"
   },
   {
+    "term": "Case Press Load Distribution Plate",
+    "short": "Precision tool insert preventing concentrated force damage when pressing watch cases or bezels.",
+    "category": "Tools"
+  },
+  {
+    "term": "Case Press Platen Surface Conditioning",
+    "short": "Polishing procedure maintaining case press work surface smoothness to prevent case finish marks.",
+    "category": "Tools"
+  },
+  {
+    "term": "Case Press Platen Temperature Monitoring System",
+    "short": "Thermal sensor detecting excessive platen heating indicating potential hydraulic fluid degradation.",
+    "category": "Tools"
+  },
+  {
     "term": "Case Press Pressure Gauge",
     "short": "Calibrated manometer on case presses indicating applied force in tons or kilograms during assembly.",
+    "category": "Tools"
+  },
+  {
+    "term": "Case Press Pressure Release Valve Calibration",
+    "short": "Adjustment procedure setting maximum pressure thresholds to prevent case material deformation.",
     "category": "Tools"
   },
   {
@@ -3859,13 +3889,43 @@
     "category": "Tools"
   },
   {
+    "term": "Lathe Chuck Jaw Pressure Uniformity Index",
+    "short": "Measurement ensuring equal clamping force across all chuck jaws preventing component slippage.",
+    "category": "Tools"
+  },
+  {
+    "term": "Lathe Chuck Runout Compensation",
+    "short": "Adjustment mechanism on watch lathe to correct spindle wobble and ensure concentric part rotation.",
+    "category": "Tools"
+  },
+  {
+    "term": "Lathe Cross-Slide Micrometer Calibration",
+    "short": "Fine-tuning procedure for lathe's cross-slide measurement accuracy to achieve sub-micron depth cuts.",
+    "category": "Tools"
+  },
+  {
+    "term": "Lathe Spindle Bearings Preload Adjustment",
+    "short": "Mechanism controlling bearing friction on watchmaking lathe spindle for optimal rotation smoothness.",
+    "category": "Tools"
+  },
+  {
     "term": "Lathe Steady Rest Guide",
     "short": "Support bearing assembly on watchmaking lathes preventing component deflection during precision turning.",
     "category": "Tools"
   },
   {
+    "term": "Lathe Tailstock Dead Center",
+    "short": "Fixed support point on watchmaking lathe preventing component deflection during precision turning operations.",
+    "category": "Tools"
+  },
+  {
     "term": "Lathe Threading Dial",
     "short": "Graduated reference wheel on watchmaking lathes for precise pitch control during screw cutting operations.",
+    "category": "Tools"
+  },
+  {
+    "term": "Lathe Tool Post Rigidity Assessment Protocol",
+    "short": "Testing procedure measuring tool post deflection under cutting load to ensure part dimensional accuracy.",
     "category": "Tools"
   },
   {
@@ -4804,8 +4864,18 @@
     "category": "Tools"
   },
   {
+    "term": "Movement Holder Anti-Vibration Dampening Pad",
+    "short": "Elastomer component reducing transmission of external vibrations to delicate watch movements during servicing.",
+    "category": "Tools"
+  },
+  {
     "term": "Movement Holder Articulating Arm",
     "short": "Flexible jointed support structure in movement holders enabling 360-degree rotational access to calibers.",
+    "category": "Tools"
+  },
+  {
+    "term": "Movement Holder Capacitive Tilt Sensor",
+    "short": "Modern movement holder incorporating sensors to detect unintended orientation shifts during service work.",
     "category": "Tools"
   },
   {
@@ -4819,13 +4889,33 @@
     "category": "Tools"
   },
   {
+    "term": "Movement Holder Graduated Angle Reference Plate",
+    "short": "Precision accessory allowing repeatable movement positioning at specific angles for directional rate checks.",
+    "category": "Tools"
+  },
+  {
     "term": "Movement Holder Height Adjustment",
     "short": "Vertical positioning system on movement holders that positions calibers at ergonomic working heights.",
     "category": "Tools"
   },
   {
+    "term": "Movement Holder Kinetic Balance Platform",
+    "short": "Specialized movement holder allowing unobstructed balance wheel oscillation observation during assembly checks.",
+    "category": "Tools"
+  },
+  {
     "term": "Movement Holder Magnetic Base",
     "short": "Ferrous metal foundation on movement holders allowing positioning on workshop ferrous work surfaces.",
+    "category": "Tools"
+  },
+  {
+    "term": "Movement Holder Modular Jewel Support Block",
+    "short": "Interchangeable component positioning movement holders for different caliber jewel and pivot configurations.",
+    "category": "Tools"
+  },
+  {
+    "term": "Movement Holder Pivot Point Centering Jig",
+    "short": "Precision fixture aligning movement holder arms equidistant from mainplate center for balanced support.",
     "category": "Tools"
   },
   {
@@ -6439,6 +6529,11 @@
     "category": "Bracelet"
   },
   {
+    "term": "Stake Arbor Collet",
+    "short": "Precision collet that secures watch pivots during staking operations on the staking set.",
+    "category": "Tools"
+  },
+  {
     "term": "Stake Punch Set",
     "short": "Precision punches used with staking tools to form, shape, or set components onto watch movements.",
     "category": "Tools"
@@ -6459,8 +6554,33 @@
     "category": "Tools"
   },
   {
+    "term": "Staking Hammer Head Interchange System",
+    "short": "Modular hammer head system allowing rapid tool changes on a staking set without full recalibration.",
+    "category": "Tools"
+  },
+  {
+    "term": "Staking Set Anvil Bed Flatness Tolerance",
+    "short": "Measured deviation from perfect flatness on staking set anvil surface, critical for jewel alignment.",
+    "category": "Tools"
+  },
+  {
+    "term": "Staking Set Arbor Straightness Verification Indicator",
+    "short": "Dial indicator measuring radial runout of staking set arbors to confirm tool geometric precision.",
+    "category": "Tools"
+  },
+  {
     "term": "Staking Set Graduated Bed",
     "short": "Marked measuring surface on staking sets indicating height relationships for different die combinations.",
+    "category": "Tools"
+  },
+  {
+    "term": "Staking Set Hammer Head Mass Optimization",
+    "short": "Engineering calculation balancing hammer momentum with precision control for consistent jewel seating.",
+    "category": "Tools"
+  },
+  {
+    "term": "Staking Set Impact Force Dissipation",
+    "short": "Engineering feature absorbing hammer shock to prevent secondary impact damage to delicate watch parts.",
     "category": "Tools"
   },
   {
@@ -6849,13 +6969,43 @@
     "category": "Testing"
   },
   {
+    "term": "Timing Machine Amplitude Decay Rate Monitor",
+    "short": "Real-time measurement of balance wheel amplitude loss over 30-60 second intervals during diagnostics.",
+    "category": "Tools"
+  },
+  {
+    "term": "Timing Machine Beat Error Discrimination",
+    "short": "Advanced filtering algorithm distinguishing true beat error from external vibration interference signals.",
+    "category": "Tools"
+  },
+  {
     "term": "Timing Machine Calibration Block",
     "short": "Reference standard component used to verify accuracy and sensitivity of timing machine sensors.",
     "category": "Tools"
   },
   {
+    "term": "Timing Machine Demodulation Circuit",
+    "short": "Electronic component isolating rate information from movement vibrations in precision timing devices.",
+    "category": "Tools"
+  },
+  {
     "term": "Timing Machine Frequency Counter",
     "short": "Digital circuit in timing machines measuring escapement frequency in oscillations per hour with precision.",
+    "category": "Tools"
+  },
+  {
+    "term": "Timing Machine Frequency Domain Analysis Mode",
+    "short": "Advanced diagnostic function revealing harmonic disturbances and escapement irregularities in movement operation.",
+    "category": "Tools"
+  },
+  {
+    "term": "Timing Machine Isochronism Deviation Calculator",
+    "short": "Software function measuring balance wheel rate variation across different amplitude ranges during testing.",
+    "category": "Tools"
+  },
+  {
+    "term": "Timing Machine Microphone Sensitivity Calibration",
+    "short": "Standardized procedure ensuring consistent acoustic signal detection across different watch movement types.",
     "category": "Tools"
   },
   {
