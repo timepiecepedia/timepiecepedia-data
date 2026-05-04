@@ -520,6 +520,11 @@
     "category": "Case"
   },
   {
+    "term": "Bezel-to-Dial Visual Separation",
+    "short": "Optical perception of depth and definition between bezel insert and dial surface",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "Bezel-to-Wrist Integration Analysis",
     "short": "Critical review of how bezel design coordinates visually with wrist bone structure.",
     "category": "Watch Journalism"
@@ -635,8 +640,18 @@
     "category": "Cleaning"
   },
   {
+    "term": "Bracelet End-Link Tolerance Stack",
+    "short": "Cumulative manufacturing variance in end-link fitment affecting overall comfort and rattle",
+    "category": "Bracelet"
+  },
+  {
     "term": "Bracelet integration",
     "short": "Seamless connection between case and bracelet for unified design",
+    "category": "Bracelet"
+  },
+  {
+    "term": "Bracelet Rattle Taxonomy",
+    "short": "Classification system for different types of end-link play and audible movement in bracelet construction",
     "category": "Bracelet"
   },
   {
@@ -1045,6 +1060,11 @@
     "category": "Case"
   },
   {
+    "term": "Case Middle Prominence Quotient",
+    "short": "Measurement of how prominently the main case body extends versus lugs and bezel",
+    "category": "Case"
+  },
+  {
     "term": "Case Middle Proportionality Assessment",
     "short": "Review analysis of case body width relative to lug-to-lug measurement.",
     "category": "Watch Journalism"
@@ -1110,6 +1130,11 @@
     "category": "Watch Journalism"
   },
   {
+    "term": "Case Profile Silhouette Sharpness",
+    "short": "Visual definition of case outline when viewed from side; measure of edge distinctness",
+    "category": "Case"
+  },
+  {
     "term": "Case Punching",
     "short": "Vintage watchmaking technique of hand-stamping serial numbers and hallmarks directly into case metal.",
     "category": "Case"
@@ -1125,6 +1150,11 @@
     "category": "Maintenance"
   },
   {
+    "term": "Case Sidewall Taper Perception",
+    "short": "How gradual or dramatic the narrowing from case middle to lug influences visual mass",
+    "category": "Case"
+  },
+  {
     "term": "Case Stretch",
     "short": "Metal fatigue condition where case lugs gradually deform outward from repeated bracelet stress.",
     "category": "Condition"
@@ -1133,6 +1163,11 @@
     "term": "Case Thickness",
     "short": "Height of the watch case from caseback to crystal.",
     "category": "Case"
+  },
+  {
+    "term": "Case Thickness Visual Weight Correlation",
+    "short": "Analysis of how case depth influences perceived presence independent of actual mass",
+    "category": "Watch Journalism"
   },
   {
     "term": "Case Wear",
@@ -1880,6 +1915,11 @@
     "category": "Case"
   },
   {
+    "term": "Crown Ergonomic Index",
+    "short": "Measurement of crown accessibility, size, and grip comfort relative to case proportions",
+    "category": "Case"
+  },
+  {
     "term": "Crown Gasket",
     "short": "Elastomer seal preventing moisture entry through crown tube",
     "category": "Case"
@@ -2195,6 +2235,11 @@
     "category": "Dial"
   },
   {
+    "term": "Desk Diving Authenticity",
+    "short": "Journalistic assessment of whether a sports watch shows genuine use wear versus surface conditioning",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "Destro",
     "short": "Italian term for left-handed; watch with crown at 9 o'clock for left-handed wearers.",
     "category": "Case"
@@ -2235,6 +2280,11 @@
     "category": "Certification"
   },
   {
+    "term": "Dial Breathing Effect",
+    "short": "Optical illusion where dial patterns appear to expand and contract based on viewing angle",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "Dial Conversion",
     "short": "Vintage watch that has been fitted with a replacement dial from another model, reducing authenticity.",
     "category": "Condition"
@@ -2258,6 +2308,16 @@
     "term": "Dial finishing",
     "short": "Surface treatment of watch dial including sunburst, guilloche, or matte patterns",
     "category": "Design"
+  },
+  {
+    "term": "Dial Gradient Perception Shift",
+    "short": "How dial color and finish appear to change based on lighting angle during wear",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Dial Legibility Distance",
+    "short": "Minimum viewing distance at which all dial elements remain clearly readable during wrist wear",
+    "category": "Watch Journalism"
   },
   {
     "term": "Dial luminance",
@@ -3355,6 +3415,11 @@
     "category": "Finishing"
   },
   {
+    "term": "Hand-to-Bezel Proximity Ratio",
+    "short": "Proportional clearance between chronograph hand tips and bezel inner edge",
+    "category": "Case"
+  },
+  {
     "term": "Hand-Wound Movement",
     "short": "Manual winding required, no automatic rotor, lighter and simpler design, 4R36, 6R35, 240",
     "category": "Movement"
@@ -4114,13 +4179,33 @@
     "category": "Watch Journalism"
   },
   {
+    "term": "Lug Droop Assessment",
+    "short": "Evaluation of whether lugs curve downward excessively beyond natural wrist contour",
+    "category": "Case"
+  },
+  {
+    "term": "Lug Flexibility Wear Test",
+    "short": "Evaluation method for assessing lug durability under repetitive bracelet removal stress",
+    "category": "Tools"
+  },
+  {
     "term": "Lug Geometry Ergonomic Rating",
     "short": "Technical review evaluation of lug shape, angle, and curvature affecting comfort.",
     "category": "Watch Journalism"
   },
   {
+    "term": "Lug Horn Radius Aggression",
+    "short": "Measurement scale for how sharply or gently lug horns extend outward from case body",
+    "category": "Case"
+  },
+  {
     "term": "Lug Overhang Criticism",
     "short": "Negative review terminology for cases where lugs extend beyond wrist bone structure.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Lug Overhang Criticism Index",
+    "short": "Journalistic threshold for acceptable lug extension beyond wrist width in reviews",
     "category": "Watch Journalism"
   },
   {
@@ -4149,6 +4234,11 @@
     "category": "Case"
   },
   {
+    "term": "Lug-to-Case Radius Transition",
+    "short": "Curvature quality and smoothness where lugs meet the main case body",
+    "category": "Case"
+  },
+  {
     "term": "Lug-to-lug",
     "short": "Measurement between watch case attachment points determining wrist fit compatibility",
     "category": "Technical"
@@ -4164,9 +4254,24 @@
     "category": "Case"
   },
   {
+    "term": "Lug-to-Lug Footprint Ratio",
+    "short": "Proportional relationship between lug-to-lug distance and case diameter for wearability assessment",
+    "category": "Case"
+  },
+  {
     "term": "Lug-to-Lug Negative Space Critique",
     "short": "Review assessment of gap between case lugs and wrist, indicating proper fit.",
     "category": "Watch Journalism"
+  },
+  {
+    "term": "Lug-to-Lug Proportion Comfort Zone",
+    "short": "Ideal range of lug-to-lug measurements (typically 48-50mm) for average wrist comfort",
+    "category": "Case"
+  },
+  {
+    "term": "Lug-to-Wrist Clearance Gap",
+    "short": "Minimum distance between lugs and wrist bone when watch sits naturally on typical wrists",
+    "category": "Case"
   },
   {
     "term": "Lug-to-Wrist Overhang Ratio",
@@ -5719,6 +5824,11 @@
     "category": "Movement"
   },
   {
+    "term": "Pushbutton Tactile Signature",
+    "short": "Qualitative assessment of chronograph pusher feedback, resistance, and click consistency",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "Pushers",
     "short": "Buttons on the case side used to operate chronographs and other functions.",
     "category": "Case"
@@ -6644,6 +6754,11 @@
     "category": "Materials"
   },
   {
+    "term": "Strap-to-Lug Integration Harmony",
+    "short": "Assessment of how seamlessly bracelet/strap transitions to case lugs",
+    "category": "Bracelet"
+  },
+  {
     "term": "Stress Level Indicator",
     "short": "Biometric algorithm analyzing heart rate variability to assess psychological tension",
     "category": "Complications"
@@ -7444,6 +7559,11 @@
     "category": "Watch Journalism"
   },
   {
+    "term": "Wrist Presence Index",
+    "short": "Subjective measure of how prominently a watch commands attention on the wrist",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "Wrist Presence Quotient",
     "short": "Subjective measurement of how prominently a watch commands attention on the wrist.",
     "category": "Watch Journalism"
@@ -7454,8 +7574,28 @@
     "category": "Watch Journalism"
   },
   {
+    "term": "Wrist Presence Transparency",
+    "short": "Balance between visual impact and lightweight feel when worn; inverse relationship analysis",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Wrist Presence Weight Paradox",
+    "short": "Phenomenon where heavier watches often feel more present than lighter alternatives",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Wrist Roll Visual Assessment",
+    "short": "Technique for evaluating how watch geometry distorts perspective when rotated on the wrist",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "Wrist Rollover Test",
     "short": "Practical review procedure rotating watch on wrist to assess light play on case surfaces.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Wrist Rotation Geometry Distortion",
+    "short": "Mathematical analysis of how case profile alters perceived proportions during normal movement",
     "category": "Watch Journalism"
   },
   {
@@ -7464,8 +7604,18 @@
     "category": "Watch Journalism"
   },
   {
+    "term": "Wrist Shot Composition Rule",
+    "short": "Guidelines for framing watch in photographs to accurately represent in-hand proportions",
+    "category": "Watch Journalism"
+  },
+  {
     "term": "Wrist Shot Composition Standard",
     "short": "Standardized angle (typically 45 degrees) for photographing watches on human wrists in reviews.",
+    "category": "Watch Journalism"
+  },
+  {
+    "term": "Wrist Shot Consistency Protocol",
+    "short": "Standardized methodology for photographing watches at consistent angles, lighting, and distances",
     "category": "Watch Journalism"
   },
   {
