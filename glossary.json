@@ -505,6 +505,11 @@
     "category": "Service"
   },
   {
+    "term": "Bezel Fading Index",
+    "short": "Grading scale measuring degree of color loss in vintage bezel inserts from original specification.",
+    "category": "Condition"
+  },
+  {
     "term": "Bezel Insert",
     "short": "Removable ring with markings or graduations on the bezel.",
     "category": "Case"
@@ -638,6 +643,11 @@
     "term": "Bracelet Cleaning",
     "short": "Deep cleaning of watch bracelet links and removal of accumulated dirt",
     "category": "Cleaning"
+  },
+  {
+    "term": "Bracelet End-Link Orphaning",
+    "short": "Condition where original bracelet end links become separated from case during restoration or resizing.",
+    "category": "Bracelet"
   },
   {
     "term": "Bracelet End-Link Tolerance Stack",
@@ -1080,6 +1090,11 @@
     "category": "Tools"
   },
   {
+    "term": "Case Polishing Reversion",
+    "short": "Collector practice of restoring brushed finish to over-polished vintage cases during restoration.",
+    "category": "Tools"
+  },
+  {
     "term": "Case Press Centering Ring Concentricity Gauge",
     "short": "Precision measurement tool verifying case press alignment accuracy before high-pressure operations.",
     "category": "Tools"
@@ -1140,6 +1155,11 @@
     "category": "Case"
   },
   {
+    "term": "Case Refinish Detection Index",
+    "short": "Specialized grading system analyzing case surface consistency, tool marks, and patina for authenticity.",
+    "category": "Condition"
+  },
+  {
     "term": "Case Refinishing",
     "short": "Polishing or brushing watch case to restore original appearance and remove damage",
     "category": "Refinishing"
@@ -1183,6 +1203,11 @@
     "term": "Caseback Engraving",
     "short": "Custom text or designs etched onto the back cover of the case.",
     "category": "Case"
+  },
+  {
+    "term": "Caseback Engraving Depth Analysis",
+    "short": "Forensic evaluation of inscription cut-depth, tool marks, and letter spacing for period authenticity verification.",
+    "category": "Certification"
   },
   {
     "term": "Casemaker",
@@ -1328,6 +1353,11 @@
     "term": "Chronograph Function",
     "short": "Integrated stopwatch mechanism allowing precise timing of elapsed intervals independently.",
     "category": "Complication"
+  },
+  {
+    "term": "Chronograph Hand Hesitation",
+    "short": "Condition defect where chronograph hand exhibits slight stiction or lag before continuous sweep motion.",
+    "category": "Condition"
   },
   {
     "term": "Chronograph Hand Stack",
@@ -2230,6 +2260,11 @@
     "category": "Dial"
   },
   {
+    "term": "Depth of Tropical Conversion",
+    "short": "Measurement of dial color transformation intensity used to estimate aging period and storage conditions.",
+    "category": "Dial"
+  },
+  {
     "term": "Depth Rating",
     "short": "Water resistance scale printed on dial indicating maximum depth",
     "category": "Dial"
@@ -2293,6 +2328,11 @@
     "term": "Dial Crack",
     "short": "Fracture in enamel or lacquer dial surface; typically irreversible damage.",
     "category": "Dial"
+  },
+  {
+    "term": "Dial Creep",
+    "short": "Slight lateral movement of dial caused by wear in dial feet or center pivot, visible misalignment.",
+    "category": "Condition"
   },
   {
     "term": "Dial Enamel",
@@ -2370,14 +2410,29 @@
     "category": "Dial"
   },
   {
+    "term": "Dial Ring Separation",
+    "short": "Condition defect where applied chapter ring loosens from dial substrate causing visible gaps or movement.",
+    "category": "Condition"
+  },
+  {
     "term": "Dial Spider",
     "short": "Rare vintage dial mounting system using spoke-like supports; highly prized by horological collectors.",
+    "category": "Dial"
+  },
+  {
+    "term": "Dial Starburst Depth",
+    "short": "Measurement of sunburst or ray pattern relief depth on dial surface indicating original finishing quality.",
     "category": "Dial"
   },
   {
     "term": "Dial Subdial",
     "short": "Secondary small dial positioned within main dial for functions like chronograph or GMT",
     "category": "Dial"
+  },
+  {
+    "term": "Dial Surface Crazing",
+    "short": "Fine network of hairline cracks in vintage dial enamel or printed surface from thermal cycling stress.",
+    "category": "Condition"
   },
   {
     "term": "Dial-Up Position",
@@ -2673,6 +2728,11 @@
     "term": "Execution Grade",
     "short": "Auction house assessment of finishing quality and assembly precision.",
     "category": "Certification"
+  },
+  {
+    "term": "Execution Mark Authentication",
+    "short": "Collector term for verification of maker's hand-executed dial markings, scratches, and imperfections.",
+    "category": "History"
   },
   {
     "term": "Exhibition caseback",
@@ -3025,6 +3085,11 @@
     "category": "Dial"
   },
   {
+    "term": "Gilt Dial Deterioration",
+    "short": "Flaking or peeling of gold leaf coating on vintage dial surfaces, affecting aesthetic value.",
+    "category": "Dial"
+  },
+  {
     "term": "Gilt Hands",
     "short": "Hands with gold plating over brass; prone to wear revealing base metal.",
     "category": "Movement"
@@ -3373,6 +3438,11 @@
     "term": "Hammer Price Reserve",
     "short": "Undisclosed minimum bid amount required to win auction lot.",
     "category": "Tools"
+  },
+  {
+    "term": "Hammer Pricing Momentum",
+    "short": "Auction house term for escalating bid velocity indicating high collector demand or heated competition.",
+    "category": "History"
   },
   {
     "term": "Hammered finish",
@@ -4159,6 +4229,11 @@
     "category": "Timekeeping"
   },
   {
+    "term": "Lot Estimate Variance",
+    "short": "Auction house predictive range between low and high estimate reflecting market uncertainty for specific model.",
+    "category": "History"
+  },
+  {
     "term": "LTE/5G Modem Integration",
     "short": "Cellular radio allowing standalone calling, texting, and data without paired smartphone",
     "category": "Complications"
@@ -4192,6 +4267,11 @@
     "term": "Lug Geometry Ergonomic Rating",
     "short": "Technical review evaluation of lug shape, angle, and curvature affecting comfort.",
     "category": "Watch Journalism"
+  },
+  {
+    "term": "Lug Hole Closure Technique",
+    "short": "Historical watchmaking method of partially or fully closing factory lug holes for strap integration.",
+    "category": "History"
   },
   {
     "term": "Lug Horn Radius Aggression",
@@ -4296,6 +4376,11 @@
   {
     "term": "Lume application",
     "short": "Process of applying luminous material to watch dials, hands, and hour markers",
+    "category": "Materials"
+  },
+  {
+    "term": "Lume Bloom",
+    "short": "Crystalline white haze appearing on vintage radioactive luminous material surface over decades.",
     "category": "Materials"
   },
   {
@@ -5039,6 +5124,11 @@
     "category": "Condition"
   },
   {
+    "term": "Movement Specific Wear Pattern",
+    "short": "Identifying unique wear signatures on caliber-specific components used to verify authentic movement installation.",
+    "category": "Movement"
+  },
+  {
     "term": "Movement Testing",
     "short": "Comprehensive evaluation of mechanical movement performance parameters.",
     "category": "Testing"
@@ -5429,6 +5519,11 @@
     "category": "Surface Treatment"
   },
   {
+    "term": "Patina Stabilization Grade",
+    "short": "Collector assessment of oxidation and aging patterns to determine if further deterioration risk is minimal.",
+    "category": "Condition"
+  },
+  {
     "term": "Pattern Preservation Lacquer",
     "short": "Clear protective coating applied over textured dials to prevent pattern deterioration.",
     "category": "Dial"
@@ -5799,6 +5894,11 @@
     "category": "History"
   },
   {
+    "term": "Provenance Chain Integrity",
+    "short": "Dealer/auction term rating completeness and documentation of watch ownership history from manufacture.",
+    "category": "Certification"
+  },
+  {
     "term": "Pulsmeter Bezel",
     "short": "Bezel with graduated scale for measuring heart rate by counting pulses over time interval",
     "category": "Bezel"
@@ -5901,6 +6001,11 @@
   {
     "term": "Radium Lume",
     "short": "Radioactive luminous paint used pre-1960s; highly collectible but hazardous.",
+    "category": "Materials"
+  },
+  {
+    "term": "Radium Lume Patina",
+    "short": "Observable color shift in radioactive luminous material from original cream to butterscotch or brown.",
     "category": "Materials"
   },
   {
@@ -6054,6 +6159,11 @@
     "category": "Collecting and Market"
   },
   {
+    "term": "Reserve Not Met Spiral",
+    "short": "Auction house outcome where final hammer price falls below minimum reserve, influencing future valuations.",
+    "category": "History"
+  },
+  {
     "term": "Reservoir Dial Animation",
     "short": "Dynamic e-ink dial elements that update synchronously with hybrid watch mechanics",
     "category": "Dial"
@@ -6087,6 +6197,11 @@
     "term": "Reverse Panda",
     "short": "Watch dial with black background and white subdials, opposite of traditional panda.",
     "category": "Aesthetics"
+  },
+  {
+    "term": "Reverse Panda Configuration",
+    "short": "Vintage chronograph dial variant with dark subdials against light main dial, opposite of standard panda design.",
+    "category": "Dial"
   },
   {
     "term": "Reverso",
@@ -6326,6 +6441,11 @@
   {
     "term": "Sector Dial",
     "short": "Dial with time markings concentrated in sectors rather than full circle.",
+    "category": "Dial"
+  },
+  {
+    "term": "Sector Dial Variant",
+    "short": "Rare dial configuration with hour markers arranged in pie-slice sectors rather than full circle layout.",
     "category": "Dial"
   },
   {
@@ -6569,6 +6689,11 @@
     "category": "Complications"
   },
   {
+    "term": "Speculation Watch",
+    "short": "Collector slang for recently released limited edition purchased primarily for resale appreciation.",
+    "category": "History"
+  },
+  {
     "term": "Speedmaster",
     "short": "Omega's legendary chronograph, the first watch worn on the Moon in 1969",
     "category": "Model"
@@ -6697,6 +6822,11 @@
     "term": "Staking Set Leverage Arm",
     "short": "Mechanical advantage system on staking sets providing controlled, consistent pressure application force.",
     "category": "Tools"
+  },
+  {
+    "term": "Stamped Chapter Ring",
+    "short": "Vintage manufacturing technique where hour markers were impressed into dial rather than applied separately.",
+    "category": "Dial"
   },
   {
     "term": "Standalone App Architecture",
@@ -7167,6 +7297,11 @@
     "term": "Tourbillon",
     "short": "Mechanism encasing the balance wheel assembly in rotating cage to counteract gravity effects.",
     "category": "Movement"
+  },
+  {
+    "term": "Transition Reference Piece",
+    "short": "Rare watch manufactured during factory production change, serving as authentication standard for collectors.",
+    "category": "History"
   },
   {
     "term": "Transitional dial",
