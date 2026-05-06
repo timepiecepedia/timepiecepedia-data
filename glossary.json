@@ -2660,14 +2660,49 @@
     "category": "Strap"
   },
   {
+    "term": "Equation Cam Follower Needle Wear Index",
+    "short": "Measurement tracking point-contact wear rate on equation marchante cam surface",
+    "category": "Movement"
+  },
+  {
     "term": "Equation Marchante",
     "short": "Moving hour hand that varies in speed to track the equation of time throughout the year.",
     "category": "Complications"
   },
   {
+    "term": "Equation Marchante Wheel Blank",
+    "short": "Pre-manufactured eccentric gear blank requiring precision grinding to equation profile",
+    "category": "Tools"
+  },
+  {
+    "term": "Equation Marchante Wheel Blank Inspection Protocol",
+    "short": "Quality assurance procedure verifying eccentric gear dimensional accuracy pre-grinding",
+    "category": "Certification"
+  },
+  {
     "term": "Equation of Time",
     "short": "Shows the difference between mean solar time and apparent solar time, ranging from -14 to +16 minutes.",
     "category": "Complications"
+  },
+  {
+    "term": "Equation of Time Cam Profile",
+    "short": "Precisely contoured mechanical cam encoding solar-sidereal time differential throughout year",
+    "category": "Complications"
+  },
+  {
+    "term": "Equation of Time Friction Index",
+    "short": "Measurement quantifying friction losses in equation marchante cam follower mechanism",
+    "category": "Movement"
+  },
+  {
+    "term": "Equation Plate Calibration Jig",
+    "short": "Precision grinding fixture ensuring consistent equation of time cam profile accuracy",
+    "category": "Tools"
+  },
+  {
+    "term": "Equation Plate Grinding Tolerance",
+    "short": "Precision specification for equation of time disc curvature deviation acceptance",
+    "category": "Tools"
   },
   {
     "term": "Escape Pinion",
@@ -4064,6 +4099,11 @@
     "category": "Tools"
   },
   {
+    "term": "Latitude Correction Cam",
+    "short": "Adjustable mechanical cam modifying sunrise-sunset calculation for geographic location",
+    "category": "Movement"
+  },
+  {
     "term": "Leather Buckle Strap",
     "short": "Leather strap with traditional buckle closure, classic formal appearance",
     "category": "Strap"
@@ -4509,6 +4549,11 @@
     "category": "Treatments"
   },
   {
+    "term": "Lunar Node Regression Indexing",
+    "short": "Gear ratio correction accounting for 18.6-year lunar nodal precession cycle",
+    "category": "Movement"
+  },
+  {
     "term": "Lunation Display",
     "short": "Indicator showing lunar month cycles, typically 29.5 days, advancing with gearing system.",
     "category": "Complications"
@@ -4572,6 +4617,16 @@
     "term": "Manufacture movement",
     "short": "Watch movement entirely designed and produced in-house by a single manufacture",
     "category": "Technical"
+  },
+  {
+    "term": "Marchante Wheel Eccentricity Index",
+    "short": "Measurement of intentional oval gear deviation in equation marchante mechanism",
+    "category": "Movement"
+  },
+  {
+    "term": "Marchante Wheel Tooth Profile Verification",
+    "short": "Inspection procedure confirming eccentric gear tooth geometry matches equation curve",
+    "category": "Certification"
   },
   {
     "term": "Marine Chronometer",
@@ -6584,9 +6639,39 @@
     "category": "Finishing"
   },
   {
+    "term": "Sidereal Day Coefficient",
+    "short": "Mathematical ratio compensating for Earth's axial rotation versus solar day variance",
+    "category": "Complications"
+  },
+  {
+    "term": "Sidereal Dial Phase Angle",
+    "short": "Angular offset between sidereal hour hand and mean solar time hand positions",
+    "category": "Dial"
+  },
+  {
+    "term": "Sidereal Hour Hand Ratio",
+    "short": "Gear reduction factor establishing sidereal hour hand rotation versus mean solar time",
+    "category": "Movement"
+  },
+  {
+    "term": "Sidereal Rate Correction Spring",
+    "short": "Precision hairspring tension adjustment calibrating sidereal timekeeping accuracy",
+    "category": "Movement"
+  },
+  {
     "term": "Sidereal Time",
     "short": "Time measured by the Earth's rotation relative to stars rather than the sun.",
     "category": "Complications"
+  },
+  {
+    "term": "Sidereal Year Correction Indexing",
+    "short": "Annual mechanical adjustment compensating for 20-minute sidereal-tropical year variance",
+    "category": "Movement"
+  },
+  {
+    "term": "Sidereal-Mean Time Differential Wheel",
+    "short": "Gear with non-standard tooth count creating cumulative time differential display",
+    "category": "Movement"
   },
   {
     "term": "SIHH",
@@ -6662,6 +6747,11 @@
     "term": "Solar",
     "short": "Watch movement powered directly by solar panels, requiring no battery replacement.",
     "category": "Movement"
+  },
+  {
+    "term": "Solar-Sidereal Differential Display",
+    "short": "Dial indication showing simultaneous sun-time and star-time for astronomical accuracy",
+    "category": "Dial"
   },
   {
     "term": "Solid case",
@@ -6974,9 +7064,29 @@
     "category": "Complications"
   },
   {
+    "term": "Sunrise Terminator Indicator",
+    "short": "Specialized hand or disc marking precise moment of solar disk emergence above horizon",
+    "category": "Dial"
+  },
+  {
+    "term": "Sunrise-Sunset Calculus Mechanism",
+    "short": "Cam-driven complication computing daily solar rise-set times based on latitude-season",
+    "category": "Complications"
+  },
+  {
+    "term": "Sunrise-Sunset Window Mask Tolerance",
+    "short": "Precision specification for sunrise-sunset display aperture alignment consistency",
+    "category": "Case"
+  },
+  {
     "term": "Sunrise/Sunset Indicator",
     "short": "Complication displaying precise times of solar rise and set for specific geographic location.",
     "category": "Complications"
+  },
+  {
+    "term": "Sunset Advance Compensation Lever",
+    "short": "Mechanical corrector adjusting sunset time display for atmospheric refraction effects",
+    "category": "Movement"
   },
   {
     "term": "Super-LumiNova",
@@ -7179,9 +7289,49 @@
     "category": "Dial"
   },
   {
+    "term": "Tidal Apogee-Perigee Gear Set",
+    "short": "Specialized gear train modeling lunar orbital eccentricity affecting tidal amplitude",
+    "category": "Movement"
+  },
+  {
+    "term": "Tidal Coefficient Dial",
+    "short": "Specialized subdial displaying tidal current strength as percentage of maximum range",
+    "category": "Dial"
+  },
+  {
+    "term": "Tidal Current Direction Indicator",
+    "short": "Specialized hand displaying rotational direction of tidal flow vector",
+    "category": "Dial"
+  },
+  {
+    "term": "Tidal Friction Loss Bearing",
+    "short": "Specialized low-torque jeweled bearing supporting tide wheel with minimal drag",
+    "category": "Movement"
+  },
+  {
+    "term": "Tidal Neap-Spring Modulation Wheel",
+    "short": "Secondary gear wheel modifying tidal amplitude indication based on lunar phase",
+    "category": "Movement"
+  },
+  {
+    "term": "Tidal Zenith-Nadir Phase Lock Coupling",
+    "short": "Mechanical escapement synchronizing tidal maximum-minimum display with lunar transit",
+    "category": "Movement"
+  },
+  {
     "term": "Tide Complication",
     "short": "Displays tidal information based on lunar cycles, useful for maritime and sailing activities.",
     "category": "Complications"
+  },
+  {
+    "term": "Tide Indicator Coupling Lever",
+    "short": "Articulated mechanical linkage connecting lunar position wheel to tidal display wheel",
+    "category": "Movement"
+  },
+  {
+    "term": "Tide Wheel Escapement Coupling",
+    "short": "Mechanical linkage synchronizing tide indicator wheel with lunar orbital periodicity",
+    "category": "Movement"
   },
   {
     "term": "Tiffany dial",

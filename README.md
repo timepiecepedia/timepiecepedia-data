@@ -4,7 +4,7 @@
 
 Curated by [timepiecepedia.com](https://timepiecepedia.com), the free online encyclopedia of horology. Updated automatically every few hours as new brands and references are catalogued.
 
-_Last updated: 2026-05-06T06:10:02.109Z_
+_Last updated: 2026-05-06T12:10:02.416Z_
 
 ## What's inside
 
@@ -13,15 +13,15 @@ _Last updated: 2026-05-06T06:10:02.109Z_
 | `references.csv` | Flat CSV, 11 columns | 48,531 watches |
 | `catalog/` | Nested JSON per brand/family | 224 brands |
 | `brands.json` | Brand metadata (name, country, founded, tier, summary) | 224 brands |
-| `glossary.json` | Watchmaking terminology | 1,560 terms |
+| `glossary.json` | Watchmaking terminology | 1,590 terms |
 
 ## Dataset highlights
 
 - **48,586** individual watch references catalogued
 - **224** brands indexed (224 with full reference data, more being added continuously)
-- **1,560** horology terms defined
+- **1,590** horology terms defined
 - Imagery URLs, technical specs (movement, materials, diameter, water resistance), collection/family grouping
-- Multilingual: English + French (329 editorial articles)
+- Multilingual: English + French (337 editorial articles)
 
 ## CSV schema (`references.csv`)
 
