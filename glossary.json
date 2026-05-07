@@ -910,8 +910,33 @@
     "category": "Movement"
   },
   {
+    "term": "Caliber 1120",
+    "short": "Jaeger-LeCoultre manual wind movement with deadbeat seconds and high precision",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 215",
+    "short": "Jaeger-LeCoultre's micro-rotor ultra-thin automatic movement for dress watches",
+    "category": "Movement"
+  },
+  {
     "term": "Caliber 240",
     "short": "Patek Philippe ultra-thin automatic movement, one of the thinnest in horology at 3.30mm thickness.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 28-20AR",
+    "short": "Omega's co-axial escapement movement optimized for dive watch reliability",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 2824-2",
+    "short": "ETA movement widely used by Omega and other Swiss manufacturers as base caliber",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 3130",
+    "short": "Rolex GMT-Master II movement with independent hour hand and Parachrom hairspring",
     "category": "Movement"
   },
   {
@@ -920,13 +945,43 @@
     "category": "Movement"
   },
   {
+    "term": "Caliber 321",
+    "short": "Omega's legendary integrated chronograph movement from 1942, now reissued Speedmaster",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 3235",
+    "short": "Rolex's latest in-house movement with Chronergy escapement, ~70hr power reserve",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 324",
+    "short": "Omega automatic movement used in Seamaster with screw-down rotor bearing",
+    "category": "Movement"
+  },
+  {
     "term": "Caliber 4130",
     "short": "Rolex in-house chronograph movement featuring column wheel and vertical clutch, introduced in Daytona 2000.",
     "category": "Movement"
   },
   {
+    "term": "Caliber 5000",
+    "short": "Patek Philippe perpetual calendar movement introduced in 2005 with annual calendar",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 570",
+    "short": "Patek Philippe perpetual calendar movement introducing annual rather than perpetual",
+    "category": "Movement"
+  },
+  {
     "term": "Caliber 6139",
     "short": "Seiko's pioneering automatic chronograph movement from 1969, precursor to modern integrated chronograph designs.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 6S35",
+    "short": "Seiko's heritage movement with manual wind and 40-hour power reserve",
     "category": "Movement"
   },
   {
@@ -940,13 +995,33 @@
     "category": "Movement"
   },
   {
+    "term": "Caliber 8800",
+    "short": "Omega's in-house co-axial chronograph movement with 60-hour power reserve",
+    "category": "Movement"
+  },
+  {
     "term": "Caliber 899/1",
     "short": "JLC ultra-thin movement with only 1.64mm height, representing extreme miniaturization in mechanical watchmaking.",
     "category": "Movement"
   },
   {
+    "term": "Caliber 9001",
+    "short": "Zenith's integrated chronograph movement with column wheel, 36,000 bph",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 9015",
+    "short": "Omega co-axial escapement movement with anti-magnetic properties up to 15,000 gauss",
+    "category": "Movement"
+  },
+  {
     "term": "Caliber 9100",
     "short": "Patek Philippe in-house automatic movement with 48-hour reserve, featuring Gyromax balance and Spiromax hairspring.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber 990/1",
+    "short": "Zenith's grand complication movement with minute repeater and perpetual calendar",
     "category": "Movement"
   },
   {
@@ -957,6 +1032,11 @@
   {
     "term": "Caliber CH 29",
     "short": "Jaeger-LeCoultre legendary chronograph movement with column wheel and flyback function, used in Master Chronograph.",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber CH 29-535 PS",
+    "short": "Zenith's flyback chronograph caliber with column wheel and 1/10th second precision",
     "category": "Movement"
   },
   {
@@ -973,6 +1053,21 @@
     "term": "Caliber Number",
     "short": "Designation for specific movement type used in a watch, identifies internal mechanical components",
     "category": "Collecting and Market"
+  },
+  {
+    "term": "Caliber R27PS",
+    "short": "Rolex perpetual rotor mechanism with self-winding precision engineering",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber resonance damping module",
+    "short": "JLC technique for minimizing micro-vibration feedback in ultra-thin caliber 240",
+    "category": "Movement"
+  },
+  {
+    "term": "Caliber SC09",
+    "short": "Seiko Spring Drive movement with kinetic energy regulation and no escapement",
+    "category": "Movement"
   },
   {
     "term": "Cannon Pinion",
@@ -1340,6 +1435,11 @@
     "category": "Movement"
   },
   {
+    "term": "Chronergy optimization ratio",
+    "short": "Rolex metric measuring escapement efficiency gains over traditional designs",
+    "category": "Movement"
+  },
+  {
     "term": "Chronograph",
     "short": "Complication allowing precise measurement of elapsed time with start, stop, and reset functions via pushers.",
     "category": "Complications"
@@ -1535,6 +1635,11 @@
     "category": "Movement"
   },
   {
+    "term": "Co-axial escapement wear coefficient",
+    "short": "Omega measurement of friction reduction in co-axial escapement vs lever escapement",
+    "category": "Movement"
+  },
+  {
     "term": "Co-axial Jewel Alignment Protocol",
     "short": "Specialized setup procedure ensuring concentric alignment of co-axial escapement jewel pairs.",
     "category": "Movement"
@@ -1642,6 +1747,11 @@
   {
     "term": "Column Wheel",
     "short": "Chronograph component controlling start/stop, found in 7750 and 321, superior precision",
+    "category": "Movement"
+  },
+  {
+    "term": "Column wheel pitch tolerance",
+    "short": "Zenith specification for spacing between column wheel teeth affecting chronograph precision",
     "category": "Movement"
   },
   {
@@ -2880,6 +2990,11 @@
     "category": "Complications"
   },
   {
+    "term": "Flyback function reset lever spring tension",
+    "short": "Omega specification for instant chronograph hand return mechanism in integrated movements",
+    "category": "Movement"
+  },
+  {
     "term": "Flying Tourbillon",
     "short": "Tourbillon cage mounted on single end, appearing to float without visible lower bridge.",
     "category": "Complications"
@@ -3862,6 +3977,11 @@
   {
     "term": "Integrated Chronograph",
     "short": "Chronograph components built into base movement, Zenith El Primero and Omega 9300 examples",
+    "category": "Movement"
+  },
+  {
+    "term": "Integrated chronograph rotor inertia coefficient",
+    "short": "Zenith measurement of how column wheel integration affects rotor moment calculations",
     "category": "Movement"
   },
   {
@@ -5529,6 +5649,11 @@
     "category": "Movement"
   },
   {
+    "term": "Parachrom hairspring non-magnetism rating",
+    "short": "Rolex specification measuring resistance to magnetic field interference in Parachrom alloy",
+    "category": "Movement"
+  },
+  {
     "term": "Paracord Strap",
     "short": "Military-spec parachute cord strap, emergency-use functionality, tactical look",
     "category": "Strap"
@@ -5646,6 +5771,11 @@
   {
     "term": "Perpetual Calendar",
     "short": "Mechanism that automatically adjusts for months with different numbers of days without manual correction until year 2100.",
+    "category": "Complications"
+  },
+  {
+    "term": "Perpetual calendar month cam indexing precision",
+    "short": "Patek Philippe specification for month-change mechanism accuracy in annual calendar calibers",
     "category": "Complications"
   },
   {
@@ -6831,6 +6961,11 @@
   {
     "term": "Spring Drive",
     "short": "Seiko's unique technology combining mechanical precision with quartz accuracy using a mainspring.",
+    "category": "Movement"
+  },
+  {
+    "term": "Spring Drive regulation torque curve",
+    "short": "Seiko proprietary kinetic energy regulation system preventing escapement impulse variations",
     "category": "Movement"
   },
   {
