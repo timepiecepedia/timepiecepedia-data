@@ -150,6 +150,11 @@
     "category": "Movement"
   },
   {
+    "term": "Amplitude Decay Coefficient Measurement",
+    "short": "Quantitative assessment of balance wheel energy loss over multiple oscillations via timing machine",
+    "category": "Tools"
+  },
+  {
     "term": "Amplitude Drop",
     "short": "Reduction in mainspring power transmission indicating wear; affects timekeeping.",
     "category": "Movement"
@@ -1195,6 +1200,11 @@
     "category": "Tools"
   },
   {
+    "term": "Case Press Die Cavity Profile Consistency",
+    "short": "Manufacturing specification ensuring uniform pressure distribution across case back seating area",
+    "category": "Tools"
+  },
+  {
     "term": "Case Press Hydraulic Cylinder",
     "short": "Pressurized fluid system in case presses that generates controlled force for crystal and case back sealing.",
     "category": "Tools"
@@ -1210,6 +1220,11 @@
     "category": "Tools"
   },
   {
+    "term": "Case Press Load Cell Linearization",
+    "short": "Calibration protocol ensuring case press load measurement accuracy across full force range",
+    "category": "Tools"
+  },
+  {
     "term": "Case Press Load Distribution Plate",
     "short": "Precision tool insert preventing concentrated force damage when pressing watch cases or bezels.",
     "category": "Tools"
@@ -1217,6 +1232,11 @@
   {
     "term": "Case Press Platen Surface Conditioning",
     "short": "Polishing procedure maintaining case press work surface smoothness to prevent case finish marks.",
+    "category": "Tools"
+  },
+  {
+    "term": "Case Press Platen Surface Finish Index",
+    "short": "Specification for case press platen smoothness preventing dial and movement marring",
     "category": "Tools"
   },
   {
@@ -1232,6 +1252,11 @@
   {
     "term": "Case Press Pressure Release Valve Calibration",
     "short": "Adjustment procedure setting maximum pressure thresholds to prevent case material deformation.",
+    "category": "Tools"
+  },
+  {
+    "term": "Case Press Torque-to-Pressure Conversion Factor",
+    "short": "Mathematical relationship translating applied pressure readings to equivalent casing-back torque",
     "category": "Tools"
   },
   {
@@ -3860,6 +3885,11 @@
     "category": "Complications"
   },
   {
+    "term": "Hydraulic Pressure Release Valve Hysteresis",
+    "short": "Differential pressure measurement between relief valve opening and closing points in case press",
+    "category": "Tools"
+  },
+  {
     "term": "Impulse Jewel",
     "short": "Jewel on balance wheel that receives impulses from pallet fork escape wheel",
     "category": "Movement"
@@ -4179,6 +4209,11 @@
     "category": "Tools"
   },
   {
+    "term": "Lathe Chuck Jaw Pressure Distribution",
+    "short": "Method of analyzing even clamping force across lathe chuck jaws during watchmaking operations",
+    "category": "Tools"
+  },
+  {
     "term": "Lathe Chuck Jaw Pressure Uniformity Index",
     "short": "Measurement ensuring equal clamping force across all chuck jaws preventing component slippage.",
     "category": "Tools"
@@ -4194,8 +4229,23 @@
     "category": "Tools"
   },
   {
+    "term": "Lathe Cutting Tool Geometry Optimization",
+    "short": "Analysis of rake angle, clearance angle, and nose radius for optimal watchmaking finish",
+    "category": "Tools"
+  },
+  {
+    "term": "Lathe Feed Rate Optimization for Chronometer Pivots",
+    "short": "Calculation of optimal tool advancement speed preventing chatter in micro-pivot turning",
+    "category": "Tools"
+  },
+  {
     "term": "Lathe Spindle Bearings Preload Adjustment",
     "short": "Mechanism controlling bearing friction on watchmaking lathe spindle for optimal rotation smoothness.",
+    "category": "Tools"
+  },
+  {
+    "term": "Lathe Spindle Ceramic Bearing Degradation Index",
+    "short": "Wear measurement system for ceramic spindle bearings indicating maintenance requirements",
     "category": "Tools"
   },
   {
@@ -5229,6 +5279,11 @@
     "category": "Tools"
   },
   {
+    "term": "Movement Holder Anti-Rotation Lock Mechanism",
+    "short": "Device preventing unwanted rotational movement during assembly or disassembly operations",
+    "category": "Tools"
+  },
+  {
     "term": "Movement Holder Anti-Vibration Dampening Pad",
     "short": "Elastomer component reducing transmission of external vibrations to delicate watch movements during servicing.",
     "category": "Tools"
@@ -5264,6 +5319,16 @@
     "category": "Tools"
   },
   {
+    "term": "Movement Holder Jewel Protection Apparatus",
+    "short": "Mechanical safeguard preventing accidental contact between holding fingers and movement jewels",
+    "category": "Tools"
+  },
+  {
+    "term": "Movement Holder Kinematic Coupling Precision",
+    "short": "High-precision mechanical interface ensuring repeatable movement positioning in fixture",
+    "category": "Tools"
+  },
+  {
     "term": "Movement Holder Kinetic Balance Platform",
     "short": "Specialized movement holder allowing unobstructed balance wheel oscillation observation during assembly checks.",
     "category": "Tools"
@@ -5284,8 +5349,23 @@
     "category": "Tools"
   },
   {
+    "term": "Movement Holder Pivot Point Friction Coefficient",
+    "short": "Quantitative measure of rotational resistance in movement holder positioning mechanisms",
+    "category": "Tools"
+  },
+  {
+    "term": "Movement Holder Pressure Distribution Pad",
+    "short": "Flexible component in movement holder ensuring even contact pressure across movement plate",
+    "category": "Tools"
+  },
+  {
     "term": "Movement Holder Rotation Mechanism",
     "short": "Bearing-mounted swivel on movement holders enabling 360-degree horizontal rotation without component stress.",
+    "category": "Tools"
+  },
+  {
+    "term": "Movement Holder Thermal Expansion Compensation",
+    "short": "Design feature accounting for temperature-induced dimensional changes in holding fixtures",
     "category": "Tools"
   },
   {
@@ -6024,6 +6104,11 @@
     "category": "Bracelet"
   },
   {
+    "term": "Press Centering Ring Eccentricity Detection",
+    "short": "Method for identifying misaligned centering rings that cause uneven case back seating pressure",
+    "category": "Tools"
+  },
+  {
     "term": "Pressing Platen",
     "short": "Hardened steel plate in case presses that distributes uniform pressure across watch case components.",
     "category": "Tools"
@@ -6222,6 +6307,11 @@
     "term": "Rate Stability",
     "short": "Consistency of watch rate over time without external adjustment.",
     "category": "Precision"
+  },
+  {
+    "term": "Rate Trending Algorithm Integration",
+    "short": "Software feature in timing machines that tracks chronometric performance changes over service intervals",
+    "category": "Tools"
   },
   {
     "term": "Rate Variation",
@@ -6934,6 +7024,11 @@
     "category": "Tools"
   },
   {
+    "term": "Spindle Runout Compensation Protocol",
+    "short": "Calibration procedure for correcting lathe spindle eccentricity in precision component turning",
+    "category": "Tools"
+  },
+  {
     "term": "Spiromax",
     "short": "Rolex's silicon hairspring and balance wheel assembly for enhanced chronometric performance.",
     "category": "Movement"
@@ -6989,6 +7084,11 @@
     "category": "Bracelet"
   },
   {
+    "term": "Stake Anvil Hardness Classification",
+    "short": "Grading system for staking set anvil material hardness and wear resistance specifications",
+    "category": "Tools"
+  },
+  {
     "term": "Stake Arbor Collet",
     "short": "Precision collet that secures watch pivots during staking operations on the staking set.",
     "category": "Tools"
@@ -7019,8 +7119,18 @@
     "category": "Tools"
   },
   {
+    "term": "Staking Punch Diameter Tolerance Stack",
+    "short": "Cumulative dimensional variation analysis of staking punch bore sizes affecting component seating",
+    "category": "Tools"
+  },
+  {
     "term": "Staking Set Anvil Bed Flatness Tolerance",
     "short": "Measured deviation from perfect flatness on staking set anvil surface, critical for jewel alignment.",
+    "category": "Tools"
+  },
+  {
+    "term": "Staking Set Arbor Concentricity Gauge",
+    "short": "Precision tool measuring radial runout of arbors during stake setting operations",
     "category": "Tools"
   },
   {
@@ -7046,6 +7156,11 @@
   {
     "term": "Staking Set Leverage Arm",
     "short": "Mechanical advantage system on staking sets providing controlled, consistent pressure application force.",
+    "category": "Tools"
+  },
+  {
+    "term": "Staking Set Punch Retention Force Testing",
+    "short": "Quality control procedure verifying secure punch seating in stake anvil during operation",
     "category": "Tools"
   },
   {
@@ -7504,8 +7619,18 @@
     "category": "Tools"
   },
   {
+    "term": "Timing Machine Atmospheric Pressure Compensation",
+    "short": "Algorithmic correction accounting for barometric pressure effects on acoustic beat measurement",
+    "category": "Tools"
+  },
+  {
     "term": "Timing Machine Beat Error Discrimination",
     "short": "Advanced filtering algorithm distinguishing true beat error from external vibration interference signals.",
+    "category": "Tools"
+  },
+  {
+    "term": "Timing Machine Beat Error Threshold",
+    "short": "Maximum allowable deviation in microseconds between escapement impulses for acceptable regulation",
     "category": "Tools"
   },
   {
@@ -7519,6 +7644,11 @@
     "category": "Tools"
   },
   {
+    "term": "Timing Machine Escapement Impulse Duration Measurement",
+    "short": "Precision quantification of lever lock engagement period in escapement cycle analysis",
+    "category": "Tools"
+  },
+  {
     "term": "Timing Machine Frequency Counter",
     "short": "Digital circuit in timing machines measuring escapement frequency in oscillations per hour with precision.",
     "category": "Tools"
@@ -7526,6 +7656,11 @@
   {
     "term": "Timing Machine Frequency Domain Analysis Mode",
     "short": "Advanced diagnostic function revealing harmonic disturbances and escapement irregularities in movement operation.",
+    "category": "Tools"
+  },
+  {
+    "term": "Timing Machine Harmonic Oscillation Filter",
+    "short": "Digital signal processing feature eliminating extraneous vibrations in beat rate measurement",
     "category": "Tools"
   },
   {
@@ -7872,6 +8007,16 @@
     "term": "Watchface Customization API",
     "short": "Software interface allowing third-party developers to design proprietary watch displays",
     "category": "Movement"
+  },
+  {
+    "term": "Watchmaking Tool Calibration Traceability Matrix",
+    "short": "Documentation system linking all watchmaking tools to certified reference standards",
+    "category": "Tools"
+  },
+  {
+    "term": "Watchmaking Tool Steel Temper Grade Specification",
+    "short": "Classification system for heat-treated hardness levels in staking sets, punches, and anvils",
+    "category": "Tools"
   },
   {
     "term": "Water Resistance",
