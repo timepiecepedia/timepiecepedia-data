@@ -1,27 +1,27 @@
 # Timepiecepedia — Free Watch Database
 
-> **48,586 watch references across 224 brands** — a free, open dataset of luxury and mechanical watches with full specifications, movements, materials, and imagery.
+> **48,658 watch references across 224 brands** — a free, open dataset of luxury and mechanical watches with full specifications, movements, materials, and imagery.
 
 Curated by [timepiecepedia.com](https://timepiecepedia.com), the free online encyclopedia of horology. Updated automatically every few hours as new brands and references are catalogued.
 
-_Last updated: 2026-05-11T00:10:02.290Z_
+_Last updated: 2026-05-11T06:10:02.390Z_
 
 ## What's inside
 
 | File | Format | Records |
 |------|--------|---------|
-| `references.csv` | Flat CSV, 11 columns | 48,531 watches |
+| `references.csv` | Flat CSV, 11 columns | 48,603 watches |
 | `catalog/` | Nested JSON per brand/family | 224 brands |
 | `brands.json` | Brand metadata (name, country, founded, tier, summary) | 224 brands |
 | `glossary.json` | Watchmaking terminology | 1,617 terms |
 
 ## Dataset highlights
 
-- **48,586** individual watch references catalogued
+- **48,658** individual watch references catalogued
 - **224** brands indexed (224 with full reference data, more being added continuously)
 - **1,617** horology terms defined
 - Imagery URLs, technical specs (movement, materials, diameter, water resistance), collection/family grouping
-- Multilingual: English + French (350 editorial articles)
+- Multilingual: English + French (355 editorial articles)
 
 ## CSV schema (`references.csv`)
 
