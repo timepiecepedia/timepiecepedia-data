@@ -45,6 +45,11 @@
     "category": "Decoration"
   },
   {
+    "term": "Acrylic Crystal Crazing Severity Index",
+    "short": "Rating system for stress fractures in vintage acrylic crystals.",
+    "category": "Condition Grading"
+  },
+  {
     "term": "Activity Classification Algorithm",
     "short": "Machine learning system identifying exercise types from accelerometer and heart rate data",
     "category": "Movement"
@@ -278,6 +283,11 @@
     "term": "ATM",
     "short": "Atmosphere unit; 1 ATM equals approximately 10 meters of water depth.",
     "category": "Standards"
+  },
+  {
+    "term": "Auction Estimate Consensus Deviation",
+    "short": "Variance between pre-sale estimates and final hammer price indicating market surprises.",
+    "category": "Auction House Terms"
   },
   {
     "term": "Audemars Piguet Caliber 3120",
@@ -525,6 +535,11 @@
     "category": "Materials"
   },
   {
+    "term": "Bezel Rotation Stiffness Quotient",
+    "short": "Numerical rating of bezel action resistance indicating service status and maintenance.",
+    "category": "Condition Grading"
+  },
+  {
     "term": "Bezel-Set Stone",
     "short": "Gemstone held in place by metal rim surrounding its perimeter without prongs.",
     "category": "Case"
@@ -640,6 +655,11 @@
     "category": "Collecting and Market"
   },
   {
+    "term": "Box Paper Lot Authentication Bundle",
+    "short": "Collector term for original packaging, documentation, and certificates validating provenance.",
+    "category": "Authentication"
+  },
+  {
     "term": "Bracelet",
     "short": "Metal strap made of integrated links, typically stainless steel, gold, or titanium",
     "category": "Materials"
@@ -678,6 +698,11 @@
     "term": "Bracelet taper",
     "short": "Gradual narrowing of bracelet width toward the clasp for refined appearance",
     "category": "Detail"
+  },
+  {
+    "term": "Bracelet Terminal Link Orphaning",
+    "short": "Condition where end-links don't match original specifications due to parts substitution.",
+    "category": "Bracelet"
   },
   {
     "term": "Bracelet-Integrated Chronograph",
@@ -1185,6 +1210,11 @@
     "category": "Collecting and Market"
   },
   {
+    "term": "Case Number Spacing Variance",
+    "short": "Measurement of engraved case number digit distances to identify dial/case mismatches.",
+    "category": "Authentication"
+  },
+  {
     "term": "Case Opener",
     "short": "Tool designed to safely open and close watch cases without damage",
     "category": "Tools"
@@ -1193,6 +1223,11 @@
     "term": "Case Polishing Reversion",
     "short": "Collector practice of restoring brushed finish to over-polished vintage cases during restoration.",
     "category": "Tools"
+  },
+  {
+    "term": "Case Polishing Reversion Score",
+    "short": "Numerical assessment determining if a vintage case has been re-polished vs. original finish.",
+    "category": "Condition Grading"
   },
   {
     "term": "Case Press Centering Ring Concentricity Gauge",
@@ -1328,6 +1363,11 @@
     "term": "Caseback Engraving Depth Analysis",
     "short": "Forensic evaluation of inscription cut-depth, tool marks, and letter spacing for period authenticity verification.",
     "category": "Certification"
+  },
+  {
+    "term": "Caseback Gasket Elasticity Loss Threshold",
+    "short": "Measurement determining if original rubber gasket requires replacement for water resistance.",
+    "category": "Condition Grading"
   },
   {
     "term": "Casemaker",
@@ -2095,6 +2135,11 @@
     "category": "Case"
   },
   {
+    "term": "Crown Guard Duty Cycle Assessment",
+    "short": "Analysis of crown guard wear patterns to verify actual historical usage levels.",
+    "category": "Authentication"
+  },
+  {
     "term": "Crown guards",
     "short": "Protective extensions or shield around the crown preventing accidental bumps and damage.",
     "category": "Case"
@@ -2480,6 +2525,11 @@
     "category": "Dial"
   },
   {
+    "term": "Dial Feet Adhesion Degradation",
+    "short": "Grading system for dial foot glue breakdown indicating service history and age.",
+    "category": "Condition Grading"
+  },
+  {
     "term": "Dial finishing",
     "short": "Surface treatment of watch dial including sunburst, guilloche, or matte patterns",
     "category": "Design"
@@ -2515,6 +2565,11 @@
     "category": "Dial"
   },
   {
+    "term": "Dial Patina Index",
+    "short": "Grading system measuring age-related color changes and oxidation depth on vintage dials.",
+    "category": "Condition Grading"
+  },
+  {
     "term": "Dial Planishing",
     "short": "Process of smoothing and hardening textured dial surfaces using specialized hammers.",
     "category": "Dial"
@@ -2523,6 +2578,11 @@
     "term": "Dial Print Creep",
     "short": "Manufacturing defect where dial printing shifted during production; visible as doubled or blurred text.",
     "category": "Condition"
+  },
+  {
+    "term": "Dial Print Resolution Analysis",
+    "short": "Microscopic examination of print dot/line integrity to authenticate vintage dial originality.",
+    "category": "Authentication"
   },
   {
     "term": "Dial Printing",
@@ -3270,9 +3330,19 @@
     "category": "Movement"
   },
   {
+    "term": "Gilt Movement Patina Grade",
+    "short": "Six-tier assessment of gilding oxidation ranging from pristine to severely aged.",
+    "category": "Condition Grading"
+  },
+  {
     "term": "Gilt Washing",
     "short": "Thin gold plating layer applied to brass watch components; characteristic of mid-century movements.",
     "category": "Materials"
+  },
+  {
+    "term": "Gilt Wear Cartography",
+    "short": "Mapping technique documenting gold plating erosion patterns on movement components.",
+    "category": "Condition Grading"
   },
   {
     "term": "Girandole Setting",
@@ -3668,6 +3738,11 @@
     "term": "Hand-Wound Movement",
     "short": "Manual winding required, no automatic rotor, lighter and simpler design, 4R36, 6R35, 240",
     "category": "Movement"
+  },
+  {
+    "term": "Hands Matching Patina Concordance",
+    "short": "Assessment of whether watch hands show consistent age and oxidation levels with dial.",
+    "category": "Authentication"
   },
   {
     "term": "Hands Replacement",
@@ -4519,6 +4594,11 @@
     "category": "Case"
   },
   {
+    "term": "Lug Wear Footprint Authentication",
+    "short": "Analysis of strap-induced wear patterns on lugs to verify original ownership duration.",
+    "category": "Authentication"
+  },
+  {
     "term": "Lug Width",
     "short": "Space between the lugs where the strap or bracelet attaches.",
     "category": "Case"
@@ -4592,6 +4672,11 @@
     "term": "Lume Bloom",
     "short": "Crystalline white haze appearing on vintage radioactive luminous material surface over decades.",
     "category": "Materials"
+  },
+  {
+    "term": "Lume Bloom Taxonomy",
+    "short": "Classification of luminous material crystallization patterns visible on aged watch dials.",
+    "category": "Condition Grading"
   },
   {
     "term": "Lume brightness",
@@ -4837,6 +4922,11 @@
     "term": "Maxi dial",
     "short": "Rolex's larger hour markers and hands introduced for improved readability",
     "category": "Dial"
+  },
+  {
+    "term": "Maxi Dial Configuration Era",
+    "short": "Collector terminology for period when oversized dial indices became manufacturing standard.",
+    "category": "History"
   },
   {
     "term": "Mean Daily Rate",
@@ -5267,6 +5357,11 @@
     "term": "Movement Certification",
     "short": "Official verification that watch movement meets specific Swiss quality and precision standards",
     "category": "Certification"
+  },
+  {
+    "term": "Movement Dust Ring Debris Profile",
+    "short": "Examination of accumulated particles inside movement to assess storage conditions.",
+    "category": "Condition Grading"
   },
   {
     "term": "Movement finishing",
@@ -6269,6 +6364,11 @@
     "category": "History"
   },
   {
+    "term": "Radium Dial Decay Profile",
+    "short": "Documentation of radioactive paint degradation patterns specific to watch manufacturing era.",
+    "category": "Condition Grading"
+  },
+  {
     "term": "Radium Lume",
     "short": "Radioactive luminous paint used pre-1960s; highly collectible but hazardous.",
     "category": "Materials"
@@ -6402,6 +6502,11 @@
     "term": "Rehaut",
     "short": "Circular engraved area between dial edge and case inner bezel.",
     "category": "Dial"
+  },
+  {
+    "term": "Rehaut Engraving Font Fidelity Analysis",
+    "short": "Typeface examination of case inner ring text to identify period-specific variations.",
+    "category": "Authentication"
   },
   {
     "term": "Rehaut lume",
@@ -6719,6 +6824,11 @@
     "category": "Dial"
   },
   {
+    "term": "Sector Dial Construction",
+    "short": "Rare vintage dial style featuring segmented sections instead of full dial printing.",
+    "category": "Dial"
+  },
+  {
     "term": "Sector Dial Variant",
     "short": "Rare dial configuration with hour markers arranged in pie-slice sectors rather than full circle layout.",
     "category": "Dial"
@@ -6802,6 +6912,11 @@
     "term": "Service dial",
     "short": "Replacement dial installed during Rolex service, potentially reducing watch value.",
     "category": "Condition"
+  },
+  {
+    "term": "Service Dial Replacement Provenance",
+    "short": "Documentation establishing authenticity and sourcing of historically replaced dials.",
+    "category": "History"
   },
   {
     "term": "Service Documentation",
@@ -7014,6 +7129,11 @@
     "category": "Collecting and Market"
   },
   {
+    "term": "Spider Dial Pattern",
+    "short": "Rare vintage dial design featuring radial lines emanating from center like web.",
+    "category": "Dial"
+  },
+  {
     "term": "Spider Web Crack",
     "short": "Network of micro-fractures in dial enamel creating web-like appearance.",
     "category": "Dial"
@@ -7162,6 +7282,11 @@
     "term": "Staking Set Punch Retention Force Testing",
     "short": "Quality control procedure verifying secure punch seating in stake anvil during operation",
     "category": "Tools"
+  },
+  {
+    "term": "Stamp Depth Variance Coefficient",
+    "short": "Measurement of case marking impression depth consistency used in production dating.",
+    "category": "Authentication"
   },
   {
     "term": "Stamped Chapter Ring",
@@ -7364,6 +7489,11 @@
     "category": "Movement"
   },
   {
+    "term": "Swiss Only Dial Variant",
+    "short": "Specific dial printing variant restricted to certain production batches and markets.",
+    "category": "Dial"
+  },
+  {
     "term": "Syloxi",
     "short": "Omega's proprietary silicon hairspring providing superior stability and anti-magnetic properties.",
     "category": "Movement"
@@ -7447,6 +7577,11 @@
     "term": "Tapisserie Weave Density",
     "short": "The spacing ratio between horizontal and vertical lines in tapisserie dial patterns.",
     "category": "Dial"
+  },
+  {
+    "term": "Teflon Sealing Ring Degradation Profile",
+    "short": "Assessment of caseback seal material breakdown affecting water resistance warranty.",
+    "category": "Condition Grading"
   },
   {
     "term": "Telemeter",
@@ -7754,6 +7889,11 @@
     "category": "Materials"
   },
   {
+    "term": "Tritium Glow Threshold",
+    "short": "Measurement of remaining luminosity in tritium-based lume indicating age authenticity.",
+    "category": "Materials"
+  },
+  {
     "term": "Tritium lume",
     "short": "Radioactive luminous material used in vintage watches, glows without recharging.",
     "category": "Materials"
@@ -7772,6 +7912,11 @@
     "term": "Tropical Dial",
     "short": "Vintage dial with distinctive brown patina from age and UV exposure",
     "category": "Dial"
+  },
+  {
+    "term": "Tropical Dial Phenomenon",
+    "short": "Collector slang for dials developing brown staining from decades-long ultraviolet exposure.",
+    "category": "Condition Grading"
   },
   {
     "term": "Tropical Lume",
@@ -7952,6 +8097,11 @@
     "term": "Waffle Dial Finish",
     "short": "Square grid pattern of recessed cells creating three-dimensional grid-like appearance on dial.",
     "category": "Dial"
+  },
+  {
+    "term": "Waffle Dial Preservation Index",
+    "short": "Grading system for grid-pattern embossed dials assessing texture wear and authenticity.",
+    "category": "Condition Grading"
   },
   {
     "term": "Waffle Grid Depth",
