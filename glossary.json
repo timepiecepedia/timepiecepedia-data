@@ -1080,6 +1080,11 @@
     "category": "Movement"
   },
   {
+    "term": "Caliber Movement Finishing Score Matrix",
+    "short": "Comprehensive grading system for anglage depth, perlage uniformity, and polishing consistency per caliber.",
+    "category": "Certification"
+  },
+  {
     "term": "Caliber Number",
     "short": "Designation for specific movement type used in a watch, identifies internal mechanical components",
     "category": "Collecting and Market"
@@ -4115,8 +4120,18 @@
     "category": "Strap"
   },
   {
+    "term": "Jaeger-LeCoultre Caliber 215",
+    "short": "JLC's compact manual wind movement, 18mm diameter, found in dress watches and complications.",
+    "category": "Movement"
+  },
+  {
     "term": "Jaeger-LeCoultre Caliber 899",
     "short": "In-house automatic, 70-hour reserve, chronometer certified, used in Atmos clocks",
+    "category": "Movement"
+  },
+  {
+    "term": "Jaeger-LeCoultre Caliber 899/1",
+    "short": "Ultra-thin integrated chronograph movement, 6.8mm height, bidirectional rotor, column wheel.",
     "category": "Movement"
   },
   {
@@ -4158,6 +4173,11 @@
     "term": "JLC Caliber 889",
     "short": "Jaeger-LeCoultre's ultra-compact automatic movement at 23.2mm diameter, engineered for thin dress watches.",
     "category": "Movement"
+  },
+  {
+    "term": "JLC Caliber Isochronism Deviation Protocol",
+    "short": "Testing methodology for Jaeger-LeCoultre's balance wheel amplitude consistency maintenance.",
+    "category": "Certification"
   },
   {
     "term": "JLC Poinçon de Genève",
@@ -5649,6 +5669,21 @@
     "category": "Movement"
   },
   {
+    "term": "Omega Caliber 8500",
+    "short": "Omega's Co-Axial automatic movement with silicon escapement, 3.6mm thickness, chronometer-rated.",
+    "category": "Movement"
+  },
+  {
+    "term": "Omega Caliber 8800",
+    "short": "Modern Omega Co-Axial with Master Chronometer certification, improved amplitude and anti-magnetic.",
+    "category": "Movement"
+  },
+  {
+    "term": "Omega Caliber 9001",
+    "short": "Omega's integrated chronograph movement with Co-Axial escapement, column wheel, dual mainsprings.",
+    "category": "Movement"
+  },
+  {
     "term": "Omega Caliber 9300",
     "short": "In-house movement, dual barrels, 60-hour reserve, integrated chronograph mechanism",
     "category": "Movement"
@@ -5659,8 +5694,18 @@
     "category": "Movement"
   },
   {
+    "term": "Omega Co-Axial Escapement Positional Variance",
+    "short": "Technical assessment of escapement jewel alignment tolerance in Omega's Co-Axial mechanism.",
+    "category": "Movement"
+  },
+  {
     "term": "Omega Master Chronometer",
     "short": "Omega's advanced certification standard exceeding COSC, testing antimagnetic properties and chronometric accuracy.",
+    "category": "Certification"
+  },
+  {
+    "term": "Omega Master Chronometer Magnetism Resistance Index",
+    "short": "METAS-certified antimagnetic threshold documentation for Omega chronometer movements.",
     "category": "Certification"
   },
   {
@@ -5844,6 +5889,11 @@
     "category": "Service"
   },
   {
+    "term": "Patek Philippe Annual Calendar Complication Module Synchronization",
+    "short": "Calibration accuracy measurement for rapid date correction mechanism in PP annual calendars.",
+    "category": "Complications"
+  },
+  {
     "term": "Patek Philippe Aquanaut Bracelet",
     "short": "Signature rubber integrated bracelet design with matching case lugs, exclusive to Aquanaut and Nautilus models.",
     "category": "Bracelet"
@@ -5854,8 +5904,28 @@
     "category": "History"
   },
   {
+    "term": "Patek Philippe Calatrava Proportionality Standard",
+    "short": "Aesthetic ratio documentation for case profile, lug-to-dial integration, and visual harmony metrics.",
+    "category": "Case"
+  },
+  {
     "term": "Patek Philippe Caliber 240",
     "short": "Golden Ellipse exclusive, hand-wound, ultra-thin, 48-hour reserve, haute horlogerie standard",
+    "category": "Movement"
+  },
+  {
+    "term": "Patek Philippe Caliber 324",
+    "short": "In-house automatic movement with perpetual rotor, Gyromax balance, 45-hour power reserve.",
+    "category": "Movement"
+  },
+  {
+    "term": "Patek Philippe Caliber 570",
+    "short": "Manual wind chronograph movement with column wheel, horizontal clutch, Flyback function available.",
+    "category": "Movement"
+  },
+  {
+    "term": "Patek Philippe Gyromax Balance Eccentricity",
+    "short": "Dynamic mass distribution measurement in PP's eccentric-weight balance wheel system.",
     "category": "Movement"
   },
   {
@@ -6619,6 +6689,11 @@
     "category": "Movement"
   },
   {
+    "term": "Rolex Chronergy Escapement Precision Index",
+    "short": "Measurement of Rolex's patented Chronergy escapement efficiency variance across temperature ranges.",
+    "category": "Movement"
+  },
+  {
     "term": "Rolex Glidelock Clasp",
     "short": "Rolex's proprietary bracelet extension system allowing micro-adjustments without removing links, debuted in 2005.",
     "category": "Bracelet"
@@ -6627,6 +6702,16 @@
     "term": "Rolex Perpetual Rotor",
     "short": "Proprietary automatic winding system in Caliber 3135, featuring bidirectional winding and optimized energy transfer.",
     "category": "Movement"
+  },
+  {
+    "term": "Rolex Perpetual Rotor Winding Efficiency Coefficient",
+    "short": "Measurement of rotational kinetic energy conversion ratio in Rolex automatic winding systems.",
+    "category": "Movement"
+  },
+  {
+    "term": "Rolex Superlative Chronometer Secular Drift Limit",
+    "short": "Annual variance tolerance specification for Rolex chronometer certification compliance protocols.",
+    "category": "Certification"
   },
   {
     "term": "Rolex Triplock Crown",
@@ -6849,8 +6934,18 @@
     "category": "Movement"
   },
   {
+    "term": "Seiko Caliber 6139",
+    "short": "Historic Seiko automatic chronograph movement, pioneering automatic chronograph design.",
+    "category": "Movement"
+  },
+  {
     "term": "Seiko Caliber 6R35",
     "short": "Hand-wound, 50-hour reserve, reliable workhorse for Prospex line, accurate regulation",
+    "category": "Movement"
+  },
+  {
+    "term": "Seiko Caliber 6S35",
+    "short": "Seiko's high-beat automatic movement at 36,000 bph, used in Grand Seiko line.",
     "category": "Movement"
   },
   {
@@ -6864,9 +6959,19 @@
     "category": "Movement"
   },
   {
+    "term": "Seiko Caliber 9S85",
+    "short": "Grand Seiko's manually-wound chronograph movement with 36,000 bph, Spron mainspring.",
+    "category": "Movement"
+  },
+  {
     "term": "Seiko Caliber NH35",
     "short": "Automatic, 40-hour reserve, hacking seconds, day-date complications, affordable reliability",
     "category": "Movement"
+  },
+  {
+    "term": "Seiko Grand Seiko Finishing Standard Hierarchy",
+    "short": "Classification system for surface finishing rigor in Grand Seiko caliber decoration and polishing.",
+    "category": "Certification"
   },
   {
     "term": "Seiko Prospex Hardlex",
@@ -8354,13 +8459,33 @@
     "category": "Finishing"
   },
   {
+    "term": "Zenith Column Wheel Indexing Precision Tolerance",
+    "short": "Mechanical tolerance specification for chronograph column wheel step positioning in Zenith movements.",
+    "category": "Movement"
+  },
+  {
     "term": "Zenith El Primero",
     "short": "Legendary integrated chronograph, 36,000 bph, 50-hour reserve, haute horlogerie standard",
     "category": "Movement"
   },
   {
+    "term": "Zenith El Primero 9004",
+    "short": "Integrated split-seconds chronograph, column wheel, vertical clutch, 50-hour power reserve.",
+    "category": "Movement"
+  },
+  {
+    "term": "Zenith El Primero Caliber 400",
+    "short": "Modern integrated chronograph with 5Hz beat rate, silicon hairspring, 50-hour power reserve.",
+    "category": "Movement"
+  },
+  {
     "term": "Zenith Oscillator",
     "short": "Zenith's frequency-generating component in El Primero movement, oscillating at 36,000 bph for chronograph precision.",
+    "category": "Movement"
+  },
+  {
+    "term": "Zenith Oscillator Frequency Stability Quotient",
+    "short": "Measurement of harmonic oscillation consistency in Zenith movements across environmental conditions.",
     "category": "Movement"
   },
   {
