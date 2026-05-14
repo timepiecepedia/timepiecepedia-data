@@ -255,6 +255,11 @@
     "category": "Movement"
   },
   {
+    "term": "Artisanal finishing hand-application percentage",
+    "short": "Measurement of manually-applied dial or case treatments versus machine finishing in independent shops.",
+    "category": "Case"
+  },
+  {
     "term": "Ascent Rate",
     "short": "Speed of underwater ascent; typically limited to prevent nitrogen narcosis and bends.",
     "category": "Diving"
@@ -308,6 +313,21 @@
     "term": "Back Crystal",
     "short": "Transparent caseback allowing view of the movement inside.",
     "category": "Case"
+  },
+  {
+    "term": "Backer communication archive preservation",
+    "short": "Official record-keeping of all Kickstarter campaign updates, establishing transparent development history.",
+    "category": "History"
+  },
+  {
+    "term": "Backer communication transparency index",
+    "short": "Metric measuring frequency and candor of Kickstarter updates from independent maker to supporters.",
+    "category": "History"
+  },
+  {
+    "term": "Backer reward tier segmentation",
+    "short": "Kickstarter campaign structure dividing supporters into early-bird, standard, and premium pledge levels.",
+    "category": "History"
   },
   {
     "term": "Baguette Cut",
@@ -2110,6 +2130,26 @@
     "category": "Dial"
   },
   {
+    "term": "Crowdfunded watch batch serialization protocol",
+    "short": "Numbering system distinguishing Kickstarter backer tiers and production waves in independent runs.",
+    "category": "Certification"
+  },
+  {
+    "term": "Crowdfunded watch secondary market tracking",
+    "short": "Analysis system monitoring resale prices and volumes of Kickstarter watches post-delivery.",
+    "category": "History"
+  },
+  {
+    "term": "Crowdfunding campaign funding velocity curve",
+    "short": "Analytical graph charting daily pledge accumulation rate throughout Kickstarter watch campaign duration.",
+    "category": "History"
+  },
+  {
+    "term": "Crowdfunding campaign stretch goal cascade",
+    "short": "Sequential unlockable features added to Kickstarter watch project as funding thresholds increase.",
+    "category": "History"
+  },
+  {
     "term": "Crown",
     "short": "Knob on the case used to wind the watch and adjust the time.",
     "category": "Case"
@@ -2593,6 +2633,11 @@
     "term": "Dial Printing",
     "short": "Text and markings applied to dial surface, condition indicates authenticity and age of watch",
     "category": "Collecting and Market"
+  },
+  {
+    "term": "Dial printing artisan attribution certificate",
+    "short": "Documentation identifying individual craftsperson responsible for hand-applied dial text/graphics.",
+    "category": "Dial"
   },
   {
     "term": "Dial Printing Check",
@@ -3103,6 +3148,11 @@
     "term": "Foudroyante",
     "short": "Lightning-fast subdial hand completing a full rotation in fractions of a second for precise timing.",
     "category": "Complications"
+  },
+  {
+    "term": "Founder-designer identity verification protocol",
+    "short": "Documentation process confirming Kickstarter campaign creator is actual watchmaker, not intermediary.",
+    "category": "Certification"
   },
   {
     "term": "Foxing",
@@ -3700,6 +3750,11 @@
     "category": "Finishing"
   },
   {
+    "term": "Hand assembly micro-brand quality variation threshold",
+    "short": "Acceptable tolerance range for manufacturing inconsistencies in watches assembled by single craftsperson.",
+    "category": "Movement"
+  },
+  {
     "term": "Hand Engraving",
     "short": "Manually cutting decorative designs into watch components using specialized engraving tools.",
     "category": "Decoration"
@@ -3985,9 +4040,19 @@
     "category": "Technical"
   },
   {
+    "term": "In-house movement development score",
+    "short": "Ranking system assessing percentage of caliber components designed by independent manufacturer.",
+    "category": "Movement"
+  },
+  {
     "term": "Incabloc",
     "short": "Shock-absorption system using jeweled bearings to protect delicate balance staff from impacts.",
     "category": "Movement"
+  },
+  {
+    "term": "Independent maker atelier authenticity seal",
+    "short": "Official certification confirming watch assembly occurred in registered micro-brand workshop.",
+    "category": "Certification"
   },
   {
     "term": "Independent Seconds",
@@ -3998,6 +4063,16 @@
     "term": "Independent watchmaker",
     "short": "Individual horologist or small atelier creating watches outside major manufacture houses",
     "category": "Business"
+  },
+  {
+    "term": "Independent watchmaker attestation letter",
+    "short": "Official verification document confirming solitary designer/manufacturer status without corporate backing.",
+    "category": "Certification"
+  },
+  {
+    "term": "Independent watchmaker tool inventory authentication",
+    "short": "Workshop equipment documentation proving micro-brand possesses necessary machinery for claimed assembly.",
+    "category": "Tools"
   },
   {
     "term": "Index Markers",
@@ -4240,6 +4315,26 @@
     "category": "Movement"
   },
   {
+    "term": "Kickstarter backer exclusivity watermark",
+    "short": "Special dial marking or case engraving reserved only for crowdfunding campaign supporters.",
+    "category": "Dial"
+  },
+  {
+    "term": "Kickstarter campaign risk disclosure transparency",
+    "short": "Honest documentation of potential delays, supply chain vulnerabilities, and manufacturing unknowns.",
+    "category": "History"
+  },
+  {
+    "term": "Kickstarter stretch goal delivery milestone schedule",
+    "short": "Timeline document outlining when unlocked campaign features will reach backers post-fulfillment.",
+    "category": "History"
+  },
+  {
+    "term": "Kickstarter video production authenticity score",
+    "short": "Assessment metric evaluating whether campaign footage genuinely depicts independent maker's workshop.",
+    "category": "Certification"
+  },
+  {
     "term": "Kif",
     "short": "Swiss-made shock absorption system protecting pivots from mechanical damage and vibration.",
     "category": "Movement"
@@ -4442,6 +4537,11 @@
     "term": "Limited Edition",
     "short": "Watch produced in restricted quantities, often numbered and highly sought by collectors.",
     "category": "Collecting"
+  },
+  {
+    "term": "Limited edition allocation methodology",
+    "short": "System by which independent watchmakers distribute finite production runs among backer tiers.",
+    "category": "History"
   },
   {
     "term": "Linen Crimp Wave Amplitude",
@@ -5032,6 +5132,41 @@
     "term": "Micro-adjustment",
     "short": "Fine-tuning clasp holes for precise wrist fit without removing links",
     "category": "Clasp"
+  },
+  {
+    "term": "Micro-brand case finishing tool wear documentation",
+    "short": "Record tracking polishing/brushing tool degradation to authenticate hand-finished independent watches.",
+    "category": "Tools"
+  },
+  {
+    "term": "Micro-brand component provenance matrix",
+    "short": "Detailed documentation mapping each movement/case/dial element to specific independent or OEM supplier.",
+    "category": "Certification"
+  },
+  {
+    "term": "Micro-brand crowdfunding fatigue index",
+    "short": "Metric measuring audience saturation from repeated Kickstarter watch campaigns by independent makers.",
+    "category": "Certification"
+  },
+  {
+    "term": "Micro-brand maker's mark authentication",
+    "short": "Unique personal signature, initials, or symbol engraved by independent watchmaker on finished watch.",
+    "category": "Case"
+  },
+  {
+    "term": "Micro-brand movement finishing consistency quotient",
+    "short": "Quality assessment comparing hand-finishing uniformity across limited-run independent calibers.",
+    "category": "Movement"
+  },
+  {
+    "term": "Micro-brand serial number continuity audit",
+    "short": "Quality control verification ensuring independent maker serial numbering is chronologically consistent.",
+    "category": "Certification"
+  },
+  {
+    "term": "Micro-brand sustainability certification endorsement",
+    "short": "Third-party verification of eco-friendly practices claimed by independent watchmaker in campaigns.",
+    "category": "Certification"
   },
   {
     "term": "Microband",
@@ -6162,6 +6297,11 @@
     "term": "Platinum",
     "short": "Dense, precious metal prized for luxury watches; highly resistant to corrosion and wear",
     "category": "Materials"
+  },
+  {
+    "term": "Pledge fulfillment delay coefficient",
+    "short": "Statistical measure of average months between Kickstarter campaign end and backer delivery date.",
+    "category": "Certification"
   },
   {
     "term": "Plexi Crazing",
@@ -7969,6 +8109,11 @@
     "category": "History"
   },
   {
+    "term": "Transparent case-back sourcing documentation",
+    "short": "Micro-brand practice of publicly disclosing all component suppliers and manufacturing origins.",
+    "category": "Case"
+  },
+  {
     "term": "Triple Seal",
     "short": "Three gasket seals providing maximum water protection on diver's watches.",
     "category": "Case"
@@ -8352,6 +8497,11 @@
     "term": "Workout Classification Algorithm",
     "short": "Machine learning model identifying exercise type (running, cycling, swimming) from sensor data",
     "category": "Complications"
+  },
+  {
+    "term": "Workshop-to-wearer direct delivery model",
+    "short": "Independent watchmaker distribution bypassing retailers, selling exclusively to crowdfunding backers.",
+    "category": "History"
   },
   {
     "term": "World Time",
