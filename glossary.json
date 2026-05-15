@@ -1495,6 +1495,36 @@
     "category": "Materials"
   },
   {
+    "term": "Chatelaine chain attachment lug",
+    "short": "Specialized case lug designed for secure chatelaine chain fastening without case modification.",
+    "category": "Case"
+  },
+  {
+    "term": "Chatelaine hook mounting depth",
+    "short": "Precise recess dimension in case lug accommodating chatelaine hook attachment without protrusion.",
+    "category": "Case"
+  },
+  {
+    "term": "Chatelaine leather strap attachment",
+    "short": "Traditional leather ribbon junction point where chatelaine connects to pocket watch case lug.",
+    "category": "History"
+  },
+  {
+    "term": "Chatelaine suspension ring wear pattern",
+    "short": "Forensic analysis of friction marks on chatelaine attachment rings to verify period authenticity.",
+    "category": "History"
+  },
+  {
+    "term": "Chatelaine swivel articulation angle",
+    "short": "Range of pivoting motion permitted in chatelaine connection allowing natural hanging orientation.",
+    "category": "History"
+  },
+  {
+    "term": "Chatelaine wear indicator groove",
+    "short": "Polished ring mark on case lug eyelet created by centuries of chatelaine chain friction and wear.",
+    "category": "History"
+  },
+  {
     "term": "Chaton Recess",
     "short": "Precisely engineered cavity in watch case receiving gem-set mounting cup.",
     "category": "Case"
@@ -3135,6 +3165,36 @@
     "category": "Complications"
   },
   {
+    "term": "Fob chain swivel joint tolerance",
+    "short": "Precise angular clearance specification for swivel mechanism connecting fob chain links.",
+    "category": "Tools"
+  },
+  {
+    "term": "Fob ribbon silk degradation assessment",
+    "short": "Evaluation method for determining structural integrity of original fob ribbon silk fibers.",
+    "category": "History"
+  },
+  {
+    "term": "Fob ribbon silk thread count analysis",
+    "short": "Microscopic examination of historical fob ribbon weave density establishing manufacturing era.",
+    "category": "History"
+  },
+  {
+    "term": "Fob watch dial visibility angle",
+    "short": "Ergonomic measurement of optimal dial tilt angle when fob watch hangs from chatelaine suspension.",
+    "category": "History"
+  },
+  {
+    "term": "Fob watch eyelet reinforcement",
+    "short": "Integral metal ring reinforcing case lug eyelet for chatelaine chain attachment durability.",
+    "category": "Case"
+  },
+  {
+    "term": "Fob watch gravity compensation indexing",
+    "short": "Positional reference marking on movement plate for compensating gravity effects during hanging wear.",
+    "category": "Movement"
+  },
+  {
     "term": "Folding Clasp",
     "short": "Safety clasp that folds closed, providing secure and elegant fastening.",
     "category": "Clasp"
@@ -4010,6 +4070,36 @@
     "category": "Watch Types"
   },
   {
+    "term": "Hunter case back hinge calibration",
+    "short": "Precision measurement of spring tension in hunter case lid hinges for optimal closure.",
+    "category": "Case"
+  },
+  {
+    "term": "Hunter case back sealing technology",
+    "short": "Evolution of gasket materials and compression methods used in vintage hunter case manufacture.",
+    "category": "Case"
+  },
+  {
+    "term": "Hunter case gasket compression ratio",
+    "short": "Measurement of seal integrity between hunter case back and middle by compression force analysis.",
+    "category": "Case"
+  },
+  {
+    "term": "Hunter case lid friction test",
+    "short": "Quality control measurement of ideal resistance required for hunter case back opening and closing.",
+    "category": "Certification"
+  },
+  {
+    "term": "Hunter case snap-back mechanics",
+    "short": "Spring mechanism enabling rapid closure of hunter case lid with single-handed operation.",
+    "category": "Case"
+  },
+  {
+    "term": "Hunter case spring back tension curve",
+    "short": "Mathematical profile describing ideal spring force distribution throughout hunter lid closing arc.",
+    "category": "Case"
+  },
+  {
     "term": "Hybrid Movement Architecture",
     "short": "Combined mechanical quartz/automatic movement with discrete smart sensor integration",
     "category": "Movement"
@@ -4491,6 +4581,36 @@
   {
     "term": "Lemania Caliber 5100",
     "short": "Chronograph movement, hand-wound, 50-hour reserve, Swiss precision for military watches",
+    "category": "Movement"
+  },
+  {
+    "term": "Lepine balance wheel clearance audit",
+    "short": "Inspection protocol ensuring adequate rotational freedom of balance wheel in open-face platform.",
+    "category": "Certification"
+  },
+  {
+    "term": "Lepine caliber height specification",
+    "short": "Standardized movement thickness constraint limiting open-face pocket watch overall case dimensions.",
+    "category": "Movement"
+  },
+  {
+    "term": "Lepine caliber spacing standard",
+    "short": "Standardized dimensional requirements for open-face movement plate thickness and bridge positioning.",
+    "category": "Movement"
+  },
+  {
+    "term": "Lepine dial foot indexing precision",
+    "short": "Standardized positioning system for dial feet attachment points on open-face movement plates.",
+    "category": "Dial"
+  },
+  {
+    "term": "Lepine escapement clearance specification",
+    "short": "Minimum safe distance between escape wheel and case back in open-face movement architecture.",
+    "category": "Movement"
+  },
+  {
+    "term": "Lepine movement accessibility index",
+    "short": "Rating system for ease of accessing lever escapement and balance wheel in open-face movements.",
     "category": "Movement"
   },
   {
@@ -7012,6 +7132,36 @@
     "term": "Saturation Diving",
     "short": "Prolonged underwater work where diver's tissues absorb helium at depth.",
     "category": "Diving"
+  },
+  {
+    "term": "Savonnette bezel integration system",
+    "short": "Method of seamlessly incorporating rotating bezel into savonnette case design without protruding.",
+    "category": "Case"
+  },
+  {
+    "term": "Savonnette case back venting hole",
+    "short": "Microscopic air relief perforation in savonnette case back preventing pressure differential during operation.",
+    "category": "Case"
+  },
+  {
+    "term": "Savonnette crown positioning asymmetry",
+    "short": "Intentional offset crown location in savonnette design optimizing hand grip for standing position.",
+    "category": "Case"
+  },
+  {
+    "term": "Savonnette crown protection lip",
+    "short": "Raised bezel rim in savonnette design providing crown guard function without dedicated guard.",
+    "category": "Case"
+  },
+  {
+    "term": "Savonnette dial mounting boss height",
+    "short": "Standardized dimension of dial support posts in savonnette movements preventing flex and wobble.",
+    "category": "Dial"
+  },
+  {
+    "term": "Savonnette dial orientation marker",
+    "short": "Reference point etched on savonnette movement plate to ensure correct dial alignment.",
+    "category": "Dial"
   },
   {
     "term": "Screw Cleaning",
