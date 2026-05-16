@@ -255,9 +255,29 @@
     "category": "Movement"
   },
   {
+    "term": "Artisan Case Finishing Signature",
+    "short": "Distinctive brushing patterns, polishing techniques applied by independent watchmaker's workshop.",
+    "category": "Case"
+  },
+  {
+    "term": "Artisan Signature Finishing",
+    "short": "Watchmaker's individual hand-finishing techniques applied to movement bridges and balance cocks.",
+    "category": "Movement"
+  },
+  {
     "term": "Artisanal finishing hand-application percentage",
     "short": "Measurement of manually-applied dial or case treatments versus machine finishing in independent shops.",
     "category": "Case"
+  },
+  {
+    "term": "Artisanal Lume Application Variation",
+    "short": "Acceptable cosmetic inconsistency in hand-applied luminous material on micro-brand watch dials.",
+    "category": "Dial"
+  },
+  {
+    "term": "Artisanal Movement Decoration Depth Index",
+    "short": "Measurement quantifying hand-applied perlage and anglage surface depth on independent movements.",
+    "category": "Movement"
   },
   {
     "term": "Ascent Rate",
@@ -325,9 +345,34 @@
     "category": "History"
   },
   {
+    "term": "Backer Communication Transparency Scorecard",
+    "short": "Metric evaluating crowdfunding campaign's consistency and frequency of production updates.",
+    "category": "Certification"
+  },
+  {
+    "term": "Backer Exclusive Warranty Extended",
+    "short": "Extended service guarantee provided exclusively to crowdfunding campaign participants.",
+    "category": "Certification"
+  },
+  {
+    "term": "Backer Fulfillment Priority Index",
+    "short": "Sequential ranking system determining shipment order of crowdfunded watches to campaign participants.",
+    "category": "Certification"
+  },
+  {
     "term": "Backer reward tier segmentation",
     "short": "Kickstarter campaign structure dividing supporters into early-bird, standard, and premium pledge levels.",
     "category": "History"
+  },
+  {
+    "term": "Backer Tier Exclusivity Lock",
+    "short": "Mechanism preventing lower pledge levels from accessing higher-tier watch variants post-campaign.",
+    "category": "Certification"
+  },
+  {
+    "term": "Backer-Exclusive Caseback Engraving",
+    "short": "Personalized case back text or numbering reserved only for campaign participants.",
+    "category": "Case"
   },
   {
     "term": "Baguette Cut",
@@ -1123,6 +1168,26 @@
     "term": "Caliber SC09",
     "short": "Seiko Spring Drive movement with kinetic energy regulation and no escapement",
     "category": "Movement"
+  },
+  {
+    "term": "Campaign Momentum Index",
+    "short": "Metric tracking Kickstarter backer engagement velocity and funding acceleration rate.",
+    "category": "Certification"
+  },
+  {
+    "term": "Campaign Reward Tier Differentiation",
+    "short": "Distinct watch specifications, materials, or complications assigned to different crowdfunding pledge levels.",
+    "category": "Certification"
+  },
+  {
+    "term": "Campaign Stretch Goal Caliber",
+    "short": "Enhanced movement specification unlocked upon Kickstarter funding milestone achievement.",
+    "category": "Movement"
+  },
+  {
+    "term": "Campaign Stretch Goal Material Upgrade",
+    "short": "Premium case material, dial finish, or bracelet type unlocked upon additional funding threshold.",
+    "category": "Certification"
   },
   {
     "term": "Cannon Pinion",
@@ -2158,6 +2223,11 @@
     "term": "Crosshair Dial",
     "short": "Dial with cross or target pattern in center for vintage military style",
     "category": "Dial"
+  },
+  {
+    "term": "Crowdfund Production Batch Numbering",
+    "short": "Serialization system correlating watch production sequence to campaign fulfillment phases.",
+    "category": "Certification"
   },
   {
     "term": "Crowdfunded watch batch serialization protocol",
@@ -3215,6 +3285,11 @@
     "category": "Certification"
   },
   {
+    "term": "Founder-Signed Movement Cock",
+    "short": "Movement bridge component bearing independent watchmaker's engraved signature or initials.",
+    "category": "Movement"
+  },
+  {
     "term": "Foxing",
     "short": "Brown spots or staining on dial caused by oxidation and moisture over decades",
     "category": "Collecting and Market"
@@ -3308,6 +3383,11 @@
     "term": "Frosting",
     "short": "Surface treatment creating a matte, crystalline appearance on watch components.",
     "category": "Surface Finishing"
+  },
+  {
+    "term": "Fulfillment Slippage Buffer",
+    "short": "Additional production timeline contingency in crowdfunding campaigns beyond stated delivery dates.",
+    "category": "Certification"
   },
   {
     "term": "Full Service",
@@ -3835,6 +3915,11 @@
     "category": "Tools"
   },
   {
+    "term": "Hand-Assembly Variability Certificate",
+    "short": "Documentation acknowledging minor cosmetic differences in independently hand-assembled watch batches.",
+    "category": "Certification"
+  },
+  {
     "term": "Hand-beveled",
     "short": "Edges manually angled and finished by hand for sophisticated look",
     "category": "Finishing"
@@ -3843,6 +3928,11 @@
     "term": "Hand-chamfered",
     "short": "Manually beveled edges at precise angles for refined appearance",
     "category": "Finishing"
+  },
+  {
+    "term": "Hand-Finished Bezel Insert Tolerance",
+    "short": "Acceptable variation in artisanally-prepared bezel insert edge alignment on micro-brand watches.",
+    "category": "Case"
   },
   {
     "term": "Hand-polished",
@@ -4160,6 +4250,16 @@
     "category": "Certification"
   },
   {
+    "term": "Independent Watchmaker Movement Signature Mark",
+    "short": "Proprietary engraved symbol, initial, or hallmark distinguishing artisan's custom caliber.",
+    "category": "Movement"
+  },
+  {
+    "term": "Independent Watchmaker Provenance Certificate",
+    "short": "Authentication document confirming hand-assembly by named artisan and production location.",
+    "category": "Certification"
+  },
+  {
     "term": "Independent watchmaker tool inventory authentication",
     "short": "Workshop equipment documentation proving micro-brand possesses necessary machinery for claimed assembly.",
     "category": "Tools"
@@ -4410,9 +4510,24 @@
     "category": "Dial"
   },
   {
+    "term": "Kickstarter Campaign Media Authenticity Index",
+    "short": "Verification score assessing accuracy of prototype representations versus final shipped products.",
+    "category": "Certification"
+  },
+  {
     "term": "Kickstarter campaign risk disclosure transparency",
     "short": "Honest documentation of potential delays, supply chain vulnerabilities, and manufacturing unknowns.",
     "category": "History"
+  },
+  {
+    "term": "Kickstarter Early-Bird Variant",
+    "short": "Exclusive watch configuration available only to first campaign backers within limited quantity.",
+    "category": "Certification"
+  },
+  {
+    "term": "Kickstarter Proof-of-Concept Movement",
+    "short": "In-house developed caliber designed specifically to validate micro-brand manufacturing capabilities.",
+    "category": "Movement"
   },
   {
     "term": "Kickstarter stretch goal delivery milestone schedule",
@@ -4662,6 +4777,11 @@
     "term": "Limited edition allocation methodology",
     "short": "System by which independent watchmakers distribute finite production runs among backer tiers.",
     "category": "History"
+  },
+  {
+    "term": "Limited Serialization Range",
+    "short": "Sequential numbering scheme for crowdfunded watches indicating production batch and priority fulfillment.",
+    "category": "Certification"
   },
   {
     "term": "Linen Crimp Wave Amplitude",
@@ -5254,6 +5374,11 @@
     "category": "Clasp"
   },
   {
+    "term": "Micro-Brand Atelier Production Log",
+    "short": "Documentation detailing manufacturing timeline, techniques, and quality checks for each watch batch.",
+    "category": "Certification"
+  },
+  {
     "term": "Micro-brand case finishing tool wear documentation",
     "short": "Record tracking polishing/brushing tool degradation to authenticate hand-finished independent watches.",
     "category": "Tools"
@@ -5269,6 +5394,21 @@
     "category": "Certification"
   },
   {
+    "term": "Micro-Brand Heritage Movement",
+    "short": "Custom-modified caliber incorporating independent watchmaker's distinctive technical signatures.",
+    "category": "Movement"
+  },
+  {
+    "term": "Micro-Brand Heritage Narrative",
+    "short": "Founder's personal watchmaking story and artisanal production philosophy communicated to backers.",
+    "category": "History"
+  },
+  {
+    "term": "Micro-Brand Limited Serial Window",
+    "short": "Restricted production quantity range ensuring exclusivity across crowdfunding campaign batches.",
+    "category": "Certification"
+  },
+  {
     "term": "Micro-brand maker's mark authentication",
     "short": "Unique personal signature, initials, or symbol engraved by independent watchmaker on finished watch.",
     "category": "Case"
@@ -5276,6 +5416,11 @@
   {
     "term": "Micro-brand movement finishing consistency quotient",
     "short": "Quality assessment comparing hand-finishing uniformity across limited-run independent calibers.",
+    "category": "Movement"
+  },
+  {
+    "term": "Micro-Brand Movement Finishing Standard",
+    "short": "Independent watchmaker's personally-defined perlage depth and anglage angle specifications.",
     "category": "Movement"
   },
   {
@@ -7757,6 +7902,11 @@
     "term": "Stress Level Quantification Module",
     "short": "Sensor fusion technology measuring cortisol-related physiological markers via PPG and electrocardiography",
     "category": "Complications"
+  },
+  {
+    "term": "Stretch Goal Dial",
+    "short": "Limited edition dial design unveiled only if Kickstarter campaign exceeds initial funding target.",
+    "category": "Dial"
   },
   {
     "term": "Striking Mechanism",
